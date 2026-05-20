@@ -1,4 +1,79 @@
-> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io).
+# Claude Skills
+
+A curated collection of skills for Claude Code, Claude.ai, and the Claude API.
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE.txt)
+[![skills.sh](https://skills.sh/b/MARSCI-DIAGNOSTICS/skills)](https://skills.sh/MARSCI-DIAGNOSTICS/skills)
+
+## What are Skills?
+
+Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way.
+
+## Quick Start
+
+### Claude Code
+```bash
+/plugin install example-skills@MARSCI-DIAGNOSTICS
+```
+
+### Claude.ai / Claude API
+Upload this repository or individual skills via the [Skills API](https://docs.claude.com/en/api/skills-guide).
+
+## Available Skills
+
+### Document & Creative
+| Skill | Description |
+|-------|-------------|
+| [docx](./skills/docx) | Create and edit Word documents |
+| [pdf](./skills/pdf) | PDF manipulation and extraction |
+| [pptx](./skills/pptx) | PowerPoint presentation creation |
+| [xlsx](./skills/xlsx) | Excel spreadsheet operations |
+| [algorithmic-art](./skills/algorithmic-art) | Generate algorithmic art |
+| [web-artifacts-builder](./skills/web-artifacts-builder) | Build web-based artifacts |
+
+### Design & Brand
+| Skill | Description |
+|-------|-------------|
+| [brand-guidelines](./skills/brand-guidelines) | Brand-aligned content creation |
+| [canvas-design](./skills/canvas-design) | Canvas design system |
+| [theme-factory](./skills/theme-factory) | Theme generation |
+| [frontend-design](./skills/frontend-design) | Frontend UI development |
+
+### Development & Technical
+| Skill | Description |
+|-------|-------------|
+| [claude-api](./skills/claude-api) | Claude API integration |
+| [mcp-builder](./skills/mcp-builder) | Build MCP servers |
+| [webapp-testing](./skills/webapp-testing) | Web application testing |
+| [skill-creator](./skills/skill-creator) | Create new skills |
+
+### Productivity & Communication
+| Skill | Description |
+|-------|-------------|
+| [internal-comms](./skills/internal-comms) | Internal communications |
+| [doc-coauthoring](./skills/doc-coauthoring) | Collaborative document creation |
+| [slack-gif-creator](./skills/slack-gif-creator) | Create Slack GIFs |
+
+## Creating Custom Skills
+
+Create a skill by adding a `SKILL.md` file:
+
+```markdown
+---
+name: my-skill
+description: What this skill does and when to use it
+---
+
+# My Skill
+
+Your instructions here...
+```
+
+See the [template](./template) folder for starting points.
+
+## License
+
+Skills marked with Apache 2.0 are open source. Document skills (docx, pdf, pptx, xlsx) are source-available. See individual skill folders for details.
 
 [![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/anthropics/skills)
 
