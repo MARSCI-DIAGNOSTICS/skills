@@ -61,6 +61,21 @@ Agent building, prompting, MCP, and AI integration skills.
 | [[zapier-ai]] | Zapier AI automation | [[automation]] |
 | [[make-com-ai]] | Make.com AI automation | [[automation]] |
 
+## Research & Learning
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[academic-search]] | Academic literature search & analysis | [[deep-research]], [[literature-review-helper]] |
+| [[deep-research]] | Comprehensive research synthesis | [[academic-search]], [[company-research]] |
+| [[notebooklm]] | Google NotebookLM API access | [[research-assistant]], [[ai-agent-builder]] |
+| [[study-assistant]] | Study aid creation | [[academic-search]] |
+
+## Automation & Integration
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[para-memory-files]] | PARA method file-based memory | [[obsidian-automation]], [[knowledge-management]] |
+| [[loop]] | Recurring task loop automation | [[automation]], [[paperclip]] |
+| [[sync]] | MCPmarket skills sync | [[skills-manager]], [[mcp-hub]] |
+
 ---
 
 ## Related Categories

@@ -56,6 +56,14 @@ Team communication, CRM, support, and collaboration skills.
 | [[contract-template]] | Contract document templates | [[contract-review]] |
 | [[doc-coauthoring]] | Document co-authoring | [[doc-parser]] |
 
+## Social Media
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[linkedin-automation]] | LinkedIn marketing & lead generation | [[twitter-x-automation]], [[social-publisher]] |
+| [[twitter-x-automation]] | Twitter/X automation | [[linkedin-automation]], [[social-media-dashboard]] |
+| [[facebook-meta-ads]] | Facebook & Instagram advertising | [[ads-copywriter]], [[ad-creative]] |
+| [[social-publisher]] | Multi-platform social publishing | [[social-media-dashboard]], [[content-strategy]] |
+
 ---
 
 ## Related Categories

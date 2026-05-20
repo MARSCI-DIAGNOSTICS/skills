@@ -55,6 +55,36 @@ All marketing, advertising, and growth skills.
 | [[product-marketing]] | Product launch campaigns | [[content-strategy]], [[pricing-page]] |
 | [[community-marketing]] | Community building | [[discord-bot]], [[slack-workflows]] |
 
+## Additional Marketing Tools
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[ad-creative]] | Ad creative generation | [[ads-copywriter]], [[image-generation]] |
+| [[ads]] | Advertising management | [[ads-copywriter]], [[google-ads-manager]] |
+| [[co-marketing]] | Co-marketing collaboration | [[community-marketing]], [[partnerships]] |
+| [[competitor-profiling]] | Competitor profiling | [[competitive-analysis]], [[lead-research-assistant]] |
+| [[competitors]] | Competitive intelligence | [[competitor-profiling]], [[company-research]] |
+| [[copy-editing]] | Copy editing services | [[copywriting]], [[content-research-writer]] |
+| [[directory-submissions]] | Directory submission automation | [[seo-optimizer]], [[programmatic-seo]] |
+| [[docusign-automation]] | DocuSign workflow automation | [[contract-template]], [[document-automation]] |
+| [[faq-collector]] | FAQ collection & management | [[content-strategy]], [[seo-optimizer]] |
+| [[news-monitor]] | News monitoring & analysis | [[company-research]], [[competitive-analysis]] |
+| [[paywalls]] | Paywall strategies | [[subscription-management]], [[saas-metrics]] |
+| [[popups]] | Popup & lead capture tools | [[email-marketing]], [[lead-magnets]] |
+| [[pricing]] | Pricing strategies | [[product-marketing]], [[saas-metrics]] |
+| [[referrals]] | Referral marketing | [[lead-magnets]], [[crm-automation]] |
+| [[revops]] | Revenue operations | [[crm-automation]], [[sales-enablement]] |
+| [[sales-enablement]] | Sales enablement content | [[crm-automation]], [[competitive-analysis]] |
+| [[shopify-automation]] | Shopify e-commerce automation | [[ecommerce-automation]], [[inventory-management]] |
+| [[stripe-payments]] | Stripe payment automation | [[invoice-automation]], [[subscription-management]] |
+| [[woocommerce-automation]] | WooCommerce automation | [[shopify-automation]], [[ecommerce-automation]] |
+
+## Job & HR Marketing
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[applicant-screening]] | Job application screening | [[hr-automation]], [[lead-qualification]] |
+| [[jira-automation]] | Jira project automation | [[project-management]], [[developer-workflows]] |
+| [[job-description-generator]] | Job description generation | [[hr-automation]], [[copywriting]] |
+
 ---
 
 ## Related Categories

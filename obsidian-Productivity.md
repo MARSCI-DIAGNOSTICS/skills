@@ -63,6 +63,31 @@ Automation, workflow, memory, and productivity tools.
 | [[focus-mode]] | Focus mode optimization | [[time-blocking]] |
 | [[inbox-zero]] | Inbox zero methodology | [[gmail-workflows]] |
 
+## Additional Productivity Tools
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[brainstorming]] | Brainstorming workflows | [[ai-agent-builder]], [[creative-analyzer]] |
+| [[canvas]] | Canvas app development | [[open-design-landing]], [[web-prototype]] |
+| [[faq-collector]] | FAQ collection | [[content-strategy]], [[knowledge-management]] |
+| [[file-organizer]] | File organization automation | [[batch-processor]], [[template-engine]] |
+| [[free-tools]] | Free tool discoveries | [[productivity-tools]], [[budget-friendly]] |
+| [[kami-deck]] | Japanese-style slide deck | [[html-ppt-zhangzara-soft-editorial]], [[ai-slides]] |
+| [[kami-landing]] | Japanese-style landing page | [[kami-deck]], [[landing-page]] |
+| [[launch]] | Product launch automation | [[product-marketing]], [[go-to-market]] |
+| [[onboarding]] | User onboarding automation | [[customer-success]], [[churn-prevention]] |
+| [[resume-tailor]] | Resume customization | [[applicant-screening]], [[job-description-generator]] |
+| [[saas-platforms]] | SaaS platform knowledge | [[saas-metrics]], [[subscription-management]] |
+| [[saas-productivity]] | SaaS productivity tools | [[focus-mode]], [[time-blocking]] |
+| [[schema]] | Schema markup generation | [[seo-optimizer]], [[technical-seo]] |
+| [[skill-name]] | Skill name generator | [[ai-agent-builder]], [[prompt-lookup]] |
+| [[slack-gif-creator]] | Slack GIF creation | [[discord-bot]], [[social-media-dashboard]] |
+| [[spec]] | Spec document creation | [[pm-spec]], [[product-requirements]] |
+| [[statusline]] | Terminal status line | [[developer-setup]], [[productivity-tools]] |
+| [[stitch-design]] | Design stitching | [[web-design]], [[brand-guidelines]] |
+| [[stitch-loop]] | Loop stitching | [[automation]], [[batch-processor]] |
+| [[suspicious-email-analyzer]] | Email threat analysis | [[security-review]], [[phishing-detection]] |
+| [[tweaks]] | Design tweaking controls | [[web-prototype]], [[ui-ux-pro-max]] |
+
 ---
 
 ## Related Categories

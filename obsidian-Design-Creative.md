@@ -56,6 +56,14 @@ UI/UX, graphic design, presentations, and creative skills.
 | [[sprite-animation]] | Pixel/sprite animated explainer | [[motion-frames]] |
 | [[video-shortform]] | 3-10 second video clips | [[transcription-automation]], [[hyperframes]] |
 
+## Image & Media
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[image-generation]] | AI image generation prompts (DALL-E, Midjourney, Stable Diffusion) | [[image-poster]], [[social-carousel]] |
+| [[image-poster]] | Single-image generation (posters, key art) | [[image-generation]], [[social-media-dashboard]] |
+| [[magazine-poster]] | Editorial-style poster (newsprint, serif) | [[web-design]], [[brand-guidelines]] |
+| [[motion-frames]] | Single-frame motion design | [[hyperframes]], [[sprite-animation]] |
+
 ---
 
 ## Related Categories

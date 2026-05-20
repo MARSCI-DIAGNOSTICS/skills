@@ -60,6 +60,16 @@ Product management, planning, and development workflow skills.
 | [[team-okrs]] | Team OKR visualization | [[okr-tracker]] |
 | [[project-status-dashboard]] | Project status dashboard | [[report-generator]] |
 
+## Task Management
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[jira-automation]] | Jira issue tracking & sprint planning | [[linear-automation]], [[asana-automation]] |
+| [[linear-automation]] | Linear cycle planning & roadmap | [[jira-automation]], [[okr-tracker]] |
+| [[asana-automation]] | Asana task & project workflows | [[jira-automation]], [[clickup-automation]] |
+| [[clickup-automation]] | ClickUp board management | [[asana-automation]], [[monday.com-automation]] |
+| [[monday.com-automation]] | Monday.com workflows | [[clickup-automation]], [[team-okrs]] |
+| [[trello-automation]] | Trello board automation | [[asana-automation]], [[project-status-dashboard]] |
+
 ---
 
 ## Related Categories

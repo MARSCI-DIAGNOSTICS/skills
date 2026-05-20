@@ -53,6 +53,13 @@ Analytics, reporting, business intelligence, and data visualization skills.
 | [[brand-report]] | Brand performance reports | [[report-generator]], [[analytics]] |
 | [[competitor-report]] | Competitor analysis reports | [[competitive-analysis]], [[report-generator]] |
 
+## Email & Marketing Analytics
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[email-marketing]] | Email campaign automation | [[mailchimp-automation]], [[lead-magnets]] |
+| [[mailchimp-automation]] | Mailchimp campaign automation | [[email-marketing]], [[crm-automation]] |
+| [[marketing-analytics]] | Marketing performance analytics | [[analytics]], [[report-generator]] |
+
 ---
 
 ## Related Categories
