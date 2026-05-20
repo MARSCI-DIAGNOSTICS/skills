@@ -64,6 +64,29 @@ UI/UX, graphic design, presentations, and creative skills.
 | [[magazine-poster]] | Editorial-style poster (newsprint, serif) | [[web-design]], [[brand-guidelines]] |
 | [[motion-frames]] | Single-frame motion design | [[hyperframes]], [[sprite-animation]] |
 
+## Animation & Media Tools
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[animation-libraries]] | Animation library references | [[motion-frames]], [[sprite-animation]] |
+| [[gifgrep]] | GIF search and download | [[image-generation]], [[social-carousel]] |
+| [[songsee]] | Audio spectrogram visualization | [[video-frames]], [[transcription-automation]] |
+| [[video-frames]] | Extract frames/clips from video (ffmpeg) | [[video-shortform]], [[hyperframes]] |
+| [[algorithmic-art]] | Algorithmic art generation | [[image-generation]], [[creative-analyzer]] |
+
+## Design Styles & Prototyping
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[design-md]] | Design markdown documentation | [[web-design]], [[brand-guidelines]] |
+| [[web-prototype-taste-brutalist]] | Swiss industrial print style | [[web-prototype]], [[web-design]] |
+| [[web-prototype-taste-editorial]] | Editorial minimalist style | [[web-prototype]], [[web-design]] |
+| [[web-prototype-taste-soft]] | Apple-tier soft style | [[web-prototype]], [[web-design]] |
+
+## Content & Writing
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[writing-skills]] | Writing craft and style | [[copywriting]], [[content-strategy]] |
+| [[social]] | Social media analytics | [[social-media-dashboard]], [[social-publisher]] |
+
 ---
 
 ## Related Categories

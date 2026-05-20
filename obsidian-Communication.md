@@ -64,6 +64,15 @@ Team communication, CRM, support, and collaboration skills.
 | [[facebook-meta-ads]] | Facebook & Instagram advertising | [[ads-copywriter]], [[ad-creative]] |
 | [[social-publisher]] | Multi-platform social publishing | [[social-media-dashboard]], [[content-strategy]] |
 
+## Messaging & Voice
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[discord]] | Discord bot & messaging automation | [[slack]], [[telegram-bot]] |
+| [[slack]] | Slack messaging & workflow automation | [[discord]], [[telegram-bot]] |
+| [[imsg]] | iMessage/SMS CLI | [[slack]], [[himalaya]] |
+| [[wacli]] | WhatsApp messaging CLI | [[imsg]], [[himalaya]] |
+| [[himalaya]] | Email CLI via IMAP/SMTP | [[gmail-workflows]], [[wacli]] |
+
 ---
 
 ## Related Categories

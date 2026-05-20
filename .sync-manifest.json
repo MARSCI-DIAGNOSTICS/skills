@@ -2,43 +2,43 @@
   "version": 1,
   "skills": {
     "babysit": {
-      "lastSyncedAt": 1779316873859
+      "lastSyncedAt": 1779320478800
     },
     "canvas": {
-      "lastSyncedAt": 1779316873859
+      "lastSyncedAt": 1779320478800
     },
     "create-hook": {
-      "lastSyncedAt": 1779316873859
+      "lastSyncedAt": 1779320478800
     },
     "create-rule": {
-      "lastSyncedAt": 1779316873859
+      "lastSyncedAt": 1779320478800
     },
     "create-skill": {
-      "lastSyncedAt": 1779316873859
+      "lastSyncedAt": 1779320478800
     },
     "create-subagent": {
-      "lastSyncedAt": 1779316873859
+      "lastSyncedAt": 1779320478800
     },
     "sdk": {
-      "lastSyncedAt": 1779316873859
+      "lastSyncedAt": 1779320478800
     },
     "migrate-to-skills": {
-      "lastSyncedAt": 1779316873859
+      "lastSyncedAt": 1779320478800
     },
     "shell": {
-      "lastSyncedAt": 1779316873859
+      "lastSyncedAt": 1779320478800
     },
     "split-to-prs": {
-      "lastSyncedAt": 1779316873859
+      "lastSyncedAt": 1779320478800
     },
     "statusline": {
-      "lastSyncedAt": 1779316873859
+      "lastSyncedAt": 1779320478800
     },
     "update-cli-config": {
-      "lastSyncedAt": 1779316873859
+      "lastSyncedAt": 1779320478800
     },
     "update-cursor-settings": {
-      "lastSyncedAt": 1779316873859
+      "lastSyncedAt": 1779320478800
     },
     ".github": {
       "lastSyncedAt": 1778519834461
@@ -80,7 +80,7 @@
       "lastSyncedAt": 1779152555980
     },
     "loop": {
-      "lastSyncedAt": 1779316873859
+      "lastSyncedAt": 1779320478800
     },
     "ab-testing": {
       "lastSyncedAt": 1779313268933
@@ -939,6 +939,189 @@
     },
     "zendesk-automation": {
       "lastSyncedAt": 1779316873859
+    },
+    ".claude-plugin": {
+      "lastSyncedAt": 1779318677043
+    },
+    ".git": {
+      "lastSyncedAt": 1779318677043
+    },
+    "coding-standards": {
+      "lastSyncedAt": 1779318677043
+    },
+    "frontend-patterns": {
+      "lastSyncedAt": 1779318677043
+    },
+    "prompt-lookup": {
+      "lastSyncedAt": 1779318677043
+    },
+    "skills": {
+      "lastSyncedAt": 1779318677043
+    },
+    "spec": {
+      "lastSyncedAt": 1779318677043
+    },
+    "template": {
+      "lastSyncedAt": 1779318677043
+    },
+    "web-design": {
+      "lastSyncedAt": 1779318677043
+    },
+    ".obsidian": {
+      "lastSyncedAt": 1779320478800
+    },
+    "1password": {
+      "lastSyncedAt": 1779320478800
+    },
+    "apple-notes": {
+      "lastSyncedAt": 1779320478800
+    },
+    "apple-reminders": {
+      "lastSyncedAt": 1779320478800
+    },
+    "bear-notes": {
+      "lastSyncedAt": 1779320478800
+    },
+    "bird": {
+      "lastSyncedAt": 1779320478800
+    },
+    "blogwatcher": {
+      "lastSyncedAt": 1779320478800
+    },
+    "blucli": {
+      "lastSyncedAt": 1779320478800
+    },
+    "bluebubbles": {
+      "lastSyncedAt": 1779320478800
+    },
+    "camsnap": {
+      "lastSyncedAt": 1779320478800
+    },
+    "clawhub": {
+      "lastSyncedAt": 1779320478800
+    },
+    "coding-agent": {
+      "lastSyncedAt": 1779320478800
+    },
+    "copilot": {
+      "lastSyncedAt": 1779320478800
+    },
+    "discord": {
+      "lastSyncedAt": 1779320478800
+    },
+    "eightctl": {
+      "lastSyncedAt": 1779320478800
+    },
+    "food-order": {
+      "lastSyncedAt": 1779320478800
+    },
+    "gemini": {
+      "lastSyncedAt": 1779320478800
+    },
+    "gifgrep": {
+      "lastSyncedAt": 1779320478800
+    },
+    "github": {
+      "lastSyncedAt": 1779320478800
+    },
+    "gog": {
+      "lastSyncedAt": 1779320478800
+    },
+    "goplaces": {
+      "lastSyncedAt": 1779320478800
+    },
+    "himalaya": {
+      "lastSyncedAt": 1779320478800
+    },
+    "imsg": {
+      "lastSyncedAt": 1779320478800
+    },
+    "local-places": {
+      "lastSyncedAt": 1779320478800
+    },
+    "mcporter": {
+      "lastSyncedAt": 1779320478800
+    },
+    "model-usage": {
+      "lastSyncedAt": 1779320478800
+    },
+    "nano-banana-pro": {
+      "lastSyncedAt": 1779320478800
+    },
+    "nano-pdf": {
+      "lastSyncedAt": 1779320478800
+    },
+    "notion": {
+      "lastSyncedAt": 1779320478800
+    },
+    "obsidian": {
+      "lastSyncedAt": 1779320478800
+    },
+    "openai-image-gen": {
+      "lastSyncedAt": 1779320478800
+    },
+    "openai-whisper": {
+      "lastSyncedAt": 1779320478800
+    },
+    "openai-whisper-api": {
+      "lastSyncedAt": 1779320478800
+    },
+    "openhue": {
+      "lastSyncedAt": 1779320478800
+    },
+    "oracle": {
+      "lastSyncedAt": 1779320478800
+    },
+    "ordercli": {
+      "lastSyncedAt": 1779320478800
+    },
+    "peekaboo": {
+      "lastSyncedAt": 1779320478800
+    },
+    "sag": {
+      "lastSyncedAt": 1779320478800
+    },
+    "session-logs": {
+      "lastSyncedAt": 1779320478800
+    },
+    "sherpa-onnx-tts": {
+      "lastSyncedAt": 1779320478800
+    },
+    "slack": {
+      "lastSyncedAt": 1779320478800
+    },
+    "songsee": {
+      "lastSyncedAt": 1779320478800
+    },
+    "sonoscli": {
+      "lastSyncedAt": 1779320478800
+    },
+    "spotify-player": {
+      "lastSyncedAt": 1779320478800
+    },
+    "summarize": {
+      "lastSyncedAt": 1779320478800
+    },
+    "things-mac": {
+      "lastSyncedAt": 1779320478800
+    },
+    "tmux": {
+      "lastSyncedAt": 1779320478800
+    },
+    "trello": {
+      "lastSyncedAt": 1779320478800
+    },
+    "video-frames": {
+      "lastSyncedAt": 1779320478800
+    },
+    "voice-call": {
+      "lastSyncedAt": 1779320478800
+    },
+    "wacli": {
+      "lastSyncedAt": 1779320478800
+    },
+    "weather": {
+      "lastSyncedAt": 1779320478800
     }
   },
   "lastInventoryAt": 1779256053357

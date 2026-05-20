@@ -66,8 +66,10 @@ Agent building, prompting, MCP, and AI integration skills.
 |-------|-------------|---------------|
 | [[academic-search]] | Academic literature search & analysis | [[deep-research]], [[literature-review-helper]] |
 | [[deep-research]] | Comprehensive research synthesis | [[academic-search]], [[company-research]] |
-| [[notebooklm]] | Google NotebookLM API access | [[research-assistant]], [[ai-agent-builder]] |
+| [[notebooklm]] | Google NotebookLM API access | [[ai-agent-builder]], [[deep-research]] |
 | [[study-assistant]] | Study aid creation | [[academic-search]] |
+| [[company-research]] | Company research & due diligence | [[competitive-analysis]], [[deep-research]] |
+| [[competitive-analysis]] | Competitor product & strategy analysis | [[company-research]], [[product-strategy]] |
 
 ## Automation & Integration
 | Skill | Description | Linked Skills |
@@ -76,6 +78,27 @@ Agent building, prompting, MCP, and AI integration skills.
 | [[loop]] | Recurring task loop automation | [[automation]], [[paperclip]] |
 | [[sync]] | MCPmarket skills sync | [[skills-manager]], [[mcp-hub]] |
 
+## AI Tools & APIs
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[algorithmic-art]] | Algorithmic art generation | [[image-generation]], [[creative-analyzer]] |
+| [[coding-agent]] | Run Codex CLI, Claude Code for programmatic control | [[agent-customization]], [[claude-api]] |
+| [[gemini]] | Gemini CLI for summaries & generation | [[openai-whisper-api]], [[summarize]] |
+| [[oracle]] | Oracle CLI prompt & file bundling | [[claude-api]], [[coding-agent]] |
+| [[model-usage]] | Codex/Claude cost usage summary | [[billing]], [[saas-metrics]] |
+| [[nano-banana-pro]] | Gemini 3 Pro image generation | [[image-generation]], [[openai-image-gen]] |
+| [[notion]] | Notion API integration | [[notion-automation]], [[para-memory-files]] |
+| [[openai-image-gen]] | OpenAI image generation batch | [[image-generation]], [[nano-banana-pro]] |
+| [[openai-whisper]] | Local Whisper transcription | [[openai-whisper-api]], [[transcription-automation]] |
+| [[openai-whisper-api]] | OpenAI Whisper API transcription | [[openai-whisper]], [[transcription-automation]] |
+| [[orbit-general]] | Open Orbit briefing (multi-connector) | [[orbit-github]], [[orbit-gmail]] |
+| [[orbit-github]] | Open Orbit GitHub daily digest | [[orbit-general]] |
+| [[orbit-gmail]] | Open Orbit Gmail daily digest | [[orbit-general]] |
+| [[orbit-linear]] | Open Orbit Linear daily digest | [[orbit-general]] |
+| [[orbit-notion]] | Open Orbit Notion daily digest | [[orbit-general]] |
+| [[summarize]] | Summarize URLs, podcasts & local files | [[web-search]], [[chat-with-pdf]] |
+| [[sherpa-onnx-tts]] | Local text-to-speech (offline) | [[openai-whisper-api]], [[text-to-speech]] |
+
 ---
 
 ## Related Categories
@@ -83,3 +106,8 @@ Agent building, prompting, MCP, and AI integration skills.
 - [[Development]] - For MCP server development
 - [[Productivity]] - For AI-powered automation
 - [[Product & Project]] - For agent project management
+
+## ClawHub
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[clawhub]] | ClawHub CLI for skill management | [[find-skills]], [[sync]] |

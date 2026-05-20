@@ -71,6 +71,7 @@ All marketing, advertising, and growth skills.
 | [[paywalls]] | Paywall strategies | [[subscription-management]], [[saas-metrics]] |
 | [[popups]] | Popup & lead capture tools | [[email-marketing]], [[lead-magnets]] |
 | [[pricing]] | Pricing strategies | [[product-marketing]], [[saas-metrics]] |
+| [[pricing-page]] | Pricing page with plan tiers | [[invoice]], [[subscription-management]] |
 | [[referrals]] | Referral marketing | [[lead-magnets]], [[crm-automation]] |
 | [[revops]] | Revenue operations | [[crm-automation]], [[sales-enablement]] |
 | [[sales-enablement]] | Sales enablement content | [[crm-automation]], [[competitive-analysis]] |
@@ -78,12 +79,27 @@ All marketing, advertising, and growth skills.
 | [[stripe-payments]] | Stripe payment automation | [[invoice-automation]], [[subscription-management]] |
 | [[woocommerce-automation]] | WooCommerce automation | [[shopify-automation]], [[ecommerce-automation]] |
 
+## Social Media & Content Monitoring
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[bird]] | X/Twitter CLI for reading & posting | [[social-publisher]], [[linkedin-automation]] |
+| [[blogwatcher]] | Monitor blogs & RSS feeds | [[news-monitor]], [[seo-optimizer]] |
+| [[gifgrep]] | Search GIF providers CLI | [[image-generation]], [[openai-image-gen]] |
+
 ## Job & HR Marketing
 | Skill | Description | Linked Skills |
 |-------|-------------|---------------|
 | [[applicant-screening]] | Job application screening | [[hr-automation]], [[lead-qualification]] |
 | [[jira-automation]] | Jira project automation | [[project-management]], [[developer-workflows]] |
 | [[job-description-generator]] | Job description generation | [[hr-automation]], [[copywriting]] |
+
+## Email & Communication
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[email-classifier]] | Email categorization by type/priority | [[gmail-workflows]], [[email-drafter]] |
+| [[email-drafter]] | Email drafting automation | [[email-marketing]], [[email-classifier]] |
+| [[cold-email]] | Cold email campaigns | [[email-drafter]], [[lead-magnets]] |
+| [[himalaya]] | Email via IMAP/SMTP | [[gmail-workflows]], [[email-marketing]] |
 
 ---
 

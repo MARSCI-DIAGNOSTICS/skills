@@ -14,6 +14,7 @@ Document creation, manipulation, PDF processing, and office automation skills.
 | [[pdf-ocr-extraction]] | OCR for scanned PDFs | [[pdf-extraction]], [[transcription-automation]] |
 | [[pdf-to-docx]] | Convert PDF to editable Word | [[pdf-converter]], [[docx-manipulation]] |
 | [[pdf-watermark]] | Add watermarks, page numbers, headers | [[pdf]], [[docx-manipulation]] |
+| [[nano-pdf]] | Natural language PDF editing CLI | [[pdf-watermark]], [[pdf-form-filler]] |
 
 ## Document Creation
 | Skill | Description | Linked Skills |

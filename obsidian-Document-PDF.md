@@ -24,6 +24,7 @@ Word, Excel, PowerPoint, PDF, and document automation skills.
 | [[pdf-ocr-extraction]] | OCR for scanned PDFs | [[pdf-extraction]], [[smart-ocr]] |
 | [[pdf-to-docx]] | Convert PDF to Word | [[docx-manipulation]], [[pdf-converter]] |
 | [[pdf-watermark]] | Add watermarks, page numbers | [[pdf-merge-split]] |
+| [[nano-pdf]] | Natural language PDF editing CLI | [[pdf-watermark]], [[pdf-form-filler]] |
 
 ## Document Conversion
 | Skill | Description | Linked Skills |
@@ -38,9 +39,16 @@ Word, Excel, PowerPoint, PDF, and document automation skills.
 | Skill | Description | Linked Skills |
 |-------|-------------|---------------|
 | [[template-engine]] | Mail merge for any format | [[docx-manipulation]], [[xlsx-manipulation]] |
-| [[invoice-template]] | Professional PDF invoices | [[invoice]], [[invoice-automation]] |
-| [[contract-template]] | Contract document templates | [[contract-review]] |
-| [[form-builder]] | Interactive document forms (docassemble) | [[pdf-form-filler]] |
+| [[invoice]] | Printable invoice page | [[invoice-automation]], [[pricing-page]] |
+| [[invoice-automation]] | Automate invoice generation & sending | [[invoice-generator]], [[quickbooks-automation]] |
+| [[invoice-generator]] | Create professional invoices | [[invoice-organizer]], [[invoice-template]] |
+| [[invoice-organizer]] | Organize, categorize & track invoices | [[invoice-generator]], [[expense-tracker]] |
+| [[invoice-template]] | Generate PDF invoices from templates | [[invoice-generator]], [[template]] |
+| [[expense-report]] | Expense report creation | [[expense-tracker]], [[invoice-organizer]] |
+| [[expense-tracker]] | Automate expense tracking & receipt processing | [[invoice-organizer]], [[quickbooks-automation]] |
+| [[offer-letter-generator]] | Create formal employment offer letters | [[contract-template]], [[nda-generator]] |
+| [[nda-generator]] | Non-disclosure agreement generator | [[contract-template]], [[offer-letter-generator]] |
+| [[contract-template]] | Contract template generation | [[docx-manipulation]], [[template]] |
 
 ## OCR & Extraction
 | Skill | Description | Linked Skills |

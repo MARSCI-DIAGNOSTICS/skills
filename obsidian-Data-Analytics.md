@@ -43,6 +43,7 @@ Analytics, reporting, business intelligence, and data visualization skills.
 | [[sheets-automation]] | Google Sheets automation | [[xlsx-manipulation]], [[data-analysis]] |
 | [[spreadsheet-formulas]] | Spreadsheet formula creation | [[sheets-automation]], [[data-analysis]] |
 | [[google-sheets-automation]] | Google Sheets workflow automation | [[sheets-automation]] |
+| [[excel-automation]] | Excel automation workflows | [[sheets-automation]], [[xlsx-manipulation]] |
 
 ## Reporting
 | Skill | Description | Linked Skills |

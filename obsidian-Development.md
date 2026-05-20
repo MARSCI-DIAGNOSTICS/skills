@@ -47,6 +47,8 @@ Coding, API, testing, and DevOps skills.
 | [[split-to-prs]] | Split work into reviewable PRs | [[babysit]] |
 | [[using-git-worktrees]] | Git worktree management | [[babysit]], [[finishing-a-development-branch]] |
 | [[finishing-a-development-branch]] | Branch completion workflows | [[using-git-worktrees]] |
+| [[security-monitoring]] | Security monitoring & threat detection | [[security-review]], [[devops-automation]] |
+| [[security-review]] | Security checklist for auth & payments | [[coding-standards]], [[security-monitoring]] |
 
 ## Mobile Development
 | Skill | Description | Linked Skills |
@@ -59,44 +61,46 @@ Coding, API, testing, and DevOps skills.
 |-------|-------------|---------------|
 | [[azure-deployment]] | Azure deployment automation | [[devops-automation]] |
 | [[vercel-deployment]] | Vercel deployment | [[deployment-patterns]] |
+| [[vercel-react-best-practices]] | React/Next.js performance optimization (Vercel) | [[frontend-patterns]], [[coding-standards]] |
+| [[supabase-postgres-best-practices]] | Postgres optimization & best practices | [[database-sync]], [[sql-optimization]] |
 
 ---
 
 ## Additional Dev Tools
 | Skill | Description | Linked Skills |
 |-------|-------------|---------------|
-| [[apple-shortcuts-integration]] | Apple Shortcuts automation | [[automation]], [[ios-automation]] |
-| [[automated-compliance-auditor]] | Compliance auditing | [[security-review]], [[policy-management]] |
-| [[batch-processor]] | Bulk file processing | [[file-organizer]], [[template-engine]] |
-| [[changelog-generator]] | Changelog from git commits | [[devops-automation]], [[release-management]] |
-| [[chat-with-pdf]] | PDF Q&A | [[document-automation]], [[research-synthesis]] |
-| [[cherry-assistant-guide]] | Cherry Studio knowledge base | [[product-documentation]], [[troubleshooting]] |
-| [[docusign-automation]] | DocuSign automation | [[contract-automation]], [[document-workflows]] |
-| [[excel-automation]] | Excel automation | [[xlsx-manipulation]], [[spreadsheet-automation]] |
-| [[home-assistant-automation]] | Home automation | [[automation]], [[iot-workflows]] |
-| [[hr-automation]] | HR workflow automation | [[applicant-screening]], [[onboarding]] |
-| [[html-slides]] | HTML slide generation | [[ai-slides]], [[md-slides]] |
-| [[issue-reporter]] | Bug/feature report submission | [[project-management]], [[feedback-loop]] |
-| [[jira-automation]] | Jira workflow automation | [[project-management]], [[developer-workflows]] |
-| [[layout-analyzer]] | Layout analysis tools | [[design-brief]], [[figma-integration]] |
-| [[linear-automation]] | Linear issue tracking | [[project-management]], [[developer-workflows]] |
-| [[loop]] | Recurring task automation | [[automation]], [[scheduled-tasks]] |
-| [[md-to-office]] | Markdown to Office conversion | [[document-automation]], [[docx-manipulation]] |
-| [[microsoft-foundry]] | Azure Foundry agent deployment | [[deployment-patterns]], [[ai-agent-builder]] |
-| [[nda-generator]] | NDA generation | [[contract-template]], [[legal-automation]] |
-| [[notebooklm]] | Google NotebookLM API | [[research-synthesis]], [[knowledge-management]] |
-| [[offer-letter-generator]] | Offer letter generation | [[hr-automation]], [[contract-template]] |
-| [[paperclip-create-agent]] | Paperclip agent creation | [[ai-agent-builder]], [[agent-customization]] |
-| [[paperclip-create-plugin]] | Paperclip plugin creation | [[paperclip-dev]], [[developer-tools]] |
-| [[paperclip-dev]] | Paperclip dev workflow | [[terminal-bench-loop]], [[paperclip-converting-plans-to-tasks]] |
-| [[security-monitoring]] | Security monitoring | [[security-review]], [[incident-response]] |
-| [[security-review]] | Security code review | [[ai-prompt-engineering-safety-review]], [[security-monitoring]] |
-| [[supabase-postgres-best-practices]] | Postgres optimization | [[database-sync]], [[data-pipeline]] |
-| [[sync]] | MCPmarket skill sync | [[skills-manager]], [[plugin-management]] |
-| [[template]] | Generic template | [[template-engine]], [[document-automation]] |
-| [[update-cli-config]] | CLI configuration management | [[developer-setup]], [[tool-configuration]] |
-| [[update-cursor-settings]] | Cursor settings management | [[agent-customization]], [[customization-tutorials]] |
-| [[weather-automation]] | Weather-based automation | [[automation]], [[trigger-based-workflows]] |
+| [[github]] | GitHub CLI (issues, PRs, runs, API) | [[git]], [[repo-governor]] |
+| [[apple-notes]] | Apple Notes CLI (memo) | [[obsidian]], [[bear-notes]] |
+| [[apple-reminders]] | Apple Reminders CLI | [[things-mac]], [[apple-notes]] |
+| [[bear-notes]] | Bear notes CLI | [[apple-notes]], [[obsidian]] |
+| [[gog]] | Google Workspace CLI (Gmail, Calendar, Drive) | [[himalaya]], [[gmail-workflows]] |
+| [[goplaces]] | Google Places API CLI | [[local-places]], [[seo-optimizer]] |
+| [[himalaya]] | Email CLI (IMAP/SMTP) | [[gmail-workflows]], [[email-classifier]] |
+| [[local-places]] | Local restaurant/cafe search | [[goplaces]], [[things-mac]] |
+| [[tmux]] | tmux session control | [[shell]], [[terminal-bench-loop]] |
+| [[shell]] | Shell command execution | [[tmux]], [[run-in-terminal]] |
+| [[trello]] | Trello REST API | [[trello-automation]], [[project-tracking]] |
+| [[things-mac]] | Things 3 CLI | [[apple-reminders]], [[okr-tracker]] |
+| [[peekaboo]] | macOS UI automation | [[apple-shortcuts-integration]], [[home-assistant-automation]] |
+| [[openai-whisper]] | Local Whisper transcription | [[openai-whisper-api]], [[transcription-automation]] |
+| [[openai-whisper-api]] | OpenAI Whisper API | [[openai-whisper]], [[transcription-automation]] |
+| [[coding-agent]] | Codex/Claude Code CLI agent | [[ai-agent-builder]], [[agent-browser]] |
+| [[mcporter]] | MCP server CLI management | [[mcp-hub]], [[mcp-builder]] |
+| [[model-usage]] | Codex/Claude cost usage tracking | [[claude-api]], [[coding-agent]] |
+| [[summarize]] | Summarize URLs, podcasts, files | [[deep-research]], [[academic-search]] |
+| [[notion]] | Notion API integration | [[notion-automation]], [[para-memory-files]] |
+| [[changelog-generator]] | Generate release notes from git commits | [[deployment-patterns]] |
+| [[cherry-assistant-guide]] | Cherry Studio product knowledge & troubleshooting | [[documentation]] |
+| [[web-search]] | Web search strategies & optimization | [[seo-optimizer]] |
+| [[web-prototype]] | General-purpose web prototyping | [[frontend-design]], [[web-design]] |
+| [[layout-analyzer]] | Visual layout analysis & optimization | [[design-review]], [[web-design-guidelines]] |
+| [[remotion-best-practices]] | Remotion video in React best practices | [[hyperframes]], [[video-frames]] |
+| [[template]] | Template engine for document mail merge | [[docx-manipulation]], [[doc-pipeline]] |
+| [[md-to-office]] | Markdown to Office document conversion | [[docx-manipulation]], [[batch-convert]] |
+| [[md-slides]] | Markdown to presentation conversion | [[html-slides]], [[ai-slides]] |
+| [[html-slides]] | HTML-based presentation workflows | [[md-slides]], [[replit-deck]] |
+| [[tmux]] | Remote-control tmux sessions | [[terminal-bench-loop]], [[coding-agent]] |
+| [[video-frames]] | Extract frames/clips from videos with ffmpeg | [[video-shortform]], [[hyperframes]] |
 
 ---
 

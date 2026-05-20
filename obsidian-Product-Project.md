@@ -33,6 +33,9 @@ Product management, planning, and development workflow skills.
 | [[create-rule]] | Create Cursor rules (.cursor/rules) | [[agent-customization]] |
 | [[create-hook]] | Create Cursor hooks | [[agent-customization]] |
 | [[agent-customization]] | Customize agent instructions | [[create-rule]], [[create-hook]] |
+| [[paperclip-create-agent]] | Create new Paperclip agents | [[paperclip]] |
+| [[paperclip-create-plugin]] | Create external Paperclip plugins | [[paperclip]] |
+| [[paperclip-dev]] | Develop & operate Paperclip instance | [[paperclip]] |
 
 ## Code Management
 | Skill | Description | Linked Skills |
@@ -69,6 +72,16 @@ Product management, planning, and development workflow skills.
 | [[clickup-automation]] | ClickUp board management | [[asana-automation]], [[monday.com-automation]] |
 | [[monday.com-automation]] | Monday.com workflows | [[clickup-automation]], [[team-okrs]] |
 | [[trello-automation]] | Trello board automation | [[asana-automation]], [[project-status-dashboard]] |
+| [[trello]] | Trello REST API | [[trello-automation]], [[project-tracking]] |
+| [[things-mac]] | Things 3 CLI | [[apple-reminders]], [[okr-tracker]] |
+
+## Career & Hiring
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[cover-letter]] | Cover letter generation | [[cv-builder]], [[applicant-screening]] |
+| [[cv-builder]] | CV/resume builder | [[cover-letter]], [[applicant-screening]] |
+| [[applicant-screening]] | Screen job applications | [[cover-letter]], [[job-description-generator]] |
+| [[job-description-generator]] | Job description creation | [[applicant-screening]], [[hr-automation]] |
 
 ---
 
@@ -77,3 +90,12 @@ Product management, planning, and development workflow skills.
 - [[Development]] - For technical implementation
 - [[AI & Agents]] - For agent-based workflows
 - [[Productivity]] - For productivity tools
+
+## Additional Skills
+
+- [[apple-shortcuts-integration]] | Create and trigger Apple Shortcuts | [[things-mac]], [[automation]] |
+- [[hr-automation]] | HR workflow automation (recruiting, onboarding) | [[applicant-screening]], [[contract-template]] |
+- [[issue-reporter]] | Bug report & feature request submission | [[github-automation]] |
+- [[microsoft-foundry]] | Deploy & manage Foundry agents | [[azure-deployment]], [[mcp-hub]] |
+| [[subscription-management]] | SaaS subscription lifecycle management | [[pricing-page]], [[invoice-automation]] |
+| [[quickbooks-automation]] | QuickBooks accounting workflows | [[expense-tracker]], [[invoice-automation]] |

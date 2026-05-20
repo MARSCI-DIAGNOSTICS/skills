@@ -37,6 +37,7 @@ Automation, workflow, memory, and productivity tools.
 | [[asana-automation]] | Asana project automation | [[todoist-automation]], [[monday-com-automation]] |
 | [[clickup-automation]] | ClickUp workflow automation | [[todoist-automation]] |
 | [[monday-com-automation]] | Monday.com automation | [[asana-automation]] |
+| [[trello]] | Trello board & card management | [[asana-automation]], [[clickup-automation]] |
 | [[trello-automation]] | Trello board automation | [[project-management]] |
 
 ## Memory & Knowledge
@@ -87,6 +88,49 @@ Automation, workflow, memory, and productivity tools.
 | [[stitch-loop]] | Loop stitching | [[automation]], [[batch-processor]] |
 | [[suspicious-email-analyzer]] | Email threat analysis | [[security-review]], [[phishing-detection]] |
 | [[tweaks]] | Design tweaking controls | [[web-prototype]], [[ui-ux-pro-max]] |
+
+## Apple-specific Productivity Tools
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[apple-notes]] | Apple Notes management via memo CLI | [[bear-notes]], [[things-mac]] |
+| [[apple-reminders]] | Apple Reminders via remindctl | [[apple-notes]], [[things-mac]] |
+| [[bear-notes]] | Bear notes via grizzly CLI | [[apple-notes]], [[obsidian]] |
+| [[things-mac]] | Things 3 via things CLI | [[apple-reminders]], [[apple-notes]] |
+
+## Personal & Home Tools
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[openhue]] | Philips Hue lights control | [[home-assistant-automation]], [[automation]] |
+| [[sonoscli]] | Sonos speaker control | [[spotify-automation]], [[audio-automation]] |
+| [[spotify-automation]] | Spotify playback & playlist automation | [[sonoscli]], [[audio-automation]] |
+| [[home-assistant-automation]] | Smart home device automation | [[openhue]], [[automation]] |
+| [[weather-automation]] | Weather-based workflows & alerts | [[weather]], [[calendar-automation]] |
+| [[eightctl]] | Eight Sleep pod control | [[home-assistant-automation]], [[weather]] |
+| [[1password]] | 1Password CLI integration | [[update-cli-config]], [[security-review]] |
+| [[weather]] | Weather forecasts (no API key) | [[weather-automation]], [[calendar-automation]] |
+| [[blogwatcher]] | Blog/RSS feed monitoring | [[news-monitor]], [[content-strategy]] |
+| [[bird]] | X/Twitter CLI | [[twitter-x-automation]], [[social-media-dashboard]] |
+| [[blucli]] | BluOS CLI for discovery & playback | [[sonoscli]], [[spotify-player]] |
+| [[sonoscli]] | Sonos speaker control CLI | [[blucli]], [[spotify-player]] |
+| [[spotify-player]] | Terminal Spotify playback/search | [[spotify-automation]], [[blucli]] |
+| [[podcast-automation]] | Podcast production automation | [[transcription-automation]], [[audio-editing]] |
+| [[food-order]] | Foodora order CLI | [[ordercli]], [[expense-tracker]] |
+| [[ordercli]] | Order status tracking | [[food-order]] |
+| [[session-logs]] | Session history search | [[deep-research]], [[audit]] |
+| [[site-architecture]] | Site architecture planning | [[web-design]], [[seo-optimizer]] |
+| [[using-superpowers]] | Claude/Cursor superpower usage | [[coding-agent]], [[agent-customization]] |
+| [[signup]] | Signup/login flow templates | [[auth-patterns]], [[frontend-design]] |
+| [[emails]] | Email management | [[himalaya]], [[gmail-workflows]] |
+| [[grill-me]] | Interview/grill workflows | [[brainstorming]], [[creative-analyzer]] |
+| [[nano-pdf]] | PDF editing CLI | [[pdf-watermark]], [[pdf-merge-split]] |
+| [[sag]] | ElevenLabs TTS | [[transcription-automation]], [[voice-call]] |
+| [[sherpa-onnx-tts]] | Offline TTS | [[voice-call]], [[audio-automation]] |
+| [[wacli]] | WhatsApp CLI | [[whatsapp-automation]], [[imsg]] |
+
+## Obsidian
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[obsidian]] | Obsidian vault management | [[obsidian-automation]], [[para-memory-files]] |
 
 ---
 
