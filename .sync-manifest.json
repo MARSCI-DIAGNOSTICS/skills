@@ -1,0 +1,945 @@
+{
+  "version": 1,
+  "skills": {
+    "babysit": {
+      "lastSyncedAt": 1779316873859
+    },
+    "canvas": {
+      "lastSyncedAt": 1779316873859
+    },
+    "create-hook": {
+      "lastSyncedAt": 1779316873859
+    },
+    "create-rule": {
+      "lastSyncedAt": 1779316873859
+    },
+    "create-skill": {
+      "lastSyncedAt": 1779316873859
+    },
+    "create-subagent": {
+      "lastSyncedAt": 1779316873859
+    },
+    "sdk": {
+      "lastSyncedAt": 1779316873859
+    },
+    "migrate-to-skills": {
+      "lastSyncedAt": 1779316873859
+    },
+    "shell": {
+      "lastSyncedAt": 1779316873859
+    },
+    "split-to-prs": {
+      "lastSyncedAt": 1779316873859
+    },
+    "statusline": {
+      "lastSyncedAt": 1779316873859
+    },
+    "update-cli-config": {
+      "lastSyncedAt": 1779316873859
+    },
+    "update-cursor-settings": {
+      "lastSyncedAt": 1779316873859
+    },
+    ".github": {
+      "lastSyncedAt": 1778519834461
+    },
+    "explanatory-output-style": {
+      "lastSyncedAt": 1778519834461
+    },
+    "learning-output-style": {
+      "lastSyncedAt": 1778519834461
+    },
+    "zip-install-1778278230995": {
+      "lastSyncedAt": 1778519834461
+    },
+    "zip-install-1778278241586": {
+      "lastSyncedAt": 1778519834461
+    },
+    "zip-install-1778278249175": {
+      "lastSyncedAt": 1778519834461
+    },
+    "zip-install-1778290906589": {
+      "lastSyncedAt": 1778519834461
+    },
+    "company-creator": {
+      "lastSyncedAt": 1778857603541
+    },
+    "create-agent-adapter": {
+      "lastSyncedAt": 1778857603541
+    },
+    "deal-with-security-advisory": {
+      "lastSyncedAt": 1778857603541
+    },
+    "doc-maintenance": {
+      "lastSyncedAt": 1778857603541
+    },
+    "notebooklm": {
+      "lastSyncedAt": 1779121394028
+    },
+    ".system": {
+      "lastSyncedAt": 1779152555980
+    },
+    "loop": {
+      "lastSyncedAt": 1779316873859
+    },
+    "ab-testing": {
+      "lastSyncedAt": 1779313268933
+    },
+    "ad-creative": {
+      "lastSyncedAt": 1779313268933
+    },
+    "ads": {
+      "lastSyncedAt": 1779313268933
+    },
+    "ai-seo": {
+      "lastSyncedAt": 1779313268933
+    },
+    "algorithmic-art": {
+      "lastSyncedAt": 1779313268933
+    },
+    "analytics": {
+      "lastSyncedAt": 1779313268933
+    },
+    "aso": {
+      "lastSyncedAt": 1779313268933
+    },
+    "brainstorming": {
+      "lastSyncedAt": 1779313268933
+    },
+    "brand-guidelines": {
+      "lastSyncedAt": 1779313268933
+    },
+    "canvas-design": {
+      "lastSyncedAt": 1779313268933
+    },
+    "churn-prevention": {
+      "lastSyncedAt": 1779313268933
+    },
+    "claude-api": {
+      "lastSyncedAt": 1779313268933
+    },
+    "co-marketing": {
+      "lastSyncedAt": 1779313268933
+    },
+    "cold-email": {
+      "lastSyncedAt": 1779313268933
+    },
+    "community-marketing": {
+      "lastSyncedAt": 1779313268933
+    },
+    "competitor-profiling": {
+      "lastSyncedAt": 1779313268933
+    },
+    "competitors": {
+      "lastSyncedAt": 1779313268933
+    },
+    "content-strategy": {
+      "lastSyncedAt": 1779313268933
+    },
+    "copy-editing": {
+      "lastSyncedAt": 1779313268933
+    },
+    "copywriting": {
+      "lastSyncedAt": 1779313268933
+    },
+    "cro": {
+      "lastSyncedAt": 1779313268933
+    },
+    "customer-research": {
+      "lastSyncedAt": 1779313268933
+    },
+    "design-md": {
+      "lastSyncedAt": 1779313268933
+    },
+    "diagnose-why-work-stopped": {
+      "lastSyncedAt": 1779313268933
+    },
+    "directory-submissions": {
+      "lastSyncedAt": 1779313268933
+    },
+    "dispatching-parallel-agents": {
+      "lastSyncedAt": 1779313268933
+    },
+    "doc-coauthoring": {
+      "lastSyncedAt": 1779313268933
+    },
+    "docx": {
+      "lastSyncedAt": 1779313268933
+    },
+    "emails": {
+      "lastSyncedAt": 1779313268933
+    },
+    "enhance-prompt": {
+      "lastSyncedAt": 1779313268933
+    },
+    "executing-plans": {
+      "lastSyncedAt": 1779313268933
+    },
+    "find-skills": {
+      "lastSyncedAt": 1779313268933
+    },
+    "finishing-a-development-branch": {
+      "lastSyncedAt": 1779313268933
+    },
+    "free-tools": {
+      "lastSyncedAt": 1779313268933
+    },
+    "frontend-design": {
+      "lastSyncedAt": 1779313268933
+    },
+    "html-ppt-zhangzara-soft-editorial": {
+      "lastSyncedAt": 1779313268933
+    },
+    "html-ppt-zhangzara-stencil-tablet": {
+      "lastSyncedAt": 1779313268933
+    },
+    "html-ppt-zhangzara-studio": {
+      "lastSyncedAt": 1779313268933
+    },
+    "html-ppt-zhangzara-vellum": {
+      "lastSyncedAt": 1779313268933
+    },
+    "hyperframes": {
+      "lastSyncedAt": 1779313268933
+    },
+    "image": {
+      "lastSyncedAt": 1779313268933
+    },
+    "image-poster": {
+      "lastSyncedAt": 1779313268933
+    },
+    "internal-comms": {
+      "lastSyncedAt": 1779313268933
+    },
+    "invoice": {
+      "lastSyncedAt": 1779313268933
+    },
+    "kami-deck": {
+      "lastSyncedAt": 1779313268933
+    },
+    "kami-landing": {
+      "lastSyncedAt": 1779313268933
+    },
+    "launch": {
+      "lastSyncedAt": 1779313268933
+    },
+    "lead-magnets": {
+      "lastSyncedAt": 1779313268933
+    },
+    "live-artifact": {
+      "lastSyncedAt": 1779313268933
+    },
+    "live-dashboard": {
+      "lastSyncedAt": 1779313268933
+    },
+    "magazine-poster": {
+      "lastSyncedAt": 1779313268933
+    },
+    "marketing-ideas": {
+      "lastSyncedAt": 1779313268933
+    },
+    "marketing-psychology": {
+      "lastSyncedAt": 1779313268933
+    },
+    "mcp-builder": {
+      "lastSyncedAt": 1779313268933
+    },
+    "meeting-notes": {
+      "lastSyncedAt": 1779313268933
+    },
+    "mobile-app": {
+      "lastSyncedAt": 1779313268933
+    },
+    "mobile-onboarding": {
+      "lastSyncedAt": 1779313268933
+    },
+    "motion-frames": {
+      "lastSyncedAt": 1779313268933
+    },
+    "onboarding": {
+      "lastSyncedAt": 1779313268933
+    },
+    "open-design-landing": {
+      "lastSyncedAt": 1779313268933
+    },
+    "open-design-landing-deck": {
+      "lastSyncedAt": 1779313268933
+    },
+    "orbit-general": {
+      "lastSyncedAt": 1779313268933
+    },
+    "orbit-github": {
+      "lastSyncedAt": 1779313268933
+    },
+    "orbit-gmail": {
+      "lastSyncedAt": 1779313268933
+    },
+    "orbit-linear": {
+      "lastSyncedAt": 1779313268933
+    },
+    "orbit-notion": {
+      "lastSyncedAt": 1779313268933
+    },
+    "paperclip": {
+      "lastSyncedAt": 1779313268933
+    },
+    "paperclip-converting-plans-to-tasks": {
+      "lastSyncedAt": 1779313268933
+    },
+    "paperclip-create-agent": {
+      "lastSyncedAt": 1779313268933
+    },
+    "paperclip-create-plugin": {
+      "lastSyncedAt": 1779313268933
+    },
+    "paperclip-dev": {
+      "lastSyncedAt": 1779313268933
+    },
+    "para-memory-files": {
+      "lastSyncedAt": 1779313268933
+    },
+    "paywalls": {
+      "lastSyncedAt": 1779313268933
+    },
+    "pdf": {
+      "lastSyncedAt": 1779313268933
+    },
+    "pm-spec": {
+      "lastSyncedAt": 1779313268933
+    },
+    "popups": {
+      "lastSyncedAt": 1779313268933
+    },
+    "pptx": {
+      "lastSyncedAt": 1779313268933
+    },
+    "pricing": {
+      "lastSyncedAt": 1779313268933
+    },
+    "pricing-page": {
+      "lastSyncedAt": 1779313268933
+    },
+    "product-marketing": {
+      "lastSyncedAt": 1779313268933
+    },
+    "programmatic-seo": {
+      "lastSyncedAt": 1779313268933
+    },
+    "react-components": {
+      "lastSyncedAt": 1779313268933
+    },
+    "receiving-code-review": {
+      "lastSyncedAt": 1779313268933
+    },
+    "referrals": {
+      "lastSyncedAt": 1779313268933
+    },
+    "remotion": {
+      "lastSyncedAt": 1779313268933
+    },
+    "replit-deck": {
+      "lastSyncedAt": 1779313268933
+    },
+    "requesting-code-review": {
+      "lastSyncedAt": 1779313268933
+    },
+    "revops": {
+      "lastSyncedAt": 1779313268933
+    },
+    "sales-enablement": {
+      "lastSyncedAt": 1779313268933
+    },
+    "schema": {
+      "lastSyncedAt": 1779313268933
+    },
+    "seo-audit": {
+      "lastSyncedAt": 1779313268933
+    },
+    "shadcn-ui": {
+      "lastSyncedAt": 1779313268933
+    },
+    "signup": {
+      "lastSyncedAt": 1779313268933
+    },
+    "simple-deck": {
+      "lastSyncedAt": 1779313268933
+    },
+    "site-architecture": {
+      "lastSyncedAt": 1779313268933
+    },
+    "skill-creator": {
+      "lastSyncedAt": 1779313268933
+    },
+    "slack-gif-creator": {
+      "lastSyncedAt": 1779313268933
+    },
+    "social": {
+      "lastSyncedAt": 1779313268933
+    },
+    "social-carousel": {
+      "lastSyncedAt": 1779313268933
+    },
+    "social-media-dashboard": {
+      "lastSyncedAt": 1779313268933
+    },
+    "social-media-matrix-tracker-template": {
+      "lastSyncedAt": 1779313268933
+    },
+    "sprite-animation": {
+      "lastSyncedAt": 1779313268933
+    },
+    "stitch-design": {
+      "lastSyncedAt": 1779313268933
+    },
+    "stitch-loop": {
+      "lastSyncedAt": 1779313268933
+    },
+    "subagent-driven-development": {
+      "lastSyncedAt": 1779313268933
+    },
+    "systematic-debugging": {
+      "lastSyncedAt": 1779313268933
+    },
+    "taste-design": {
+      "lastSyncedAt": 1779313268933
+    },
+    "team-okrs": {
+      "lastSyncedAt": 1779313268933
+    },
+    "terminal-bench-loop": {
+      "lastSyncedAt": 1779313268933
+    },
+    "test-driven-development": {
+      "lastSyncedAt": 1779313268933
+    },
+    "theme-factory": {
+      "lastSyncedAt": 1779313268933
+    },
+    "tweaks": {
+      "lastSyncedAt": 1779313268933
+    },
+    "using-git-worktrees": {
+      "lastSyncedAt": 1779313268933
+    },
+    "using-superpowers": {
+      "lastSyncedAt": 1779313268933
+    },
+    "verification-before-completion": {
+      "lastSyncedAt": 1779313268933
+    },
+    "video": {
+      "lastSyncedAt": 1779313268933
+    },
+    "video-shortform": {
+      "lastSyncedAt": 1779313268933
+    },
+    "waitlist-page": {
+      "lastSyncedAt": 1779313268933
+    },
+    "web-artifacts-builder": {
+      "lastSyncedAt": 1779313268933
+    },
+    "web-prototype": {
+      "lastSyncedAt": 1779313268933
+    },
+    "web-prototype-taste-brutalist": {
+      "lastSyncedAt": 1779313268933
+    },
+    "web-prototype-taste-editorial": {
+      "lastSyncedAt": 1779313268933
+    },
+    "web-prototype-taste-soft": {
+      "lastSyncedAt": 1779313268933
+    },
+    "webapp-testing": {
+      "lastSyncedAt": 1779313268933
+    },
+    "weekly-update": {
+      "lastSyncedAt": 1779313268933
+    },
+    "wireframe-sketch": {
+      "lastSyncedAt": 1779313268933
+    },
+    "writing-plans": {
+      "lastSyncedAt": 1779313268933
+    },
+    "writing-skills": {
+      "lastSyncedAt": 1779313268933
+    },
+    "xlsx": {
+      "lastSyncedAt": 1779313268933
+    },
+    "cherry-assistant-guide": {
+      "lastSyncedAt": 1779315071502
+    },
+    "faq-collector": {
+      "lastSyncedAt": 1779315071502
+    },
+    "issue-reporter": {
+      "lastSyncedAt": 1779315071502
+    },
+    "skills-manager": {
+      "lastSyncedAt": 1779315071502
+    },
+    "sync": {
+      "lastSyncedAt": 1779315071502
+    },
+    "academic-search": {
+      "lastSyncedAt": 1779316873859
+    },
+    "ads-copywriter": {
+      "lastSyncedAt": 1779316873859
+    },
+    "agent-browser": {
+      "lastSyncedAt": 1779316873859
+    },
+    "ai-agent-builder": {
+      "lastSyncedAt": 1779316873859
+    },
+    "ai-slides": {
+      "lastSyncedAt": 1779316873859
+    },
+    "airtable-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "animation-libraries": {
+      "lastSyncedAt": 1779316873859
+    },
+    "apple-shortcuts-integration": {
+      "lastSyncedAt": 1779316873859
+    },
+    "applicant-screening": {
+      "lastSyncedAt": 1779316873859
+    },
+    "asana-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "automated-compliance-auditor": {
+      "lastSyncedAt": 1779316873859
+    },
+    "batch-convert": {
+      "lastSyncedAt": 1779316873859
+    },
+    "batch-processor": {
+      "lastSyncedAt": 1779316873859
+    },
+    "brand-guidelines-generator": {
+      "lastSyncedAt": 1779316873859
+    },
+    "browser-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "calendar-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "changelog-generator": {
+      "lastSyncedAt": 1779316873859
+    },
+    "chart-designer": {
+      "lastSyncedAt": 1779316873859
+    },
+    "chat-with-pdf": {
+      "lastSyncedAt": 1779316873859
+    },
+    "clickup-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "company-research": {
+      "lastSyncedAt": 1779316873859
+    },
+    "competitive-analysis": {
+      "lastSyncedAt": 1779316873859
+    },
+    "content-research-writer": {
+      "lastSyncedAt": 1779316873859
+    },
+    "contract-review": {
+      "lastSyncedAt": 1779316873859
+    },
+    "contract-template": {
+      "lastSyncedAt": 1779316873859
+    },
+    "cover-letter": {
+      "lastSyncedAt": 1779316873859
+    },
+    "crm-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "crypto-report": {
+      "lastSyncedAt": 1779316873859
+    },
+    "customer-success": {
+      "lastSyncedAt": 1779316873859
+    },
+    "cv-builder": {
+      "lastSyncedAt": 1779316873859
+    },
+    "data-analysis": {
+      "lastSyncedAt": 1779316873859
+    },
+    "data-extractor": {
+      "lastSyncedAt": 1779316873859
+    },
+    "data-pipeline": {
+      "lastSyncedAt": 1779316873859
+    },
+    "database-sync": {
+      "lastSyncedAt": 1779316873859
+    },
+    "dcf-valuation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "deep-research": {
+      "lastSyncedAt": 1779316873859
+    },
+    "deployment-patterns": {
+      "lastSyncedAt": 1779316873859
+    },
+    "dev-slides": {
+      "lastSyncedAt": 1779316873859
+    },
+    "devops-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "diagram-creator": {
+      "lastSyncedAt": 1779316873859
+    },
+    "discord-bot": {
+      "lastSyncedAt": 1779316873859
+    },
+    "doc-parser": {
+      "lastSyncedAt": 1779316873859
+    },
+    "doc-pipeline": {
+      "lastSyncedAt": 1779316873859
+    },
+    "docusign-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "docx-manipulation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "email-classifier": {
+      "lastSyncedAt": 1779316873859
+    },
+    "email-drafter": {
+      "lastSyncedAt": 1779316873859
+    },
+    "email-marketing": {
+      "lastSyncedAt": 1779316873859
+    },
+    "etl-pipeline": {
+      "lastSyncedAt": 1779316873859
+    },
+    "excel-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "expense-report": {
+      "lastSyncedAt": 1779316873859
+    },
+    "expense-tracker": {
+      "lastSyncedAt": 1779316873859
+    },
+    "facebook-meta-ads": {
+      "lastSyncedAt": 1779316873859
+    },
+    "file-organizer": {
+      "lastSyncedAt": 1779316873859
+    },
+    "financial-modeling": {
+      "lastSyncedAt": 1779316873859
+    },
+    "form-builder": {
+      "lastSyncedAt": 1779316873859
+    },
+    "gmail-workflows": {
+      "lastSyncedAt": 1779316873859
+    },
+    "google-ads-manager": {
+      "lastSyncedAt": 1779316873859
+    },
+    "grill-me": {
+      "lastSyncedAt": 1779316873859
+    },
+    "home-assistant-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "hr-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "html-slides": {
+      "lastSyncedAt": 1779316873859
+    },
+    "html-to-ppt": {
+      "lastSyncedAt": 1779316873859
+    },
+    "image-generation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "infographic": {
+      "lastSyncedAt": 1779316873859
+    },
+    "intercom-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "investment-memo": {
+      "lastSyncedAt": 1779316873859
+    },
+    "invoice-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "invoice-generator": {
+      "lastSyncedAt": 1779316873859
+    },
+    "invoice-organizer": {
+      "lastSyncedAt": 1779316873859
+    },
+    "invoice-template": {
+      "lastSyncedAt": 1779316873859
+    },
+    "jira-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "job-description-generator": {
+      "lastSyncedAt": 1779316873859
+    },
+    "layout-analyzer": {
+      "lastSyncedAt": 1779316873859
+    },
+    "lead-qualification": {
+      "lastSyncedAt": 1779316873859
+    },
+    "lead-research-assistant": {
+      "lastSyncedAt": 1779316873859
+    },
+    "lead-routing": {
+      "lastSyncedAt": 1779316873859
+    },
+    "linear-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "linkedin-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "mailchimp-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "mcp-hub": {
+      "lastSyncedAt": 1779316873859
+    },
+    "md-slides": {
+      "lastSyncedAt": 1779316873859
+    },
+    "md-to-office": {
+      "lastSyncedAt": 1779316873859
+    },
+    "microsoft-foundry": {
+      "lastSyncedAt": 1779316873859
+    },
+    "microsoft-teams-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "monday.com-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "n8n-workflow": {
+      "lastSyncedAt": 1779316873859
+    },
+    "nda-generator": {
+      "lastSyncedAt": 1779316873859
+    },
+    "news-monitor": {
+      "lastSyncedAt": 1779316873859
+    },
+    "notion-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "obsidian-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "offer-letter-generator": {
+      "lastSyncedAt": 1779316873859
+    },
+    "office-mcp": {
+      "lastSyncedAt": 1779316873859
+    },
+    "office-to-md": {
+      "lastSyncedAt": 1779316873859
+    },
+    "pdf-compress": {
+      "lastSyncedAt": 1779316873859
+    },
+    "pdf-converter": {
+      "lastSyncedAt": 1779316873859
+    },
+    "pdf-extraction": {
+      "lastSyncedAt": 1779316873859
+    },
+    "pdf-form-filler": {
+      "lastSyncedAt": 1779316873859
+    },
+    "pdf-merge-split": {
+      "lastSyncedAt": 1779316873859
+    },
+    "pdf-ocr-extraction": {
+      "lastSyncedAt": 1779316873859
+    },
+    "pdf-to-docx": {
+      "lastSyncedAt": 1779316873859
+    },
+    "pdf-watermark": {
+      "lastSyncedAt": 1779316873859
+    },
+    "pipedrive-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "podcast-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "ppt-visual": {
+      "lastSyncedAt": 1779316873859
+    },
+    "pptx-manipulation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "proposal-writer": {
+      "lastSyncedAt": 1779316873859
+    },
+    "quickbooks-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "remotion-best-practices": {
+      "lastSyncedAt": 1779316873859
+    },
+    "report-generator": {
+      "lastSyncedAt": 1779316873859
+    },
+    "resume-tailor": {
+      "lastSyncedAt": 1779316873859
+    },
+    "saas-economics-efficiency-metrics": {
+      "lastSyncedAt": 1779316873859
+    },
+    "saas-metrics": {
+      "lastSyncedAt": 1779316873859
+    },
+    "saas-platforms": {
+      "lastSyncedAt": 1779316873859
+    },
+    "saas-productivity": {
+      "lastSyncedAt": 1779316873859
+    },
+    "saas-revenue-growth-metrics": {
+      "lastSyncedAt": 1779316873859
+    },
+    "security-monitoring": {
+      "lastSyncedAt": 1779316873859
+    },
+    "security-review": {
+      "lastSyncedAt": 1779316873859
+    },
+    "seo-optimizer": {
+      "lastSyncedAt": 1779316873859
+    },
+    "shadcn": {
+      "lastSyncedAt": 1779316873859
+    },
+    "sheets-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "shopify-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "skill-name": {
+      "lastSyncedAt": 1779316873859
+    },
+    "slack-workflows": {
+      "lastSyncedAt": 1779316873859
+    },
+    "smart-ocr": {
+      "lastSyncedAt": 1779316873859
+    },
+    "social-publisher": {
+      "lastSyncedAt": 1779316873859
+    },
+    "spotify-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "stock-analysis": {
+      "lastSyncedAt": 1779316873859
+    },
+    "stripe-payments": {
+      "lastSyncedAt": 1779316873859
+    },
+    "subscription-management": {
+      "lastSyncedAt": 1779316873859
+    },
+    "supabase-postgres-best-practices": {
+      "lastSyncedAt": 1779316873859
+    },
+    "suspicious-email-analyzer": {
+      "lastSyncedAt": 1779316873859
+    },
+    "table-extractor": {
+      "lastSyncedAt": 1779316873859
+    },
+    "telegram-bot": {
+      "lastSyncedAt": 1779316873859
+    },
+    "template-engine": {
+      "lastSyncedAt": 1779316873859
+    },
+    "tiktok-marketing": {
+      "lastSyncedAt": 1779316873859
+    },
+    "transcription-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "trello-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "twilio-sms-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "twitter-x-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "ui-ux-pro-max": {
+      "lastSyncedAt": 1779316873859
+    },
+    "vercel-react-best-practices": {
+      "lastSyncedAt": 1779316873859
+    },
+    "weather-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "web-design-guidelines": {
+      "lastSyncedAt": 1779316873859
+    },
+    "web-search": {
+      "lastSyncedAt": 1779316873859
+    },
+    "webhook-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "weekly-report": {
+      "lastSyncedAt": 1779316873859
+    },
+    "whatsapp-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "woocommerce-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "xlsx-manipulation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "youtube-automation": {
+      "lastSyncedAt": 1779316873859
+    },
+    "zendesk-automation": {
+      "lastSyncedAt": 1779316873859
+    }
+  },
+  "lastInventoryAt": 1779256053357
+}
