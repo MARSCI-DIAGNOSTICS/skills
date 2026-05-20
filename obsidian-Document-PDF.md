@@ -57,6 +57,12 @@ Word, Excel, PowerPoint, PDF, and document automation skills.
 | [[table-extractor]] | Extract tables from documents | [[doc-parser]], [[pdf-extraction]] |
 | [[data-extractor]] | Structured data extraction | [[pdf-extraction]], [[doc-parser]] |
 
+## Meeting & Notes
+| Skill | Description | Linked Skills |
+|-------|-------------|---------------|
+| [[meeting-notes]] | Meeting notes automation | [[transcription-automation]], [[calendar-automation]] |
+| [[notebooklm]] | Google NotebookLM API access | [[ai-agent-builder]], [[deep-research]] |
+
 ---
 
 ## Related Categories
