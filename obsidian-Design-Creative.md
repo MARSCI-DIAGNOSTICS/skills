@@ -36,8 +36,6 @@ UI/UX, graphic design, presentations, and creative skills.
 | Skill | Description | Linked Skills |
 |-------|-------------|---------------|
 | [[canvas-design]] | Canvas design patterns | [[canva-integration]], [[figma-integration]] |
-| [[image-generation]] | AI image generation prompts (DALL-E, Midjourney, Stable Diffusion) | [[image-poster]], [[social-carousel]] |
-| [[image-poster]] | Single-image generation (posters, key art) | [[image-generation]], [[social-media-dashboard]] |
 | [[canva-design]] | Canva integration | [[canva-integration]] |
 
 ## Design Systems
@@ -85,7 +83,7 @@ UI/UX, graphic design, presentations, and creative skills.
 | Skill | Description | Linked Skills |
 |-------|-------------|---------------|
 | [[writing-skills]] | Writing craft and style | [[copywriting]], [[content-strategy]] |
-| [[social]] | Social media analytics | [[social-media-dashboard]], [[social-publisher]] |
+| [[social-media-dashboard]] | Social media analytics | [[social-publisher]], [[twitter-x-automation]] |
 
 ---
 

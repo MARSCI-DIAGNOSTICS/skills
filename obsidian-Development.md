@@ -8,7 +8,6 @@ Coding, API, testing, and DevOps skills.
 | [[coding-standards]] | Cross-project coding conventions | [[frontend-patterns]], [[vercel-react-best-practices]] |
 | [[frontend-patterns]] | React & Next.js patterns | [[coding-standards]], [[frontend-design]] |
 | [[frontend-design]] | Production-grade frontend interfaces | [[web-prototype]], [[ui-ux-pro-max]] |
-| [[frontend-patterns]] | React development patterns | [[shadcn]], [[shadcn-ui]] |
 | [[react-components]] | React component patterns | [[frontend-design]], [[web-prototype]] |
 
 ## APIs & Integration
@@ -95,7 +94,7 @@ Coding, API, testing, and DevOps skills.
 | [[web-prototype]] | General-purpose web prototyping | [[frontend-design]], [[web-design]] |
 | [[layout-analyzer]] | Visual layout analysis & optimization | [[design-review]], [[web-design-guidelines]] |
 | [[remotion-best-practices]] | Remotion video in React best practices | [[hyperframes]], [[video-frames]] |
-| [[template]] | Template engine for document mail merge | [[docx-manipulation]], [[doc-pipeline]] |
+| [[template-engine]] | Template engine for document mail merge | [[docx-manipulation]], [[doc-pipeline]] |
 | [[md-to-office]] | Markdown to Office document conversion | [[docx-manipulation]], [[batch-convert]] |
 | [[md-slides]] | Markdown to presentation conversion | [[html-slides]], [[ai-slides]] |
 | [[html-slides]] | HTML-based presentation workflows | [[md-slides]], [[replit-deck]] |
