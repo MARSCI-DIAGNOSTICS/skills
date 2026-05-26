@@ -10,7 +10,7 @@ from pathlib import Path
 
 class RedliningValidator:
 
-    def __init__(self, unpacked_dir, original_docx, verbose=False, author="Claude"):
+    def _init_(self, unpacked_dir, original_docx, verbose=False, author="Claude"):
         self.unpacked_dir = Path(unpacked_dir)
         self.original_docx = Path(original_docx)
         self.verbose = verbose
@@ -243,5 +243,5 @@ class RedliningValidator:
         return "\n".join(paragraphs)
 
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     raise RuntimeError("This module should not be run directly.")

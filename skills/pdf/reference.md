@@ -468,7 +468,7 @@ from pypdf import PdfReader, PdfWriter
 import logging
 
 logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+logger = logging.getLogger(_name_)
 
 def batch_process_pdfs(input_dir, operation='merge'):
     pdf_files = glob.glob(os.path.join(input_dir, "*.pdf"))

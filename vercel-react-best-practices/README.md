@@ -10,8 +10,8 @@ A structured repository for creating and maintaining React Best Practices optimi
   - `area-description.md` - Individual rule files
 - `src/` - Build scripts and utilities
 - `metadata.json` - Document metadata (version, organization, abstract)
-- __`AGENTS.md`__ - Compiled output (generated)
-- __`test-cases.json`__ - Test cases for LLM evaluation (generated)
+- _`AGENTS.md`_ - Compiled output (generated)
+- _`test-cases.json`_ - Test cases for LLM evaluation (generated)
 
 ## Getting Started
 

@@ -22,7 +22,7 @@ from pathlib import Path
 
 import defusedxml.minidom
 
-TEMPLATE_DIR = Path(__file__).parent / "templates"
+TEMPLATE_DIR = Path(_file_).parent / "templates"
 NS = {
     "w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main",
     "w14": "http://schemas.microsoft.com/office/word/2010/wordml",
@@ -290,7 +290,7 @@ def add_comment(
     return para_id, f"Added {action} {comment_id} (para_id={para_id})"
 
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     p = argparse.ArgumentParser(description="Add comments to DOCX documents")
     p.add_argument("unpacked_dir", help="Unpacked DOCX directory")
     p.add_argument("comment_id", type=int, help="Comment ID (must be unique)")

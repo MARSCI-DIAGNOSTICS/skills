@@ -271,5 +271,5 @@ class PPTXSchemaValidator(BaseSchemaValidator):
             return True
 
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     raise RuntimeError("This module should not be run directly.")

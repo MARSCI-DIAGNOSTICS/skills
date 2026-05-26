@@ -39,6 +39,45 @@
     },
     "update-cursor-settings": {
       "lastSyncedAt": 1779346508879
+=======
+      "lastSyncedAt": 1779800607024
+    },
+    "canvas": {
+      "lastSyncedAt": 1779800607024
+    },
+    "create-hook": {
+      "lastSyncedAt": 1779800607024
+    },
+    "create-rule": {
+      "lastSyncedAt": 1779800607024
+    },
+    "create-skill": {
+      "lastSyncedAt": 1779800607024
+    },
+    "create-subagent": {
+      "lastSyncedAt": 1779800607024
+    },
+    "sdk": {
+      "lastSyncedAt": 1779800607024
+    },
+    "migrate-to-skills": {
+      "lastSyncedAt": 1779800607024
+    },
+    "shell": {
+      "lastSyncedAt": 1779800607024
+    },
+    "split-to-prs": {
+      "lastSyncedAt": 1779800607024
+    },
+    "statusline": {
+      "lastSyncedAt": 1779800607024
+    },
+    "update-cli-config": {
+      "lastSyncedAt": 1779800607024
+    },
+    "update-cursor-settings": {
+      "lastSyncedAt": 1779800607024
+>>>>>>> Stashed changes
     },
     ".github": {
       "lastSyncedAt": 1778519834461
@@ -73,13 +112,8 @@
     "doc-maintenance": {
       "lastSyncedAt": 1778857603541
     },
-    "notebooklm": {
-      "lastSyncedAt": 1779121394028
-    },
-    ".system": {
-      "lastSyncedAt": 1779152555980
-    },
     "loop": {
+<<<<<<< Updated upstream
       "lastSyncedAt": 1779346508879
     },
     "ab-testing": {
@@ -234,895 +268,995 @@
     },
     "magazine-poster": {
       "lastSyncedAt": 1779313268933
+=======
+      "lastSyncedAt": 1779800607024
+>>>>>>> Stashed changes
     },
     "marketing-ideas": {
-      "lastSyncedAt": 1779313268933
-    },
-    "marketing-psychology": {
-      "lastSyncedAt": 1779313268933
-    },
-    "mcp-builder": {
-      "lastSyncedAt": 1779313268933
-    },
-    "meeting-notes": {
-      "lastSyncedAt": 1779313268933
-    },
-    "mobile-app": {
-      "lastSyncedAt": 1779313268933
-    },
-    "mobile-onboarding": {
-      "lastSyncedAt": 1779313268933
-    },
-    "motion-frames": {
-      "lastSyncedAt": 1779313268933
-    },
-    "onboarding": {
-      "lastSyncedAt": 1779313268933
-    },
-    "open-design-landing": {
-      "lastSyncedAt": 1779313268933
-    },
-    "open-design-landing-deck": {
-      "lastSyncedAt": 1779313268933
-    },
-    "orbit-general": {
-      "lastSyncedAt": 1779313268933
-    },
-    "orbit-github": {
-      "lastSyncedAt": 1779313268933
-    },
-    "orbit-gmail": {
-      "lastSyncedAt": 1779313268933
-    },
-    "orbit-linear": {
-      "lastSyncedAt": 1779313268933
-    },
-    "orbit-notion": {
-      "lastSyncedAt": 1779313268933
-    },
-    "paperclip": {
-      "lastSyncedAt": 1779313268933
-    },
-    "paperclip-converting-plans-to-tasks": {
-      "lastSyncedAt": 1779313268933
-    },
-    "paperclip-create-agent": {
-      "lastSyncedAt": 1779313268933
-    },
-    "paperclip-create-plugin": {
-      "lastSyncedAt": 1779313268933
-    },
-    "paperclip-dev": {
-      "lastSyncedAt": 1779313268933
-    },
-    "para-memory-files": {
-      "lastSyncedAt": 1779313268933
-    },
-    "paywalls": {
-      "lastSyncedAt": 1779313268933
-    },
-    "pdf": {
-      "lastSyncedAt": 1779313268933
-    },
-    "pm-spec": {
-      "lastSyncedAt": 1779313268933
-    },
-    "popups": {
-      "lastSyncedAt": 1779313268933
-    },
-    "pptx": {
-      "lastSyncedAt": 1779313268933
-    },
-    "pricing": {
-      "lastSyncedAt": 1779313268933
-    },
-    "pricing-page": {
-      "lastSyncedAt": 1779313268933
-    },
-    "product-marketing": {
-      "lastSyncedAt": 1779313268933
-    },
-    "programmatic-seo": {
-      "lastSyncedAt": 1779313268933
-    },
-    "react-components": {
-      "lastSyncedAt": 1779313268933
-    },
-    "receiving-code-review": {
-      "lastSyncedAt": 1779313268933
-    },
-    "referrals": {
-      "lastSyncedAt": 1779313268933
-    },
-    "remotion": {
-      "lastSyncedAt": 1779313268933
-    },
-    "replit-deck": {
       "lastSyncedAt": 1779313268933
     },
     "requesting-code-review": {
       "lastSyncedAt": 1779313268933
     },
-    "revops": {
-      "lastSyncedAt": 1779313268933
-    },
-    "sales-enablement": {
-      "lastSyncedAt": 1779313268933
-    },
-    "schema": {
-      "lastSyncedAt": 1779313268933
-    },
-    "seo-audit": {
-      "lastSyncedAt": 1779313268933
-    },
-    "shadcn-ui": {
-      "lastSyncedAt": 1779313268933
-    },
-    "signup": {
-      "lastSyncedAt": 1779313268933
-    },
-    "simple-deck": {
-      "lastSyncedAt": 1779313268933
-    },
-    "site-architecture": {
-      "lastSyncedAt": 1779313268933
-    },
-    "skill-creator": {
-      "lastSyncedAt": 1779313268933
-    },
-    "slack-gif-creator": {
-      "lastSyncedAt": 1779313268933
-    },
-    "social": {
-      "lastSyncedAt": 1779313268933
-    },
-    "social-carousel": {
-      "lastSyncedAt": 1779313268933
-    },
-    "social-media-dashboard": {
-      "lastSyncedAt": 1779313268933
-    },
-    "social-media-matrix-tracker-template": {
-      "lastSyncedAt": 1779313268933
-    },
-    "sprite-animation": {
-      "lastSyncedAt": 1779313268933
-    },
-    "stitch-design": {
-      "lastSyncedAt": 1779313268933
-    },
-    "stitch-loop": {
-      "lastSyncedAt": 1779313268933
-    },
     "subagent-driven-development": {
-      "lastSyncedAt": 1779313268933
-    },
-    "systematic-debugging": {
-      "lastSyncedAt": 1779313268933
-    },
-    "taste-design": {
-      "lastSyncedAt": 1779313268933
-    },
-    "team-okrs": {
-      "lastSyncedAt": 1779313268933
-    },
-    "terminal-bench-loop": {
-      "lastSyncedAt": 1779313268933
-    },
-    "test-driven-development": {
-      "lastSyncedAt": 1779313268933
-    },
-    "theme-factory": {
-      "lastSyncedAt": 1779313268933
-    },
-    "tweaks": {
-      "lastSyncedAt": 1779313268933
-    },
-    "using-git-worktrees": {
-      "lastSyncedAt": 1779313268933
-    },
-    "using-superpowers": {
       "lastSyncedAt": 1779313268933
     },
     "verification-before-completion": {
       "lastSyncedAt": 1779313268933
     },
-    "video": {
-      "lastSyncedAt": 1779313268933
-    },
-    "video-shortform": {
-      "lastSyncedAt": 1779313268933
-    },
-    "waitlist-page": {
-      "lastSyncedAt": 1779313268933
-    },
-    "web-artifacts-builder": {
-      "lastSyncedAt": 1779313268933
-    },
-    "web-prototype": {
-      "lastSyncedAt": 1779313268933
-    },
-    "web-prototype-taste-brutalist": {
-      "lastSyncedAt": 1779313268933
-    },
-    "web-prototype-taste-editorial": {
-      "lastSyncedAt": 1779313268933
-    },
-    "web-prototype-taste-soft": {
-      "lastSyncedAt": 1779313268933
-    },
-    "webapp-testing": {
-      "lastSyncedAt": 1779313268933
-    },
-    "weekly-update": {
-      "lastSyncedAt": 1779313268933
-    },
-    "wireframe-sketch": {
-      "lastSyncedAt": 1779313268933
-    },
     "writing-plans": {
       "lastSyncedAt": 1779313268933
     },
-    "writing-skills": {
-      "lastSyncedAt": 1779313268933
+    "8-bit-orbit-video-template": {
+      "lastSyncedAt": 1779780525074
     },
-    "xlsx": {
-      "lastSyncedAt": 1779313268933
+    "accessibility-review": {
+      "lastSyncedAt": 1779780525074
     },
-    "cherry-assistant-guide": {
-      "lastSyncedAt": 1779315071502
+    "account-research": {
+      "lastSyncedAt": 1779780525074
     },
-    "faq-collector": {
-      "lastSyncedAt": 1779315071502
+    "ad-copy": {
+      "lastSyncedAt": 1779780525074
     },
-    "issue-reporter": {
-      "lastSyncedAt": 1779315071502
+    "after-hours-editorial-template": {
+      "lastSyncedAt": 1779780525074
     },
-    "skills-manager": {
-      "lastSyncedAt": 1779315071502
+    "ai-music-album": {
+      "lastSyncedAt": 1779780525074
     },
-    "sync": {
-      "lastSyncedAt": 1779315071502
+    "analyze": {
+      "lastSyncedAt": 1779780525074
     },
-    "academic-search": {
-      "lastSyncedAt": 1779316873859
+    "apple-hig": {
+      "lastSyncedAt": 1779780525074
     },
-    "ads-copywriter": {
-      "lastSyncedAt": 1779316873859
+    "architecture": {
+      "lastSyncedAt": 1779780525074
+    },
+    "article-magazine": {
+      "lastSyncedAt": 1779780525074
+    },
+    "artifacts-builder": {
+      "lastSyncedAt": 1779780525074
+    },
+    "asc-auditor": {
+      "lastSyncedAt": 1779780525074
+    },
+    "audience-builder": {
+      "lastSyncedAt": 1779780525074
+    },
+    "audit-support": {
+      "lastSyncedAt": 1779780525074
+    },
+    "brand": {
+      "lastSyncedAt": 1779780525074
+    },
+    "brand-review": {
+      "lastSyncedAt": 1779780525074
+    },
+    "brand-voice-enforcement": {
+      "lastSyncedAt": 1779780525074
+    },
+    "brief": {
+      "lastSyncedAt": 1779780525074
+    },
+    "build-dashboard": {
+      "lastSyncedAt": 1779780525074
+    },
+    "build-mcp-app": {
+      "lastSyncedAt": 1779780525074
+    },
+    "build-mcp-server": {
+      "lastSyncedAt": 1779780525074
+    },
+    "build-mcpb": {
+      "lastSyncedAt": 1779780525074
+    },
+    "build-zoom-bot": {
+      "lastSyncedAt": 1779780525074
+    },
+    "build-zoom-meeting-app": {
+      "lastSyncedAt": 1779780525074
+    },
+    "call-prep": {
+      "lastSyncedAt": 1779780525074
+    },
+    "call-summary": {
+      "lastSyncedAt": 1779780525074
+    },
+    "campaign-plan": {
+      "lastSyncedAt": 1779780525074
+    },
+    "capacity-plan": {
+      "lastSyncedAt": 1779780525074
+    },
+    "card-twitter": {
+      "lastSyncedAt": 1779780525074
+    },
+    "card-xiaohongshu": {
+      "lastSyncedAt": 1779780525074
+    },
+    "change-request": {
+      "lastSyncedAt": 1779780525074
+    },
+    "choose-zoom-approach": {
+      "lastSyncedAt": 1779780525074
+    },
+    "claude-automation-recommender": {
+      "lastSyncedAt": 1779780525074
+    },
+    "close-management": {
+      "lastSyncedAt": 1779780525074
+    },
+    "cobrowse-sdk": {
+      "lastSyncedAt": 1779780525074
+    },
+    "code-review": {
+      "lastSyncedAt": 1779780525074
+    },
+    "Coding Agent": {
+      "lastSyncedAt": 1779780525074
+    },
+    "color-expert": {
+      "lastSyncedAt": 1779780525074
+    },
+    "comp-analysis": {
+      "lastSyncedAt": 1779780525074
+    },
+    "competitive-ads-extractor": {
+      "lastSyncedAt": 1779780525074
+    },
+    "competitive-brief": {
+      "lastSyncedAt": 1779780525074
+    },
+    "competitive-intelligence": {
+      "lastSyncedAt": 1779780525074
+    },
+    "compliance-check": {
+      "lastSyncedAt": 1779780525074
+    },
+    "compliance-tracking": {
+      "lastSyncedAt": 1779780525074
+    },
+    "compose-outreach": {
+      "lastSyncedAt": 1779780525074
+    },
+    "consensus-grant-finder": {
+      "lastSyncedAt": 1779780525074
+    },
+    "contact-center": {
+      "lastSyncedAt": 1779780525074
+    },
+    "contact-research": {
+      "lastSyncedAt": 1779780525074
+    },
+    "content-creation": {
+      "lastSyncedAt": 1779780525074
+    },
+    "context7-mcp": {
+      "lastSyncedAt": 1779780525074
+    },
+    "cowork-plugin-customizer": {
+      "lastSyncedAt": 1779780525074
+    },
+    "create-an-asset": {
+      "lastSyncedAt": 1779780525074
+    },
+    "create-cowork-plugin": {
+      "lastSyncedAt": 1779780525074
+    },
+    "create-viz": {
+      "lastSyncedAt": 1779780525074
+    },
+    "creative-analyzer": {
+      "lastSyncedAt": 1779780525074
+    },
+    "creative-director": {
+      "lastSyncedAt": 1779780525074
+    },
+    "customer-escalation": {
+      "lastSyncedAt": 1779780525074
+    },
+    "d3-visualization": {
+      "lastSyncedAt": 1779780525074
+    },
+    "daily-briefing": {
+      "lastSyncedAt": 1779780525074
+    },
+    "data-analytics": {
+      "lastSyncedAt": 1779780525074
+    },
+    "data-context-extractor": {
+      "lastSyncedAt": 1779780525074
+    },
+    "data-report": {
+      "lastSyncedAt": 1779780525074
+    },
+    "data-visualization": {
+      "lastSyncedAt": 1779780525074
+    },
+    "debug": {
+      "lastSyncedAt": 1779780525074
+    },
+    "debug-zoom": {
+      "lastSyncedAt": 1779780525074
+    },
+    "debug-zoom-integration": {
+      "lastSyncedAt": 1779780525074
+    },
+    "deploy-checklist": {
+      "lastSyncedAt": 1779780525074
+    },
+    "design": {
+      "lastSyncedAt": 1779780525074
+    },
+    "design-brief": {
+      "lastSyncedAt": 1779780525074
+    },
+    "design-consultation": {
+      "lastSyncedAt": 1779780525074
+    },
+    "design-critique": {
+      "lastSyncedAt": 1779780525074
+    },
+    "design-handoff": {
+      "lastSyncedAt": 1779780525074
+    },
+    "design-mcp-workflow": {
+      "lastSyncedAt": 1779780525074
+    },
+    "design-review": {
+      "lastSyncedAt": 1779780525074
+    },
+    "design-system": {
+      "lastSyncedAt": 1779780525074
+    },
+    "digest": {
+      "lastSyncedAt": 1779780525074
+    },
+    "digits-fintech-swiss-template": {
+      "lastSyncedAt": 1779780525074
+    },
+    "discover-brand": {
+      "lastSyncedAt": 1779780525074
+    },
+    "doc": {
+      "lastSyncedAt": 1779780525074
+    },
+    "doc-kami-parchment": {
+      "lastSyncedAt": 1779780525074
+    },
+    "documentation": {
+      "lastSyncedAt": 1779780525074
+    },
+    "domain-name-brainstormer": {
+      "lastSyncedAt": 1779780525074
+    },
+    "draft-content": {
+      "lastSyncedAt": 1779780525074
+    },
+    "draft-offer": {
+      "lastSyncedAt": 1779780525074
+    },
+    "draft-outreach": {
+      "lastSyncedAt": 1779780525074
+    },
+    "draft-response": {
+      "lastSyncedAt": 1779780525074
+    },
+    "editorial-burgundy-principles-template": {
+      "lastSyncedAt": 1779780525074
+    },
+    "email-sequence": {
+      "lastSyncedAt": 1779780525074
+    },
+    "enrich-lead": {
+      "lastSyncedAt": 1779780525074
+    },
+    "explore-data": {
+      "lastSyncedAt": 1779780525074
+    },
+    "fal-3d": {
+      "lastSyncedAt": 1779780525074
+    },
+    "fal-generate": {
+      "lastSyncedAt": 1779780525074
+    },
+    "fal-image-edit": {
+      "lastSyncedAt": 1779780525074
+    },
+    "fal-kling-o3": {
+      "lastSyncedAt": 1779780525074
+    },
+    "fal-lip-sync": {
+      "lastSyncedAt": 1779780525074
+    },
+    "fal-realtime": {
+      "lastSyncedAt": 1779780525074
+    },
+    "fal-restore": {
+      "lastSyncedAt": 1779780525074
+    },
+    "fal-train": {
+      "lastSyncedAt": 1779780525074
+    },
+    "fal-tryon": {
+      "lastSyncedAt": 1779780525074
+    },
+    "fal-upscale": {
+      "lastSyncedAt": 1779780525074
+    },
+    "fal-video-edit": {
+      "lastSyncedAt": 1779780525074
+    },
+    "fal-vision": {
+      "lastSyncedAt": 1779780525074
+    },
+    "faq-page": {
+      "lastSyncedAt": 1779780525074
+    },
+    "field-notes-editorial-template": {
+      "lastSyncedAt": 1779780525074
+    },
+    "figma-code-connect-components": {
+      "lastSyncedAt": 1779780525074
+    },
+    "figma-create-design-system-rules": {
+      "lastSyncedAt": 1779780525074
+    },
+    "figma-create-new-file": {
+      "lastSyncedAt": 1779780525074
+    },
+    "figma-generate-design": {
+      "lastSyncedAt": 1779780525074
+    },
+    "figma-generate-library": {
+      "lastSyncedAt": 1779780525074
+    },
+    "figma-implement-design": {
+      "lastSyncedAt": 1779780525074
+    },
+    "figma-use": {
+      "lastSyncedAt": 1779780525074
+    },
+    "financial-statements": {
+      "lastSyncedAt": 1779780525074
+    },
+    "find-bugs": {
+      "lastSyncedAt": 1779780525074
+    },
+    "flutter-animating-apps": {
+      "lastSyncedAt": 1779780525074
+    },
+    "forecast": {
+      "lastSyncedAt": 1779780525074
+    },
+    "frame-data-chart-nyt": {
+      "lastSyncedAt": 1779780525074
+    },
+    "frame-flowchart-sticky": {
+      "lastSyncedAt": 1779780525074
+    },
+    "frame-glitch-title": {
+      "lastSyncedAt": 1779780525074
+    },
+    "frame-light-leak-cinema": {
+      "lastSyncedAt": 1779780525074
+    },
+    "frame-liquid-bg-hero": {
+      "lastSyncedAt": 1779780525074
+    },
+    "frame-logo-outro": {
+      "lastSyncedAt": 1779780525074
+    },
+    "frame-macos-notification": {
+      "lastSyncedAt": 1779780525074
+    },
+    "frontend-dev": {
+      "lastSyncedAt": 1779780525074
+    },
+    "frontend-skill": {
+      "lastSyncedAt": 1779780525074
+    },
+    "frontend-slides": {
+      "lastSyncedAt": 1779780525074
+    },
+    "frontend-ui-ux": {
+      "lastSyncedAt": 1779780525074
+    },
+    "full-page-screenshot": {
+      "lastSyncedAt": 1779780525074
+    },
+    "general": {
+      "lastSyncedAt": 1779780525074
+    },
+    "GH Issues Auto-Fixer": {
+      "lastSyncedAt": 1779780525074
+    },
+    "gif-sticker-maker": {
+      "lastSyncedAt": 1779780525074
+    },
+    "gsap-core": {
+      "lastSyncedAt": 1779780525074
+    },
+    "gsap-react": {
+      "lastSyncedAt": 1779780525074
+    },
+    "gsap-scrolltrigger": {
+      "lastSyncedAt": 1779780525074
+    },
+    "gsap-timeline": {
+      "lastSyncedAt": 1779780525074
+    },
+    "guideline-generation": {
+      "lastSyncedAt": 1779780525074
+    },
+    "hand-drawn-diagrams": {
+      "lastSyncedAt": 1779780525074
+    },
+    "hatch-pet": {
+      "lastSyncedAt": 1779780525074
+    },
+    "hook-optimizer": {
+      "lastSyncedAt": 1779780525074
+    },
+    "html-ppt-retro-quarterly-review": {
+      "lastSyncedAt": 1779780525074
+    },
+    "image-enhancer": {
+      "lastSyncedAt": 1779780525074
+    },
+    "imagegen": {
+      "lastSyncedAt": 1779780525074
+    },
+    "imagen": {
+      "lastSyncedAt": 1779780525074
+    },
+    "impeccable": {
+      "lastSyncedAt": 1779780525074
+    },
+    "incident-response": {
+      "lastSyncedAt": 1779780525074
+    },
+    "infranodus-cli": {
+      "lastSyncedAt": 1779780525074
+    },
+    "instrument-data-to-allotrope": {
+      "lastSyncedAt": 1779780525074
+    },
+    "interview-prep": {
+      "lastSyncedAt": 1779780525074
+    },
+    "journal-entry": {
+      "lastSyncedAt": 1779780525074
+    },
+    "journal-entry-prep": {
+      "lastSyncedAt": 1779780525074
+    },
+    "kb-article": {
+      "lastSyncedAt": 1779780525074
+    },
+    "knowledge-synthesis": {
+      "lastSyncedAt": 1779780525074
+    },
+    "legal-response": {
+      "lastSyncedAt": 1779780525074
+    },
+    "legal-risk-assessment": {
+      "lastSyncedAt": 1779780525074
+    },
+    "literature-review-helper": {
+      "lastSyncedAt": 1779780525074
+    },
+    "login-flow": {
+      "lastSyncedAt": 1779780525074
+    },
+    "math-olympiad": {
+      "lastSyncedAt": 1779780525074
+    },
+    "meeting-briefing": {
+      "lastSyncedAt": 1779780525074
+    },
+    "meeting-sdk": {
+      "lastSyncedAt": 1779780525074
+    },
+    "memory-management": {
+      "lastSyncedAt": 1779780525074
+    },
+    "metrics-review": {
+      "lastSyncedAt": 1779780525074
+    },
+    "micro-saas-launcher": {
+      "lastSyncedAt": 1779780525074
+    },
+    "minimal-run-and-audit": {
+      "lastSyncedAt": 1779780525074
+    },
+    "minimax-docx": {
+      "lastSyncedAt": 1779780525074
+    },
+    "minimax-pdf": {
+      "lastSyncedAt": 1779780525074
+    },
+    "mockup-device-3d": {
+      "lastSyncedAt": 1779780525074
+    },
+    "nanobanana-ppt": {
+      "lastSyncedAt": 1779780525074
+    },
+    "negative-keywords": {
+      "lastSyncedAt": 1779780525074
+    },
+    "nextflow-development": {
+      "lastSyncedAt": 1779780525074
+    },
+    "oauth": {
+      "lastSyncedAt": 1779780525074
+    },
+    "openclaw-secure-linux-cloud": {
+      "lastSyncedAt": 1779780525074
+    },
+    "org-planning": {
+      "lastSyncedAt": 1779780525074
+    },
+    "paywall-upgrade-cro": {
+      "lastSyncedAt": 1779780525074
+    },
+    "people-report": {
+      "lastSyncedAt": 1779780525074
+    },
+    "performance-report": {
+      "lastSyncedAt": 1779780525074
+    },
+    "performance-review": {
+      "lastSyncedAt": 1779780525074
+    },
+    "phone": {
+      "lastSyncedAt": 1779780525074
+    },
+    "pipeline-review": {
+      "lastSyncedAt": 1779780525074
+    },
+    "pixelbin-media": {
+      "lastSyncedAt": 1779780525074
+    },
+    "plan-design-review": {
+      "lastSyncedAt": 1779780525074
+    },
+    "plan-zoom-integration": {
+      "lastSyncedAt": 1779780525074
+    },
+    "plan-zoom-product": {
+      "lastSyncedAt": 1779780525074
+    },
+    "platform-design": {
+      "lastSyncedAt": 1779780525074
+    },
+    "policy-lookup": {
+      "lastSyncedAt": 1779780525074
+    },
+    "poster-hero": {
+      "lastSyncedAt": 1779780525074
+    },
+    "ppt-keynote": {
+      "lastSyncedAt": 1779780525074
+    },
+    "pptx-generator": {
+      "lastSyncedAt": 1779780525074
+    },
+    "pptx-html-fidelity-audit": {
+      "lastSyncedAt": 1779780525074
+    },
+    "probe-sdk": {
+      "lastSyncedAt": 1779780525074
+    },
+    "process-doc": {
+      "lastSyncedAt": 1779780525074
+    },
+    "process-optimization": {
+      "lastSyncedAt": 1779780525074
+    },
+    "product-brainstorming": {
+      "lastSyncedAt": 1779780525074
+    },
+    "prospect": {
+      "lastSyncedAt": 1779780525074
+    },
+    "recommended-reading-list": {
+      "lastSyncedAt": 1779780525074
+    },
+    "reconciliation": {
+      "lastSyncedAt": 1779780525074
+    },
+    "recruiting-pipeline": {
+      "lastSyncedAt": 1779780525074
+    },
+    "release-notes-one-pager": {
+      "lastSyncedAt": 1779780525074
+    },
+    "replicate": {
+      "lastSyncedAt": 1779780525074
+    },
+    "research-synthesis": {
+      "lastSyncedAt": 1779780525074
+    },
+    "resource-curator": {
+      "lastSyncedAt": 1779780525074
+    },
+    "rest-api": {
+      "lastSyncedAt": 1779780525074
+    },
+    "resume-modern": {
+      "lastSyncedAt": 1779780525074
+    },
+    "review-contract": {
+      "lastSyncedAt": 1779780525074
+    },
+    "risk-assessment": {
+      "lastSyncedAt": 1779780525074
+    },
+    "rivet-sdk": {
+      "lastSyncedAt": 1779780525074
+    },
+    "roadmap-update": {
+      "lastSyncedAt": 1779780525074
+    },
+    "rsa-generator": {
+      "lastSyncedAt": 1779780525074
+    },
+    "rtms": {
+      "lastSyncedAt": 1779780525074
+    },
+    "runbook": {
+      "lastSyncedAt": 1779780525074
+    },
+    "saas-landing": {
+      "lastSyncedAt": 1779780525074
+    },
+    "saas-launch-audit": {
+      "lastSyncedAt": 1779780525074
+    },
+    "saas-valuation-compression": {
+      "lastSyncedAt": 1779780525074
+    },
+    "scientific-problem-selection": {
+      "lastSyncedAt": 1779780525074
+    },
+    "screenshot": {
+      "lastSyncedAt": 1779780525074
+    },
+    "screenshots-marketing": {
+      "lastSyncedAt": 1779780525074
+    },
+    "scribe": {
+      "lastSyncedAt": 1779780525074
+    },
+    "scvi-tools": {
+      "lastSyncedAt": 1779780525074
+    },
+    "search": {
+      "lastSyncedAt": 1779780525074
+    },
+    "search-strategy": {
+      "lastSyncedAt": 1779780525074
+    },
+    "search-terms": {
+      "lastSyncedAt": 1779780525074
+    },
+    "secure-linux-web-hosting": {
+      "lastSyncedAt": 1779780525074
+    },
+    "security-audit": {
+      "lastSyncedAt": 1779780525074
+    },
+    "seo-review": {
+      "lastSyncedAt": 1779780525074
+    },
+    "sequence-load": {
+      "lastSyncedAt": 1779780525074
+    },
+    "session-report": {
+      "lastSyncedAt": 1779780525074
+    },
+    "setup-zoom-mcp": {
+      "lastSyncedAt": 1779780525074
+    },
+    "setup-zoom-oauth": {
+      "lastSyncedAt": 1779780525074
+    },
+    "shader-dev": {
+      "lastSyncedAt": 1779780525074
+    },
+    "shopping-feed": {
+      "lastSyncedAt": 1779780525074
+    },
+    "signature-request": {
+      "lastSyncedAt": 1779780525074
+    },
+    "single-cell-rna-qc": {
+      "lastSyncedAt": 1779780525074
+    },
+    "skill-comply": {
+      "lastSyncedAt": 1779780525074
+    },
+    "slides": {
+      "lastSyncedAt": 1779780525074
+    },
+    "social-reddit-card": {
+      "lastSyncedAt": 1779780525074
+    },
+    "social-spotify-card": {
+      "lastSyncedAt": 1779780525074
+    },
+    "social-x-post-card": {
+      "lastSyncedAt": 1779780525074
+    },
+    "sora": {
+      "lastSyncedAt": 1779780525074
+    },
+    "source-management": {
+      "lastSyncedAt": 1779780525074
+    },
+    "sox-testing": {
+      "lastSyncedAt": 1779780525074
+    },
+    "speech": {
+      "lastSyncedAt": 1779780525074
+    },
+    "sprint-planning": {
+      "lastSyncedAt": 1779780525074
+    },
+    "sql-queries": {
+      "lastSyncedAt": 1779780525074
+    },
+    "stakeholder-update": {
+      "lastSyncedAt": 1779780525074
+    },
+    "standup": {
+      "lastSyncedAt": 1779780525074
+    },
+    "start": {
+      "lastSyncedAt": 1779780525074
+    },
+    "startup-metrics-framework": {
+      "lastSyncedAt": 1779780525074
+    },
+    "statistical-analysis": {
+      "lastSyncedAt": 1779780525074
+    },
+    "status-report": {
+      "lastSyncedAt": 1779780525074
+    },
+    "swiftui-design": {
+      "lastSyncedAt": 1779780525074
+    },
+    "swiss-creative-mode-template": {
+      "lastSyncedAt": 1779780525074
+    },
+    "swiss-user-research-video-template": {
+      "lastSyncedAt": 1779780525074
+    },
+    "synthesize-research": {
+      "lastSyncedAt": 1779780525074
+    },
+    "system-design": {
+      "lastSyncedAt": 1779780525074
+    },
+    "task-management": {
+      "lastSyncedAt": 1779780525074
+    },
+    "taste-skill": {
+      "lastSyncedAt": 1779780525074
+    },
+    "team-chat": {
+      "lastSyncedAt": 1779780525074
+    },
+    "tech-debt": {
+      "lastSyncedAt": 1779780525074
+    },
+    "technical-debt-detector": {
+      "lastSyncedAt": 1779780525074
+    },
+    "testing-strategy": {
+      "lastSyncedAt": 1779780525074
+    },
+    "threejs": {
+      "lastSyncedAt": 1779780525074
+    },
+    "ticket-triage": {
+      "lastSyncedAt": 1779780525074
+    },
+    "triage-nda": {
+      "lastSyncedAt": 1779780525074
+    },
+    "ui-skills": {
+      "lastSyncedAt": 1779780525074
+    },
+    "ui-styling": {
+      "lastSyncedAt": 1779780525074
+    },
+    "ui-toolkit": {
+      "lastSyncedAt": 1779780525074
+    },
+    "update": {
+      "lastSyncedAt": 1779780525074
+    },
+    "user-research": {
+      "lastSyncedAt": 1779780525074
+    },
+    "ux-copy": {
+      "lastSyncedAt": 1779780525074
+    },
+    "validate-data": {
+      "lastSyncedAt": 1779780525074
+    },
+    "variance-analysis": {
+      "lastSyncedAt": 1779780525074
+    },
+    "vendor-check": {
+      "lastSyncedAt": 1779780525074
+    },
+    "vendor-review": {
+      "lastSyncedAt": 1779780525074
+    },
+    "venice-audio-music": {
+      "lastSyncedAt": 1779780525074
+    },
+    "venice-audio-speech": {
+      "lastSyncedAt": 1779780525074
+    },
+    "venice-image-edit": {
+      "lastSyncedAt": 1779780525074
+    },
+    "venice-image-generate": {
+      "lastSyncedAt": 1779780525074
+    },
+    "venice-video": {
+      "lastSyncedAt": 1779780525074
+    },
+    "vfx-text-cursor": {
+      "lastSyncedAt": 1779780525074
+    },
+    "video-downloader": {
+      "lastSyncedAt": 1779780525074
+    },
+    "video-hyperframes": {
+      "lastSyncedAt": 1779780525074
+    },
+    "video-sdk": {
+      "lastSyncedAt": 1779780525074
+    },
+    "view-pdf": {
+      "lastSyncedAt": 1779780525074
+    },
+    "virtual-agent": {
+      "lastSyncedAt": 1779780525074
+    },
+    "webhooks": {
+      "lastSyncedAt": 1779780525074
+    },
+    "websockets": {
+      "lastSyncedAt": 1779780525074
+    },
+    "weekly-prep-brief": {
+      "lastSyncedAt": 1779780525074
+    },
+    "weread-year-in-review-video-template": {
+      "lastSyncedAt": 1779780525074
+    },
+    "wpds": {
+      "lastSyncedAt": 1779780525074
+    },
+    "write-query": {
+      "lastSyncedAt": 1779780525074
+    },
+    "write-spec": {
+      "lastSyncedAt": 1779780525074
+    },
+    "youtube-clipper": {
+      "lastSyncedAt": 1779780525074
+    },
+    "zip-install-1778911900577": {
+      "lastSyncedAt": 1779780525074
+    },
+    "zoom-apps-sdk": {
+      "lastSyncedAt": 1779780525074
+    },
+    "zoom-mcp": {
+      "lastSyncedAt": 1779780525074
+    },
+    ".system": {
+      "lastSyncedAt": 1779780770923
+    },
+    ".claude": {
+      "lastSyncedAt": 1779795199780
+    },
+    ".remember": {
+      "lastSyncedAt": 1779797002786
+    },
+    "ad-creative": {
+      "lastSyncedAt": 1779798805585
     },
     "agent-browser": {
-      "lastSyncedAt": 1779316873859
+      "lastSyncedAt": 1779798805585
     },
-    "ai-agent-builder": {
-      "lastSyncedAt": 1779316873859
+    "algorithmic-art": {
+      "lastSyncedAt": 1779798805585
     },
-    "ai-slides": {
-      "lastSyncedAt": 1779316873859
+    "banner-design": {
+      "lastSyncedAt": 1779798805585
     },
-    "airtable-automation": {
-      "lastSyncedAt": 1779316873859
+    "brainstorming": {
+      "lastSyncedAt": 1779798805585
     },
-    "animation-libraries": {
-      "lastSyncedAt": 1779316873859
+    "brand-guidelines": {
+      "lastSyncedAt": 1779798805585
     },
-    "apple-shortcuts-integration": {
-      "lastSyncedAt": 1779316873859
+    "canvas-design": {
+      "lastSyncedAt": 1779798805585
     },
-    "applicant-screening": {
-      "lastSyncedAt": 1779316873859
+    "copywriting": {
+      "lastSyncedAt": 1779798805585
     },
-    "asana-automation": {
-      "lastSyncedAt": 1779316873859
+    "deck-guizang-editorial": {
+      "lastSyncedAt": 1779798805585
     },
-    "automated-compliance-auditor": {
-      "lastSyncedAt": 1779316873859
+    "deck-open-slide-canvas": {
+      "lastSyncedAt": 1779798805585
     },
-    "batch-convert": {
-      "lastSyncedAt": 1779316873859
+    "deck-swiss-international": {
+      "lastSyncedAt": 1779798805585
     },
-    "batch-processor": {
-      "lastSyncedAt": 1779316873859
+    "design-md": {
+      "lastSyncedAt": 1779798805585
     },
-    "brand-guidelines-generator": {
-      "lastSyncedAt": 1779316873859
+    "docx": {
+      "lastSyncedAt": 1779798805585
     },
-    "browser-automation": {
-      "lastSyncedAt": 1779316873859
+    "enhance-prompt": {
+      "lastSyncedAt": 1779798805585
     },
-    "calendar-automation": {
-      "lastSyncedAt": 1779316873859
+    "frontend-design": {
+      "lastSyncedAt": 1779798805585
     },
-    "changelog-generator": {
-      "lastSyncedAt": 1779316873859
+    "marketing-psychology": {
+      "lastSyncedAt": 1779798805585
     },
-    "chart-designer": {
-      "lastSyncedAt": 1779316873859
+    "pdf": {
+      "lastSyncedAt": 1779798805585
     },
-    "chat-with-pdf": {
-      "lastSyncedAt": 1779316873859
+    "pptx": {
+      "lastSyncedAt": 1779798805585
     },
-    "clickup-automation": {
-      "lastSyncedAt": 1779316873859
+    "remotion": {
+      "lastSyncedAt": 1779798805585
     },
-    "company-research": {
-      "lastSyncedAt": 1779316873859
+    "shadcn-ui": {
+      "lastSyncedAt": 1779798805585
     },
-    "competitive-analysis": {
-      "lastSyncedAt": 1779316873859
+    "slack-gif-creator": {
+      "lastSyncedAt": 1779798805585
     },
-    "content-research-writer": {
-      "lastSyncedAt": 1779316873859
+    "stitch-loop": {
+      "lastSyncedAt": 1779798805585
     },
-    "contract-review": {
-      "lastSyncedAt": 1779316873859
-    },
-    "contract-template": {
-      "lastSyncedAt": 1779316873859
-    },
-    "cover-letter": {
-      "lastSyncedAt": 1779316873859
-    },
-    "crm-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "crypto-report": {
-      "lastSyncedAt": 1779316873859
-    },
-    "customer-success": {
-      "lastSyncedAt": 1779316873859
-    },
-    "cv-builder": {
-      "lastSyncedAt": 1779316873859
-    },
-    "data-analysis": {
-      "lastSyncedAt": 1779316873859
-    },
-    "data-extractor": {
-      "lastSyncedAt": 1779316873859
-    },
-    "data-pipeline": {
-      "lastSyncedAt": 1779316873859
-    },
-    "database-sync": {
-      "lastSyncedAt": 1779316873859
-    },
-    "dcf-valuation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "deep-research": {
-      "lastSyncedAt": 1779316873859
-    },
-    "deployment-patterns": {
-      "lastSyncedAt": 1779316873859
-    },
-    "dev-slides": {
-      "lastSyncedAt": 1779316873859
-    },
-    "devops-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "diagram-creator": {
-      "lastSyncedAt": 1779316873859
-    },
-    "discord-bot": {
-      "lastSyncedAt": 1779316873859
-    },
-    "doc-parser": {
-      "lastSyncedAt": 1779316873859
-    },
-    "doc-pipeline": {
-      "lastSyncedAt": 1779316873859
-    },
-    "docusign-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "docx-manipulation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "email-classifier": {
-      "lastSyncedAt": 1779316873859
-    },
-    "email-drafter": {
-      "lastSyncedAt": 1779316873859
-    },
-    "email-marketing": {
-      "lastSyncedAt": 1779316873859
-    },
-    "etl-pipeline": {
-      "lastSyncedAt": 1779316873859
-    },
-    "excel-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "expense-report": {
-      "lastSyncedAt": 1779316873859
-    },
-    "expense-tracker": {
-      "lastSyncedAt": 1779316873859
-    },
-    "facebook-meta-ads": {
-      "lastSyncedAt": 1779316873859
-    },
-    "file-organizer": {
-      "lastSyncedAt": 1779316873859
-    },
-    "financial-modeling": {
-      "lastSyncedAt": 1779316873859
-    },
-    "form-builder": {
-      "lastSyncedAt": 1779316873859
-    },
-    "gmail-workflows": {
-      "lastSyncedAt": 1779316873859
-    },
-    "google-ads-manager": {
-      "lastSyncedAt": 1779316873859
-    },
-    "grill-me": {
-      "lastSyncedAt": 1779316873859
-    },
-    "home-assistant-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "hr-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "html-slides": {
-      "lastSyncedAt": 1779316873859
-    },
-    "html-to-ppt": {
-      "lastSyncedAt": 1779316873859
-    },
-    "image-generation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "infographic": {
-      "lastSyncedAt": 1779316873859
-    },
-    "intercom-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "investment-memo": {
-      "lastSyncedAt": 1779316873859
-    },
-    "invoice-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "invoice-generator": {
-      "lastSyncedAt": 1779316873859
-    },
-    "invoice-organizer": {
-      "lastSyncedAt": 1779316873859
-    },
-    "invoice-template": {
-      "lastSyncedAt": 1779316873859
-    },
-    "jira-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "job-description-generator": {
-      "lastSyncedAt": 1779316873859
-    },
-    "layout-analyzer": {
-      "lastSyncedAt": 1779316873859
-    },
-    "lead-qualification": {
-      "lastSyncedAt": 1779316873859
-    },
-    "lead-research-assistant": {
-      "lastSyncedAt": 1779316873859
-    },
-    "lead-routing": {
-      "lastSyncedAt": 1779316873859
-    },
-    "linear-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "linkedin-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "mailchimp-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "mcp-hub": {
-      "lastSyncedAt": 1779316873859
-    },
-    "md-slides": {
-      "lastSyncedAt": 1779316873859
-    },
-    "md-to-office": {
-      "lastSyncedAt": 1779316873859
-    },
-    "microsoft-foundry": {
-      "lastSyncedAt": 1779316873859
-    },
-    "microsoft-teams-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "monday.com-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "n8n-workflow": {
-      "lastSyncedAt": 1779316873859
-    },
-    "nda-generator": {
-      "lastSyncedAt": 1779316873859
-    },
-    "news-monitor": {
-      "lastSyncedAt": 1779316873859
-    },
-    "notion-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "obsidian-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "offer-letter-generator": {
-      "lastSyncedAt": 1779316873859
-    },
-    "office-mcp": {
-      "lastSyncedAt": 1779316873859
-    },
-    "office-to-md": {
-      "lastSyncedAt": 1779316873859
-    },
-    "pdf-compress": {
-      "lastSyncedAt": 1779316873859
-    },
-    "pdf-converter": {
-      "lastSyncedAt": 1779316873859
-    },
-    "pdf-extraction": {
-      "lastSyncedAt": 1779316873859
-    },
-    "pdf-form-filler": {
-      "lastSyncedAt": 1779316873859
-    },
-    "pdf-merge-split": {
-      "lastSyncedAt": 1779316873859
-    },
-    "pdf-ocr-extraction": {
-      "lastSyncedAt": 1779316873859
-    },
-    "pdf-to-docx": {
-      "lastSyncedAt": 1779316873859
-    },
-    "pdf-watermark": {
-      "lastSyncedAt": 1779316873859
-    },
-    "pipedrive-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "podcast-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "ppt-visual": {
-      "lastSyncedAt": 1779316873859
-    },
-    "pptx-manipulation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "proposal-writer": {
-      "lastSyncedAt": 1779316873859
-    },
-    "quickbooks-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "remotion-best-practices": {
-      "lastSyncedAt": 1779316873859
-    },
-    "report-generator": {
-      "lastSyncedAt": 1779316873859
-    },
-    "resume-tailor": {
-      "lastSyncedAt": 1779316873859
-    },
-    "saas-economics-efficiency-metrics": {
-      "lastSyncedAt": 1779316873859
-    },
-    "saas-metrics": {
-      "lastSyncedAt": 1779316873859
-    },
-    "saas-platforms": {
-      "lastSyncedAt": 1779316873859
-    },
-    "saas-productivity": {
-      "lastSyncedAt": 1779316873859
-    },
-    "saas-revenue-growth-metrics": {
-      "lastSyncedAt": 1779316873859
-    },
-    "security-monitoring": {
-      "lastSyncedAt": 1779316873859
-    },
-    "security-review": {
-      "lastSyncedAt": 1779316873859
-    },
-    "seo-optimizer": {
-      "lastSyncedAt": 1779316873859
-    },
-    "shadcn": {
-      "lastSyncedAt": 1779316873859
-    },
-    "sheets-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "shopify-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "skill-name": {
-      "lastSyncedAt": 1779316873859
-    },
-    "slack-workflows": {
-      "lastSyncedAt": 1779316873859
-    },
-    "smart-ocr": {
-      "lastSyncedAt": 1779316873859
-    },
-    "social-publisher": {
-      "lastSyncedAt": 1779316873859
-    },
-    "spotify-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "stock-analysis": {
-      "lastSyncedAt": 1779316873859
-    },
-    "stripe-payments": {
-      "lastSyncedAt": 1779316873859
-    },
-    "subscription-management": {
-      "lastSyncedAt": 1779316873859
-    },
-    "supabase-postgres-best-practices": {
-      "lastSyncedAt": 1779316873859
-    },
-    "suspicious-email-analyzer": {
-      "lastSyncedAt": 1779316873859
-    },
-    "table-extractor": {
-      "lastSyncedAt": 1779316873859
-    },
-    "telegram-bot": {
-      "lastSyncedAt": 1779316873859
-    },
-    "template-engine": {
-      "lastSyncedAt": 1779316873859
-    },
-    "tiktok-marketing": {
-      "lastSyncedAt": 1779316873859
-    },
-    "transcription-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "trello-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "twilio-sms-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "twitter-x-automation": {
-      "lastSyncedAt": 1779316873859
+    "theme-factory": {
+      "lastSyncedAt": 1779798805585
     },
     "ui-ux-pro-max": {
-      "lastSyncedAt": 1779316873859
+      "lastSyncedAt": 1779798805585
     },
-    "vercel-react-best-practices": {
-      "lastSyncedAt": 1779316873859
-    },
-    "weather-automation": {
-      "lastSyncedAt": 1779316873859
+    "web-artifacts-builder": {
+      "lastSyncedAt": 1779798805585
     },
     "web-design-guidelines": {
-      "lastSyncedAt": 1779316873859
-    },
-    "web-search": {
-      "lastSyncedAt": 1779316873859
-    },
-    "webhook-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "weekly-report": {
-      "lastSyncedAt": 1779316873859
-    },
-    "whatsapp-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "woocommerce-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "xlsx-manipulation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "youtube-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    "zendesk-automation": {
-      "lastSyncedAt": 1779316873859
-    },
-    ".claude-plugin": {
-      "lastSyncedAt": 1779318677043
-    },
-    ".git": {
-      "lastSyncedAt": 1779318677043
-    },
-    "coding-standards": {
-      "lastSyncedAt": 1779318677043
-    },
-    "frontend-patterns": {
-      "lastSyncedAt": 1779318677043
-    },
-    "prompt-lookup": {
-      "lastSyncedAt": 1779318677043
-    },
-    "skills": {
-      "lastSyncedAt": 1779318677043
-    },
-    "spec": {
-      "lastSyncedAt": 1779318677043
-    },
-    "template": {
-      "lastSyncedAt": 1779318677043
-    },
-    "web-design": {
-      "lastSyncedAt": 1779318677043
-    },
-    ".obsidian": {
-      "lastSyncedAt": 1779320478800
-    },
-    "1password": {
-      "lastSyncedAt": 1779320478800
-    },
-    "apple-notes": {
-      "lastSyncedAt": 1779320478800
-    },
-    "apple-reminders": {
-      "lastSyncedAt": 1779320478800
-    },
-    "bear-notes": {
-      "lastSyncedAt": 1779320478800
-    },
-    "bird": {
-      "lastSyncedAt": 1779320478800
-    },
-    "blogwatcher": {
-      "lastSyncedAt": 1779320478800
-    },
-    "blucli": {
-      "lastSyncedAt": 1779320478800
-    },
-    "bluebubbles": {
-      "lastSyncedAt": 1779320478800
-    },
-    "camsnap": {
-      "lastSyncedAt": 1779320478800
-    },
-    "clawhub": {
-      "lastSyncedAt": 1779320478800
-    },
-    "coding-agent": {
-      "lastSyncedAt": 1779320478800
-    },
-    "copilot": {
-      "lastSyncedAt": 1779320478800
-    },
-    "discord": {
-      "lastSyncedAt": 1779320478800
-    },
-    "eightctl": {
-      "lastSyncedAt": 1779320478800
-    },
-    "food-order": {
-      "lastSyncedAt": 1779320478800
-    },
-    "gemini": {
-      "lastSyncedAt": 1779320478800
-    },
-    "gifgrep": {
-      "lastSyncedAt": 1779320478800
-    },
-    "github": {
-      "lastSyncedAt": 1779320478800
-    },
-    "gog": {
-      "lastSyncedAt": 1779320478800
-    },
-    "goplaces": {
-      "lastSyncedAt": 1779320478800
-    },
-    "himalaya": {
-      "lastSyncedAt": 1779320478800
-    },
-    "imsg": {
-      "lastSyncedAt": 1779320478800
-    },
-    "local-places": {
-      "lastSyncedAt": 1779320478800
-    },
-    "mcporter": {
-      "lastSyncedAt": 1779320478800
-    },
-    "model-usage": {
-      "lastSyncedAt": 1779320478800
-    },
-    "nano-banana-pro": {
-      "lastSyncedAt": 1779320478800
-    },
-    "nano-pdf": {
-      "lastSyncedAt": 1779320478800
-    },
-    "notion": {
-      "lastSyncedAt": 1779320478800
-    },
-    "obsidian": {
-      "lastSyncedAt": 1779320478800
-    },
-    "openai-image-gen": {
-      "lastSyncedAt": 1779320478800
-    },
-    "openai-whisper": {
-      "lastSyncedAt": 1779320478800
-    },
-    "openai-whisper-api": {
-      "lastSyncedAt": 1779320478800
-    },
-    "openhue": {
-      "lastSyncedAt": 1779320478800
-    },
-    "oracle": {
-      "lastSyncedAt": 1779320478800
-    },
-    "ordercli": {
-      "lastSyncedAt": 1779320478800
-    },
-    "peekaboo": {
-      "lastSyncedAt": 1779320478800
-    },
-    "sag": {
-      "lastSyncedAt": 1779320478800
-    },
-    "session-logs": {
-      "lastSyncedAt": 1779320478800
-    },
-    "sherpa-onnx-tts": {
-      "lastSyncedAt": 1779320478800
-    },
-    "slack": {
-      "lastSyncedAt": 1779320478800
-    },
-    "songsee": {
-      "lastSyncedAt": 1779320478800
-    },
-    "sonoscli": {
-      "lastSyncedAt": 1779320478800
-    },
-    "spotify-player": {
-      "lastSyncedAt": 1779320478800
-    },
-    "summarize": {
-      "lastSyncedAt": 1779320478800
-    },
-    "things-mac": {
-      "lastSyncedAt": 1779320478800
-    },
-    "tmux": {
-      "lastSyncedAt": 1779320478800
-    },
-    "trello": {
-      "lastSyncedAt": 1779320478800
-    },
-    "video-frames": {
-      "lastSyncedAt": 1779320478800
-    },
-    "voice-call": {
-      "lastSyncedAt": 1779320478800
-    },
-    "wacli": {
-      "lastSyncedAt": 1779320478800
-    },
-    "weather": {
-      "lastSyncedAt": 1779320478800
+      "lastSyncedAt": 1779798805585
     }
   },
+<<<<<<< Updated upstream
   "lastInventoryAt": 1779342903393
+=======
+  "lastInventoryAt": 1779780525074
+>>>>>>> Stashed changes
 }

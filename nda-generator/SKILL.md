@@ -275,13 +275,13 @@ WHEREAS, [purpose of sharing information]...
 
 ## SIGNATURES
 
-_________________________
+_
 [Disclosing Party Name]
-Date: _______________
+Date: _
 
-_________________________
+_
 [Receiving Party Name]
-Date: _______________
+Date: _
 ```
 
 ---
