@@ -221,7 +221,7 @@ def _handle_api_error(e: Exception) -> str:
         return f"Error: API request failed with status {e.response.status_code}"
     elif isinstance(e, httpx.TimeoutException):
         return "Error: Request timed out. Please try again."
-    return f"Error: Unexpected error occurred: {type(e).__name__}"
+    return f"Error: Unexpected error occurred: {type(e)._name_}"
 ```
 
 ## Shared Utilities
@@ -403,7 +403,7 @@ def _handle_api_error(e: Exception) -> str:
         return f"Error: API request failed with status {e.response.status_code}"
     elif isinstance(e, httpx.TimeoutException):
         return "Error: Request timed out. Please try again."
-    return f"Error: Unexpected error occurred: {type(e).__name__}"
+    return f"Error: Unexpected error occurred: {type(e)._name_}"
 
 # Tool definitions
 @mcp.tool(
@@ -467,7 +467,7 @@ async def example_search_users(params: UserSearchInput) -> str:
     except Exception as e:
         return _handle_api_error(e)
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     mcp.run()
 ```
 
@@ -622,11 +622,11 @@ FastMCP supports two main transport mechanisms:
 
 ```python
 # stdio transport (for local tools) - default
-if __name__ == "__main__":
+if _name_ == "_main_":
     mcp.run()
 
 # Streamable HTTP transport (for remote servers)
-if __name__ == "__main__":
+if _name_ == "_main_":
     mcp.run(transport="streamable_http", port=8000)
 ```
 

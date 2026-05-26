@@ -397,5 +397,5 @@ def main():
     print(f"  Delta:         {delta.get('pass_rate', '—')}")
 
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     main()

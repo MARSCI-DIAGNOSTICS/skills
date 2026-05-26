@@ -81,10 +81,10 @@ Shader setup, WebGL init, capture, and fragment shaders are handled by `@hyperfr
       <div id="scene2" class="scene"><!-- hidden --></div>
     </div>
     <script>
-      window.__timelines = window.__timelines || {};
+      window._timelines = window._timelines || {};
       var tl = gsap.timeline({ paused: true });
       // Transition code here
-      window.__timelines["main"] = tl;
+      window._timelines["main"] = tl;
     </script>
   </body>
 </html>

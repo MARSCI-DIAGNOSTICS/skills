@@ -58,7 +58,7 @@ def validate_skill(skill_path):
     # Extract name for validation
     name = frontmatter.get('name', '')
     if not isinstance(name, str):
-        return False, f"Name must be a string, got {type(name).__name__}"
+        return False, f"Name must be a string, got {type(name)._name_}"
     name = name.strip()
     if name:
         # Check naming convention (kebab-case: lowercase with hyphens)
@@ -73,7 +73,7 @@ def validate_skill(skill_path):
     # Extract and validate description
     description = frontmatter.get('description', '')
     if not isinstance(description, str):
-        return False, f"Description must be a string, got {type(description).__name__}"
+        return False, f"Description must be a string, got {type(description)._name_}"
     description = description.strip()
     if description:
         # Check for angle brackets
@@ -87,13 +87,13 @@ def validate_skill(skill_path):
     compatibility = frontmatter.get('compatibility', '')
     if compatibility:
         if not isinstance(compatibility, str):
-            return False, f"Compatibility must be a string, got {type(compatibility).__name__}"
+            return False, f"Compatibility must be a string, got {type(compatibility)._name_}"
         if len(compatibility) > 500:
             return False, f"Compatibility is too long ({len(compatibility)} characters). Maximum is 500 characters."
 
     return True, "Skill is valid!"
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     if len(sys.argv) != 2:
         print("Usage: python quick_validate.py <skill_directory>")
         sys.exit(1)

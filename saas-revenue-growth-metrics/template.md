@@ -9,62 +9,62 @@ Use this template to calculate your revenue and retention metrics. Fill in your 
 ### Revenue
 ```
 Period: [Month/Quarter/Year]
-Total Customer Payments: $__________
-Revenue = $__________
+Total Customer Payments: $_
+Revenue = $_
 ```
 
 ### ARPU (Average Revenue Per User)
 ```
-Total Revenue: $__________
-Total Users: __________
-ARPU = Total Revenue / Total Users = $__________
+Total Revenue: $_
+Total Users: _
+ARPU = Total Revenue / Total Users = $_
 ```
 
 ### ARPA (Average Revenue Per Account)
 ```
-MRR: $__________
-Active Accounts: __________
-ARPA = MRR / Active Accounts = $__________
+MRR: $_
+Active Accounts: _
+ARPA = MRR / Active Accounts = $_
 ```
 
 ### ARPA/ARPU Analysis
 ```
-ARPA: $__________
-ARPU: $__________
-Average Seats per Account = ARPA / ARPU = __________
+ARPA: $_
+ARPU: $_
+Average Seats per Account = ARPA / ARPU = _
 ```
 
 ### ACV (Annual Contract Value)
 ```
-Annual Recurring Revenue per Contract: $__________
+Annual Recurring Revenue per Contract: $_
 (Exclude one-time fees like setup, professional services)
-ACV = $__________
+ACV = $_
 ```
 
 ### MRR/ARR
 ```
-Starting MRR: $__________
+Starting MRR: $_
 
 MRR Components:
-+ New MRR (new customers): $__________
-+ Expansion MRR (upsells/cross-sells): $__________
-- Churned MRR (lost customers): $__________
-- Contraction MRR (downgrades): $__________
++ New MRR (new customers): $_
++ Expansion MRR (upsells/cross-sells): $_
+- Churned MRR (lost customers): $_
+- Contraction MRR (downgrades): $_
 
-Ending MRR: $__________
-ARR = MRR × 12 = $__________
+Ending MRR: $_
+ARR = MRR × 12 = $_
 ```
 
 ### Gross vs. Net Revenue
 ```
-Gross Revenue: $__________
-- Discounts: $__________
-- Refunds: $__________
-- Credits: $__________
-Net Revenue = $__________
+Gross Revenue: $_
+- Discounts: $_
+- Refunds: $_
+- Credits: $_
+Net Revenue = $_
 
-Discount Rate = Discounts / Gross Revenue = __________%
-Refund Rate = Refunds / Gross Revenue = __________%
+Discount Rate = Discounts / Gross Revenue = _%
+Refund Rate = Refunds / Gross Revenue = _%
 ```
 
 ---
@@ -74,52 +74,52 @@ Refund Rate = Refunds / Gross Revenue = __________%
 ### Churn Rate (Monthly)
 ```
 Logo Churn:
-Starting Customers: __________
-Customers Lost: __________
-Logo Churn Rate = Customers Lost / Starting Customers = __________%
+Starting Customers: _
+Customers Lost: _
+Logo Churn Rate = Customers Lost / Starting Customers = _%
 
 Revenue Churn:
-Starting MRR: $__________
-MRR Lost: $__________
-Revenue Churn Rate = MRR Lost / Starting MRR = __________%
+Starting MRR: $_
+MRR Lost: $_
+Revenue Churn Rate = MRR Lost / Starting MRR = _%
 ```
 
 **Convert to Annual Churn:**
 ```
-Monthly Churn Rate: __________%
-Annual Churn Rate = 1 - (1 - Monthly Churn)^12 = __________%
+Monthly Churn Rate: _%
+Annual Churn Rate = 1 - (1 - Monthly Churn)^12 = _%
 ```
 
 ### NRR (Net Revenue Retention)
 ```
-Starting ARR: $__________
-+ Expansion Revenue: $__________
-- Churned Revenue: $__________
-- Contraction Revenue: $__________
-Ending ARR (from cohort): $__________
+Starting ARR: $_
++ Expansion Revenue: $_
+- Churned Revenue: $_
+- Contraction Revenue: $_
+Ending ARR (from cohort): $_
 
-NRR = Ending ARR / Starting ARR × 100 = __________%
+NRR = Ending ARR / Starting ARR × 100 = _%
 ```
 
 ### Expansion Revenue
 ```
-Upsells (tier upgrades): $__________
-Cross-sells (add-ons): $__________
-Usage growth: $__________
-Total Expansion Revenue: $__________
+Upsells (tier upgrades): $_
+Cross-sells (add-ons): $_
+Usage growth: $_
+Total Expansion Revenue: $_
 
-Expansion as % of MRR = Expansion / Total MRR = __________%
+Expansion as % of MRR = Expansion / Total MRR = _%
 ```
 
 ### Quick Ratio
 ```
-New MRR: $__________
-Expansion MRR: $__________
-Churned MRR: $__________
-Contraction MRR: $__________
+New MRR: $_
+Expansion MRR: $_
+Churned MRR: $_
+Contraction MRR: $_
 
 Quick Ratio = (New MRR + Expansion MRR) / (Churned MRR + Contraction MRR)
-Quick Ratio = __________
+Quick Ratio = _
 ```
 
 ---
@@ -128,27 +128,27 @@ Quick Ratio = __________
 
 ### Revenue Mix Analysis
 ```
-Product/Segment A Revenue: $__________
-Product/Segment B Revenue: $__________
-Product/Segment C Revenue: $__________
-Total Revenue: $__________
+Product/Segment A Revenue: $_
+Product/Segment B Revenue: $_
+Product/Segment C Revenue: $_
+Total Revenue: $_
 
-Product A % = __________
-Product B % = __________
-Product C % = __________
+Product A % = _
+Product B % = _
+Product C % = _
 ```
 
 ### Cohort Retention Analysis
 ```
 Cohort: [Month/Quarter]
-Starting Customers: __________
+Starting Customers: _
 
 Month 0: 100%
-Month 1: __________%
-Month 2: __________%
-Month 3: __________%
-Month 6: __________%
-Month 12: __________%
+Month 1: _%
+Month 2: _%
+Month 3: _%
+Month 6: _%
+Month 12: _%
 ```
 
 ---

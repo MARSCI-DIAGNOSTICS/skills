@@ -7,7 +7,7 @@ from .docx import DOCXSchemaValidator
 from .pptx import PPTXSchemaValidator
 from .redlining import RedliningValidator
 
-__all__ = [
+_all_ = [
     "BaseSchemaValidator",
     "DOCXSchemaValidator",
     "PPTXSchemaValidator",

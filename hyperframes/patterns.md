@@ -112,7 +112,7 @@ Use separate elements on the same track, each with its own time range. Slides au
   <script>
     // Just register the timeline — framework auto-nests sub-compositions
     const tl = gsap.timeline({ paused: true });
-    window.__timelines["my-video"] = tl;
+    window._timelines["my-video"] = tl;
   </script>
 </div>
 ```

@@ -111,5 +111,5 @@ def main():
     print(f"Saved to {output_path}")
 
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     main()

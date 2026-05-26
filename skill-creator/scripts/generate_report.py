@@ -322,5 +322,5 @@ def main():
         print(html_output)
 
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     main()

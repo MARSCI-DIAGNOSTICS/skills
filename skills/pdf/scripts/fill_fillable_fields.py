@@ -87,7 +87,7 @@ def monkeypatch_pydpf_method():
     DictionaryObject.get_inherited = patched_get_inherited
 
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     if len(sys.argv) != 4:
         print("Usage: fill_fillable_fields.py [input pdf] [field_values.json] [output pdf]")
         sys.exit(1)

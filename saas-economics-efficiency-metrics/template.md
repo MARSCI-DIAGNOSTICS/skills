@@ -8,45 +8,45 @@ Use this template to calculate your unit economics and capital efficiency metric
 
 ### Gross Margin
 ```
-Revenue: $__________
+Revenue: $_
 COGS (Cost of Goods Sold):
-  - Hosting & infrastructure: $__________
-  - Payment processing fees: $__________
-  - Customer onboarding costs: $__________
-  - Other direct costs: $__________
-Total COGS: $__________
+  - Hosting & infrastructure: $_
+  - Payment processing fees: $_
+  - Customer onboarding costs: $_
+  - Other direct costs: $_
+Total COGS: $_
 
-Gross Profit = Revenue - COGS = $__________
-Gross Margin % = (Gross Profit / Revenue) × 100 = __________%
+Gross Profit = Revenue - COGS = $_
+Gross Margin % = (Gross Profit / Revenue) × 100 = _%
 ```
 
 ### CAC (Customer Acquisition Cost)
 ```
 Sales & Marketing Spend:
-  - Marketing salaries: $__________
-  - Sales salaries & commissions: $__________
-  - Advertising & paid channels: $__________
-  - Marketing tools: $__________
-  - SDR/BDR costs: $__________
-Total S&M Spend: $__________
+  - Marketing salaries: $_
+  - Sales salaries & commissions: $_
+  - Advertising & paid channels: $_
+  - Marketing tools: $_
+  - SDR/BDR costs: $_
+Total S&M Spend: $_
 
-New Customers Acquired: __________
+New Customers Acquired: _
 
-CAC = Total S&M Spend / New Customers = $__________
+CAC = Total S&M Spend / New Customers = $_
 ```
 
 ### LTV (Lifetime Value)
 ```
 Method 1 (Simple):
-ARPU (monthly): $__________
-Average Customer Lifetime (months): __________
-LTV = ARPU × Lifetime = $__________
+ARPU (monthly): $_
+Average Customer Lifetime (months): _
+LTV = ARPU × Lifetime = $_
 
 Method 2 (Better):
-ARPU (monthly): $__________
-Gross Margin %: __________%
-Monthly Churn Rate: __________%
-LTV = (ARPU × Gross Margin %) / Monthly Churn Rate = $__________
+ARPU (monthly): $_
+Gross Margin %: _%
+Monthly Churn Rate: _%
+LTV = (ARPU × Gross Margin %) / Monthly Churn Rate = $_
 
 Method 3 (Advanced):
 Account for expansion, cohort-specific retention, discount rate
@@ -55,9 +55,9 @@ Account for expansion, cohort-specific retention, discount rate
 
 ### LTV:CAC Ratio
 ```
-LTV: $__________
-CAC: $__________
-LTV:CAC Ratio = LTV / CAC = __________:1
+LTV: $_
+CAC: $_
+LTV:CAC Ratio = LTV / CAC = _:1
 ```
 
 **Benchmark:**
@@ -67,12 +67,12 @@ LTV:CAC Ratio = LTV / CAC = __________:1
 
 ### Payback Period
 ```
-CAC: $__________
-Monthly ARPU: $__________
-Gross Margin %: __________%
+CAC: $_
+Monthly ARPU: $_
+Gross Margin %: _%
 
 Payback Period (months) = CAC / (Monthly ARPU × Gross Margin %)
-Payback Period = __________ months
+Payback Period = _ months
 ```
 
 **Benchmark:**
@@ -82,16 +82,16 @@ Payback Period = __________ months
 
 ### Contribution Margin
 ```
-Revenue: $__________
+Revenue: $_
 Variable Costs:
-  - COGS: $__________
-  - Variable support costs: $__________
-  - Payment processing: $__________
-  - Variable customer success: $__________
-Total Variable Costs: $__________
+  - COGS: $_
+  - Variable support costs: $_
+  - Payment processing: $_
+  - Variable customer success: $_
+Total Variable Costs: $_
 
-Contribution Profit = Revenue - Variable Costs = $__________
-Contribution Margin % = (Contribution Profit / Revenue) × 100 = __________%
+Contribution Profit = Revenue - Variable Costs = $_
+Contribution Margin % = (Contribution Profit / Revenue) × 100 = _%
 ```
 
 ---
@@ -101,23 +101,23 @@ Contribution Margin % = (Contribution Profit / Revenue) × 100 = __________%
 ### Burn Rate
 ```
 Monthly Expenses:
-  - S&M: $__________
-  - R&D: $__________
-  - G&A: $__________
-  - COGS: $__________
-Total Monthly Expenses (Gross Burn): $__________
+  - S&M: $_
+  - R&D: $_
+  - G&A: $_
+  - COGS: $_
+Total Monthly Expenses (Gross Burn): $_
 
-Monthly Revenue: $__________
+Monthly Revenue: $_
 
-Net Burn Rate = Total Expenses - Revenue = $__________/month
+Net Burn Rate = Total Expenses - Revenue = $_/month
 ```
 
 ### Runway
 ```
-Cash Balance: $__________
-Monthly Net Burn: $__________
+Cash Balance: $_
+Monthly Net Burn: $_
 
-Runway (months) = Cash Balance / Net Burn = __________ months
+Runway (months) = Cash Balance / Net Burn = _ months
 ```
 
 **Warning Levels:**
@@ -127,28 +127,28 @@ Runway (months) = Cash Balance / Net Burn = __________ months
 
 ### Operating Expenses (OpEx)
 ```
-Annual Revenue: $__________
+Annual Revenue: $_
 
 OpEx Breakdown:
-  Sales & Marketing: $__________
-  Research & Development: $__________
-  General & Administrative: $__________
-Total OpEx: $__________
+  Sales & Marketing: $_
+  Research & Development: $_
+  General & Administrative: $_
+Total OpEx: $_
 
-S&M as % of Revenue: __________%
-R&D as % of Revenue: __________%
-G&A as % of Revenue: __________%
-Total OpEx as % of Revenue: __________%
+S&M as % of Revenue: _%
+R&D as % of Revenue: _%
+G&A as % of Revenue: _%
+Total OpEx as % of Revenue: _%
 ```
 
 ### Net Income (Profit/Loss)
 ```
-Revenue: $__________
-- COGS: $__________
-- OpEx: $__________
+Revenue: $_
+- COGS: $_
+- OpEx: $_
 
-Net Income = Revenue - COGS - OpEx = $__________
-Profit Margin % = (Net Income / Revenue) × 100 = __________%
+Net Income = Revenue - COGS - OpEx = $_
+Profit Margin % = (Net Income / Revenue) × 100 = _%
 ```
 
 ---
@@ -157,10 +157,10 @@ Profit Margin % = (Net Income / Revenue) × 100 = __________%
 
 ### Rule of 40
 ```
-Revenue Growth Rate (YoY): __________%
-Profit Margin %: __________%
+Revenue Growth Rate (YoY): _%
+Profit Margin %: _%
 
-Rule of 40 = Growth Rate + Profit Margin = __________
+Rule of 40 = Growth Rate + Profit Margin = _
 ```
 
 **Benchmark:**
@@ -170,14 +170,14 @@ Rule of 40 = Growth Rate + Profit Margin = __________
 
 ### Magic Number
 ```
-Current Quarter Revenue: $__________
-Previous Quarter Revenue: $__________
-Revenue Increase = $__________
+Current Quarter Revenue: $_
+Previous Quarter Revenue: $_
+Revenue Increase = $_
 
-Previous Quarter S&M Spend: $__________
+Previous Quarter S&M Spend: $_
 
 Magic Number = (Revenue Increase × 4) / Prev Quarter S&M Spend
-Magic Number = __________
+Magic Number = _
 ```
 
 **Benchmark:**
@@ -191,9 +191,9 @@ Track over multiple quarters:
 
 Quarter | Revenue | Revenue Growth | OpEx | OpEx Growth | Leverage
 --------|---------|----------------|------|-------------|----------
-Q1      | $______ | ____%          | $____| ____%       | _______
-Q2      | $______ | ____%          | $____| ____%       | _______
-Q3      | $______ | ____%          | $____| ____%       | _______
+Q1      | $_ | _%          | $_| _%       | _
+Q2      | $_ | _%          | $_| _%       | _
+Q3      | $_ | _%          | $_| _%       | _
 ```
 
 **Check:**
@@ -208,11 +208,11 @@ Calculate unit economics by customer segment:
 
 | Metric | SMB | Mid-Market | Enterprise | Blended |
 |--------|-----|------------|------------|---------|
-| CAC | $____ | $______ | $______ | $______ |
-| LTV | $____ | $______ | $______ | $______ |
-| LTV:CAC | ___:1 | ___:1 | ___:1 | ___:1 |
-| Payback (mo) | ____ | ____ | ____ | ____ |
-| Gross Margin % | ___% | ___% | ___% | ___% |
+| CAC | $_ | $_ | $_ | $_ |
+| LTV | $_ | $_ | $_ | $_ |
+| LTV:CAC | _:1 | _:1 | _:1 | _:1 |
+| Payback (mo) | _ | _ | _ | _ |
+| Gross Margin % | _% | _% | _% | _% |
 
 **Analysis:**
 - Which segment has best LTV:CAC ratio?

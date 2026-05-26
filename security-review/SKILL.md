@@ -202,7 +202,7 @@ function renderUserContent(html: string) {
     ALLOWED_TAGS: ['b', 'i', 'em', 'strong', 'p'],
     ALLOWED_ATTR: []
   })
-  return <div dangerouslySetInnerHTML={{ __html: clean }} />
+  return <div dangerouslySetInnerHTML={{ _html: clean }} />
 }
 ```
 

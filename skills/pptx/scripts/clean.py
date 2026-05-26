@@ -264,7 +264,7 @@ def clean_unused_files(unpacked_dir: Path) -> list[str]:
     return all_removed
 
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     if len(sys.argv) != 2:
         print("Usage: python clean.py <unpacked_dir>", file=sys.stderr)
         print("Example: python clean.py unpacked/", file=sys.stderr)

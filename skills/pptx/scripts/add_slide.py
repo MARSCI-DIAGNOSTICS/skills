@@ -169,7 +169,7 @@ def parse_source(source: str) -> tuple[str, str | None]:
     return ("slide", None)
 
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     if len(sys.argv) != 3:
         print("Usage: python add_slide.py <unpacked_dir> <source>", file=sys.stderr)
         print("", file=sys.stderr)

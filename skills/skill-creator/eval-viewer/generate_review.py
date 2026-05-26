@@ -76,7 +76,7 @@ def _find_runs_recursive(root: Path, current: Path, runs: list[dict]) -> None:
             runs.append(run)
         return
 
-    skip = {"node_modules", ".git", "__pycache__", "skill", "inputs"}
+    skip = {"node_modules", ".git", "_pycache_", "skill", "inputs"}
     for child in sorted(current.iterdir()):
         if child.is_dir() and child.name not in skip:
             _find_runs_recursive(root, child, runs)
@@ -254,7 +254,7 @@ def generate_html(
     benchmark: dict | None = None,
 ) -> str:
     """Generate the complete standalone HTML page with embedded data."""
-    template_path = Path(__file__).parent / "viewer.html"
+    template_path = Path(_file_).parent / "viewer.html"
     template = template_path.read_text()
 
     # Build previous_feedback and previous_outputs maps for the template
@@ -278,7 +278,7 @@ def generate_html(
 
     data_json = json.dumps(embedded)
 
-    return template.replace("/*__EMBEDDED_DATA__*/", f"const EMBEDDED_DATA = {data_json};")
+    return template.replace("/*_EMBEDDED_DATA_*/", f"const EMBEDDED_DATA = {data_json};")
 
 
 # ---------------------------------------------------------------------------
@@ -312,7 +312,7 @@ class ReviewHandler(BaseHTTPRequestHandler):
     picks up new eval outputs without restarting the server.
     """
 
-    def __init__(
+    def _init_(
         self,
         workspace: Path,
         skill_name: str,
@@ -327,7 +327,7 @@ class ReviewHandler(BaseHTTPRequestHandler):
         self.feedback_path = feedback_path
         self.previous = previous
         self.benchmark_path = benchmark_path
-        super().__init__(*args, **kwargs)
+        super()._init_(*args, **kwargs)
 
     def do_GET(self) -> None:
         if self.path == "/" or self.path == "/index.html":
@@ -467,5 +467,5 @@ def main() -> None:
         server.server_close()
 
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     main()
