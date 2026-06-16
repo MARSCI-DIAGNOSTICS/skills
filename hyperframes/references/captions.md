@@ -74,10 +74,10 @@ Break on sentence boundaries, 150ms+ pauses, or max word count.
 
 ## Text Overflow Prevention
 
-Use `window._hyperframes.fitTextFontSize()`:
+Use `window.__hyperframes.fitTextFontSize()`:
 
 ```js
-var result = window._hyperframes.fitTextFontSize(group.text.toUpperCase(), {
+var result = window.__hyperframes.fitTextFontSize(group.text.toUpperCase(), {
   fontFamily: "Outfit",
   fontWeight: 900,
   maxWidth: 1600,
@@ -100,7 +100,7 @@ tl.to(groupEl, { opacity: 0, scale: 0.95, duration: 0.12, ease: "power2.in" }, g
 tl.set(groupEl, { opacity: 0, visibility: "hidden" }, group.end); // deterministic kill
 ```
 
-Self-lint after building timeline — place **before** `window._timelines[id] = tl` so it runs at composition init:
+Self-lint after building timeline — place **before** `window.__timelines[id] = tl` so it runs at composition init:
 
 ```js
 GROUPS.forEach(function (group, gi) {

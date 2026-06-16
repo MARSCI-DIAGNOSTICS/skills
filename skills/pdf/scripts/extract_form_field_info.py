@@ -115,7 +115,7 @@ def write_field_info(pdf_path: str, json_output_path: str):
     print(f"Wrote {len(field_info)} fields to {json_output_path}")
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     if len(sys.argv) != 3:
         print("Usage: extract_form_field_info.py [input pdf] [output json]")
         sys.exit(1)

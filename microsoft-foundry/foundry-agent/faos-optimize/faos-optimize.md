@@ -173,20 +173,20 @@ If missing, add the canonical local package structure:
 
 ```text
 agent_optimization/
-    _init_.py
+    __init__.py
     _config.py
     _resolver.py
 ```
 
-The package must expose the public API from `_init_.py`:
+The package must expose the public API from `__init__.py`:
 
 ```python
 """Agent optimization config loader for hosted agents."""
 
 from agent_optimization._config import OptimizationConfig, Skill, load_config
 
-_all_ = ["OptimizationConfig", "Skill", "load_config"]
-_version_ = "0.1.0"
+__all__ = ["OptimizationConfig", "Skill", "load_config"]
+__version__ = "0.1.0"
 ```
 
 Implement `_config.py` and `_resolver.py` with the reference contract:

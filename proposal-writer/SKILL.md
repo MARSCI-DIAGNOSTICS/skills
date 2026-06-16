@@ -258,7 +258,7 @@ This skill helps you create professional, persuasive business proposals that cle
 ## To Accept
 Reply to this email with "Approved" or sign below:
 
-Signature: _ Date: _
+Signature: _______________ Date: ___________
 
 ---
 

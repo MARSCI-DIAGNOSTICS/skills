@@ -89,7 +89,7 @@ import os
 class DocumentConverter:
     """Unified document conversion pipeline."""
     
-    def _init_(self, max_workers=4):
+    def __init__(self, max_workers=4):
         self.max_workers = max_workers
         self.converters = {
             ('md', 'docx'): self._md_to_docx,

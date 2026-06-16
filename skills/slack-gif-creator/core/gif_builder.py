@@ -17,7 +17,7 @@ from PIL import Image
 class GIFBuilder:
     """Builder for creating optimized GIFs from frames."""
 
-    def _init_(self, width: int = 480, height: int = 480, fps: int = 15):
+    def __init__(self, width: int = 480, height: int = 480, fps: int = 15):
         """
         Initialize GIF builder.
 

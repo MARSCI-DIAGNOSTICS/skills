@@ -235,11 +235,11 @@ The Disclosing Party shall be entitled to seek injunctive relief.
 
 **SIGNATURES**
 
-Disclosing Party: _
-Date: _
+Disclosing Party: ____________________
+Date: ____________________
 
-Receiving Party: _
-Date: _
+Receiving Party: ____________________
+Date: ____________________
 ```
 
 ### data.json

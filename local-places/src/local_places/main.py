@@ -59,7 +59,7 @@ def locations_resolve(request: LocationResolveRequest) -> LocationResolveRespons
     return resolve_locations(request)
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     import uvicorn
 
     uvicorn.run("local_places.main:app", host="0.0.0.0", port=8000)

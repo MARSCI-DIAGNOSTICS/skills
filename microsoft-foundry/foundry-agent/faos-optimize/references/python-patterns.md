@@ -153,20 +153,20 @@ When the target repository does not already provide an optimization package, add
 
 ```text
 agent_optimization/
-    _init_.py
+    __init__.py
     _config.py
     _resolver.py
 ```
 
-`_init_.py` should only re-export the public API:
+`__init__.py` should only re-export the public API:
 
 ```python
 """Agent optimization config loader for hosted agents."""
 
 from agent_optimization._config import OptimizationConfig, Skill, load_config
 
-_all_ = ["OptimizationConfig", "Skill", "load_config"]
-_version_ = "0.1.0"
+__all__ = ["OptimizationConfig", "Skill", "load_config"]
+__version__ = "0.1.0"
 ```
 
 `_config.py` owns `Skill`, `OptimizationConfig`, `load_config`, default fallback behavior, inline config parsing, and candidate config handoff.

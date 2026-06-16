@@ -91,12 +91,12 @@ class BaseSchemaValidator:
         "http://www.w3.org/XML/1998/namespace",
     }
 
-    def _init_(self, unpacked_dir, original_file=None, verbose=False):
+    def __init__(self, unpacked_dir, original_file=None, verbose=False):
         self.unpacked_dir = Path(unpacked_dir).resolve()
         self.original_file = Path(original_file) if original_file else None
         self.verbose = verbose
 
-        self.schemas_dir = Path(_file_).parent.parent / "schemas"
+        self.schemas_dir = Path(__file__).parent.parent / "schemas"
 
         patterns = ["*.xml", "*.rels"]
         self.xml_files = [
@@ -843,5 +843,5 @@ class BaseSchemaValidator:
         return lxml.etree.ElementTree(xml_copy), warnings
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     raise RuntimeError("This module should not be run directly.")

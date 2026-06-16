@@ -55,7 +55,7 @@ def get_bounding_box_messages(fields_json_stream) -> list[str]:
         messages.append("SUCCESS: All bounding boxes are valid")
     return messages
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     if len(sys.argv) != 2:
         print("Usage: check_bounding_boxes.py [fields.json]")
         sys.exit(1)

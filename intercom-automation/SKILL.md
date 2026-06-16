@@ -401,7 +401,7 @@ crm_integration:
       - intercom: user.email
         salesforce: Contact.Email
       - intercom: custom.mrr
-        salesforce: Account.MRR_c
+        salesforce: Account.MRR__c
         
     events:
       - trigger: conversation_closed

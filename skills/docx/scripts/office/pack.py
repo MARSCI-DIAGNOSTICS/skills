@@ -128,7 +128,7 @@ def _condense_xml(xml_file: Path) -> None:
         raise
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Pack a directory into a DOCX, PPTX, or XLSX file"
     )

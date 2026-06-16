@@ -56,7 +56,7 @@ COMP_REL=".hyperframes-cache/$(date +%s)-$(openssl rand -hex 2)"
 COMP="$OD_PROJECT_DIR/$COMP_REL"
 
 # 2. Get an immediately-renderable scaffold (hyperframes.json,
-#    meta.json, index.html with GSAP CDN + window._timelines.main
+#    meta.json, index.html with GSAP CDN + window.__timelines.main
 #    already registered). This runs in your shell — pure file copy,
 #    no Chrome, no network beyond the npx cache.
 npx hyperframes init "$COMP" --example blank --skip-skills --non-interactive
@@ -65,7 +65,7 @@ npx hyperframes init "$COMP" --example blank --skip-skills --non-interactive
 #    if you need a non-default length, swap the placeholder palette
 #    in <style>, add 1–3 clip <div>s for text/imagery, and append the
 #    matching GSAP tweens inside the existing
-#    `window._timelines["main"] = gsap.timeline({paused:true})` block.
+#    `window.__timelines["main"] = gsap.timeline({paused:true})` block.
 #    Keep edits minimal; the scaffold is already valid HF.
 
 # 4. Dispatch render through the OD daemon. Do NOT run `npx hyperframes
@@ -287,10 +287,10 @@ Sub-composition structure:
     </style>
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
     <script>
-      window._timelines = window._timelines || {};
+      window.__timelines = window.__timelines || {};
       const tl = gsap.timeline({ paused: true });
       // tweens...
-      window._timelines["my-comp"] = tl;
+      window.__timelines["my-comp"] = tl;
     </script>
   </div>
 </template>
@@ -325,7 +325,7 @@ Video must be `muted playsinline`. Audio is always a separate `<audio>` element:
 ## Timeline Contract
 
 - All timelines start `{ paused: true }` — the player controls playback
-- Register every timeline: `window._timelines["<composition-id>"] = tl`
+- Register every timeline: `window.__timelines["<composition-id>"] = tl`
 - Framework auto-nests sub-timelines — do NOT manually add them
 - Duration comes from `data-duration`, not from GSAP timeline length
 - Never create empty tweens to set duration
@@ -340,11 +340,11 @@ Video must be `muted playsinline`. Audio is always a separate `<audio>` element:
 
 **No `repeat: -1`:** Infinite-repeat timelines break the capture engine. Calculate the exact repeat count from composition duration: `repeat: Math.ceil(duration / cycleDuration) - 1`.
 
-**Synchronous timeline construction:** Never build timelines inside `async`/`await`, `setTimeout`, or Promises. The capture engine reads `window._timelines` synchronously after page load. Fonts are embedded by the compiler, so they're available immediately — no need to wait for font loading.
+**Synchronous timeline construction:** Never build timelines inside `async`/`await`, `setTimeout`, or Promises. The capture engine reads `window.__timelines` synchronously after page load. Fonts are embedded by the compiler, so they're available immediately — no need to wait for font loading.
 
 **Never do:**
 
-1. Forget `window._timelines` registration
+1. Forget `window.__timelines` registration
 2. Use video for audio — always muted video + separate `<audio>`
 3. Nest video inside a timed div — use a non-timed wrapper
 4. Use `data-layer` (use `data-track-index`) or `data-end` (use `data-duration`)
@@ -400,7 +400,7 @@ When no `visual-style.md` or animation direction is provided, follow [house-styl
 
 - **Fonts:** Just write the `font-family` you want in CSS — the compiler embeds supported fonts automatically. If a font isn't supported, the compiler warns.
 - Add `crossorigin="anonymous"` to external media
-- For dynamic text overflow, use `window._hyperframes.fitTextFontSize(text, { maxWidth, fontFamily, fontWeight })`
+- For dynamic text overflow, use `window.__hyperframes.fitTextFontSize(text, { maxWidth, fontFamily, fontWeight })`
 - All files live at the project root alongside `index.html`; sub-compositions use `../`
 
 ## Editing Existing Compositions
@@ -428,7 +428,7 @@ npx hyperframes inspect
 npx hyperframes inspect --json
 ```
 
-Failures usually mean text is spilling out of a bubble/card, a fixed-size label is clipping dynamic copy, or text has moved off the canvas. Fix by increasing container size or padding, reducing font size or letter spacing, adding a real `max-width` so text wraps inside the container, or using `window._hyperframes.fitTextFontSize(...)` for dynamic copy.
+Failures usually mean text is spilling out of a bubble/card, a fixed-size label is clipping dynamic copy, or text has moved off the canvas. Fix by increasing container size or padding, reducing font size or letter spacing, adding a real `max-width` so text wraps inside the container, or using `window.__hyperframes.fitTextFontSize(...)` for dynamic copy.
 
 Use `--samples 15` for dense videos and `--at 1.5,4,7.25` for specific hero frames. Repeated static issues are collapsed by default to avoid flooding agent context. If overflow is intentional for an entrance/exit animation, mark the element or ancestor with `data-layout-allow-overflow`. If a decorative element should never be audited, mark it with `data-layout-ignore`.
 

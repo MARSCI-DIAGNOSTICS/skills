@@ -24,7 +24,7 @@ def convert(pdf_path, output_dir, max_dim=1000):
     print(f"Converted {len(images)} pages to PNG images")
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     if len(sys.argv) != 3:
         print("Usage: convert_pdf_to_images.py [input pdf] [output directory]")
         sys.exit(1)

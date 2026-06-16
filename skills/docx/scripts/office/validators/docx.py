@@ -442,5 +442,5 @@ class DOCXSchemaValidator(BaseSchemaValidator):
         return repairs
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     raise RuntimeError("This module should not be run directly.")

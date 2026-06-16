@@ -11,7 +11,7 @@ from pathlib import Path
 
 from office.soffice import get_soffice_env
 
-logger = logging.getLogger(_name_)
+logger = logging.getLogger(__name__)
 
 LIBREOFFICE_PROFILE = "/tmp/libreoffice_docx_profile"
 MACRO_DIR = f"{LIBREOFFICE_PROFILE}/user/basic/Standard"
@@ -118,7 +118,7 @@ def _setup_libreoffice_macro() -> bool:
         return False
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Accept all tracked changes in a DOCX file"
     )

@@ -124,7 +124,7 @@ def main():
     # TODO: Add actual script logic here
     # This could be data processing, file conversion, API calls, etc.
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
 '''
 
@@ -374,5 +374,5 @@ def main():
         sys.exit(1)
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()

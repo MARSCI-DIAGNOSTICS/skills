@@ -230,7 +230,7 @@ The API is stateless — send the full conversation history each time.
 class ConversationManager:
     """Manage multi-turn conversations with the Claude API."""
 
-    def _init_(self, client: anthropic.Anthropic, model: str, system: str = None):
+    def __init__(self, client: anthropic.Anthropic, model: str, system: str = None):
         self.client = client
         self.model = model
         self.system = system

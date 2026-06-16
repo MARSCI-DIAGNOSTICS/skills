@@ -272,15 +272,15 @@ const response = await client.messages.create({
 
 ### Reading Local Files (ESM note)
 
-`_dirname` doesn't exist in ES modules. For script-relative paths use `import.meta.url`:
+`__dirname` doesn't exist in ES modules. For script-relative paths use `import.meta.url`:
 
 ```typescript
 import { readFileSync } from "fs";
 import { fileURLToPath } from "url";
 import { dirname, join } from "path";
 
-const _dirname = dirname(fileURLToPath(import.meta.url));
-const pdfBytes = readFileSync(join(_dirname, "sample.pdf"));
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const pdfBytes = readFileSync(join(__dirname, "sample.pdf"));
 ```
 
 Or use a CWD-relative path if the script runs from a known directory: `readFileSync("./sample.pdf")`.

@@ -324,5 +324,5 @@ def main():
         print(f"Results saved to: {results_dir}", file=sys.stderr)
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()

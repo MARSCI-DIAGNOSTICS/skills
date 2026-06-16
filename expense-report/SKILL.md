@@ -119,9 +119,9 @@ This skill helps you organize business expenses into clear, categorized reports 
 | [Date] | [Description] | [Category] | $XX.XX | ✓ |
 
 ## Approvals
-- [ ] Employee Signature: _ Date: _
-- [ ] Manager Approval: _ Date: _
-- [ ] Finance Approval: _ Date: _
+- [ ] Employee Signature: _____________ Date: _______
+- [ ] Manager Approval: _____________ Date: _______
+- [ ] Finance Approval: _____________ Date: _______
 
 ## Notes
 [Any additional context or explanations]

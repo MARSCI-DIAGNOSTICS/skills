@@ -5,7 +5,7 @@ Summarize CodexBar local cost usage by model.
 Defaults to current model (most recent daily entry), or list all models.
 """
 
-from _future_ import annotations
+from __future__ import annotations
 
 import argparse
 import json
@@ -306,5 +306,5 @@ def main() -> int:
     return 0
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     raise SystemExit(main())

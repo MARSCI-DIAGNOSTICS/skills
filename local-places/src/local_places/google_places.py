@@ -1,4 +1,4 @@
-from _future_ import annotations
+from __future__ import annotations
 
 import logging
 import os
@@ -68,7 +68,7 @@ _RESOLVE_FIELD_MASK = (
 
 
 class _GoogleResponse:
-    def _init_(self, response: httpx.Response):
+    def __init__(self, response: httpx.Response):
         self.status_code = response.status_code
         self._response = response
 

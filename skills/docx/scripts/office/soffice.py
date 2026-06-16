@@ -90,7 +90,7 @@ static int wake_r[1024];            /* accept() blocks reading this */
 static int wake_w[1024];            /* close()  writes to this      */
 static int listener_fd = -1;        /* FD that received listen()    */
 
-_attribute_((constructor))
+__attribute__((constructor))
 static void init(void) {
     real_socket     = dlsym(RTLD_NEXT, "socket");
     real_socketpair = dlsym(RTLD_NEXT, "socketpair");
@@ -177,7 +177,7 @@ int close(int fd) {
 
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     import sys
     result = run_soffice(sys.argv[1:])
     sys.exit(result.returncode)

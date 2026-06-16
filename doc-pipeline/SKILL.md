@@ -112,7 +112,7 @@ class Stage:
     operation: Callable
     
 class Pipeline:
-    def _init_(self, name: str):
+    def __init__(self, name: str):
         self.name = name
         self.stages: list[Stage] = []
     

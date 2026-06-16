@@ -13,7 +13,7 @@ from mcp.client.streamable_http import streamablehttp_client
 class MCPConnection(ABC):
     """Base class for MCP server connections."""
 
-    def _init_(self):
+    def __init__(self):
         self.session = None
         self._stack = None
 
@@ -21,10 +21,10 @@ class MCPConnection(ABC):
     def _create_context(self):
         """Create the connection context based on connection type."""
 
-    async def _aenter_(self):
+    async def __aenter__(self):
         """Initialize MCP server connection."""
         self._stack = AsyncExitStack()
-        await self._stack._aenter_()
+        await self._stack.__aenter__()
 
         try:
             ctx = self._create_context()
@@ -42,13 +42,13 @@ class MCPConnection(ABC):
             await self.session.initialize()
             return self
         except BaseException:
-            await self._stack._aexit_(None, None, None)
+            await self._stack.__aexit__(None, None, None)
             raise
 
-    async def _aexit_(self, exc_type, exc_val, exc_tb):
+    async def __aexit__(self, exc_type, exc_val, exc_tb):
         """Clean up MCP server connection resources."""
         if self._stack:
-            await self._stack._aexit_(exc_type, exc_val, exc_tb)
+            await self._stack.__aexit__(exc_type, exc_val, exc_tb)
         self.session = None
         self._stack = None
 
@@ -73,8 +73,8 @@ class MCPConnection(ABC):
 class MCPConnectionStdio(MCPConnection):
     """MCP connection using standard input/output."""
 
-    def _init_(self, command: str, args: list[str] = None, env: dict[str, str] = None):
-        super()._init_()
+    def __init__(self, command: str, args: list[str] = None, env: dict[str, str] = None):
+        super().__init__()
         self.command = command
         self.args = args or []
         self.env = env
@@ -88,8 +88,8 @@ class MCPConnectionStdio(MCPConnection):
 class MCPConnectionSSE(MCPConnection):
     """MCP connection using Server-Sent Events."""
 
-    def _init_(self, url: str, headers: dict[str, str] = None):
-        super()._init_()
+    def __init__(self, url: str, headers: dict[str, str] = None):
+        super().__init__()
         self.url = url
         self.headers = headers or {}
 
@@ -100,8 +100,8 @@ class MCPConnectionSSE(MCPConnection):
 class MCPConnectionHTTP(MCPConnection):
     """MCP connection using Streamable HTTP."""
 
-    def _init_(self, url: str, headers: dict[str, str] = None):
-        super()._init_()
+    def __init__(self, url: str, headers: dict[str, str] = None):
+        super().__init__()
         self.url = url
         self.headers = headers or {}
 

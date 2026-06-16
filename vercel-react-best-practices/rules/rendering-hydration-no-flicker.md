@@ -61,7 +61,7 @@ function ThemeWrapper({ children }: { children: ReactNode }) {
       </div>
       <script
         dangerouslySetInnerHTML={{
-          _html: `
+          __html: `
             (function() {
               try {
                 var theme = localStorage.getItem('theme') || 'light';
