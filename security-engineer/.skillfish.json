@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-engineer",
+  "owner": "nagisanzenin",
+  "repo": "claude-code-production-grade-plugin",
+  "path": "skills/security-engineer",
+  "branch": "main",
+  "sha": "97be2895e9b947de1192eb8278d09910bef77d48",
+  "source": "manual"
+}

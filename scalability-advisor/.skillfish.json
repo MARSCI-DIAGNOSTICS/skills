@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "scalability-advisor",
+  "owner": "alirezarezvani",
+  "repo": "claude-cto-team",
+  "path": "skills/scalability-advisor",
+  "branch": "main",
+  "sha": "c84ab5ec5987403a6c7320c27979e8e3404a533f",
+  "source": "manual"
+}

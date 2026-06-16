@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "product-manager",
+  "owner": "nagisanzenin",
+  "repo": "claude-code-production-grade-plugin",
+  "path": "skills/product-manager",
+  "branch": "main",
+  "sha": "b0aba49c8eb2c2d398bddd294214850e3a1c4484",
+  "source": "manual"
+}

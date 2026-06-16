@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "devops",
+  "owner": "nagisanzenin",
+  "repo": "claude-code-production-grade-plugin",
+  "path": "skills/devops",
+  "branch": "main",
+  "sha": "717cff6afe35aedd9a220dc32878ce305c22c1fb",
+  "source": "manual"
+}

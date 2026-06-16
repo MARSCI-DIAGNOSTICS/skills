@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "polymath",
+  "owner": "nagisanzenin",
+  "repo": "claude-code-production-grade-plugin",
+  "path": "skills/polymath",
+  "branch": "main",
+  "sha": "d63c2e6474854e7fe3751d4c42ad0c58b34bb202",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "data-scientist",
+  "owner": "nagisanzenin",
+  "repo": "claude-code-production-grade-plugin",
+  "path": "skills/data-scientist",
+  "branch": "main",
+  "sha": "3b69fd561e5bd8bfc7a1f6e6f1bbcbc481f8dfa6",
+  "source": "manual"
+}
