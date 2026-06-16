@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "controllers-services",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nestjs/controllers-services",
+  "branch": "main",
+  "sha": "9e638889217f4fce62378c06942e240416719cd5",
+  "source": "manual"
+}

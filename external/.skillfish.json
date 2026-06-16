@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "external",
+  "owner": "plurigrid",
+  "repo": "asi",
+  "path": "ies/music-topos/.agents/skills/external",
+  "branch": "main",
+  "sha": "dcab3ff98e7aa3eabe80ea51a7539e0b48bd9017",
+  "source": "manual"
+}

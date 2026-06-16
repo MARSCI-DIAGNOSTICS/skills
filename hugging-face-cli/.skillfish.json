@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hugging-face-cli",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/hugging-face-cli",
+  "branch": "main",
+  "sha": "f2fc46540d0ad0765e3ed0f25e75ccc27eac8354",
+  "source": "manual"
+}

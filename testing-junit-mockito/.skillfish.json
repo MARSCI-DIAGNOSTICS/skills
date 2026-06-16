@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "testing-junit-mockito",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/java/testing-junit-mockito",
+  "branch": "main",
+  "sha": "d7c3987de25f9790f635e3e778759d5f11eb499c",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rfp-responder",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "commercial/skills/rfp-responder",
+  "branch": "main",
+  "sha": "58596f68fbc8acc86db69f36bcd7befb10e1c8d8",
+  "source": "manual"
+}

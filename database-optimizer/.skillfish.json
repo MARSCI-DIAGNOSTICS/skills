@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "database-optimizer",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/database-optimizer",
+  "branch": "main",
+  "sha": "d13821e555a5b1796ba82a8fc869e22bc44d217a",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "track-kpis",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/track-kpis",
+  "branch": "main",
+  "sha": "c4e0c0d66782f1227286b47346517fe08aff69c2",
+  "source": "manual"
+}

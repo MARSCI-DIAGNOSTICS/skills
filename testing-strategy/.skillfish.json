@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "testing-strategy",
+  "owner": "oborchers",
+  "repo": "fractional-cto",
+  "path": "python-package/skills/testing-strategy",
+  "branch": "main",
+  "sha": "4793019c493c5ca1a71f7b64d0e1db3361f967f4",
+  "source": "manual"
+}

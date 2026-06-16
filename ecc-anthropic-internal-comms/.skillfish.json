@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-anthropic-internal-comms",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-anthropic-internal-comms",
+  "branch": "main",
+  "sha": "cf7331686a2ad47bea48325cc90b5dcb8feed354",
+  "source": "manual"
+}

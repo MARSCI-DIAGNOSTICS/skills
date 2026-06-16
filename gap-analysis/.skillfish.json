@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gap-analysis",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/enterprise-architecture/skills/gap-analysis",
+  "branch": "main",
+  "sha": "452cd7792730d0987520bd63436246f744598cf7",
+  "source": "manual"
+}

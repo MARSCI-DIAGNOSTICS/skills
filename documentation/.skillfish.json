@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "documentation",
+  "owner": "oborchers",
+  "repo": "fractional-cto",
+  "path": "python-package/skills/documentation",
+  "branch": "main",
+  "sha": "08c5a8ca26494bdeee31e7fe832b406d54a694a9",
+  "source": "manual"
+}

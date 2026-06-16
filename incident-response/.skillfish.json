@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "incident-response",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering-team/incident-response",
+  "branch": "main",
+  "sha": "3fca04a357b0de784cdf44da18be2e0c9bd90c4a",
+  "source": "manual"
+}

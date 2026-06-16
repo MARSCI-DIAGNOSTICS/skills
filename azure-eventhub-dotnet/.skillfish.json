@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-eventhub-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-eventhub-dotnet",
+  "branch": "main",
+  "sha": "7363801ad83ec6d3599231c7f1c810397cacb15b",
+  "source": "manual"
+}

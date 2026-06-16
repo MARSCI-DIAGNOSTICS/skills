@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "error-debugging-multi-agent-review",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/error-debugging-multi-agent-review",
+  "branch": "main",
+  "sha": "3e3d0f5e04cadc20cfa4c69ad8acbbe5960d9396",
+  "source": "manual"
+}

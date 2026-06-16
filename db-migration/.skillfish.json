@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "db-migration",
+  "owner": "mickaelmamani",
+  "repo": "saas-toolkit",
+  "path": "saas-toolkit/skills/db-migration",
+  "branch": "main",
+  "sha": "2c090e6d350eadddd36f0e84854947de5507d418",
+  "source": "manual"
+}

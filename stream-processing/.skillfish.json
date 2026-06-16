@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "stream-processing",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/stream-processing",
+  "branch": "main",
+  "sha": "57ca16e365d692064bcfe89b705bf1d0bfa4e0d0",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pulse",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "research/pulse/skills/pulse",
+  "branch": "main",
+  "sha": "25b05ae2115a248be68bdc36882e8b455eae27bb",
+  "source": "manual"
+}

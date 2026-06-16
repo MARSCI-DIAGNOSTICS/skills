@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "assess-ai",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/compliance-planning/skills/assess-ai",
+  "branch": "main",
+  "sha": "4a843dd97ff1739535730f0d977a83ec22d55de3",
+  "source": "manual"
+}

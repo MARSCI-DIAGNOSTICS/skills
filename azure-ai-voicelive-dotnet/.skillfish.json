@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-voicelive-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-voicelive-dotnet",
+  "branch": "main",
+  "sha": "8f399cebadece4848e22248dcdf7456b83b39eaa",
+  "source": "manual"
+}

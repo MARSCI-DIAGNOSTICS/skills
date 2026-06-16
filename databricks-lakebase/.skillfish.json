@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "databricks-lakebase",
+  "owner": "harutsugu-namitsuki",
+  "repo": "databricks_datamng",
+  "path": ".claude/skills/databricks-agent-skills-main/skills/databricks-lakebase",
+  "branch": "main",
+  "sha": "ec1b20671e08694fb4a85ef9b1f9469004b79db7",
+  "source": "manual"
+}

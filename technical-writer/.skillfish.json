@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "technical-writer",
+  "owner": "nagisanzenin",
+  "repo": "claude-code-production-grade-plugin",
+  "path": "skills/technical-writer",
+  "branch": "main",
+  "sha": "fe575c0a7d5ae4f1f65a692d41488ad7c170d2ce",
+  "source": "manual"
+}

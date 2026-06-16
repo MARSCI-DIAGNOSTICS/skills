@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gateway-script-design",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/gateway-script-design",
+  "branch": "main",
+  "sha": "03fb10582a155c5bc3bea34c236f9d23b9f02c3b",
+  "source": "manual"
+}

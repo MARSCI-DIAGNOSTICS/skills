@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "observability-patterns",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/observability-patterns",
+  "branch": "main",
+  "sha": "ed16815ffbcb8f076debbb91d581078f5306fa40",
+  "source": "manual"
+}

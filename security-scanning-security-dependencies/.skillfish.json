@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-scanning-security-dependencies",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/security-scanning-security-dependencies",
+  "branch": "main",
+  "sha": "3d4da71d6ff3afda1e1128f6a80f966641e188c5",
+  "source": "manual"
+}

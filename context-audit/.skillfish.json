@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "context-audit",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/context-audit",
+  "branch": "main",
+  "sha": "720c6b83a928adc2a92a3968c0f4912ba6042d68",
+  "source": "manual"
+}

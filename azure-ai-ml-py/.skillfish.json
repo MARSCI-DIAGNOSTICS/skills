@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-ml-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-ml-py",
+  "branch": "main",
+  "sha": "04d546d3065267a55660c44f0b44d96b4926c4fa",
+  "source": "manual"
+}

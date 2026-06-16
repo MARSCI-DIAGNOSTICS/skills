@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sre",
+  "owner": "nagisanzenin",
+  "repo": "claude-code-production-grade-plugin",
+  "path": "skills/sre",
+  "branch": "main",
+  "sha": "cfa00290946a617d4b185e9b9b7de294e1eb5757",
+  "source": "manual"
+}

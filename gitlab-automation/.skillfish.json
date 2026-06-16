@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gitlab-automation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/gitlab-automation",
+  "branch": "main",
+  "sha": "c33ca0947aa5fb9e9fee50de4eaed61d5cb73e49",
+  "source": "manual"
+}

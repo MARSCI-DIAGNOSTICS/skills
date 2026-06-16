@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-mgmt-botservice-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-mgmt-botservice-py",
+  "branch": "main",
+  "sha": "7b3fa70ab73ea04517f297b240f9073794a022ce",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "map-relationships",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/content-management-system/skills/map-relationships",
+  "branch": "main",
+  "sha": "1929389eb299ce6c65e5f42c163a265eef7a40fc",
+  "source": "manual"
+}

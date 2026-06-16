@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "decide",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "c-level-advisor/c-level-agents/skills/decide",
+  "branch": "main",
+  "sha": "b06975cb776f7547c1e49fd96a30dba4f70e1264",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "audit-output-styles",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/audit-output-styles",
+  "branch": "main",
+  "sha": "84f3984fc3769b913360934ccde392266674f992",
+  "source": "manual"
+}

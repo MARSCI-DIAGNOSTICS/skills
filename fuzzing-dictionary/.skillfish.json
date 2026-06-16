@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fuzzing-dictionary",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/testing-handbook-skills/skills/fuzzing-dictionary",
+  "branch": "main",
+  "sha": "17942124c6b0187923d1050eb3f32e480947012e",
+  "source": "manual"
+}

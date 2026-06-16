@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "deployment-validation-config-validate",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/deployment-validation-config-validate",
+  "branch": "main",
+  "sha": "a4f9ed53fbcd3db640781da4eee438c141eecedc",
+  "source": "manual"
+}

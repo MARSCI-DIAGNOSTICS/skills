@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "enterprise-security",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/enterprise-security",
+  "branch": "main",
+  "sha": "ab99db7052c9a24d6d742a33b1053779ce888f4f",
+  "source": "manual"
+}

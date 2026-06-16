@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sea-orm",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/rust/sea-orm",
+  "branch": "main",
+  "sha": "f19c6058ea7415908de89f0bbae61ab3f631aa57",
+  "source": "manual"
+}

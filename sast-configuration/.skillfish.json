@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sast-configuration",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/sast-configuration",
+  "branch": "main",
+  "sha": "c568ab04d101717481eb1650f0b7261258f7e938",
+  "source": "manual"
+}

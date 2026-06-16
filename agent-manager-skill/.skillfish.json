@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-manager-skill",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/agent-manager-skill",
+  "branch": "main",
+  "sha": "4c04cba9fa6c9f392b1436d195851c7099cd8f23",
+  "source": "manual"
+}

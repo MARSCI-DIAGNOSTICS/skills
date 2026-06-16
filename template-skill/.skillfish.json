@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "template-skill",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/template-skill",
+  "branch": "main",
+  "sha": "a38aa7fa73fd2835b9ce77a60274f7dc62d015a6",
+  "source": "manual"
+}

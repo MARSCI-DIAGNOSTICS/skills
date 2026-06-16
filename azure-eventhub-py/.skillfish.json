@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-eventhub-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-eventhub-py",
+  "branch": "main",
+  "sha": "cbfd07da122f9dbd23caf682f50091b9a5d50647",
+  "source": "manual"
+}

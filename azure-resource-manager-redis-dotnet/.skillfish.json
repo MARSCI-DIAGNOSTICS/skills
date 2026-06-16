@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-resource-manager-redis-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-resource-manager-redis-dotnet",
+  "branch": "main",
+  "sha": "3d08de17614d004e9fb38c3ac39925f3e33801f4",
+  "source": "manual"
+}

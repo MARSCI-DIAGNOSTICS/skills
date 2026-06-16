@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "visualize-code",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/visualization/skills/visualize-code",
+  "branch": "main",
+  "sha": "7133b5db7684fd0b51908a14a8255c759a5483ff",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "data-classification",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/compliance-planning/skills/data-classification",
+  "branch": "main",
+  "sha": "93b279d42eb4560b89f7203d3e4b7a8d9bef0813",
+  "source": "manual"
+}

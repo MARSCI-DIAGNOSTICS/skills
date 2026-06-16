@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-claude-engineering-env-secrets-manager",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-claude-engineering-env-secrets-manager",
+  "branch": "main",
+  "sha": "d69887ee219cbc387d41cf0775f73f4911db407d",
+  "source": "manual"
+}

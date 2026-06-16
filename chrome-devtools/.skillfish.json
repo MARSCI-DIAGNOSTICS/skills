@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "chrome-devtools",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/chrome-devtools",
+  "branch": "main",
+  "sha": "deeba6c1284eaaa7150a72f6a93c9e466a12842a",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "semgrep-rule-creator",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/semgrep-rule-creator/skills/semgrep-rule-creator",
+  "branch": "main",
+  "sha": "13ebbb64116acea85772b7b0c57826ac099abb3d",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "godot-4-migration",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/godot-4-migration",
+  "branch": "main",
+  "sha": "74c3cfed8f4941afe6a1a2bbbc6257d3d192eb1d",
+  "source": "manual"
+}

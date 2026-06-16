@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "engineering-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "engineering-team/skills/engineering-skills",
+  "branch": "main",
+  "sha": "4e262d55907a947f1d19c772cadbf1977d0dc376",
+  "source": "manual"
+}

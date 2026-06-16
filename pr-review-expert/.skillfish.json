@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pr-review-expert",
+  "owner": "zhangzhang-111-i",
+  "repo": "claude-skills111",
+  "path": "engineering/pr-review-expert",
+  "branch": "main",
+  "sha": "70e93dcac65ab0bcf5a19c661bc542b033140395",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "update-settings-schema",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/update-settings-schema",
+  "branch": "main",
+  "sha": "6862e9df91b54199d2958430a5c8fb8df4e01cf6",
+  "source": "manual"
+}

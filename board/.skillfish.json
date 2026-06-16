@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "board",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering/agenthub/skills/board",
+  "branch": "main",
+  "sha": "8d84daf63287c098e6e8b156461b71d20acb13f4",
+  "source": "manual"
+}

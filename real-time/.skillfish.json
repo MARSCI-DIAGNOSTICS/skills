@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "real-time",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nestjs/real-time",
+  "branch": "main",
+  "sha": "7a1c8d314bca67bdd9ba05309176b6911566427b",
+  "source": "manual"
+}

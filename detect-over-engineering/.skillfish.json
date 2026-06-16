@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detect-over-engineering",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/enterprise-architecture/skills/detect-over-engineering",
+  "branch": "main",
+  "sha": "58d221ed2f05c606d42d1636f2d89e97af5e2ae9",
+  "source": "manual"
+}

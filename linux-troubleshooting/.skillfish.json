@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "linux-troubleshooting",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/linux-troubleshooting",
+  "branch": "main",
+  "sha": "cf1203a21b25b180c06d94fff2d4a851540992e8",
+  "source": "manual"
+}

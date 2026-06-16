@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "distributed-training",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "AutoResearchClaw/researchclaw/skills/builtin/tooling/distributed-training",
+  "branch": "main",
+  "sha": "5bb0e643f4db7cabac8f7f4f03aa0218dd47befd",
+  "source": "manual"
+}

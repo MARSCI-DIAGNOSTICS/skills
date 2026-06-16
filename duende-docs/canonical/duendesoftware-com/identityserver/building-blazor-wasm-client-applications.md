@@ -1,0 +1,385 @@
+---
+title: Building Blazor WASM Client Applications
+source_url: https://docs.duendesoftware.com/identityserver/building-blazor-wasm-client-applications/
+source_type: llms-full-txt
+content_hash: sha256:b11adc9bff029e96b5eba4acad51736c5958d4e26974861d9f075c2bd1620e92
+category: identityserver
+doc_id: identityserver/building-blazor-wasm-client-applications
+---
+
+> Learn how to build secure Blazor WebAssembly applications using the Duende BFF security framework and integrate them with IdentityServer.
+
+Blazor applications can be set up using different interactivity modes:
+
+* Static
+* Server
+* WebAssembly
+* Auto
+
+Projects using the static or server modes can be configured just like any other ASP.NET Core application. We covered that in the [interactive applications](/identityserver/quickstarts/2-interactive/) quickstart.
+
+Similar to JavaScript SPAs, you can build Blazor WebAssembly applications with and without a backend. Not having a backend has all the security disadvantages we discussed already in the [JavaScript quickstart](/identityserver/quickstarts/javascript-clients/).
+
+So in this quickstart we will focus on how to build a Blazor WebAssembly application using our Duende.BFF security framework. You can find the full source code [here](https://github.com/DuendeSoftware/Samples/tree/main/IdentityServer/v7/Quickstarts/7_Blazor).
+
+The "auto" interactivity mode requires a mix of server-side authentication and authentication with a BFF. This is more complex than we want this quickstart to be. But we have a [template with annotations](https://github.com/DuendeSoftware/products/tree/main/bff/templates/src/BffBlazorAutoRenderMode) that helps with that. Before diving into that however, we recommend you first follow this quickstart first.
+
+Note
+
+To keep things simple, we will use our demo IdentityServer instance hosted at <https://demo.duendesoftware.com>. We will provide more details on how to configure a Blazor client in your own IdentityServer at the end.
+
+## Setting Up The Project
+
+[Section titled "Setting Up The Project"](#setting-up-the-project)
+
+The .NET CLI includes a template that sets up a standalone Blazor WebAssembly project. Create the directory where you want to work in, and run the following command:
+
+```plaintext
+dotnet new blazorwasm -n BlazorWasm
+```
+
+Now create a backend that will host the BFF.
+
+```plaintext
+dotnet new web -n BFF
+```
+
+And if you're using Visual Studio or Rider, create a solution file and add the projects:
+
+```plaintext
+dotnet new sln -n BlazorQuickstart
+dotnet sln add BlazorWasm/BlazorWasm.csproj
+dotnet sln add BFF/BFF.csproj
+```
+
+Open the solution in your IDE or if you use Visual Studio Code open the directory where you created the solution file.
+
+## Configuring The BFF
+
+[Section titled "Configuring The BFF"](#configuring-the-bff)
+
+In the BFF project, add a reference to the BlazorWasm project and modify `Program.cs` as follows:
+
+Program.cs
+
+```csharp
+var builder = WebApplication.CreateBuilder(args);
+var app = builder.Build();
+
+
+app.MapStaticAssets();
+app.MapFallbackToFile("index.html");
+app.Run();
+```
+
+When you run just the BFF project now, you should see the Blazor application running. The call to `MapFallbackToFile` renders the entry point of the Blazor application in the browser. It's important that both projects run on the same site because the session cookie we'll use has the samesite=strict flag to protect against CSRF attacks.
+
+Add the following package references to the BFF project:
+
+* [Microsoft.AspNetCore.Authentication.OpenIdConnect](https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.OpenIdConnect)
+* [Duende.BFF](https://www.nuget.org/packages/Duende.BFF)
+
+Next, we will add OpenID Connect and OAuth support to the BFF. For this we are adding the Microsoft OpenID Connect authentication handler for the protocol interactions with IdentityServer, and the cookie authentication handler for managing the resulting authentication session. See [here](/bff/fundamentals/session/handlers/) for more background information.
+
+The BFF services provide the logic to invoke the authentication plumbing from the frontend (more about this later).
+
+Add the following snippet to your `Program.cs` just before the call to `builder.Build();`
+
+* Duende BFF v4
+
+  Program.cs
+
+  ```csharp
+  builder.Services.AddAuthorization();
+  builder.Services.AddCascadingAuthenticationState();
+  builder.Services
+      .AddBff()
+          .ConfigureOpenIdConnect(options =>
+          {
+              options.Authority = "https://demo.duendesoftware.com";
+
+
+              options.ClientId = "interactive.confidential";
+              options.ClientSecret = "secret";
+              options.ResponseType = "code";
+              options.ResponseMode = "query";
+
+
+              options.Scope.Clear();
+              options.Scope.Add("openid");
+              options.Scope.Add("profile");
+              options.Scope.Add("api");
+              options.Scope.Add("offline_access");
+
+
+              options.MapInboundClaims = false;
+              options.ClaimActions.MapAll();
+              options.GetClaimsFromUserInfoEndpoint = true;
+              options.SaveTokens = true;
+
+
+              options.TokenValidationParameters.NameClaimType = "name";
+              options.TokenValidationParameters.RoleClaimType = "role";
+          })
+          .ConfigureCookies(options =>
+          {
+              options.Cookie.Name = "__Host-blazor";
+              options.Cookie.SameSite = SameSiteMode.Strict;
+          });
+  ```
+
+* Duende BFF v3
+
+  Program.cs
+
+  ```csharp
+  builder.Services.AddAuthorization();
+  builder.Services.AddCascadingAuthenticationState();
+  builder.Services.AddBff();
+
+
+  builder.Services
+      .AddAuthentication(options =>
+      {
+          options.DefaultScheme = "cookie";
+          options.DefaultChallengeScheme = "oidc";
+          options.DefaultSignOutScheme = "oidc";
+      })
+      .AddCookie("cookie", options =>
+      {
+          options.Cookie.Name = "__Host-blazor";
+          options.Cookie.SameSite = SameSiteMode.Strict;
+      })
+      .AddOpenIdConnect("oidc", options =>
+      {
+          options.Authority = "https://demo.duendesoftware.com";
+
+
+          options.ClientId = "interactive.confidential";
+          options.ClientSecret = "secret";
+          options.ResponseType = "code";
+          options.ResponseMode = "query";
+
+
+          options.Scope.Clear();
+          options.Scope.Add("openid");
+          options.Scope.Add("profile");
+          options.Scope.Add("api");
+          options.Scope.Add("offline_access");
+
+
+          options.MapInboundClaims = false;
+          options.ClaimActions.MapAll();
+          options.GetClaimsFromUserInfoEndpoint = true;
+          options.SaveTokens = true;
+
+
+          options.TokenValidationParameters.NameClaimType = "name";
+          options.TokenValidationParameters.RoleClaimType = "role";
+      });
+  ```
+
+The last step is to add the required middleware for authentication, authorization and BFF session management. Add the following snippet before the call to `MapStaticAssets`:
+
+Program.cs
+
+```csharp
+app.UseAuthentication();
+app.UseBff();
+app.UseAuthorization();
+
+
+app.MapBffManagementEndpoints();
+```
+
+Now run the BFF project again. **Be sure to use https.**
+
+Try to manually invoke the BFF login endpoint on `/bff/login` - this should bring you to the demo IdentityServer. After login (e.g. using bob/bob), the browser will return to the Blazor application.
+
+In other words, the fundamental authentication plumbing is already working. Now we need to make the frontend aware of it.
+
+## Modifying The Frontend (Part 1)
+
+[Section titled "Modifying The Frontend (Part 1)"](#modifying-the-frontend-part-1)
+
+A couple of steps are necessary to add the security and identity plumbing to the Blazor application.
+
+*`a)`* Install the NuGet package ["Microsoft.AspNetCore.Components.WebAssembly.Authentication"](https://www.nuget.org/packages/Microsoft.AspNetCore.Components.WebAssembly.Authentication/).
+
+*`b)`* Add a using statement to `_Imports.razor` in the BlazorWasm project:
+
+```csharp
+@using Microsoft.AspNetCore.Components.Authorization
+```
+
+*`c)`* To propagate the current authentication state to all pages in the Blazor client, a component called `CascadingAuthenticationState` is used. Wrap the Router component in the file `App.razor` with it:
+
+```razor
+<CascadingAuthenticationState>
+    <Router AppAssembly="@typeof(App).Assembly" NotFoundPage="typeof(Pages.NotFound)">
+        <Found Context="routeData">
+            <RouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)"/>
+            <FocusOnNavigate RouteData="@routeData" Selector="h1" />
+        </Found>
+    </Router>
+</CascadingAuthenticationState>
+```
+
+*`d)`* Last but not least, we will add some conditional rendering to the layout page to be able to trigger login/logout and displaying the current user name when logged in. This is achieved by using the `AuthorizeView` component in `MainLayout.razor`. Replace the contents of the `<main>` with this:
+
+```razor
+    <main>
+        <div class="top-row px-4">
+            <AuthorizeView>
+                <Authorized>
+                    <strong>Hello, @context.User.Identity.Name!</strong>
+                    <a href="@context.User.FindFirst("bff:logout_url")?.Value">Log out
+                    </a>
+                </Authorized>
+                <NotAuthorized>
+                    <a href="bff/login">Log in</a>
+                </NotAuthorized>
+            </AuthorizeView>
+        </div>
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+```
+
+When you now run the Blazor application, you will see the following error in your browser console:
+
+```plaintext
+crit: Microsoft.AspNetCore.Components.WebAssembly.Rendering.WebAssemblyRenderer[100]
+      Unhandled exception rendering component: Cannot provide a value for property 'AuthenticationStateProvider' on type 'Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState'. There is no registered service of type 'Microsoft.AspNetCore.Components.Authorization.AuthenticationStateProvider'.
+```
+
+`CascadingAuthenticationState` is an abstraction over an arbitrary authentication system. It internally relies on a service called `AuthenticationStateProvider` to return the required information about the current authentication state and the information about the currently logged on user.
+
+A special version of this component, aware of the BFF, has to be added, and that's what we'll do next.
+
+## Modifying The Frontend (Part 2)
+
+[Section titled "Modifying The Frontend (Part 2)"](#modifying-the-frontend-part-2)
+
+The BFF library we just configured includes an endpoint that allows the Blazor application to query the current authentication session and state (see [here](/bff/fundamentals/session/management/user/)). We will now add a Blazor `AuthenticationStateProvider` that will internally use this endpoint. It is included in our NuGet package "Duende.BFF.Blazor.Client".
+
+In the BlazorWasm.Client project:
+
+* Add the NuGet package ["Duende.BFF.Blazor.Client"](https://www.nuget.org/packages/Duende.BFF.Blazor.Client/).
+* In `Program.cs`, just before the call to `builder.Build().RunAsync();`, add the following code:
+
+```csharp
+builder.Services.AddBffBlazorClient();
+```
+
+If you restart the application again, the logon/logoff logic should work now. In addition, you can display the contents of the session on the main page by replacing the code in `Home.razor` with this:
+
+```razor
+@page "/"
+
+
+<PageTitle>Home</PageTitle>
+
+
+<h1>Hello, Blazor BFF!</h1>
+
+
+<AuthorizeView>
+    <Authorized>
+        <dl>
+            @foreach (var claim in @context.User.Claims)
+            {
+                <dt>@claim.Type</dt>
+                <dd>@claim.Value</dd>
+            }
+        </dl>
+    </Authorized>
+</AuthorizeView>
+```
+
+The claims you see on the page are coming from the user endpoint on the BFF and the `AuthenticationStateProvider` we just registered with the call to `AddBffBlazorClient` takes care of polling the endpoint.
+
+## Securing a Local API Endpoint
+
+[Section titled "Securing a Local API Endpoint"](#securing-a-local-api-endpoint)
+
+Right now the BFF project doesn't contain any endpoints. Let's create a simple one that will be used by the Blazor application.
+
+*`a)`* Observe the `Weather.razor` page in the BlazorWasm project. In `OnInitializedAsync`, it fetches data from a file.
+
+*`b)`* Move the file wwwwroot/sample-data/weather.json to the root of the BFF project.
+
+*`c)`* In the `Program.cs` file of the BFF project, just above the `MapFallbackToFile` call, add the following code:
+
+Program.cs
+
+```csharp
+app.MapGet("/api/data", async () =>
+{
+    var json = await File.ReadAllTextAsync("weather.json");
+    return Results.Content(json, "application/json");
+}).RequireAuthorization().AsBffApiEndpoint();
+```
+
+`RequireAuthorization` is ASP.NET Core's standard way to make sure a user is authenticated before accessing a given endpoint. `AsBffApiEndpoint` is an extension method provided by the BFF library that adds anti-forgery protection to the endpoint and returns the expected 401 response when the user is not authenticated.
+
+The anti-forgery protection consists of the requirement to include an `X-CSRF` HTTP header with each request.
+
+*`d)`* In the `Program.cs` file of the BlazorWasm project, replace the registration of the `HttpClient` with the following:
+
+Program.cs
+
+```csharp
+builder.Services.AddTransient<HttpClient>(sp =>
+{
+    var client = new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) };
+    client.DefaultRequestHeaders.Add("X-CSRF", "1");
+    return client;
+});
+```
+
+Alternatively, a [handler](https://duendesoftware.com/blog/20250902-dotnet-httpclient-and-delegating-handlers) can be created and used with the `HttpClient` instance.
+
+And with this in place, the application should be able to fetch data from the API endpoint when the Weather page is shown.
+
+## Setting Up A Blazor BFF client In IdentityServer
+
+[Section titled "Setting Up A Blazor BFF client In IdentityServer"](#setting-up-a-blazor-bff-client-in-identityserver)
+
+In essence, a BFF client is "just" a normal authorization code flow client:
+
+* use the code grant type
+* set a client secret
+* enable `AllowOfflineAccess` if you want to use refresh tokens
+* enable the required identity and resource scopes
+* set the redirect URIs for the OIDC handler
+
+Below is a typical code snippet for the client definition:
+
+```csharp
+var bffClient = new Client
+{
+    ClientId = "bff",
+
+
+    ClientSecrets =
+    {
+        new Secret("secret".Sha256())
+    },
+
+
+    AllowedGrantTypes = GrantTypes.Code,
+
+
+    RedirectUris = { "https://bff_host/signin-oidc" },
+    FrontChannelLogoutUri = "https://bff_host/signout-oidc",
+    PostLogoutRedirectUris = { "https://bff_host/signout-callback-oidc" },
+
+
+    AllowOfflineAccess = true,
+
+
+    AllowedScopes = { "openid", "profile", "remote_api" }
+};
+```

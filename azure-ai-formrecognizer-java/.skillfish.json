@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-formrecognizer-java",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-formrecognizer-java",
+  "branch": "main",
+  "sha": "fa4286e6424f5d822f88483a04c8f79d205025f8",
+  "source": "manual"
+}

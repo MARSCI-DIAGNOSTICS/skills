@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "spring-security",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/java/spring-security",
+  "branch": "main",
+  "sha": "0f88045b1dd14285010bd62313d6a302a38668cc",
+  "source": "manual"
+}

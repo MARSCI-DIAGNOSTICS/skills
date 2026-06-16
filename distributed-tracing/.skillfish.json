@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "distributed-tracing",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/distributed-tracing",
+  "branch": "main",
+  "sha": "fa53fc0134b53f35b76964ca35536bf92e2893a3",
+  "source": "manual"
+}

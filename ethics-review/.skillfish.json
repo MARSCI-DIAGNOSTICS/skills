@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ethics-review",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/compliance-planning/skills/ethics-review",
+  "branch": "main",
+  "sha": "0ab423cd070a38f95767e2351c663a484338e649",
+  "source": "manual"
+}

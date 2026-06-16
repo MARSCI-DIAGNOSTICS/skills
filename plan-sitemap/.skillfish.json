@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "plan-sitemap",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/content-management-system/skills/plan-sitemap",
+  "branch": "main",
+  "sha": "7ed10527116eccba5255fdf522f48437703fe3a8",
+  "source": "manual"
+}

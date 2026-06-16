@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-cosmos-rust",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-cosmos-rust",
+  "branch": "main",
+  "sha": "74764272f549569cb333a2c404a268ddbd410695",
+  "source": "manual"
+}

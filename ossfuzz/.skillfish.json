@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ossfuzz",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/testing-handbook-skills/skills/ossfuzz",
+  "branch": "main",
+  "sha": "f01e13e4614dc744c0fba974f5da62d909cc3c8e",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "active-directory-attacks",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/active-directory-attacks",
+  "branch": "main",
+  "sha": "f286ab5cbf4d9bba42186433daa2bc97379485ad",
+  "source": "manual"
+}

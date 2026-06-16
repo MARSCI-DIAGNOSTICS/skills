@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "api-documentation-generator",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/api-documentation-generator",
+  "branch": "main",
+  "sha": "0e5ca0b72cad496a6f914d6659e8bb5ce3dcd430",
+  "source": "manual"
+}

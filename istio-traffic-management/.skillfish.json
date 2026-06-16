@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "istio-traffic-management",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/istio-traffic-management",
+  "branch": "main",
+  "sha": "960ec53904c8306ee8018a03ac013f28d7ddf836",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-mgmt-apicenter-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-mgmt-apicenter-dotnet",
+  "branch": "main",
+  "sha": "b024543eed458481b72d0aa8aa769054a912de5a",
+  "source": "manual"
+}

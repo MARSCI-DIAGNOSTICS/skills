@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-search-documents-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-search-documents-py",
+  "branch": "main",
+  "sha": "e4c0d76f8e6449f26b61e3b93cc71f96d294ec93",
+  "source": "manual"
+}

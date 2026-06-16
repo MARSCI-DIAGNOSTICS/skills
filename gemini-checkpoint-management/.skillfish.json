@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gemini-checkpoint-management",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/google-ecosystem/skills/gemini-checkpoint-management",
+  "branch": "main",
+  "sha": "46d5b90dfb5017b627c4ae5b650045ba04e7ac0d",
+  "source": "manual"
+}

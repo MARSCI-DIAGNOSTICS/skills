@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "clap",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/rust/clap",
+  "branch": "main",
+  "sha": "fcf1a766658e0524bdecc249ab456ca5077b50a3",
+  "source": "manual"
+}

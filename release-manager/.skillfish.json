@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "release-manager",
+  "owner": "zhangzhang-111-i",
+  "repo": "claude-skills111",
+  "path": "engineering/release-manager",
+  "branch": "main",
+  "sha": "759ca2c0c680615b4d3fc5fa81995d8b7811133b",
+  "source": "manual"
+}

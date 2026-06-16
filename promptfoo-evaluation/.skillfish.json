@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "promptfoo-evaluation",
+  "owner": "luodashiv5",
+  "repo": "please_answer_this_era_5.0",
+  "path": "claude-code-skills/promptfoo-evaluation",
+  "branch": "main",
+  "sha": "99e7c9535284123dbab9153b882052fb62ab617c",
+  "source": "manual"
+}

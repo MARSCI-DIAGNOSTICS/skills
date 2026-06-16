@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-claude-c-level-advisor-agent-protocol",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-claude-c-level-advisor-agent-protocol",
+  "branch": "main",
+  "sha": "fe7614dcb1b58b0d094f80cbdc0a3aa898dde2f2",
+  "source": "manual"
+}

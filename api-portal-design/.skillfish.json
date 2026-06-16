@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "api-portal-design",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/documentation-standards/skills/api-portal-design",
+  "branch": "main",
+  "sha": "c7ba1dd4128c05ae706c785f1113b3bd2a51cb4e",
+  "source": "manual"
+}

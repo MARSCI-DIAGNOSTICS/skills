@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "define-typography",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/content-management-system/skills/define-typography",
+  "branch": "main",
+  "sha": "1d03a127af7a0c9a7f452b826c9f50dd22f2e788",
+  "source": "manual"
+}

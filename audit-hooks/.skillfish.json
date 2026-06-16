@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "audit-hooks",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/audit-hooks",
+  "branch": "main",
+  "sha": "b95cc85f6100ffbd192c3d99b619d2ed4b63d939",
+  "source": "manual"
+}

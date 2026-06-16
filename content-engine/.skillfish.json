@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "content-engine",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-archive/harness/.agents/skills/content-engine",
+  "branch": "main",
+  "sha": "2431be63cb6c7879bdf0445a20fc52e858028936",
+  "source": "manual"
+}

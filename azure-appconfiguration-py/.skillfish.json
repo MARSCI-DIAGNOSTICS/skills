@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-appconfiguration-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-appconfiguration-py",
+  "branch": "main",
+  "sha": "fa17ca047670738f6f406b30e9e9ff07256cac00",
+  "source": "manual"
+}

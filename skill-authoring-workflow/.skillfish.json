@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "skill-authoring-workflow",
+  "owner": "deanpeters",
+  "repo": "product-manager-skills",
+  "path": "skills/skill-authoring-workflow",
+  "branch": "main",
+  "sha": "55cd9ac364b119cadb86a66f085f092e058552f1",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cto-review",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "c-level-advisor/c-level-agents/skills/cto-review",
+  "branch": "main",
+  "sha": "c40aa9dfbd35feda15e4e98913068d2776075d64",
+  "source": "manual"
+}

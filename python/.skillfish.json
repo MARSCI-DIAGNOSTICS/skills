@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "python",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/code-quality/skills/python",
+  "branch": "main",
+  "sha": "e667922705ba29a0016bd22db23153041e343b0b",
+  "source": "manual"
+}

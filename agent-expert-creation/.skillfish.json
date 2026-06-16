@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-expert-creation",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/agent-expert-creation",
+  "branch": "main",
+  "sha": "e5ac13a4ced1a2cf8311a737f56538732fb7f6a6",
+  "source": "manual"
+}

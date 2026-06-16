@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "service-mesh-observability",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/service-mesh-observability",
+  "branch": "main",
+  "sha": "29cc3db08d3611c76f20ab8f07a3cae2d7f24953",
+  "source": "manual"
+}

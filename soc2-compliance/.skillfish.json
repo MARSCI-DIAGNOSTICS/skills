@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "soc2-compliance",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/ra-qm-team/soc2-compliance",
+  "branch": "main",
+  "sha": "64eba5a2e6aac8dc0399f43c95d8dc56757e68a1",
+  "source": "manual"
+}

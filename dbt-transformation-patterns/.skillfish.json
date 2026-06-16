@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dbt-transformation-patterns",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/dbt-transformation-patterns",
+  "branch": "main",
+  "sha": "e1ca61a2a8c29d53453a0bc0ea5edb6ea7f05a08",
+  "source": "manual"
+}

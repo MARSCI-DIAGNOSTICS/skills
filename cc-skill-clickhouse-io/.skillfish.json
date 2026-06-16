@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cc-skill-clickhouse-io",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/cc-skill-clickhouse-io",
+  "branch": "main",
+  "sha": "2d186418487b6f343ba340817529d40d6d02ef06",
+  "source": "manual"
+}

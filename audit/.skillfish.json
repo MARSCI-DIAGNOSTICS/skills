@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "audit",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/security/skills/audit",
+  "branch": "main",
+  "sha": "d5d07fd16a9fdd8d9d2d110abff8969256f89324",
+  "source": "manual"
+}

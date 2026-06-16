@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "toml-command-builder",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/google-ecosystem/skills/toml-command-builder",
+  "branch": "main",
+  "sha": "1021ec867de12b2bf01920210ad9f128a508f9ab",
+  "source": "manual"
+}

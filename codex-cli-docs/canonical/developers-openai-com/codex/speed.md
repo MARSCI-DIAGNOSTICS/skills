@@ -1,0 +1,36 @@
+---
+source_url: https://developers.openai.com/codex/speed
+source_type: llms-txt
+content_hash: sha256:204751ff2f251f6e16577962426cc80d680680a8c50d24df905c00065be53b16
+sitemap_url: https://developers.openai.com/codex/llms.txt
+fetch_method: markdown
+---
+
+# Speed
+
+## Fast mode
+
+Codex offers the ability to increase the speed of the model for increased
+credit consumption.
+
+Fast mode is currently supported on GPT-5.4. When enabled, speed is increased
+by 1.5x and credits are consumed at a 2x rate.
+
+Use `/fast on`, `/fast off`, or `/fast status` in the CLI to change or inspect
+the current setting. You can also persist the default with `service_tier =
+"fast"` plus `[features].fast_mode = true` in `config.toml`. Fast mode is
+available in the Codex IDE extension, Codex CLI, and the Codex app when you
+sign in with ChatGPT. With an API key, Codex uses standard API pricing instead
+and you can't use Fast mode credits.
+
+<VideoPlayer
+  src="/videos/codex/fast-mode-demo.mp4"
+  class="[&_video]:mx-auto [&_video]:max-h-[400px] [&_video]:max-w-full [&_video]:w-auto"
+/>
+
+## Codex-Spark
+
+GPT-5.3-Codex-Spark is a separate fast, less-capable Codex model optimized for near-instant, real-time coding iteration. Unlike fast mode, which speeds up GPT-5.4 at a higher credit rate,
+Codex-Spark is its own model choice and has its own usage limits.
+
+During research preview Codex-Spark is only available for ChatGPT Pro subscribers.

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "template-engineering",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/template-engineering",
+  "branch": "main",
+  "sha": "611345d9e15d7460fa32a731710553d153d105c9",
+  "source": "manual"
+}

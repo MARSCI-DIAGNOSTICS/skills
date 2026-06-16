@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "wire-di",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/golang/wire-di",
+  "branch": "main",
+  "sha": "c9dd11fb04d48ec0955ddab9f0f644022c4643f9",
+  "source": "manual"
+}

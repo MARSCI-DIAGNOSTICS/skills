@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "scrape-posts",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/milan-jovanovic/skills/scrape-posts",
+  "branch": "main",
+  "sha": "42cf131e80e1136da00c46fb9ab9e9c038a93454",
+  "source": "manual"
+}

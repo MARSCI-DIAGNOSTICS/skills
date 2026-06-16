@@ -1,0 +1,237 @@
+---
+title: Multi-Frontend
+source_url: https://docs.duendesoftware.com/bff/architecture/multi-frontend/
+source_type: llms-full-txt
+content_hash: sha256:7d8e4cd71ae99f78de82d15fcfefe5fca3b5023f4d9a7c65caddb4c73685457d
+doc_id: multi-frontend
+---
+
+> Documentation for multi-frontend support in BFF
+
+The Backend For Frontend pattern basically states that there should be a single backend for each frontend. While for some applications / architectures this makes a lot of sense, because there is a 1-to-1 mapping between the API surface and the browser based application, for some other architectures this may not be useful.
+
+Especially in micro-service based architectures, where there are many backend APIs and multiple frontends using these APIs, having a dedicated backend service for each frontend introduces quite a lot of operational overhead.
+
+To overcome this issue, a single BFF instance can support multiple frontends. Each frontend you configure can:
+
+* Define its own OpenID Connect configuration
+* Define its own Cookie settings
+* Define its own API surface
+* Be identified either via path based routing and/or host selection.
+
+Adding additional frontends to the BFF has very little impact on the performance on the BFF itself, but keep in mind that the traffic for all the frontends is proxied through the BFF.
+
+## Authentication Configuration
+
+[Section titled "Authentication Configuration"](#authentication-configuration)
+
+When you use multiple frontends, you can't rely on [manual authentication configuration](/bff/fundamentals/session/handlers/#manually-configuring-authentication). This is because each frontend requires its own scheme, and potentially its own OpenID Connect and Cookie configuration.
+
+Instead, you should rely on [automatic authentication configuration](/bff/fundamentals/session/handlers/#automatic-authentication-configuration).
+
+Below is an example on how to configure multiple frontends.
+
+```csharp
+var bffBuilder = builder.Services
+    .AddBff();
+
+
+bffBuilder
+    .ConfigureOpenIdConnect(options =>
+    {
+        // These are the default values for all frontends.
+        options.Authority = "https://demo.duendesoftware.com";
+        options.ClientId = "interactive.confidential";
+        options.ClientSecret = "secret";
+        options.ResponseType = "code";
+        options.ResponseMode = "query";
+
+
+        options.GetClaimsFromUserInfoEndpoint = true;
+        options.SaveTokens = true;
+        options.MapInboundClaims = false;
+
+
+        options.Scope.Clear();
+        options.Scope.Add("openid");
+        options.Scope.Add("profile");
+        options.Scope.Add("api");
+        options.Scope.Add("offline_access");
+
+
+        options.TokenValidationParameters.NameClaimType = "name";
+        options.TokenValidationParameters.RoleClaimType = "role";
+    });
+
+
+    .AddFrontends(
+
+
+        // This frontend will use the default authentication options
+        new BffFrontend(BffFrontendName.Parse("default-frontend")),
+
+
+        // This frontend uses most of the same authentication options,
+        new BffFrontend(BffFrontendName.Parse("with-path"))
+            .MapToPath("/with-path"),
+            .WithOpenIdConnectOptions(opt =>
+            {
+               // but overrides the clientid and client secret.
+                opt.ClientId = "different-client-id";
+                opt.ClientSecret = "different secret";
+            })
+            .WithCookieOptions(opt =>
+            {
+               // and overrides the cookie options to use 'lax' cookies.
+               opt.Cookie.SameSite = SameSiteMode.Lax;
+            });
+```
+
+The order in which configuration is applied is
+
+1. programmatic default options (if any)
+2. default options from configuration (if any)
+3. frontend specific options (if any)
+
+Each frontend can have custom OpenID Connect configuration and Cookie Configuration. This can both be configured programmatically as via [Configuration](configuration/).
+
+## Frontend Selection
+
+[Section titled "Frontend Selection"](#frontend-selection)
+
+Each request to a frontend has to be uniquely defined by either its path, its host or a combination of the two. If you specify neither, then it's considered the default frontend.
+
+Note
+
+With "host", we mean the combination of the schema (http/https), the domain (app1.example.com) and the port. The BFF frontend selection middleware uses the HTTP Host header to select a matching frontend.
+
+Frontends are matched using the following algorithm:
+
+1. **Selection by both host and path:** If there is a frontend that matches both the host AND has the most specific match to a path, it's selected.
+2. **Selection by host only:** Then, if there is a frontend with only hosts configured and it matches the path, it's selected.
+3. **Selection by path only:** Then, if there is a frontend with a matching path specified, it's selected.
+4. **Default frontend:** Then, if there is a default frontend configured, it's selected.
+
+In summary, the most specific match will be selected.
+
+Note
+
+When using path based routing, then the frontend's path is added to the [`PathBase`](https://learn.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.httprequest.pathbase) and removed from the [`Path`](https://learn.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.httprequest.path). This means that any routing that happens in the application is relative to the path of the frontend. This also includes the OpenID callback paths.
+
+### Implicit Frontend Disabled
+
+[Section titled "Implicit Frontend Disabled"](#implicit-frontend-disabled)
+
+When you don't add any frontends, BFF creates an implicit default frontend. This allows BFF to function correctly in single frontend mode. As soon as you add a frontend, this implicit frontend is disabled.
+
+If you want to use both explicitly matching frontends (on host headers or paths) and a default (fallback) frontend, you should explicitly add this default frontend.
+
+## Adding A Frontend During Startup
+
+[Section titled "Adding A Frontend During Startup"](#adding-a-frontend-during-startup)
+
+The simplest way to add frontends is during startup.
+
+```csharp
+services
+    .AddBff()
+    .WithFrontends(new BffFrontend(BffFrontendName.Parse("frontend1")));
+```
+
+You can call `WithFrontends` with multiple frontends in one go, or call it multiple times.
+
+## Adding / Updating A Frontend Dynamically At Runtime
+
+[Section titled "Adding / Updating A Frontend Dynamically At Runtime"](#adding--updating-a-frontend-dynamically-at-runtime)
+
+If you want to manipulate the frontends at runtime, you can do so via the `IFrontendCollection` interface.
+
+```csharp
+var frontends = app.Services.GetRequiredService<IFrontendCollection>();
+
+
+frontends.AddOrUpdate(new BffFrontend(name));
+
+
+frontends.Remove(name);
+```
+
+## Defining The API Surface
+
+[Section titled "Defining The API Surface"](#defining-the-api-surface)
+
+A frontend can define its own API surface, by specifying remote APIs.
+
+```csharp
+var frontend = new BffFrontend(BffFrontendName.Parse("frontend1"))
+   .WithRemoteApis(
+      // map the local path /path to the remote api
+      new RemoteApi("/some_path", new Uri("https://remote-api")))
+
+
+      // You can also configure various options, such as the type of token,
+      // retrieval parameters, etc..
+      new RemoteApi("/with_options", new Uri("https://remote-api")))
+        .WithAccessToken(RequiredTokenType.UserOrClient),
+        .WithAccessTokenRetriever<ImpersonationAccessTokenRetriever>(),
+        .WithUserAccessTokenParameters(new BffUserAccessTokenParameters { Resource = Resource.Parse("urn:isolated-api") }));
+```
+
+See the topic on [Token Management](/bff/fundamentals/tokens/) for more information about the various token management options.
+
+## Handling SPA Static Assets
+
+[Section titled "Handling SPA Static Assets"](#handling-spa-static-assets)
+
+BFF can be configured to handle the static file assets that are typically used when developing Single-Page Application (SPA)-based app.
+
+### Proxying Only `index.html`
+
+[Section titled "Proxying Only index.html"](#proxying-only-indexhtml)
+
+When deploying a multi-frontend BFF, it makes most sense to have the frontend's configured with an `index.html` file that is retrieved from a Content Delivery Network (CDN).
+
+This can be done in various ways. For example, if you use Vite, you can publish static assets with a base URL configured. This will make sure that any static asset, (such as images, scripts, etc) are retrieved directly from the CDN for best performance.
+
+```csharp
+var frontend = new BffFrontend(BffFrontendName.Parse("frontend1"))
+   .WithCdnIndexHtml(new Uri("https://my_cdn/some_app/index.html"))
+```
+
+When you do this, the BFF automatically wires up a catch-all route that serves the `index.html` for that specific frontend. See [Serve the index page from the BFF host](/bff/architecture/ui-hosting/#serve-the-index-page-from-the-bff-host) for more information.
+
+### Proxying All Static Assets
+
+[Section titled "Proxying All Static Assets"](#proxying-all-static-assets)
+
+When developing a Single-Page Application (SPA), it's very common to use a development webserver such as Vite. While Vite can publish static assets with a base URL, this doesn't work well during development.
+
+The best development experience can be achieved by configuring the BFF to proxy all static assets from the development server:
+
+```csharp
+var frontend = new BffFrontend(BffFrontendName.Parse("frontend1"))
+   .WithProxiedStaticAssets(new Uri("https://localhost:3000")); // https://localhost:3000 would be the URL of your development web server.
+```
+
+While this can also be done in production, it will proxy all static assets through BFF. This will increase the bandwidth consumed by the BFF and reduce the overall performance of your application.
+
+### Proxying Assets Based On Environment
+
+[Section titled "Proxying Assets Based On Environment"](#proxying-assets-based-on-environment)
+
+If you're using a local development server during development and a CDN in production, you can configure asset proxying as follows:
+
+```csharp
+// In this example, the environment name from the application builder is used to determine
+// if we're running in production or not.
+var runningInProduction = () => builder.Environment.EnvironmentName == Environments.Production;
+
+
+// Then, when configuring the frontend, you can switch when the static assets will be proxied.
+new BffFrontend(BffFrontendName.Parse("default-frontend"))
+    .WithBffStaticAssets(new Uri("https://localhost:5010/static"), useCdnWhen: runningInProduction);
+```
+
+Note
+
+This function is evaluated immediately when calling the method `.WithBffStaticAssets()`. If you call this method during startup, the condition is only evaluated at startup time. It's not evaluated at runtime for every request.

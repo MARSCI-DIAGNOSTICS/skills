@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cfo-review",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "c-level-advisor/c-level-agents/skills/cfo-review",
+  "branch": "main",
+  "sha": "126187d19cbb358972b2da0fd89dcea41981870b",
+  "source": "manual"
+}

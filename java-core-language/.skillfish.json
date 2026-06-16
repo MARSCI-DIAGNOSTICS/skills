@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "java-core-language",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/java/java-core-language",
+  "branch": "main",
+  "sha": "d0b1fd26e3e8453d961bde4925737abb9d10bf50",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "init-rules",
+  "owner": "bcasci",
+  "repo": "hustler-marketplace",
+  "path": "rails-plugin/skills/init-rules",
+  "branch": "main",
+  "sha": "305de8ac1e3f33093ec996905728337513f1928c",
+  "source": "manual"
+}

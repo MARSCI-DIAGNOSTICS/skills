@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dependency-upgrade",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/dependency-upgrade",
+  "branch": "main",
+  "sha": "f000ec9c33bf7203ebad843560ccdd7f2d089bb2",
+  "source": "manual"
+}

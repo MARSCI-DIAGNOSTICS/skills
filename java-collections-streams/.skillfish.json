@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "java-collections-streams",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/java/java-collections-streams",
+  "branch": "main",
+  "sha": "2cdc22c1aa9c4740734726a341083bac58045be6",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "license-compliance",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/compliance-planning/skills/license-compliance",
+  "branch": "main",
+  "sha": "74bf8c26dac4ecb27a78b513e7be3bc3cba3faed",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "langfuse",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/langfuse",
+  "branch": "main",
+  "sha": "d721bb71280a2f7660f42e963a07924f1ec84821",
+  "source": "manual"
+}

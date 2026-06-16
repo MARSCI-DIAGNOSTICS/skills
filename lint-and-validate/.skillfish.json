@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lint-and-validate",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/lint-and-validate",
+  "branch": "main",
+  "sha": "e7a2fa7ddb2e4dba378327fc7a073095ccf9f97e",
+  "source": "manual"
+}

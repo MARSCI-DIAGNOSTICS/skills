@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "internal-developer-platform",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/internal-developer-platform",
+  "branch": "main",
+  "sha": "90e8f6067e97cb7afacb9c04a8e471958b9e9797",
+  "source": "manual"
+}

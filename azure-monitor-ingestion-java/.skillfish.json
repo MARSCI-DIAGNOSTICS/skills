@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-monitor-ingestion-java",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-monitor-ingestion-java",
+  "branch": "main",
+  "sha": "798db48a02ce12ebed57f2eb89a3e08172f8e409",
+  "source": "manual"
+}

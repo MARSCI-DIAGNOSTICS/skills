@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gdpr-compliance",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/compliance-planning/skills/gdpr-compliance",
+  "branch": "main",
+  "sha": "e4730ad2d6fe78cdd030e3d223846ff0be5720af",
+  "source": "manual"
+}

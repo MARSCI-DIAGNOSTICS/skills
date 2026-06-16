@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "researchclaw",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "AutoResearchClaw/.claude/skills/researchclaw",
+  "branch": "main",
+  "sha": "5b21c269bf28e747f2435babd775506591efbb8c",
+  "source": "manual"
+}

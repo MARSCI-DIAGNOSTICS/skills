@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-translation-ts",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-translation-ts",
+  "branch": "main",
+  "sha": "66adff237afe5a2cfc2966a8534f49c6a034d336",
+  "source": "manual"
+}

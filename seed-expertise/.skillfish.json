@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "seed-expertise",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/seed-expertise",
+  "branch": "main",
+  "sha": "84f3145eab593a1e03eebf51e62c8fe978bc7833",
+  "source": "manual"
+}

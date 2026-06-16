@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "viper-config",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/golang/viper-config",
+  "branch": "main",
+  "sha": "78efa0029a419c5f69c5b37ea6844b53cdce33ec",
+  "source": "manual"
+}

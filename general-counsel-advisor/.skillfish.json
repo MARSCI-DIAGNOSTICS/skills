@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "general-counsel-advisor",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "c-level-advisor/general-counsel-advisor/skills/general-counsel-advisor",
+  "branch": "main",
+  "sha": "c53539910fc602105cffa7501ad5e042b9d28434",
+  "source": "manual"
+}

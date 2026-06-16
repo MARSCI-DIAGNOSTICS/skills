@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-claude-c-level-advisor-context-engine",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-claude-c-level-advisor-context-engine",
+  "branch": "main",
+  "sha": "3f451ef6100cba27545593d0ccf0a92ae0db9409",
+  "source": "manual"
+}

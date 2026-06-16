@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tavily-web",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/tavily-web",
+  "branch": "main",
+  "sha": "4b008f8610df73fc162f8ba572206bd84916b8f7",
+  "source": "manual"
+}

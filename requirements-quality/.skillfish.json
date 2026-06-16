@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "requirements-quality",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/spec-driven-development/skills/requirements-quality",
+  "branch": "main",
+  "sha": "0ab4abed01e5e39287a67a0d780e9b6ac028850a",
+  "source": "manual"
+}

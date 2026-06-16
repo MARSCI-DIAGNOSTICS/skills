@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-servicebus-ts",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-servicebus-ts",
+  "branch": "main",
+  "sha": "59868d306a4e8a3e78300260f5431aa481dc05f9",
+  "source": "manual"
+}

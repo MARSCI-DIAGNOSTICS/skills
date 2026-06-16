@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "diagnose",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/windows-diagnostics/skills/diagnose",
+  "branch": "main",
+  "sha": "d9198044e7c019179b2b61eb8c60784a58a2c23b",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "spring-batch",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/java/spring-batch",
+  "branch": "main",
+  "sha": "b5716bba29f67ff87a9a58fed5c7da4ed524dee2",
+  "source": "manual"
+}

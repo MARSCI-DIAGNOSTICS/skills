@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "product-marketing-context",
+  "owner": "hans3010",
+  "repo": "hanstec-automate",
+  "path": ".agents/skills/product-marketing-context",
+  "branch": "main",
+  "sha": "4fef471c643dec271ed447bfd8c6a2d89e737c70",
+  "source": "manual"
+}

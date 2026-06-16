@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bash-linux",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/bash-linux",
+  "branch": "main",
+  "sha": "ec841690595055b0a769e32e2c8df5c6c1c1847a",
+  "source": "manual"
+}

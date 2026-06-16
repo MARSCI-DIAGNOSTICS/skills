@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "caching",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nestjs/caching",
+  "branch": "main",
+  "sha": "b6fc9b51b5fd76ce2d76642a80ee77a4d1fb3a98",
+  "source": "manual"
+}

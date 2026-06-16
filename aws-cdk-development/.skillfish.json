@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aws-cdk-development",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/aws-cdk-development",
+  "branch": "main",
+  "sha": "b675d5282b1820a8bded1ae938a0a24526441795",
+  "source": "manual"
+}

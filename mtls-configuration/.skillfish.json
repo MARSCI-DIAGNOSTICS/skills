@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mtls-configuration",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/mtls-configuration",
+  "branch": "main",
+  "sha": "245605b6fcf01b4ccf9dee2ac6414daf55b670af",
+  "source": "manual"
+}

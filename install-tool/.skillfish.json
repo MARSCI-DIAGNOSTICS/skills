@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "install-tool",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/dotnet/skills/install-tool",
+  "branch": "main",
+  "sha": "20de576fcb5425ac641d0473bf45b2be8d5e7f16",
+  "source": "manual"
+}

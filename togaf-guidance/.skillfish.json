@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "togaf-guidance",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/enterprise-architecture/skills/togaf-guidance",
+  "branch": "main",
+  "sha": "691c5ea0d88e9f4848bdca1386305dff9e616059",
+  "source": "manual"
+}

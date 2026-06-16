@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "framework-migration-deps-upgrade",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/framework-migration-deps-upgrade",
+  "branch": "main",
+  "sha": "0f67a671736887ae8fec99b37bf6692ccba1db8d",
+  "source": "manual"
+}

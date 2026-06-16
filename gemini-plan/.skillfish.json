@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gemini-plan",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/google-ecosystem/skills/gemini-plan",
+  "branch": "main",
+  "sha": "a3ae90b43adc39e5674d935d1835f9b38ea02fd3",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-clickhouse-io",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-clickhouse-io",
+  "branch": "main",
+  "sha": "71df82a403d16ca0696103e7e5fd828ffc8f6f27",
+  "source": "manual"
+}

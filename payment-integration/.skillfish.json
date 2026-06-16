@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "payment-integration",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/payment-integration",
+  "branch": "main",
+  "sha": "1b4087801f0f97606d475277a790b7969779ed4d",
+  "source": "manual"
+}

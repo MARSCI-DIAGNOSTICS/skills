@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ask-questions-if-underspecified",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/ask-questions-if-underspecified/skills/ask-questions-if-underspecified",
+  "branch": "main",
+  "sha": "db0be0d64598e39c0fbb121b7a7297a94f56a586",
+  "source": "manual"
+}

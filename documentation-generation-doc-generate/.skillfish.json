@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "documentation-generation-doc-generate",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/documentation-generation-doc-generate",
+  "branch": "main",
+  "sha": "bd3ea7dc060b29a3e6cdbfd88425cdcd02a3e57d",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "async-graphql",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/rust/async-graphql",
+  "branch": "main",
+  "sha": "68642eb305aa3dea35c97b5d15e730546ce71eb4",
+  "source": "manual"
+}

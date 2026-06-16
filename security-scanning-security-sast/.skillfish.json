@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-scanning-security-sast",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/security-scanning-security-sast",
+  "branch": "main",
+  "sha": "09e6cac93b799d5f5f9f3e6ea04d4a33ed9ef282",
+  "source": "manual"
+}

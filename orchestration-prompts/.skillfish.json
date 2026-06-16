@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "orchestration-prompts",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/orchestration-prompts",
+  "branch": "main",
+  "sha": "1624de46b95a79144c02c013e8ee3221d3aef408",
+  "source": "manual"
+}

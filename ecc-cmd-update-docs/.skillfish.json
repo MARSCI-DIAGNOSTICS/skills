@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-cmd-update-docs",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-cmd-update-docs",
+  "branch": "main",
+  "sha": "716b223c04a731c87f973e2d2c6cabc2a47d4539",
+  "source": "manual"
+}

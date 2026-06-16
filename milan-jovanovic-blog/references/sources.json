@@ -1,0 +1,19 @@
+[
+  {
+    "name": "milanjovanovic.tech/blog",
+    "type": "pagination",
+    "base_url": "https://www.milanjovanovic.tech/blog",
+    "pagination_pattern": "/p/{page}",
+    "max_pages": 20,
+    "min_date": "2025-11-01",
+    "skip_existing": true,
+    "timeout": 300,
+    "rate_limit_ms": 1000,
+    "output_dir": "milanjovanovic-tech/blog",
+    "metadata": {
+      "author": "Milan Jovanovic",
+      "author_url": "https://www.milanjovanovic.tech",
+      "topics": ["dotnet", "clean-architecture", "ddd", "cqrs", "ef-core", "aspnet-core"]
+    }
+  }
+]

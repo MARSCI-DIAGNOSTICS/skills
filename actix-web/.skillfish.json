@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "actix-web",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/rust/actix-web",
+  "branch": "main",
+  "sha": "f38ecce31473d018e69566a189002a2c1bac9baf",
+  "source": "manual"
+}

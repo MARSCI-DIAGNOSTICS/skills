@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "terraform-specialist",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/terraform-specialist",
+  "branch": "main",
+  "sha": "1cafab5891aa630ae812321fda52ba2be97da077",
+  "source": "manual"
+}

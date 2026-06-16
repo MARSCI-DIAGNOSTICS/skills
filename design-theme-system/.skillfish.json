@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "design-theme-system",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/content-management-system/skills/design-theme-system",
+  "branch": "main",
+  "sha": "692b495a1bb8431fc0005b55ad20a32dedbdc248",
+  "source": "manual"
+}

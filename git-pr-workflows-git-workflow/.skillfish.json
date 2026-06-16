@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "git-pr-workflows-git-workflow",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/git-pr-workflows-git-workflow",
+  "branch": "main",
+  "sha": "684d86c4ff892ceb8bddbf12c2cff7c06ece4edf",
+  "source": "manual"
+}

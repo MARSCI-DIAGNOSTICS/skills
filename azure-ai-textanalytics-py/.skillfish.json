@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-textanalytics-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-textanalytics-py",
+  "branch": "main",
+  "sha": "4ee72745319ba8406126ee8b3f320d58f30baebb",
+  "source": "manual"
+}

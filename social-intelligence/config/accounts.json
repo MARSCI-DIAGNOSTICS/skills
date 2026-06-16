@@ -1,0 +1,782 @@
+{
+  "schema_version": "2.0.0",
+  "x_handle": "@melodicsoftware",
+  "following_list_url": "https://x.com/melodicsoftware/following",
+  "last_refreshed": "2026-02-15T23:55:00Z",
+  "accounts": [
+    {
+      "handle": "@bcherny",
+      "display_name": "Boris Cherny",
+      "priority": "critical",
+      "profile_url": "https://x.com/bcherny",
+      "notes": "Claude Code @anthropicai",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T04:03:34Z",
+      "active": true
+    },
+    {
+      "handle": "@dmwlff",
+      "display_name": "Adam Wolff",
+      "priority": "critical",
+      "profile_url": "https://x.com/dmwlff",
+      "notes": "Claude Code @AnthropicAI",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T04:03:34Z",
+      "active": true
+    },
+    {
+      "handle": "@Linatawfik9",
+      "display_name": "Linatawfik",
+      "priority": "critical",
+      "profile_url": "https://x.com/Linatawfik9",
+      "notes": "Claude Code @AnthropicAI",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T04:03:34Z",
+      "active": true
+    },
+    {
+      "handle": "@_catwu",
+      "display_name": "Cat Wu",
+      "priority": "critical",
+      "profile_url": "https://x.com/_catwu",
+      "notes": "claude code + cowork @anthropicai",
+      "source": "discovered",
+      "last_scanned": "2026-02-16T04:03:34Z",
+      "active": true
+    },
+    {
+      "handle": "@trq212",
+      "display_name": "Thariq",
+      "priority": "critical",
+      "profile_url": "https://x.com/trq212",
+      "notes": "Claude Code @anthropicai, prev YC W20, MIT media lab",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T04:03:34Z",
+      "active": true
+    },
+    {
+      "handle": "@amorriscode",
+      "display_name": "Anthony Morris",
+      "priority": "critical",
+      "profile_url": "https://x.com/amorriscode",
+      "notes": "claude code @anthropicAI, ex Stripe",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T04:03:34Z",
+      "active": true
+    },
+    {
+      "handle": "@sidbid",
+      "display_name": "Sid",
+      "priority": "critical",
+      "profile_url": "https://x.com/sidbid",
+      "notes": "building Claude Code @AnthropicAI, prev Robinhood, Rubrik",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T04:03:34Z",
+      "active": true
+    },
+    {
+      "handle": "@adocomplete",
+      "display_name": "Ado",
+      "priority": "critical",
+      "profile_url": "https://x.com/adocomplete",
+      "notes": "Community, Claude, Code at @AnthropicAI",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T04:03:34Z",
+      "active": true
+    },
+    {
+      "handle": "@meag_han_c",
+      "display_name": "Meaghan",
+      "priority": "critical",
+      "profile_url": "https://x.com/meag_han_c",
+      "notes": "Design for Claude code @anthropicAI",
+      "source": "discovered",
+      "last_scanned": "2026-02-16T04:03:34Z",
+      "active": true
+    },
+    {
+      "handle": "@felixrieseberg",
+      "display_name": "Felix Rieseberg",
+      "priority": "critical",
+      "profile_url": "https://x.com/felixrieseberg",
+      "notes": "Cowork lead @AnthropicAI, prev Electron/Slack/Microsoft",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T04:03:34Z",
+      "active": true
+    },
+    {
+      "handle": "@jarredsumner",
+      "display_name": "Jarred Sumner",
+      "priority": "critical",
+      "profile_url": "https://x.com/jarredsumner",
+      "notes": "Bun creator, joined Anthropic Dec 2025, working on Claude Code Bash tool internals",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T04:03:34Z",
+      "active": true
+    },
+    {
+      "handle": "@swac",
+      "display_name": "Ashwin Bhat",
+      "priority": "critical",
+      "profile_url": "https://x.com/swac",
+      "notes": "Building Claude Code and the Claude Agent SDK at @AnthropicAI",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T04:03:34Z",
+      "active": true
+    },
+    {
+      "handle": "@dickson_tsai",
+      "display_name": "Dickson Tsai",
+      "priority": "critical",
+      "profile_url": "https://x.com/dickson_tsai",
+      "notes": "Claude Code @ Anthropic, prev Google, Cruise, Apple",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T04:03:34Z",
+      "active": true
+    },
+    {
+      "handle": "@mikeyk",
+      "display_name": "Mike Krieger",
+      "priority": "critical",
+      "profile_url": "https://x.com/mikeyk",
+      "notes": "Building at Anthropic Labs, CPO at Anthropic, co-founder Instagram",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T04:03:34Z",
+      "active": true
+    },
+    {
+      "handle": "@claudeai",
+      "display_name": "Claude",
+      "priority": "critical",
+      "profile_url": "https://x.com/claudeai",
+      "notes": "Official Claude account",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T04:03:34Z",
+      "active": true
+    },
+    {
+      "handle": "@ClaudeCodeLog",
+      "display_name": "Claude Code Changelog",
+      "priority": "critical",
+      "profile_url": "https://x.com/ClaudeCodeLog",
+      "notes": "Fan account tracking Claude Code CLI, feature flag & prompt changes",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T04:03:34Z",
+      "active": true
+    },
+    {
+      "handle": "@AnthropicAI",
+      "display_name": "Anthropic",
+      "priority": "high",
+      "profile_url": "https://x.com/AnthropicAI",
+      "notes": "Official Anthropic account",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T06:30:00Z",
+      "active": true
+    },
+    {
+      "handle": "@alexalbert__",
+      "display_name": "Alex Albert",
+      "priority": "high",
+      "profile_url": "https://x.com/alexalbert__",
+      "notes": "Claude Relations @AnthropicAI",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T06:30:00Z",
+      "active": true
+    },
+    {
+      "handle": "@AmandaAskell",
+      "display_name": "Amanda Askell",
+      "priority": "high",
+      "profile_url": "https://x.com/AmandaAskell",
+      "notes": "Philosopher & ethicist at @AnthropicAI, character/personality work on Claude",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T06:30:00Z",
+      "active": true
+    },
+    {
+      "handle": "@jackclarkSF",
+      "display_name": "Jack Clark",
+      "priority": "high",
+      "profile_url": "https://x.com/jackclarkSF",
+      "notes": "Anthropic co-founder, policy, Import AI newsletter",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T06:30:00Z",
+      "active": true
+    },
+    {
+      "handle": "@ch402",
+      "display_name": "Chris Olah",
+      "priority": "high",
+      "profile_url": "https://x.com/ch402",
+      "notes": "Reverse engineering neural networks at @AnthropicAI, interpretability",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T06:30:00Z",
+      "active": true
+    },
+    {
+      "handle": "@Poita_",
+      "display_name": "Peter Alexander",
+      "priority": "high",
+      "profile_url": "https://x.com/Poita_",
+      "notes": "Software Engineer at @AnthropicAI working on MCP",
+      "source": "discovered",
+      "last_scanned": "2026-02-16T06:30:00Z",
+      "active": true
+    },
+    {
+      "handle": "@MarshallOfSound",
+      "display_name": "Samuel Attard",
+      "priority": "high",
+      "profile_url": "https://x.com/MarshallOfSound",
+      "notes": "Cowork at @AnthropicAI, Former Desktop at @SlackHQ, Eng @NotionHQ, Electron maintainer",
+      "source": "discovered",
+      "last_scanned": "2026-02-16T06:30:00Z",
+      "active": true
+    },
+    {
+      "handle": "@mc_anthropic",
+      "display_name": "Michael Cohen",
+      "priority": "high",
+      "profile_url": "https://x.com/mc_anthropic",
+      "notes": "Working on the @AnthropicAI API",
+      "source": "discovered",
+      "last_scanned": "2026-02-16T06:30:00Z",
+      "active": true
+    },
+    {
+      "handle": "@JeremyDanielFox",
+      "display_name": "Jeremy Fox",
+      "priority": "high",
+      "profile_url": "https://x.com/JeremyDanielFox",
+      "notes": "Building Claude @AnthropicAI, ex Google",
+      "source": "discovered",
+      "last_scanned": "2026-02-16T06:30:00Z",
+      "active": true
+    },
+    {
+      "handle": "@catherineols",
+      "display_name": "Catherine Olsson",
+      "priority": "high",
+      "profile_url": "https://x.com/catherineols",
+      "notes": "Building tools @AnthropicAI, prev OpenAI, Google Brain",
+      "source": "discovered",
+      "last_scanned": "2026-02-16T06:30:00Z",
+      "active": true
+    },
+    {
+      "handle": "@sweis",
+      "display_name": "Steve Weis",
+      "priority": "high",
+      "profile_url": "https://x.com/sweis",
+      "notes": "Software engineer at @anthropicai, cryptography, security",
+      "source": "discovered",
+      "last_scanned": "2026-02-16T06:30:00Z",
+      "active": true
+    },
+    {
+      "handle": "@skirano",
+      "display_name": "Pietro Schirano",
+      "priority": "high",
+      "profile_url": "https://x.com/skirano",
+      "notes": "CEO @magicpathai, previously @AnthropicAI, Creator of Claude Engineer, Sequential thinking MCP",
+      "source": "discovered",
+      "last_scanned": "2026-02-16T06:30:00Z",
+      "active": true
+    },
+    {
+      "handle": "@janleike",
+      "display_name": "Jan Leike",
+      "priority": "high",
+      "profile_url": "https://x.com/janleike",
+      "notes": "Alignment team lead @AnthropicAI, prev OpenAI & DeepMind",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T06:30:00Z",
+      "active": true
+    },
+    {
+      "handle": "@AlexTamkin",
+      "display_name": "Alex Tamkin",
+      "priority": "high",
+      "profile_url": "https://x.com/AlexTamkin",
+      "notes": "ML, science & society @AnthropicAI, Clio, Anthropic Economic Index, Claude Artifacts",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T06:30:00Z",
+      "active": true
+    },
+    {
+      "handle": "@DarioAmodei",
+      "display_name": "Dario Amodei",
+      "priority": "medium",
+      "profile_url": "https://x.com/DarioAmodei",
+      "notes": "Anthropic CEO",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@DanielaAmodei",
+      "display_name": "Daniela Amodei",
+      "priority": "medium",
+      "profile_url": "https://x.com/DanielaAmodei",
+      "notes": "Anthropic President",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@EvanHub",
+      "display_name": "Evan Hubinger",
+      "priority": "medium",
+      "profile_url": "https://x.com/EvanHub",
+      "notes": "Alignment Stress-Testing lead @AnthropicAI",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@TrentonBricken",
+      "display_name": "Trenton Bricken",
+      "priority": "medium",
+      "profile_url": "https://x.com/TrentonBricken",
+      "notes": "Research at @AnthropicAI, mechanistic interpretability",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@esindurmusnlp",
+      "display_name": "Esin Durmus",
+      "priority": "medium",
+      "profile_url": "https://x.com/esindurmusnlp",
+      "notes": "Researcher @anthropicai, LLM evaluation",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@saffronhuang",
+      "display_name": "Saffron Huang",
+      "priority": "medium",
+      "profile_url": "https://x.com/saffronhuang",
+      "notes": "Societal impacts researcher @AnthropicAI",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@EthanJPerez",
+      "display_name": "Ethan Perez",
+      "priority": "medium",
+      "profile_url": "https://x.com/EthanJPerez",
+      "notes": "LLM safety research, Anthropic-affiliated",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@_sholtodouglas",
+      "display_name": "Sholto Douglas",
+      "priority": "medium",
+      "profile_url": "https://x.com/_sholtodouglas",
+      "notes": "Scaling RL @AnthropicAI, ex DeepMind",
+      "source": "discovered",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@EvMill",
+      "display_name": "Evan Miller",
+      "priority": "medium",
+      "profile_url": "https://x.com/EvMill",
+      "notes": "Working @AnthropicAI, math/stats blogger",
+      "source": "discovered",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@YoMaggieVo",
+      "display_name": "Maggie Vo",
+      "priority": "medium",
+      "profile_url": "https://x.com/YoMaggieVo",
+      "notes": "Member of Technical Staff @AnthropicAI, prompt engineer",
+      "source": "discovered",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@oh_that_hat",
+      "display_name": "Hattie Zhou",
+      "priority": "medium",
+      "profile_url": "https://x.com/oh_that_hat",
+      "notes": "Building friendly AI @AnthropicAI",
+      "source": "discovered",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@yaaang",
+      "display_name": "Yang Zhang",
+      "priority": "medium",
+      "profile_url": "https://x.com/yaaang",
+      "notes": "Research engineer @AnthropicAI, prev MIT CSAIL, Google",
+      "source": "discovered",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@mlpowered",
+      "display_name": "Emmanuel Ameisen",
+      "priority": "medium",
+      "profile_url": "https://x.com/mlpowered",
+      "notes": "Interpretability/Finetuning @AnthropicAI, prev Stripe",
+      "source": "discovered",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@gasteigerjo",
+      "display_name": "Johannes Gasteiger",
+      "priority": "medium",
+      "profile_url": "https://x.com/gasteigerjo",
+      "notes": "Alignment Science at @AnthropicAI",
+      "source": "discovered",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@CoreyGMoen",
+      "display_name": "Corey Moen",
+      "priority": "medium",
+      "profile_url": "https://x.com/CoreyGMoen",
+      "notes": "Brand Web @AnthropicAI, prev Webflow",
+      "source": "discovered",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@karpathy",
+      "display_name": "Andrej Karpathy",
+      "priority": "low",
+      "profile_url": "https://x.com/karpathy",
+      "notes": "AI thought leader, prev Director of AI @ Tesla, founding team @ OpenAI",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@simonw",
+      "display_name": "Simon Willison",
+      "priority": "low",
+      "profile_url": "https://x.com/simonw",
+      "notes": "Creator of Datasette, frequent Claude/LLM commentary",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@OfficialLoganK",
+      "display_name": "Logan Kilpatrick",
+      "priority": "low",
+      "profile_url": "https://x.com/OfficialLoganK",
+      "notes": "Google AI Studio & Gemini API",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@leerob",
+      "display_name": "Lee Robinson",
+      "priority": "low",
+      "profile_url": "https://x.com/leerob",
+      "notes": "VP Product @vercel",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@code",
+      "display_name": "Visual Studio Code",
+      "priority": "low",
+      "profile_url": "https://x.com/code",
+      "notes": "VS Code editor, AI code editor ecosystem",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@LangChain",
+      "display_name": "LangChain",
+      "priority": "low",
+      "profile_url": "https://x.com/LangChain",
+      "notes": "Agent framework ecosystem",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@Vtrivedy10",
+      "display_name": "Viv",
+      "priority": "low",
+      "profile_url": "https://x.com/Vtrivedy10",
+      "notes": "Agents & evals @LangChain, prev @awscloud",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@JeffDean",
+      "display_name": "Jeff Dean",
+      "priority": "low",
+      "profile_url": "https://x.com/JeffDean",
+      "notes": "Chief Scientist, Google DeepMind",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@gdb",
+      "display_name": "Greg Brockman",
+      "priority": "low",
+      "profile_url": "https://x.com/gdb",
+      "notes": "President & Co-Founder @OpenAI",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@sama",
+      "display_name": "Sam Altman",
+      "priority": "low",
+      "profile_url": "https://x.com/sama",
+      "notes": "CEO @OpenAI",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@vercel",
+      "display_name": "Vercel",
+      "priority": "low",
+      "profile_url": "https://x.com/vercel",
+      "notes": "Frontend platform, AI SDK",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@bunjavascript",
+      "display_name": "Bun",
+      "priority": "low",
+      "profile_url": "https://x.com/bunjavascript",
+      "notes": "Bun JS runtime",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@tan_stack",
+      "display_name": "TanStack",
+      "priority": "low",
+      "profile_url": "https://x.com/tan_stack",
+      "notes": "TanStack libraries (React Query, Router, etc.)",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@OpenAI",
+      "display_name": "OpenAI",
+      "priority": "low",
+      "profile_url": "https://x.com/OpenAI",
+      "notes": "OpenAI official account",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@Google",
+      "display_name": "Google",
+      "priority": "low",
+      "profile_url": "https://x.com/Google",
+      "notes": "Google official account",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@XEng",
+      "display_name": "Engineering",
+      "priority": "low",
+      "profile_url": "https://x.com/XEng",
+      "notes": "X engineering updates",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@TechCrunch",
+      "display_name": "TechCrunch",
+      "priority": "low",
+      "profile_url": "https://x.com/TechCrunch",
+      "notes": "Tech news",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@GithubProjects",
+      "display_name": "GitHub Projects",
+      "priority": "low",
+      "profile_url": "https://x.com/GithubProjects",
+      "notes": "GitHub project management",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@claude_code",
+      "display_name": "Claude Code Community",
+      "priority": "low",
+      "profile_url": "https://x.com/claude_code",
+      "notes": "Community account for ClaudeCode projects, independent from @AnthropicAI",
+      "source": "discovered",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@EricBuess",
+      "display_name": "Eric Buess",
+      "priority": "low",
+      "profile_url": "https://x.com/EricBuess",
+      "notes": "AI dev, Anthropic Model Safety Bug Bounty, Claude Code enthusiast",
+      "source": "discovered",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@petergyang",
+      "display_name": "Peter Yang",
+      "priority": "low",
+      "profile_url": "https://x.com/petergyang",
+      "notes": "AI tutorials, Product at Roblox",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@nikitabier",
+      "display_name": "Nikita Bier",
+      "priority": "low",
+      "profile_url": "https://x.com/nikitabier",
+      "notes": "Head of product @x",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@huntlovell",
+      "display_name": "Hunter Lovell",
+      "priority": "low",
+      "profile_url": "https://x.com/huntlovell",
+      "notes": "Software engineer",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@_samirism",
+      "display_name": "samir",
+      "priority": "low",
+      "profile_url": "https://x.com/_samirism",
+      "notes": "",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@minchoi",
+      "display_name": "Min Choi",
+      "priority": "low",
+      "profile_url": "https://x.com/minchoi",
+      "notes": "",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@noahzweben",
+      "display_name": "Noah Zweben",
+      "priority": "low",
+      "profile_url": "https://x.com/noahzweben",
+      "notes": "",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@gabemulley",
+      "display_name": "Gabe Mulley",
+      "priority": "low",
+      "profile_url": "https://x.com/gabemulley",
+      "notes": "",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@The_Whole_Daisy",
+      "display_name": "Daisy Hollman",
+      "priority": "low",
+      "profile_url": "https://x.com/The_Whole_Daisy",
+      "notes": "",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@OfirPress",
+      "display_name": "Ofir Press",
+      "priority": "low",
+      "profile_url": "https://x.com/OfirPress",
+      "notes": "",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    },
+    {
+      "handle": "@ChrisGPotts",
+      "display_name": "Christopher Potts",
+      "priority": "low",
+      "profile_url": "https://x.com/ChrisGPotts",
+      "notes": "",
+      "source": "following-list",
+      "last_scanned": "2026-02-16T08:00:00Z",
+      "active": true
+    }
+  ],
+  "priority_levels": {
+    "critical": "Core Claude Code team - check every scan",
+    "high": "Anthropic engineering / developer relations - check every scan",
+    "medium": "Anthropic leadership / research / broader team - check daily",
+    "low": "Adjacent ecosystem / community - check weekly"
+  },
+  "discover_searches": [
+    {
+      "query": "\"claude code\" from:verified",
+      "description": "Find verified accounts tweeting about Claude Code"
+    },
+    {
+      "query": "\"anthropic\" \"claude\" engineer OR developer",
+      "description": "Find Anthropic engineers discussing Claude"
+    },
+    {
+      "query": "\"claude code\" shipped OR launched OR released",
+      "description": "Find accounts announcing Claude Code features"
+    },
+    {
+      "query": "\"@anthropicai\" claude code tip OR trick OR feature",
+      "description": "Find accounts sharing Claude Code tips that mention Anthropic"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-openai-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-openai-dotnet",
+  "branch": "main",
+  "sha": "e904c80537fd24db73a99fd5a125d5b0d24735c3",
+  "source": "manual"
+}

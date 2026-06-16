@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "audit-log",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/audit-log",
+  "branch": "main",
+  "sha": "19edaad12adb6d783c6cf0689ac9c8fa3f33d80f",
+  "source": "manual"
+}

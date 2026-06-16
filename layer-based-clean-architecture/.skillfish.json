@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "layer-based-clean-architecture",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/flutter/layer-based-clean-architecture",
+  "branch": "main",
+  "sha": "99c63e541bb675d5c85f67dcaa646f84023aef6e",
+  "source": "manual"
+}

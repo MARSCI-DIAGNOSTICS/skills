@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "market-research",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-archive/harness/.agents/skills/market-research",
+  "branch": "main",
+  "sha": "0e7cffd2cdaa5cc3cceaf93dacd6e970b8141c72",
+  "source": "manual"
+}

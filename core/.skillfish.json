@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "core",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/golang/core",
+  "branch": "main",
+  "sha": "30474ddd58ebfca42beb24f02e314c7a70ed9e36",
+  "source": "manual"
+}

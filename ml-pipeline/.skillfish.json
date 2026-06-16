@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ml-pipeline",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/ml-pipeline",
+  "branch": "main",
+  "sha": "1cbde07c33a3c293dedb50f68fd13fa8c2fda8c3",
+  "source": "manual"
+}

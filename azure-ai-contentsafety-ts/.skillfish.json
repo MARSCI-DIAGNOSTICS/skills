@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-contentsafety-ts",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-contentsafety-ts",
+  "branch": "main",
+  "sha": "5e9371372fb7469045da33606d120ed5a73296c0",
+  "source": "manual"
+}

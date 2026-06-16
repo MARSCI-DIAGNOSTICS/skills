@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "conductor-status",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/conductor-status",
+  "branch": "main",
+  "sha": "e5251a5944b3bcd55c4037dca756b6ee91d401f1",
+  "source": "manual"
+}

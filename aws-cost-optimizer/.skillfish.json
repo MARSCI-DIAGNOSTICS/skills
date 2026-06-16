@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aws-cost-optimizer",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/aws-cost-optimizer",
+  "branch": "main",
+  "sha": "282cd5fc811ed57001c3278ddfa345c06e4dd123",
+  "source": "manual"
+}

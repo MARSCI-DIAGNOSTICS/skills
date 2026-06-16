@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "next-best-practices",
+  "owner": "hans3010",
+  "repo": "hanstec-automate",
+  "path": ".agents/skills/next-best-practices",
+  "branch": "main",
+  "sha": "ad17eb27952b39a6ab0061bd50e8a2213b63a3ec",
+  "source": "manual"
+}

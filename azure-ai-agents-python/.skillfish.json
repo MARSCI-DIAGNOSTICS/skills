@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-agents-python",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-agents-python",
+  "branch": "main",
+  "sha": "6ecc415ca882a300942237ea45779b9cd20fee07",
+  "source": "manual"
+}

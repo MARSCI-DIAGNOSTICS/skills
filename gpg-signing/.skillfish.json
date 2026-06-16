@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gpg-signing",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/git/skills/gpg-signing",
+  "branch": "main",
+  "sha": "b5b65283e27cd4e20771cc69283a53e25b6774fd",
+  "source": "manual"
+}

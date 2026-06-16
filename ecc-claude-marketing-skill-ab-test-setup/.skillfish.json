@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-claude-marketing-skill-ab-test-setup",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-claude-marketing-skill-ab-test-setup",
+  "branch": "main",
+  "sha": "3243b25bf03abf7b4d34130e5578665f60369a26",
+  "source": "manual"
+}

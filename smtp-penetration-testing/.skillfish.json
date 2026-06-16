@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "smtp-penetration-testing",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/smtp-penetration-testing",
+  "branch": "main",
+  "sha": "4f8d1590c564c5f4c28011c2ad845693f81aba49",
+  "source": "manual"
+}

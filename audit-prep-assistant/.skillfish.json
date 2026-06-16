@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "audit-prep-assistant",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/building-secure-contracts/skills/audit-prep-assistant",
+  "branch": "main",
+  "sha": "8a2b9e37f8f29362850d8ad4e138ff2ddc8df6b7",
+  "source": "manual"
+}

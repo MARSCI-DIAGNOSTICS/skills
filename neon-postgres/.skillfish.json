@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "neon-postgres",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/neon-postgres",
+  "branch": "main",
+  "sha": "71380fcc9e074447fb6abc9bc365f35b9f06993c",
+  "source": "manual"
+}

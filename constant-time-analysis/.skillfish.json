@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "constant-time-analysis",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/constant-time-analysis/skills/constant-time-analysis",
+  "branch": "main",
+  "sha": "d6a669aa3e7ca44080d3561106042c3d9965808d",
+  "source": "manual"
+}

@@ -1,0 +1,12 @@
+# Milan Jovanovic Blog Skill Dependencies
+# Requires Python 3.13+
+
+# Required
+pyyaml==6.0.2
+
+# Optional (for enhanced scraping)
+# These are used by the scrape_blog.py script but scraping
+# is typically done via Claude using Firecrawl MCP
+requests==2.32.4
+beautifulsoup4==4.12.3
+markdownify==0.14.1

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aws-iam-best-practices",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/security/aws-iam-best-practices",
+  "branch": "main",
+  "sha": "fc06e34e35d87002eff3a823650a81fd76cf6342",
+  "source": "manual"
+}

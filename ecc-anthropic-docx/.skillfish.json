@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-anthropic-docx",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-anthropic-docx",
+  "branch": "main",
+  "sha": "e5d7d9b417c9d6d5dd420a1e2db74f50dc04096a",
+  "source": "manual"
+}

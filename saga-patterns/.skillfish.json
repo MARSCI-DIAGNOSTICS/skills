@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "saga-patterns",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/event-modeling/skills/saga-patterns",
+  "branch": "main",
+  "sha": "7ee822f9f48b2b24c6d14f51dd36fa25880a0659",
+  "source": "manual"
+}

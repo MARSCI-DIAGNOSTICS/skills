@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "chore",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/chore",
+  "branch": "main",
+  "sha": "fde7fdfbabe927f645956d2410aab1f7148f9aea",
+  "source": "manual"
+}

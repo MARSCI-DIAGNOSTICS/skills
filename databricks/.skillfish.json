@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "databricks",
+  "owner": "harutsugu-namitsuki",
+  "repo": "databricks_datamng",
+  "path": ".claude/skills/databricks-agent-skills-main/skills/databricks",
+  "branch": "main",
+  "sha": "a87b586448393cc69887bbad719d5ee080913dce",
+  "source": "manual"
+}

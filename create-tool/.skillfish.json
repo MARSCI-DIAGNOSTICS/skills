@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "create-tool",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/create-tool",
+  "branch": "main",
+  "sha": "06f41791f15821c6ce2576977962336e8e936cbb",
+  "source": "manual"
+}

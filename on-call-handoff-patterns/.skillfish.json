@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "on-call-handoff-patterns",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/on-call-handoff-patterns",
+  "branch": "main",
+  "sha": "dd01889c8515add6305e073609d017d6b9aca588",
+  "source": "manual"
+}

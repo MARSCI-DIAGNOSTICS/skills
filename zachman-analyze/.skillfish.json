@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zachman-analyze",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/enterprise-architecture/skills/zachman-analyze",
+  "branch": "main",
+  "sha": "ee21564adab38bb9a67f17d637b1b9bdee8d919d",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "production-grade",
+  "owner": "nagisanzenin",
+  "repo": "claude-code-production-grade-plugin",
+  "path": "skills/production-grade",
+  "branch": "main",
+  "sha": "b3583293da5abc466d8d953e67176260819f668f",
+  "source": "manual"
+}

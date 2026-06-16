@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fuzzing-obstacles",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/testing-handbook-skills/skills/fuzzing-obstacles",
+  "branch": "main",
+  "sha": "6fcf790938d8efdcf6ad5eb339fd7409b096859f",
+  "source": "manual"
+}

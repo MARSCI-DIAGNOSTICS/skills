@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "claude-d3js-skill",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/claude-d3js-skill",
+  "branch": "main",
+  "sha": "88319e17a0e664a0dac45b6f0957164b4dbee669",
+  "source": "manual"
+}

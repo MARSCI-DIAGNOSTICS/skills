@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "permission-management",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/permission-management",
+  "branch": "main",
+  "sha": "91a698c545b0fbfbcf703669b1bff35157bfcb88",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ea-dashboard",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/enterprise-architecture/skills/ea-dashboard",
+  "branch": "main",
+  "sha": "154956631ffd2ff8b65294149b39ee0801b69af5",
+  "source": "manual"
+}

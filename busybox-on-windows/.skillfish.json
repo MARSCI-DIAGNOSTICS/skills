@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "busybox-on-windows",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/busybox-on-windows",
+  "branch": "main",
+  "sha": "27729fb6b5dd8b493182d648a03d95c514f8675e",
+  "source": "manual"
+}

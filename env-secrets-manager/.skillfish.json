@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "env-secrets-manager",
+  "owner": "zhangzhang-111-i",
+  "repo": "claude-skills111",
+  "path": "engineering/env-secrets-manager",
+  "branch": "main",
+  "sha": "bb127c0ea0d52afb79bd300eac2909ad86462f2b",
+  "source": "manual"
+}

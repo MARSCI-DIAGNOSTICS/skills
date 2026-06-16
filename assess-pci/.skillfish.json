@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "assess-pci",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/compliance-planning/skills/assess-pci",
+  "branch": "main",
+  "sha": "169766cbf84905002a02632a107a51d59387d881",
+  "source": "manual"
+}

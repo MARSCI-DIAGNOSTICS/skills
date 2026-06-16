@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "k8s-manifest-generator",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/k8s-manifest-generator",
+  "branch": "main",
+  "sha": "38f18f1e89f078409bab408a5d3c26abd3629ca4",
+  "source": "manual"
+}

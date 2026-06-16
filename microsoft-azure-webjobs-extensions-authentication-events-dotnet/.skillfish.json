@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "microsoft-azure-webjobs-extensions-authentication-events-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/microsoft-azure-webjobs-extensions-authentication-events-dotnet",
+  "branch": "main",
+  "sha": "91a6d3049438f06c08421c8384df2da55df53bdc",
+  "source": "manual"
+}

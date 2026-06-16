@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aws-security-audit",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/security/aws-security-audit",
+  "branch": "main",
+  "sha": "93db18ff05a0c747cf0c2a498546a4a6e57c6560",
+  "source": "manual"
+}

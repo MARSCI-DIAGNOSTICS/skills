@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-compute-batch-java",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-compute-batch-java",
+  "branch": "main",
+  "sha": "52cc5a50d28eab16141e63b4d497814ab2137f3d",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "minimum-viable-agentic",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/minimum-viable-agentic",
+  "branch": "main",
+  "sha": "75e2d449a0c6bd67ce7c54edcee23e47ea51d567",
+  "source": "manual"
+}

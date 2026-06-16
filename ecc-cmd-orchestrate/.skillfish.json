@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-cmd-orchestrate",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-cmd-orchestrate",
+  "branch": "main",
+  "sha": "b44a10879e4566835e8d5cb44c759db76866b339",
+  "source": "manual"
+}

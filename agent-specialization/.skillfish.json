@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-specialization",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/agent-specialization",
+  "branch": "main",
+  "sha": "bd790030c4da1494e0e7991796875aa3655e0db2",
+  "source": "manual"
+}

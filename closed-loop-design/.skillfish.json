@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "closed-loop-design",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/closed-loop-design",
+  "branch": "main",
+  "sha": "911072f095223e4750b1ec6c5cb2e794a3270e71",
+  "source": "manual"
+}

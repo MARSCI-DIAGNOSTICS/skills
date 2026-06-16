@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "llm-serving-patterns",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/llm-serving-patterns",
+  "branch": "main",
+  "sha": "d74c441f4025975bea66efb74a8b103044a5caf9",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "saga-orchestration",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/saga-orchestration",
+  "branch": "main",
+  "sha": "9ba1cc50f52addc31a1366cbd8a812d2a17924d0",
+  "source": "manual"
+}

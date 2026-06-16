@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "grafana-dashboards",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/grafana-dashboards",
+  "branch": "main",
+  "sha": "baf6662bb1dfd3f406f959314c12a2935a88d97e",
+  "source": "manual"
+}

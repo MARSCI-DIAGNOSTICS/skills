@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "constitution",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/spec-driven-development/skills/constitution",
+  "branch": "main",
+  "sha": "cb742a79b80fad01b85fe47ac35770b9e1be6451",
+  "source": "manual"
+}

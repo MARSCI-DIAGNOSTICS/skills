@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "kubernetes-deployment",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/kubernetes-deployment",
+  "branch": "main",
+  "sha": "f3525cc0abda7a52151835a906c87020d413ed96",
+  "source": "manual"
+}

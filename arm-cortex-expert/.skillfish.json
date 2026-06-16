@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "arm-cortex-expert",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/arm-cortex-expert",
+  "branch": "main",
+  "sha": "7bee65c6fc00d39cb6c43265f537f837e75424ac",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "deploy",
+  "owner": "mickaelmamani",
+  "repo": "saas-toolkit",
+  "path": "saas-toolkit/skills/deploy",
+  "branch": "main",
+  "sha": "e6ccb4f20d2739c11b225559142e2d89668446ce",
+  "source": "manual"
+}

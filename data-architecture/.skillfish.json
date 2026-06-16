@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "data-architecture",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/data-architecture",
+  "branch": "main",
+  "sha": "4a441e8417676ccc1d7e231f34908670d43d34bc",
+  "source": "manual"
+}

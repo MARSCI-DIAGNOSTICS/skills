@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sync-context",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/google-ecosystem/skills/sync-context",
+  "branch": "main",
+  "sha": "c697274fd49e0aaa6c7635f0a04f1774a73c02e9",
+  "source": "manual"
+}

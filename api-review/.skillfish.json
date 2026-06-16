@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "api-review",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/api-review",
+  "branch": "main",
+  "sha": "372f335d2bf314a79203ae45de18b2ec4d0e1407",
+  "source": "manual"
+}

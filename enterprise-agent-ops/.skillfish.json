@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "enterprise-agent-ops",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-sync/work/ecc/docs/zh-CN/skills/enterprise-agent-ops",
+  "branch": "main",
+  "sha": "0e246d290473980c30dfb92a6bfdc826fa547a9f",
+  "source": "manual"
+}

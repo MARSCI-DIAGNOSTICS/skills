@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "red-team-tools",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/red-team-tools",
+  "branch": "main",
+  "sha": "ba8400f52be12fb333b8acd86ea59a28389721d7",
+  "source": "manual"
+}

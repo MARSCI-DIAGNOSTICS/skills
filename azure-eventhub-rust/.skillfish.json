@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-eventhub-rust",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-eventhub-rust",
+  "branch": "main",
+  "sha": "faf33c71a0d9010bfa96a31bd8d55efb79475159",
+  "source": "manual"
+}

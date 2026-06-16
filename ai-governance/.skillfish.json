@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ai-governance",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/compliance-planning/skills/ai-governance",
+  "branch": "main",
+  "sha": "5cf5940adbb6bb487fc17259ae474714c8ce15ed",
+  "source": "manual"
+}

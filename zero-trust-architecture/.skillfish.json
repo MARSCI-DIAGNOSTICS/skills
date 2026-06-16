@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zero-trust-architecture",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/zero-trust-architecture",
+  "branch": "main",
+  "sha": "f4d684ed7c258921c8eae11ad931cc862a27f2ac",
+  "source": "manual"
+}

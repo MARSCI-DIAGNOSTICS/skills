@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-communication-callautomation-java",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-communication-callautomation-java",
+  "branch": "main",
+  "sha": "daf1a83ab7fea8c1300138a35139e91224722125",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "vercel-automation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/vercel-automation",
+  "branch": "main",
+  "sha": "bbe72159da86576a59c04848a4b73a5f84c46e49",
+  "source": "manual"
+}

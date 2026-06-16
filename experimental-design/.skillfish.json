@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "experimental-design",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "AutoResearchClaw/researchclaw/skills/builtin/experiment/experimental-design",
+  "branch": "main",
+  "sha": "011233d7a6f3c65f3d6e58a19c7b599396b51b61",
+  "source": "manual"
+}

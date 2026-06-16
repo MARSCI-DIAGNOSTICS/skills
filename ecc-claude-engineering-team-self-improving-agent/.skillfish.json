@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-claude-engineering-team-self-improving-agent",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-claude-engineering-team-self-improving-agent",
+  "branch": "main",
+  "sha": "f69465c556967e85a459fda1ac7a5709a515a730",
+  "source": "manual"
+}

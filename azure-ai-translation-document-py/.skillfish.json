@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-translation-document-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-translation-document-py",
+  "branch": "main",
+  "sha": "f3a0744e6fae702097f27787d8dc34efc31ee4a1",
+  "source": "manual"
+}

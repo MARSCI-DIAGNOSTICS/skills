@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agenthub",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering/agenthub",
+  "branch": "main",
+  "sha": "c4f7ae6f8dcc033a9a6581e42afad825063f100e",
+  "source": "manual"
+}

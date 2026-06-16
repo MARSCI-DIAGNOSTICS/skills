@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "spec-to-repo",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "product-team/skills/spec-to-repo",
+  "branch": "main",
+  "sha": "bc9de20563f0ceed102ad2a8d4f7c4f78a07c12e",
+  "source": "manual"
+}

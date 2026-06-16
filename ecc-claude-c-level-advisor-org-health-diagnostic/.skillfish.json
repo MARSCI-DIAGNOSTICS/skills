@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-claude-c-level-advisor-org-health-diagnostic",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-claude-c-level-advisor-org-health-diagnostic",
+  "branch": "main",
+  "sha": "614974eb0b0a9047b8832dd5a3ceb16ccc0ccb55",
+  "source": "manual"
+}

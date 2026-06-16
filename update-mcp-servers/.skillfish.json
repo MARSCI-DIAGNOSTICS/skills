@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "update-mcp-servers",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/update-mcp-servers",
+  "branch": "main",
+  "sha": "759c2e8cdac3d913df7ca07aef365dea7268080b",
+  "source": "manual"
+}

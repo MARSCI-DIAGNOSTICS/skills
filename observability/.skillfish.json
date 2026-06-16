@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "observability",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nestjs/observability",
+  "branch": "main",
+  "sha": "d7bbf96051e31f69c0f7d6c9f71366c8b267c2ca",
+  "source": "manual"
+}

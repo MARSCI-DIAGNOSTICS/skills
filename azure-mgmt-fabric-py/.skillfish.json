@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-mgmt-fabric-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-mgmt-fabric-py",
+  "branch": "main",
+  "sha": "60de3563c6bb246857623475521d74cc90e61efc",
+  "source": "manual"
+}

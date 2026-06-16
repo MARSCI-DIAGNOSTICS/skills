@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-agents-persistent-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-agents-persistent-dotnet",
+  "branch": "main",
+  "sha": "f1f13a56f6991820c67ebf06376ea3ea7f2e6e7d",
+  "source": "manual"
+}

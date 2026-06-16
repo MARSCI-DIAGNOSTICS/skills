@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "investor-materials",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-archive/harness/.agents/skills/investor-materials",
+  "branch": "main",
+  "sha": "698a38d34fdab1facd8f1b9ec4d6750fcd02ffbb",
+  "source": "manual"
+}

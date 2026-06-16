@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "patch",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/patch",
+  "branch": "main",
+  "sha": "04f096fa34d85c43a04e04a86a980b6e91937bdd",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-claude-c-level-advisor-decision-logger",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-claude-c-level-advisor-decision-logger",
+  "branch": "main",
+  "sha": "72edd6b7fd94459d64f0d85bad0f0ad24de593a0",
+  "source": "manual"
+}

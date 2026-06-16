@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-claude-engineering-release-manager",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-claude-engineering-release-manager",
+  "branch": "main",
+  "sha": "85d02cf626a1a10e42684454ace34b3e70dc1e62",
+  "source": "manual"
+}

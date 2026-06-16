@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mock-interview",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/mock-interview",
+  "branch": "main",
+  "sha": "ba42179c2b113ac22c5f46aba5109a3e25747f78",
+  "source": "manual"
+}

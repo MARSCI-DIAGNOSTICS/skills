@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "micronaut-reactive",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/java/micronaut-reactive",
+  "branch": "main",
+  "sha": "fc9afea31447c26a83b885338f066b0163e692bc",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "debug-buttercup",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/debug-buttercup/skills/debug-buttercup",
+  "branch": "main",
+  "sha": "fe9ca375f5e76a417cbc32777dbec8e1bf4149f3",
+  "source": "manual"
+}

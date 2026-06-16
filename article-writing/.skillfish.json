@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "article-writing",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-archive/harness/.agents/skills/article-writing",
+  "branch": "main",
+  "sha": "77cdf6c07d366295d03d9c0b1470e2a950a749ec",
+  "source": "manual"
+}

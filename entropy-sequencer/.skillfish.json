@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "entropy-sequencer",
+  "owner": "plurigrid",
+  "repo": "asi",
+  "path": "ies/music-topos/.agents/skills/entropy-sequencer",
+  "branch": "main",
+  "sha": "a905c494eb2af05368790862393a8e3218819066",
+  "source": "manual"
+}

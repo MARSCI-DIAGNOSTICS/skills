@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "echo-framework",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/golang/echo-framework",
+  "branch": "main",
+  "sha": "031908786f9d575fdadac15cc98cdd9598b22064",
+  "source": "manual"
+}

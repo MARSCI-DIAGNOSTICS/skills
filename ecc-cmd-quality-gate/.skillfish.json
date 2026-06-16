@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-cmd-quality-gate",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-cmd-quality-gate",
+  "branch": "main",
+  "sha": "e4d4994c5576968196b1c23460a0927a1a8083a9",
+  "source": "manual"
+}

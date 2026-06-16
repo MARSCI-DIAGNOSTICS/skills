@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bevy-ecs-expert",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/bevy-ecs-expert",
+  "branch": "main",
+  "sha": "5abbf3e27bbca3956098157055d21d545c6ac0f3",
+  "source": "manual"
+}

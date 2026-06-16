@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rocket",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/rust/rocket",
+  "branch": "main",
+  "sha": "a2776c657293d11b13db43821be0bed9603a7640",
+  "source": "manual"
+}

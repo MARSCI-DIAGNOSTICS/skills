@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "finance-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "finance/skills/finance-skills",
+  "branch": "main",
+  "sha": "a0dbefd89606b55bf0ec68ab8a681731578f7610",
+  "source": "manual"
+}

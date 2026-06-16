@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sysml-modeling",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/formal-specification/skills/sysml-modeling",
+  "branch": "main",
+  "sha": "580d1fa191019e5116e30433dddc06c8377cc418",
+  "source": "manual"
+}

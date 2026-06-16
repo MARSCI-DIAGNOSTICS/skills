@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "context-prime",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/context-prime",
+  "branch": "main",
+  "sha": "de8721d710389b2b86dbe70a6109541ce4fa596f",
+  "source": "manual"
+}

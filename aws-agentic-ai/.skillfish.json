@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aws-agentic-ai",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/aws-agentic-ai",
+  "branch": "main",
+  "sha": "71c536bd79ef261853feec42a8ffd4034bc233f0",
+  "source": "manual"
+}

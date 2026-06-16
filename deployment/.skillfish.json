@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "deployment",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nestjs/deployment",
+  "branch": "main",
+  "sha": "8a3d5527911757edc32d45a84576e0d90bef802a",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "eval-harness",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-archive/harness/.agents/skills/eval-harness",
+  "branch": "main",
+  "sha": "671c03cc45bfb0e8da42fcd8f343be8b5a099e98",
+  "source": "manual"
+}

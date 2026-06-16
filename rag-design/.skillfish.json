@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rag-design",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/rag-design",
+  "branch": "main",
+  "sha": "c633daf061b053f84b6a0f2894c9c11a99a0fd58",
+  "source": "manual"
+}

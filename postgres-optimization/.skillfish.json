@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "postgres-optimization",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "awesome-claude-code-toolkit/skills/postgres-optimization",
+  "branch": "main",
+  "sha": "303d51c8c710a4892790e301d87e31023bb73838",
+  "source": "manual"
+}

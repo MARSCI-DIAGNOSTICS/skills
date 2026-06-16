@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agents-v2-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/agents-v2-py",
+  "branch": "main",
+  "sha": "26c7ff1af8b6079b2192616514d7f7a6cbcb09df",
+  "source": "manual"
+}

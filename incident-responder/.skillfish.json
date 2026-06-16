@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "incident-responder",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/incident-responder",
+  "branch": "main",
+  "sha": "b53d0c8c563d273b717f658b5ec17c5d64075163",
+  "source": "manual"
+}

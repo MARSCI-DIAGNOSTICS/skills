@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "internal-comms-anthropic",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/internal-comms-anthropic",
+  "branch": "main",
+  "sha": "ecd4d264afcc70d46232573ef8a69521ba326d39",
+  "source": "manual"
+}

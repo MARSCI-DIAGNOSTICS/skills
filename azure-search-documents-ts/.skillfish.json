@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-search-documents-ts",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-search-documents-ts",
+  "branch": "main",
+  "sha": "6ca9b6fc3009efd0b2bd741576956fe3422eca80",
+  "source": "manual"
+}

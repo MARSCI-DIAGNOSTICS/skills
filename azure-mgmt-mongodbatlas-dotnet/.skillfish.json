@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-mgmt-mongodbatlas-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-mgmt-mongodbatlas-dotnet",
+  "branch": "main",
+  "sha": "a3b4d5c85264db7aad4680b4ff520888574b31ef",
+  "source": "manual"
+}

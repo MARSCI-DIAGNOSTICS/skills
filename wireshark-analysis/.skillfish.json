@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "wireshark-analysis",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/wireshark-analysis",
+  "branch": "main",
+  "sha": "43a15430d4dd7d15de764d3722600dbb26b9481e",
+  "source": "manual"
+}

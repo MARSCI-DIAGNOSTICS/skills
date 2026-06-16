@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "resilience-patterns",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/enterprise-architecture/skills/resilience-patterns",
+  "branch": "main",
+  "sha": "6e5df795e95d44c04930011ab8c0a4ec09ef4ef7",
+  "source": "manual"
+}

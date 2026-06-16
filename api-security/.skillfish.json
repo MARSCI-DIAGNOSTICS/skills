@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "api-security",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/security/skills/api-security",
+  "branch": "main",
+  "sha": "291922382560251ee5fde6d0fe71b83796ac1bf8",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-o-rama",
+  "owner": "plurigrid",
+  "repo": "asi",
+  "path": "ies/music-topos/.agents/skills/agent-o-rama",
+  "branch": "main",
+  "sha": "8aea86e3d753015a769a6524456850cb4a584562",
+  "source": "manual"
+}

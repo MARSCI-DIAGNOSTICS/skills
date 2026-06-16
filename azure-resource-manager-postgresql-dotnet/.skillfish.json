@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-resource-manager-postgresql-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-resource-manager-postgresql-dotnet",
+  "branch": "main",
+  "sha": "bacc05c95c031b376a47f4a7e2888801d3084e41",
+  "source": "manual"
+}

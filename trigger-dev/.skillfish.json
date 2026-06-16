@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "trigger-dev",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/trigger-dev",
+  "branch": "main",
+  "sha": "8e2dc4875ff9cc524ee797a08ca6d9dcd2c5fc38",
+  "source": "manual"
+}

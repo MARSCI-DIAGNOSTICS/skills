@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "soc2-audit-prep",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "compliance-os/skills/soc2-audit-prep",
+  "branch": "main",
+  "sha": "5f5cdc3d4e5e9480773c34ca23e42d4b7b27b68c",
+  "source": "manual"
+}

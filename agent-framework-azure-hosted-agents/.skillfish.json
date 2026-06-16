@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-framework-azure-hosted-agents",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/agent-framework-azure-hosted-agents",
+  "branch": "main",
+  "sha": "dc07baa342a3a77c59d7719a4df01f12b9711fb5",
+  "source": "manual"
+}

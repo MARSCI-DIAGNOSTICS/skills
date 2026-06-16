@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "review-workflow-design",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/review-workflow-design",
+  "branch": "main",
+  "sha": "b80eb2005d858432ee15203e808b6a5afc6188b9",
+  "source": "manual"
+}

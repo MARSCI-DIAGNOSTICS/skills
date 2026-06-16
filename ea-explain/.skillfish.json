@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ea-explain",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/enterprise-architecture/skills/ea-explain",
+  "branch": "main",
+  "sha": "6be3d292e814d9d5fbfd306ae038cf893497aeb5",
+  "source": "manual"
+}

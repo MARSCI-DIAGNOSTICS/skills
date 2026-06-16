@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "audit-agent-consolidation",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/audit-agent-consolidation",
+  "branch": "main",
+  "sha": "6e93cac78faf7d07242456962e3545bf534b9690",
+  "source": "manual"
+}

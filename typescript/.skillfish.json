@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "typescript",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/react/typescript",
+  "branch": "main",
+  "sha": "6500a45dd68073a4b9320815de128c9be534f05a",
+  "source": "manual"
+}

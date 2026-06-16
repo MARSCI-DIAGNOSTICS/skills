@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "file-uploads",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nestjs/file-uploads",
+  "branch": "main",
+  "sha": "1b7c8b872dac5ab8ca0e52faee1010337ddaa80c",
+  "source": "manual"
+}

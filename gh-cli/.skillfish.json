@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gh-cli",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/.codex/skills/gh-cli",
+  "branch": "main",
+  "sha": "5c662c2c43dcd166dc02ab0e650f684eafda69bf",
+  "source": "manual"
+}

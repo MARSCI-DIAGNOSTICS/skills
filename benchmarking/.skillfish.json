@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "benchmarking",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/business-analysis/skills/benchmarking",
+  "branch": "main",
+  "sha": "03cf69ef62ac76bfa869d2901b226e0c49245c7e",
+  "source": "manual"
+}

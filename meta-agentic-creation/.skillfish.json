@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "meta-agentic-creation",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/meta-agentic-creation",
+  "branch": "main",
+  "sha": "8171f89601d2ebda6875eef14602852a08c2f150",
+  "source": "manual"
+}

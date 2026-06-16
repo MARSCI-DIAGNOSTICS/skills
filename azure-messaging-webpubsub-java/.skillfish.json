@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-messaging-webpubsub-java",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-messaging-webpubsub-java",
+  "branch": "main",
+  "sha": "6fb74efdcab4dc3ccdbee8fd70da84281b1a7dba",
+  "source": "manual"
+}

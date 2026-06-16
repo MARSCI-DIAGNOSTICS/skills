@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "postmark-automation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/postmark-automation",
+  "branch": "main",
+  "sha": "311ef8f734858c24554e6b766af49aac0d7c29ed",
+  "source": "manual"
+}

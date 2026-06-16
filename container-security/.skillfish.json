@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "container-security",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/security/skills/container-security",
+  "branch": "main",
+  "sha": "1ad0f6225c47cc71d14ec4cb7d7518a0c26c1e75",
+  "source": "manual"
+}

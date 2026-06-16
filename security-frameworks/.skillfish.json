@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-frameworks",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/compliance-planning/skills/security-frameworks",
+  "branch": "main",
+  "sha": "2441081f91f6b6ceef8debc2835b1da93bb176e1",
+  "source": "manual"
+}

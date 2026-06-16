@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "jepsen-testing",
+  "owner": "plurigrid",
+  "repo": "asi",
+  "path": ".claude/skills/jepsen-testing",
+  "branch": "main",
+  "sha": "32cda16076a67318ddf981018d9f29601d2b03b6",
+  "source": "manual"
+}

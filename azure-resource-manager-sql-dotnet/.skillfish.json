@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-resource-manager-sql-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-resource-manager-sql-dotnet",
+  "branch": "main",
+  "sha": "63bb62380cbda2ab4761db0b679d43708146ae45",
+  "source": "manual"
+}

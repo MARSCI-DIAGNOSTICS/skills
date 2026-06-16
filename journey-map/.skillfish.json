@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "journey-map",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/requirements-elicitation/skills/journey-map",
+  "branch": "main",
+  "sha": "056fac69c4f15ac78fd26deec4bad507fc248536",
+  "source": "manual"
+}

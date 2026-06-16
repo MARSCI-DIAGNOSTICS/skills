@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-enterprise-agent-ops",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-enterprise-agent-ops",
+  "branch": "main",
+  "sha": "c66c2951ba5c867290fcd9a2e2d79060e2aa32ef",
+  "source": "manual"
+}

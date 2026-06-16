@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "stripe-integration",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/stripe-integration",
+  "branch": "main",
+  "sha": "3cc9bc11dd1986a9aedec9fba8c4dd1959776d37",
+  "source": "manual"
+}

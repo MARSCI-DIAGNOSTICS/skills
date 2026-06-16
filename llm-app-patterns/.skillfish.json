@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "llm-app-patterns",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/llm-app-patterns",
+  "branch": "main",
+  "sha": "560e9139b95a1c4bbf413c1d22e8be3ebc542bd0",
+  "source": "manual"
+}

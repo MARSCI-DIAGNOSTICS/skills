@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "status-line-customization",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/status-line-customization",
+  "branch": "main",
+  "sha": "fb39298b368a42b60c30d75ff74177468327f931",
+  "source": "manual"
+}

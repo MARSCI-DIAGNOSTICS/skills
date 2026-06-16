@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-requirement-extraction",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/security-requirement-extraction",
+  "branch": "main",
+  "sha": "bdf19830c933f9ff80cebf9bde2b4f94cf2380c1",
+  "source": "manual"
+}

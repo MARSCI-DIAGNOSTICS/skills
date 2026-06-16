@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "composable-step-design",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/composable-step-design",
+  "branch": "main",
+  "sha": "738477b3fe29af6ef278373f4ef180282fc91875",
+  "source": "manual"
+}

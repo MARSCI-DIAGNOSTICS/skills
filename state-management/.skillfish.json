@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "state-management",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nextjs/state-management",
+  "branch": "main",
+  "sha": "00992beb1a813e1075381d269effec8f3d055450",
+  "source": "manual"
+}

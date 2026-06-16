@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rag-engineer",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/rag-engineer",
+  "branch": "main",
+  "sha": "62dfdd57e75547dfd76645eb995e8103b96498a4",
+  "source": "manual"
+}

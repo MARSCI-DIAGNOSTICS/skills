@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "architecture-documentation",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/enterprise-architecture/skills/architecture-documentation",
+  "branch": "main",
+  "sha": "2d67710eae90d31bf27b66725b101f19c3447368",
+  "source": "manual"
+}

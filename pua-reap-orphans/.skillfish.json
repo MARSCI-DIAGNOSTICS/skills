@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pua-reap-orphans",
+  "owner": "tanweai",
+  "repo": "pua",
+  "path": "codex/pua-reap-orphans",
+  "branch": "main",
+  "sha": "aa2a1be576e307a632459137417525e913c194f9",
+  "source": "manual"
+}

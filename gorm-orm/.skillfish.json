@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gorm-orm",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/golang/gorm-orm",
+  "branch": "main",
+  "sha": "3800bef8247ed33a968abcb5d0cb348726f90918",
+  "source": "manual"
+}

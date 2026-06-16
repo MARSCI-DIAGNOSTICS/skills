@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "export",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/requirements-elicitation/skills/export",
+  "branch": "main",
+  "sha": "282a9f259366462ecc2d8517e80aecf99ac5ce63",
+  "source": "manual"
+}

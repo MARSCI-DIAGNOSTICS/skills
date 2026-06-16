@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "self-improve-prompt-design",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/self-improve-prompt-design",
+  "branch": "main",
+  "sha": "edfff9b4f49995fa278e59c5bc3fe4b7f764efe6",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ears-author",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/spec-driven-development/skills/ears-author",
+  "branch": "main",
+  "sha": "128d20df3591dfb2fe188fed13559d6b335b7e91",
+  "source": "manual"
+}

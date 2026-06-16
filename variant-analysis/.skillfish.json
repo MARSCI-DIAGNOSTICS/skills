@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "variant-analysis",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/variant-analysis/skills/variant-analysis",
+  "branch": "main",
+  "sha": "107574a31474c3feb3d1ad211210c1062bf62169",
+  "source": "manual"
+}

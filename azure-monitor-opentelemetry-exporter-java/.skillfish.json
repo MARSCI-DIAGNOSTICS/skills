@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-monitor-opentelemetry-exporter-java",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-monitor-opentelemetry-exporter-java",
+  "branch": "main",
+  "sha": "c0cf1f223f471bce1554682152d9c50d1a26b187",
+  "source": "manual"
+}

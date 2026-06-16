@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-scanning-security-hardening",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/security-scanning-security-hardening",
+  "branch": "main",
+  "sha": "112bda783d711d45efaa311402f0bd8614837552",
+  "source": "manual"
+}

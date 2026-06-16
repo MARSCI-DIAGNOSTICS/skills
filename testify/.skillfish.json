@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "testify",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/golang/testify",
+  "branch": "main",
+  "sha": "6312adc145947e66ead8fc580d13dfd78bf0105a",
+  "source": "manual"
+}

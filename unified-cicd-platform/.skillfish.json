@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "unified-cicd-platform",
+  "owner": "oborchers",
+  "repo": "fractional-cto",
+  "path": "cloud-foundation-principles/skills/unified-cicd-platform",
+  "branch": "main",
+  "sha": "636816956c98cd13c5215c06610983270a3eba34",
+  "source": "manual"
+}

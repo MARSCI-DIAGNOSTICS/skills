@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "patent",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "research/patent/skills/patent",
+  "branch": "main",
+  "sha": "ce82459c76d0aedd8ef52afbc47013ad12fa76e3",
+  "source": "manual"
+}

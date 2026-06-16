@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "app-router",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nextjs/app-router",
+  "branch": "main",
+  "sha": "1ae4b26ca702769d8a174be6cd409ffbc2a45d35",
+  "source": "manual"
+}

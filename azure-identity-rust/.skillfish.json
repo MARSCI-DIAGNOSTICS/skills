@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-identity-rust",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-identity-rust",
+  "branch": "main",
+  "sha": "6ae910cd0273489dba4f5304b40b4054872bc8a9",
+  "source": "manual"
+}

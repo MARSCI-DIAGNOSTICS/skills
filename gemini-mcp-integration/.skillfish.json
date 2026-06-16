@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gemini-mcp-integration",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/google-ecosystem/skills/gemini-mcp-integration",
+  "branch": "main",
+  "sha": "4e972fb74c3cb5e79bcfb21849849c0eafe4c766",
+  "source": "manual"
+}

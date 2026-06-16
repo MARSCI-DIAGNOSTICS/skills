@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dependency-injection",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/flutter/dependency-injection",
+  "branch": "main",
+  "sha": "cc953fba545b597f57f405b39935089d47a6f1c0",
+  "source": "manual"
+}

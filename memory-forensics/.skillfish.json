@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "memory-forensics",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/memory-forensics",
+  "branch": "main",
+  "sha": "7d8072a16243167b01ae4bd1e069f05dc0eabd5e",
+  "source": "manual"
+}

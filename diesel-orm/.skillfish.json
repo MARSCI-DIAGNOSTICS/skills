@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "diesel-orm",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/rust/diesel-orm",
+  "branch": "main",
+  "sha": "f193599aaeaef64bb7ca20fdd2677b259d30770e",
+  "source": "manual"
+}

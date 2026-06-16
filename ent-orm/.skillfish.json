@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ent-orm",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/golang/ent-orm",
+  "branch": "main",
+  "sha": "98ddd71c11fa30df027dce38b7df351dade04d50",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-storage-file-datalake-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-storage-file-datalake-py",
+  "branch": "main",
+  "sha": "5b408f50e11f6b3c6430afed17d1f84fec8d7c0d",
+  "source": "manual"
+}

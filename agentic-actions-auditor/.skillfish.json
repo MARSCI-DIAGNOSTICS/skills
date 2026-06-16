@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agentic-actions-auditor",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/agentic-actions-auditor/skills/agentic-actions-auditor",
+  "branch": "main",
+  "sha": "764ce77479626401f1d0bfa4283dd88db327878f",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pytorch-training",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "AutoResearchClaw/researchclaw/skills/builtin/tooling/pytorch-training",
+  "branch": "main",
+  "sha": "121660c912a85a32f024c5bde78fbea422ab6967",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-eventgrid-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-eventgrid-dotnet",
+  "branch": "main",
+  "sha": "2aa6887b1eb47f555f614cb75d6d2ad3c1eb88c8",
+  "source": "manual"
+}

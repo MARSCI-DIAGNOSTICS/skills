@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "app-builder",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/app-builder",
+  "branch": "main",
+  "sha": "23d4e3c25c57c1b12e1b686bfd7feeb0a42e8900",
+  "source": "manual"
+}

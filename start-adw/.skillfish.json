@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "start-adw",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/start-adw",
+  "branch": "main",
+  "sha": "744af91a624fe0a79fd7525f20535d3a773fe1a3",
+  "source": "manual"
+}

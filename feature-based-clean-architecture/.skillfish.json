@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "feature-based-clean-architecture",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/flutter/feature-based-clean-architecture",
+  "branch": "main",
+  "sha": "dda786f5b11579db0e05c282f03b9c1c6ea0a0ae",
+  "source": "manual"
+}

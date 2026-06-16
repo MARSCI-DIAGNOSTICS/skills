@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "api-standards",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nestjs/api-standards",
+  "branch": "main",
+  "sha": "fa2f1ba91367ffe484d8c5117afc61386296e1da",
+  "source": "manual"
+}

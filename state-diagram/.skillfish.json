@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "state-diagram",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/formal-specification/skills/state-diagram",
+  "branch": "main",
+  "sha": "73f8e06fc4757fba3ea66b2501f6339e2d747990",
+  "source": "manual"
+}

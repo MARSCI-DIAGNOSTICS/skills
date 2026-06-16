@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "prd-development",
+  "owner": "deanpeters",
+  "repo": "product-manager-skills",
+  "path": "skills/prd-development",
+  "branch": "main",
+  "sha": "9326f146f3fb8d85eafe52499928321c7edb9fac",
+  "source": "manual"
+}

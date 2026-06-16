@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "server-actions",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nextjs/server-actions",
+  "branch": "main",
+  "sha": "2e70524116f9912904654a6581928ea1c0d8633e",
+  "source": "manual"
+}

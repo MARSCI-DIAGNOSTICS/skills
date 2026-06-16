@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gemini-config-management",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/google-ecosystem/skills/gemini-config-management",
+  "branch": "main",
+  "sha": "dcd8a9fe1df2306cf342eb10852f5707b831b0dd",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "powershell-windows",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/powershell-windows",
+  "branch": "main",
+  "sha": "636f4149ba29d23162fefc606ed7d252074df5b6",
+  "source": "manual"
+}

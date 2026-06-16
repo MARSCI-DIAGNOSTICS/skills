@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "skill-migration",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/skill-migration",
+  "branch": "main",
+  "sha": "ee15963d36217c75cf6c770348b71d9d0d051a19",
+  "source": "manual"
+}

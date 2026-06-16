@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-servicebus-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-servicebus-py",
+  "branch": "main",
+  "sha": "64a1abc012346ca3a6c6393c6731d5dab87b7a33",
+  "source": "manual"
+}

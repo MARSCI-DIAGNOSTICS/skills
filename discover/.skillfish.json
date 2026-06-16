@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "discover",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/requirements-elicitation/skills/discover",
+  "branch": "main",
+  "sha": "4fda66dffca03870f3f35726036c884159fb700e",
+  "source": "manual"
+}

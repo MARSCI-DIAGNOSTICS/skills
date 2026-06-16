@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "audit-layer",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/audit-layer",
+  "branch": "main",
+  "sha": "cd53205b26bd1667d06c0d68a0fb25dbb354f457",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "resolve-failed-e2e-test",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/resolve-failed-e2e-test",
+  "branch": "main",
+  "sha": "312e2eb709653f76625db2fe5e415e99238718db",
+  "source": "manual"
+}

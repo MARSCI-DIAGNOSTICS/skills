@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "address-sanitizer",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/testing-handbook-skills/skills/address-sanitizer",
+  "branch": "main",
+  "sha": "bc4b76a5c0ec354436cc27706c4a8d36b9760b5a",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-role-e2e-runner",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-role-e2e-runner",
+  "branch": "main",
+  "sha": "8eb415528be16838715972e3d28550538e97575d",
+  "source": "manual"
+}

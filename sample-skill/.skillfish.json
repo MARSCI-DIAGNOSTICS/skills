@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sample-skill",
+  "owner": "zhangzhang-111-i",
+  "repo": "claude-skills111",
+  "path": "engineering/skill-tester/assets/sample-skill",
+  "branch": "main",
+  "sha": "e8b90d651ca40459bce098a5b9eaa2f70084ad6a",
+  "source": "manual"
+}

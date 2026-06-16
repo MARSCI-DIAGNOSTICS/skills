@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "team-build",
+  "owner": "mickaelmamani",
+  "repo": "saas-toolkit",
+  "path": "saas-toolkit/skills/team-build",
+  "branch": "main",
+  "sha": "0d119fad0e28fc8582510b8469cdca385a9511bc",
+  "source": "manual"
+}

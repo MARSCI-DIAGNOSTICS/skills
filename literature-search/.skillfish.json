@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "literature-search",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "AutoResearchClaw/.claude/skills/literature-search",
+  "branch": "main",
+  "sha": "de5c67e5ba2d6865977e21419c1d54aeb0c82a17",
+  "source": "manual"
+}

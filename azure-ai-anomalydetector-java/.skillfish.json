@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-anomalydetector-java",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-anomalydetector-java",
+  "branch": "main",
+  "sha": "66942b6e62f14c44e5af641aaeaa48f13604d9f2",
+  "source": "manual"
+}

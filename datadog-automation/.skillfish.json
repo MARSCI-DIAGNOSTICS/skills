@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "datadog-automation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/datadog-automation",
+  "branch": "main",
+  "sha": "3d0b61c7ce10953a79725f09b7afbf281c64ea59",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "llm-cost-optimizer",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering/llm-cost-optimizer",
+  "branch": "main",
+  "sha": "00a52dcc09c40f2e546de02382090e1f544c95a7",
+  "source": "manual"
+}

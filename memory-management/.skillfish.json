@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "memory-management",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/memory-management",
+  "branch": "main",
+  "sha": "4afddbf5a313d5a6bed32e284f10d500f0cca34f",
+  "source": "manual"
+}

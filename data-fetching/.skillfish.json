@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "data-fetching",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nextjs/data-fetching",
+  "branch": "main",
+  "sha": "09d09816e9cb1f1a83f05b8c05bdfa6d7ad6a205",
+  "source": "manual"
+}

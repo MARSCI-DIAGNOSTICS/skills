@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "scheduling",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nestjs/scheduling",
+  "branch": "main",
+  "sha": "784c21f4904477704f7926d3f89ac1888307a3cf",
+  "source": "manual"
+}

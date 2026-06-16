@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "clinical-research",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "research-ops/skills/clinical-research",
+  "branch": "main",
+  "sha": "55ecd3f149c7bfd13dc28d73fd7024255c805e05",
+  "source": "manual"
+}

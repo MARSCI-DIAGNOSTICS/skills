@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "architecture-review",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/enterprise-architecture/skills/architecture-review",
+  "branch": "main",
+  "sha": "c0736a56ae5cd36dff70125a4c81eb5171ccbc2a",
+  "source": "manual"
+}

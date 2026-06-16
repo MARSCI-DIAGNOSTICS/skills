@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-document-intelligence-ts",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-document-intelligence-ts",
+  "branch": "main",
+  "sha": "d6fa86c051722be688f6e3771477d1f0e0cc7634",
+  "source": "manual"
+}

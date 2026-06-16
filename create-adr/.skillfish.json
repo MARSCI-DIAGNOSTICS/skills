@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "create-adr",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/documentation-standards/skills/create-adr",
+  "branch": "main",
+  "sha": "4f24b72da7b28a386f7d3e2408a684c0841b61e2",
+  "source": "manual"
+}

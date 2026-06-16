@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "browser-extension-builder",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/browser-extension-builder",
+  "branch": "main",
+  "sha": "a4eff281657375582c335482c86d29d6f107ed8e",
+  "source": "manual"
+}

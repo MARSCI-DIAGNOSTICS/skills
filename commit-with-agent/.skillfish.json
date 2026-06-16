@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "commit-with-agent",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/commit-with-agent",
+  "branch": "main",
+  "sha": "284dce9186433b0a46957bb52ea5e84672e515ff",
+  "source": "manual"
+}

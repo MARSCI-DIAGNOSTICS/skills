@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dotnet-backend",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/dotnet-backend",
+  "branch": "main",
+  "sha": "3ac338623bd219eb133d41e35d3e62f22c8cce30",
+  "source": "manual"
+}

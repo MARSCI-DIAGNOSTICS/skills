@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "check-context",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/check-context",
+  "branch": "main",
+  "sha": "3f3448e55622b026a7f20464ed83a30f1fe9f339",
+  "source": "manual"
+}

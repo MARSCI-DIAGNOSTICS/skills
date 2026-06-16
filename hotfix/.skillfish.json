@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hotfix",
+  "owner": "mickaelmamani",
+  "repo": "saas-toolkit",
+  "path": "saas-toolkit/skills/hotfix",
+  "branch": "main",
+  "sha": "741bfc557cc27fdf2e2771932fe975f1e793a0ce",
+  "source": "manual"
+}

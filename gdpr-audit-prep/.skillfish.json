@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gdpr-audit-prep",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "compliance-os/skills/gdpr-audit-prep",
+  "branch": "main",
+  "sha": "af5f8f804779ce728570951261a2f06092ce7533",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "foundry-nextgen-frontend",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/foundry-nextgen-frontend",
+  "branch": "main",
+  "sha": "45ca24d896ff8edb7cc21e4f5fa8db9a63aa77f9",
+  "source": "manual"
+}

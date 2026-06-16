@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aws-penetration-testing",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/aws-penetration-testing",
+  "branch": "main",
+  "sha": "07c79963ad2ef96affd181bb454e85bc0ed32d49",
+  "source": "manual"
+}

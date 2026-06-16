@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "data-quality-auditor",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "engineering/data-quality-auditor/skills/data-quality-auditor",
+  "branch": "main",
+  "sha": "9eee9205ebcfb96a3e28e9449bd1cf56bcf48f7e",
+  "source": "manual"
+}

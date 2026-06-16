@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-monitor-ingestion-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-monitor-ingestion-py",
+  "branch": "main",
+  "sha": "b8ceab6691eb9236da4b8428f231bef6979b2711",
+  "source": "manual"
+}

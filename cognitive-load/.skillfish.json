@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cognitive-load",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/team-design/skills/cognitive-load",
+  "branch": "main",
+  "sha": "70a2e0ac9f44d041e59c0bc4f9d058eed6fd2bbf",
+  "source": "manual"
+}

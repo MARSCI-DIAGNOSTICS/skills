@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "claude-win11-speckit-update-skill",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/claude-win11-speckit-update-skill",
+  "branch": "main",
+  "sha": "a58067b750748bcffd3e1a33967d3813993f2585",
+  "source": "manual"
+}

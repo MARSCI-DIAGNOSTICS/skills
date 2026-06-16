@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "wardley-mapping",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/enterprise-architecture/skills/wardley-mapping",
+  "branch": "main",
+  "sha": "54b28acc64fd4c9379b1f9b4fc6d69ded8f04c13",
+  "source": "manual"
+}

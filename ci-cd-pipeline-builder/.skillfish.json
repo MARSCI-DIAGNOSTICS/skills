@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ci-cd-pipeline-builder",
+  "owner": "zhangzhang-111-i",
+  "repo": "claude-skills111",
+  "path": "engineering/ci-cd-pipeline-builder",
+  "branch": "main",
+  "sha": "fec48202b1790ffdbc4f9b8c7a3708779b3923c6",
+  "source": "manual"
+}

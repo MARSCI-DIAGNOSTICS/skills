@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ux-landing-page",
+  "owner": "williamfontaine",
+  "repo": "claude-plugins-marketplace",
+  "path": "plugins/ux-expert/skills/ux-landing-page",
+  "branch": "main",
+  "sha": "25bd6689d6dea8ab6b2e6e1ca89cb821caff5fe4",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "wordpress-penetration-testing",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/wordpress-penetration-testing",
+  "branch": "main",
+  "sha": "4237d39b2c3b47c759efe92c8aef36748b651261",
+  "source": "manual"
+}

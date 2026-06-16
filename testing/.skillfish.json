@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "testing",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/flutter/testing",
+  "branch": "main",
+  "sha": "8ab45d3796580e1c7eff56b2546f5c4aeb398d15",
+  "source": "manual"
+}

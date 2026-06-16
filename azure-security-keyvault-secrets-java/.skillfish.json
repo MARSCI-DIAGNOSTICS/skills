@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-security-keyvault-secrets-java",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-security-keyvault-secrets-java",
+  "branch": "main",
+  "sha": "5671f58a818a8ff816dfa0749e182f46b98a57b1",
+  "source": "manual"
+}

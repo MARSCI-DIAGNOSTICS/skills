@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "api-fuzzing-bug-bounty",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/api-fuzzing-bug-bounty",
+  "branch": "main",
+  "sha": "c807f98c8fca815c1a4867232304f33dc74c08d5",
+  "source": "manual"
+}

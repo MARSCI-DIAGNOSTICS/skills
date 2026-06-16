@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-mgmt-applicationinsights-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-mgmt-applicationinsights-dotnet",
+  "branch": "main",
+  "sha": "29c3787652c785db372da361e48ae4aece607a9a",
+  "source": "manual"
+}

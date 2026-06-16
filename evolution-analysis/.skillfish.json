@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "evolution-analysis",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/wardley-mapping/skills/evolution-analysis",
+  "branch": "main",
+  "sha": "19d9f61498dacf7f8562d8824c35beb5a2a7124c",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "distributed-debugging-debug-trace",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/distributed-debugging-debug-trace",
+  "branch": "main",
+  "sha": "23b4cafe469113ca645b2e166e805b809d9ade7a",
+  "source": "manual"
+}

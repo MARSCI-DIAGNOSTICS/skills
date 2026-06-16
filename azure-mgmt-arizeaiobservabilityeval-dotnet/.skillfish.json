@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-mgmt-arizeaiobservabilityeval-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-mgmt-arizeaiobservabilityeval-dotnet",
+  "branch": "main",
+  "sha": "413179ba71f65f1f65ceb3a7c033a952216d31ce",
+  "source": "manual"
+}

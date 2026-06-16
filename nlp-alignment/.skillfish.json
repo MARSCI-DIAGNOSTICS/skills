@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "nlp-alignment",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "AutoResearchClaw/researchclaw/skills/builtin/domain/nlp-alignment",
+  "branch": "main",
+  "sha": "6351f7cfd3e4ad2079f9d4fddfdccf1b511851f6",
+  "source": "manual"
+}

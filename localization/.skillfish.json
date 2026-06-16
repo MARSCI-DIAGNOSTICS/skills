@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "localization",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/flutter/localization",
+  "branch": "main",
+  "sha": "388ab15d9838ffd62851fce31185cdd6e36ca544",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "wordpress",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/wordpress",
+  "branch": "main",
+  "sha": "b2372aab070d3fe14d5a6145273bef2b1f9880f4",
+  "source": "manual"
+}

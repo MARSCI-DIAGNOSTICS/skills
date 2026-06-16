@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "conversation-memory",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/conversation-memory",
+  "branch": "main",
+  "sha": "9f76001f775b8e831273f993acf3fae4c00ce71a",
+  "source": "manual"
+}

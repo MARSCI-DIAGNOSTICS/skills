@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "test-suite-setup",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/test-suite-setup",
+  "branch": "main",
+  "sha": "a7ce4def91ee87dc50029ec197a7395ec9bbf2fa",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "devsecops-practices",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/security/skills/devsecops-practices",
+  "branch": "main",
+  "sha": "34ca723df2c02a1263d2b9bedd5df2ca07febaf9",
+  "source": "manual"
+}

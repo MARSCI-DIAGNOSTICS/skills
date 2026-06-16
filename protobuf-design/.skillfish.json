@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "protobuf-design",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/formal-specification/skills/protobuf-design",
+  "branch": "main",
+  "sha": "84ede9793b35a5927f5051a8d7af626425095c30",
+  "source": "manual"
+}

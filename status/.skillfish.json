@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "status",
+  "owner": "zhangzhang-111-i",
+  "repo": "claude-skills111",
+  "path": "engineering-team/self-improving-agent/skills/status",
+  "branch": "main",
+  "sha": "d535a9e8c2ff32b3dd9924a7631d44e562ea79d9",
+  "source": "manual"
+}

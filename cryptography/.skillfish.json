@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cryptography",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/security/skills/cryptography",
+  "branch": "main",
+  "sha": "66cd63b76f3e4cab7f6f2ba902eac680478f08d6",
+  "source": "manual"
+}

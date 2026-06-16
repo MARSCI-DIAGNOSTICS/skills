@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "design-navigation",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/content-management-system/skills/design-navigation",
+  "branch": "main",
+  "sha": "bbdedaafce2f8d5339e46cba5fb20985ed8b5bc1",
+  "source": "manual"
+}

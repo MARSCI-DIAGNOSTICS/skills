@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "build-maven",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/java/build-maven",
+  "branch": "main",
+  "sha": "d29f4886e5f5dcfbc42a670ceed44ae231858e44",
+  "source": "manual"
+}

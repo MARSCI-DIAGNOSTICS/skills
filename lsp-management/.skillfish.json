@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lsp-management",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/lsp-management",
+  "branch": "main",
+  "sha": "552e253bdb7ecc0c186a335a64a39aa59abec451",
+  "source": "manual"
+}

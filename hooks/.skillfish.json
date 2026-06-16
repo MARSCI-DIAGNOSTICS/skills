@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hooks",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/react/hooks",
+  "branch": "main",
+  "sha": "71ab2e3126542d226a89dbddd4e9c1e50b20c128",
+  "source": "manual"
+}

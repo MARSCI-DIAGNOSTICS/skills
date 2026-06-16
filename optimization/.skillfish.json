@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "optimization",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nextjs/optimization",
+  "branch": "main",
+  "sha": "025f0d3b548611ee9f9e576199a75c1e1f3a69a3",
+  "source": "manual"
+}

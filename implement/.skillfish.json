@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "implement",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/spec-driven-development/skills/implement",
+  "branch": "main",
+  "sha": "187a4b1e626d998eceed064d1de08acf33daa910",
+  "source": "manual"
+}

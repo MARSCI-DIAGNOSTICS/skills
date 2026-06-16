@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "llm-integration",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "awesome-claude-code-toolkit/skills/llm-integration",
+  "branch": "main",
+  "sha": "630545729d974e4962e44b0841f7c9879dff0273",
+  "source": "manual"
+}

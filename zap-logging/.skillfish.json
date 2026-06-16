@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zap-logging",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/golang/zap-logging",
+  "branch": "main",
+  "sha": "cc0f5715fb73060cdc444b1823639bc560251328",
+  "source": "manual"
+}

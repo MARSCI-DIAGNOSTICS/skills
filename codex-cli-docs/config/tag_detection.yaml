@@ -1,0 +1,232 @@
+# Tag Detection Configuration for OpenAI Codex CLI Documentation
+# Version: 1.0
+
+tags:
+  api:
+    terms:
+      - authentication
+      - authorization
+      - api key
+      - api endpoint
+      - api reference
+      - http request
+      - api response
+    min_mentions: 8
+
+  tools:
+    terms:
+      - tool
+      - tools
+      - shell tool
+      - file system
+      - web search
+      - tool use
+    min_mentions: 5
+
+  mcp:
+    terms:
+      - mcp
+      - model context protocol
+      - mcp server
+      - mcp tool
+    min_mentions: 5
+
+  sandbox:
+    terms:
+      - sandbox
+      - sandbox mode
+      - sandboxed
+      - isolation
+      - security
+    min_mentions: 4
+
+  troubleshooting:
+    terms:
+      - troubleshoot
+      - troubleshooting
+      - fix error
+      - error handling
+      - debug
+      - debugging
+    min_mentions: 3
+    additional_terms:
+      - issue
+      - problem
+    additional_min_mentions: 3
+
+  security:
+    terms:
+      - security
+      - secure
+      - permission
+      - permissions
+      - access control
+      - approval policy
+      - writable roots
+    min_mentions: 4
+
+  installation:
+    terms:
+      - install
+      - installation
+      - setup
+      - prerequisites
+      - dependencies
+      - getting started
+      - quickstart
+    min_mentions: 5
+
+  configuration:
+    terms:
+      - configuration
+      - config
+      - settings
+      - environment variable
+      - configure
+    min_mentions: 6
+
+  modes:
+    terms:
+      - mode
+      - full auto
+      - suggest mode
+      - auto edit
+      - approval
+    min_mentions: 4
+
+  models:
+    terms:
+      - model
+      - models
+      - openai
+      - model selection
+      - reasoning
+    min_mentions: 6
+
+  authentication:
+    terms:
+      - authentication
+      - auth
+      - api key
+      - credentials
+    min_mentions: 5
+
+  git:
+    terms:
+      - git
+      - version control
+      - rollback
+      - changes
+      - diff
+    min_mentions: 4
+
+  cli:
+    terms:
+      - cli
+      - command line
+      - terminal
+      - commands
+      - repl
+    min_mentions: 6
+
+  context:
+    terms:
+      - context
+      - context window
+      - project doc
+      - codebase
+    min_mentions: 4
+
+categories:
+  api:
+    path_patterns:
+      - api
+      - /api/
+    tag_mapping:
+      - api
+    content_terms:
+      - api
+      - endpoint
+      - authentication
+
+  tools:
+    path_patterns:
+      - tool
+      - tools
+    tag_mapping:
+      - tools
+    content_terms:
+      - tool
+      - shell
+      - file system
+
+  guides:
+    path_patterns:
+      - guide
+      - tutorial
+      - quickstart
+    tag_mapping:
+      - guides
+    content_terms:
+      - guide
+      - tutorial
+      - how to
+      - getting started
+
+  installation:
+    path_patterns:
+      - setup
+      - install
+      - quickstart
+    tag_mapping:
+      - installation
+    content_terms:
+      - install
+      - installation
+      - setup
+      - prerequisites
+
+  configuration:
+    path_patterns:
+      - config
+      - settings
+    tag_mapping:
+      - configuration
+    content_terms:
+      - configuration
+      - config
+      - settings
+
+  cli:
+    path_patterns:
+      - cli
+      - commands
+    tag_mapping:
+      - cli
+    content_terms:
+      - cli
+      - command
+      - terminal
+
+  security:
+    path_patterns:
+      - security
+      - sandbox
+    tag_mapping:
+      - security
+      - sandbox
+    content_terms:
+      - security
+      - sandbox
+      - permissions
+
+  core:
+    path_patterns:
+      - core
+      - architecture
+    tag_mapping:
+      - core
+    content_terms:
+      - core
+      - architecture
+      - system

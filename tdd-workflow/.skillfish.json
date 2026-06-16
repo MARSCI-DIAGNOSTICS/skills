@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tdd-workflow",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-archive/harness/.agents/skills/tdd-workflow",
+  "branch": "main",
+  "sha": "ba7ec57267cdb335255ce5bec525e533af38aca5",
+  "source": "manual"
+}

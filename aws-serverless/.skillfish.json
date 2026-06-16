@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aws-serverless",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/aws-serverless",
+  "branch": "main",
+  "sha": "8e417312e3a8955d188e3e9693c029bd32c40919",
+  "source": "manual"
+}

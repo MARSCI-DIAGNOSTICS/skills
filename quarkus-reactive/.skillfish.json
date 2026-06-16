@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "quarkus-reactive",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/java/quarkus-reactive",
+  "branch": "main",
+  "sha": "87ac409d2ab69c02933c99cbde7c984baeb47878",
+  "source": "manual"
+}

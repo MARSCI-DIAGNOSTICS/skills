@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "retrofit-networking",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/flutter/retrofit-networking",
+  "branch": "main",
+  "sha": "dc5c0911a35019082fc77dd2cfbc477046fe9850",
+  "source": "manual"
+}

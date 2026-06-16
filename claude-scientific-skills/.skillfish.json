@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "claude-scientific-skills",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/claude-scientific-skills",
+  "branch": "main",
+  "sha": "9903373a71704a143b8228df1b4ee243a4e2aa54",
+  "source": "manual"
+}

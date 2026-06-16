@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "multi-site-theming",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/content-management-system/skills/multi-site-theming",
+  "branch": "main",
+  "sha": "a1d4da55d89057ab2b49948c74b07741eb9321ce",
+  "source": "manual"
+}

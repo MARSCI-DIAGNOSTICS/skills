@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "building-mcp-server-on-cloudflare",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/building-mcp-server-on-cloudflare",
+  "branch": "main",
+  "sha": "84ae3f1cb22c3abc0d9e1cbd393818c29a75eabb",
+  "source": "manual"
+}

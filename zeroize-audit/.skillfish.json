@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zeroize-audit",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/zeroize-audit/skills/zeroize-audit",
+  "branch": "main",
+  "sha": "c058549e9fbda33a274f546eb476c4af76310558",
+  "source": "manual"
+}

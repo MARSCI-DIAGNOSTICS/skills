@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "internationalization",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nextjs/internationalization",
+  "branch": "main",
+  "sha": "bf872d141a1364993bbe44c95b6468409699f5b8",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "markdown-linting",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/code-quality/skills/markdown-linting",
+  "branch": "main",
+  "sha": "0d8dee27db0984cba64087dec044ba905811f694",
+  "source": "manual"
+}

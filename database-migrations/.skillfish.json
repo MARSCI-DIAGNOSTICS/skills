@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "database-migrations",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-sync/work/ecc/docs/zh-CN/skills/database-migrations",
+  "branch": "main",
+  "sha": "04405339b15b60661500dbe7c58ef303ceeccef9",
+  "source": "manual"
+}

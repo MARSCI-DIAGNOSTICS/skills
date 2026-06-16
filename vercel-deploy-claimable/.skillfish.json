@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "vercel-deploy-claimable",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/vercel-deploy-claimable",
+  "branch": "main",
+  "sha": "5d8d558012a6c1bf85e6766dc7fe6c93bb1ce924",
+  "source": "manual"
+}

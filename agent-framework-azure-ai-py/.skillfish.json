@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-framework-azure-ai-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/agent-framework-azure-ai-py",
+  "branch": "main",
+  "sha": "6b66221aadaf956ec69b693e72bf7b88477cafa7",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "language",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/dart/language",
+  "branch": "main",
+  "sha": "2e4e1d01e16e57ee8af0bb93c7385dd7c8ce8b85",
+  "source": "manual"
+}

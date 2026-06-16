@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "configuration",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nestjs/configuration",
+  "branch": "main",
+  "sha": "c3400fc3134ff74ef8d8b72e52aef03830071e76",
+  "source": "manual"
+}

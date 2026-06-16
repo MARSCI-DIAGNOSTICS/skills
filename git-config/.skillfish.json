@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "git-config",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/git/skills/git-config",
+  "branch": "main",
+  "sha": "525e740f2572a6d18bd6060d7ea4866946da342b",
+  "source": "manual"
+}

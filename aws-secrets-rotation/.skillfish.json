@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aws-secrets-rotation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/security/aws-secrets-rotation",
+  "branch": "main",
+  "sha": "bb5be2aca0f4fed85702ae1b67409c58aa7f408a",
+  "source": "manual"
+}

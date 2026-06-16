@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-monitor-query-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-monitor-query-py",
+  "branch": "main",
+  "sha": "7c61c72e55d5a0aaaba7f76970f37c41ac5a3dee",
+  "source": "manual"
+}

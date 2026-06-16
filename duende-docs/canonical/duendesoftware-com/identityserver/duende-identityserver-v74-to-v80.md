@@ -1,0 +1,306 @@
+---
+title: Duende IdentityServer v7.4 to v8.0
+source_url: https://docs.duendesoftware.com/identityserver/duende-identityserver-v74-to-v80/
+source_type: llms-full-txt
+content_hash: sha256:0c68cf474644d68bdd6d55ff2f1dade0286ea1a782844ce1530891e5931376c0
+category: identityserver
+doc_id: identityserver/duende-identityserver-v74-to-v80
+---
+
+> Upgrade guide from IdentityServer v7.4 to v8.0 covering .NET 10, breaking changes, SAML 2.0 support, and new features.
+
+Prerelease version
+
+IdentityServer v8.0 is currently a prerelease version.
+
+IdentityServer v8.0 includes support for .NET 10, SAML 2.0 Identity Provider support, conformance reporting, and many other fixes and enhancements.
+
+## Step 1: Update .NET Version
+
+[Section titled "Step 1: Update .NET Version"](#step-1-update-net-version)
+
+IdentityServer 8.0 targets .NET 10 only. In your IdentityServer host project, update the target framework. For example, in your project file:
+
+```xml
+<TargetFramework>net8.0</TargetFramework>
+```
+
+or
+
+```xml
+<TargetFramework>net9.0</TargetFramework>
+```
+
+would change to:
+
+```xml
+<TargetFramework>net10.0</TargetFramework>
+```
+
+Any NuGet packages you use that target an older version of .NET should also be updated. For example, `Microsoft.EntityFrameworkCore.SqlServer` or `Microsoft.AspNetCore.Authentication.Google` should be updated to their .NET 10-compatible versions. Depending on your IdentityServer host project, there may or may not be code changes from those updated dependencies.
+
+## Step 2: Update NuGet Packages
+
+[Section titled "Step 2: Update NuGet Packages"](#step-2-update-nuget-packages)
+
+In your IdentityServer host project, update the version of the Duende.IdentityServer package. For example, in your project file:
+
+```xml
+<PackageReference Include="Duende.IdentityServer" Version="7.4.0"/>
+```
+
+would change to:
+
+```xml
+<PackageReference Include="Duende.IdentityServer" Version="8.0.0-*"/>
+```
+
+If you use any of the other Duende.IdentityServer packages, update those as well:
+
+```xml
+<PackageReference Include="Duende.IdentityServer.EntityFramework" Version="8.0.0-*"/>
+<PackageReference Include="Duende.IdentityServer.AspNetIdentity" Version="8.0.0-*"/>
+<PackageReference Include="Duende.IdentityServer.Configuration" Version="8.0.0-*"/>
+```
+
+## Step 3: Update Database Schema
+
+[Section titled "Step 3: Update Database Schema"](#step-3-update-database-schema)
+
+If you are using the SAML 2.0 Identity Provider feature and the Entity Framework storage packages, new tables are required to store SAML Service Provider configurations. Run the following migration commands to update your database schema:
+
+```bash
+dotnet ef migrations add Update_DuendeIdentityServer_v8_0 -c ConfigurationDbContext -o Migrations/ConfigurationDb
+dotnet ef database update -c ConfigurationDbContext
+```
+
+The migration creates five new tables in the configuration database: `SamlServiceProviders`, `SamlServiceProviderAssertionConsumerServices`, `SamlServiceProviderSigningCertificates`, `SamlServiceProviderEncryptionCertificates`, and `SamlServiceProviderClaimMappings`.
+
+SQL Server database objects created by this migration
+
+```sql
+-- saml-service-providers.sql
+CREATE TABLE [SamlServiceProviders] (
+    [Id] int NOT NULL IDENTITY,
+    [EntityId] nvarchar(200) NOT NULL,
+    [DisplayName] nvarchar(200) NULL,
+    [Description] nvarchar(1000) NULL,
+    [Enabled] bit NOT NULL DEFAULT CAST(1 AS bit),
+    [ClockSkewTicks] bigint NULL,
+    [RequestMaxAgeTicks] bigint NULL,
+    [AssertionConsumerServiceBinding] int NOT NULL,
+    [SingleLogoutServiceUrl] nvarchar(2000) NULL,
+    [SingleLogoutServiceBinding] int NULL,
+    [RequireSignedAuthnRequests] bit NOT NULL,
+    [EncryptAssertions] bit NOT NULL,
+    [RequireConsent] bit NOT NULL,
+    [AllowIdpInitiated] bit NOT NULL,
+    [DefaultNameIdFormat] nvarchar(500) NOT NULL DEFAULT N'urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified',
+    [DefaultPersistentNameIdentifierClaimType] nvarchar(500) NULL,
+    [SigningBehavior] int NULL,
+    [Created] datetime2 NOT NULL,
+    [Updated] datetime2 NULL,
+    [LastAccessed] datetime2 NULL,
+    [NonEditable] bit NOT NULL,
+    CONSTRAINT [PK_SamlServiceProviders] PRIMARY KEY ([Id])
+);
+
+
+CREATE UNIQUE INDEX [IX_SamlServiceProviders_EntityId]
+    ON [SamlServiceProviders] ([EntityId]);
+
+
+CREATE TABLE [SamlServiceProviderAssertionConsumerServices] (
+    [Id] int NOT NULL IDENTITY,
+    [Url] nvarchar(2000) NOT NULL,
+    [SamlServiceProviderId] int NOT NULL,
+    CONSTRAINT [PK_SamlServiceProviderAssertionConsumerServices] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_SamlServiceProviderAssertionConsumerServices_SamlServiceProviders_SamlServiceProviderId]
+        FOREIGN KEY ([SamlServiceProviderId]) REFERENCES [SamlServiceProviders] ([Id]) ON DELETE CASCADE
+);
+
+
+CREATE UNIQUE INDEX [IX_SamlServiceProviderACS_ProviderId_Url]
+    ON [SamlServiceProviderAssertionConsumerServices] ([SamlServiceProviderId], [Url]);
+
+
+CREATE TABLE [SamlServiceProviderSigningCertificates] (
+    [Id] int NOT NULL IDENTITY,
+    [Data] nvarchar(4000) NOT NULL,
+    [SamlServiceProviderId] int NOT NULL,
+    CONSTRAINT [PK_SamlServiceProviderSigningCertificates] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_SamlServiceProviderSigningCertificates_SamlServiceProviders_SamlServiceProviderId]
+        FOREIGN KEY ([SamlServiceProviderId]) REFERENCES [SamlServiceProviders] ([Id]) ON DELETE CASCADE
+);
+
+
+CREATE TABLE [SamlServiceProviderEncryptionCertificates] (
+    [Id] int NOT NULL IDENTITY,
+    [Data] nvarchar(4000) NOT NULL,
+    [SamlServiceProviderId] int NOT NULL,
+    CONSTRAINT [PK_SamlServiceProviderEncryptionCertificates] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_SamlServiceProviderEncryptionCertificates_SamlServiceProviders_SamlServiceProviderId]
+        FOREIGN KEY ([SamlServiceProviderId]) REFERENCES [SamlServiceProviders] ([Id]) ON DELETE CASCADE
+);
+
+
+CREATE TABLE [SamlServiceProviderClaimMappings] (
+    [Id] int NOT NULL IDENTITY,
+    [ClaimType] nvarchar(250) NOT NULL,
+    [SamlAttributeName] nvarchar(250) NOT NULL,
+    [SamlServiceProviderId] int NOT NULL,
+    CONSTRAINT [PK_SamlServiceProviderClaimMappings] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_SamlServiceProviderClaimMappings_SamlServiceProviders_SamlServiceProviderId]
+        FOREIGN KEY ([SamlServiceProviderId]) REFERENCES [SamlServiceProviders] ([Id]) ON DELETE CASCADE
+);
+
+
+CREATE UNIQUE INDEX [IX_SamlServiceProviderClaimMappings_ProviderId_ClaimType]
+    ON [SamlServiceProviderClaimMappings] ([SamlServiceProviderId], [ClaimType]);
+```
+
+If you are not using the SAML 2.0 feature, no schema changes are required.
+
+#### Custom Store Implementations
+
+[Section titled "Custom Store Implementations"](#custom-store-implementations)
+
+If your IdentityServer implementation uses a custom `IClientStore`, you must add the new `GetAllClientsAsync` method (see [Breaking Change](#iclientstoregetallclientsasync-now-required) below).
+
+#### Duende.IdentityServer.EntityFramework
+
+[Section titled "Duende.IdentityServer.EntityFramework"](#duendeidentityserverentityframework)
+
+If you are using `Duende.IdentityServer.EntityFramework`, the package migration will handle schema updates automatically when you run the EF migrations command above.
+
+## Step 4: Breaking Changes
+
+[Section titled "Step 4: Breaking Changes"](#step-4-breaking-changes)
+
+### IClock Removed -- Use TimeProvider
+
+[Section titled "IClock Removed -- Use TimeProvider"](#iclock-removed--use-timeprovider)
+
+`Duende.IdentityServer.IClock` has been removed. Replace it with the standard .NET `System.TimeProvider` (available since .NET 8).
+
+```csharp
+// Before (v7.x)
+public class MyService
+{
+    public MyService(IClock clock) { }
+}
+
+
+// After (v8.0)
+public class MyService
+{
+    public MyService(TimeProvider timeProvider) { }
+}
+```
+
+To get the current time, use `timeProvider.GetUtcNow()` instead of `clock.UtcNow`.
+
+Internal IdentityServer services such as `DefaultTokenCreationService` and `DefaultTokenService` have been updated to accept `TimeProvider` in place of `IClock`.
+
+### CancellationToken Now Required on All Interface Methods
+
+[Section titled "CancellationToken Now Required on All Interface Methods"](#cancellationtoken-now-required-on-all-interface-methods)
+
+All store and service interfaces now include a `CancellationToken` parameter on every async method. The parameter name is `ct` (not `cancellationToken`).
+
+```csharp
+// Before (v7.x)
+public class MyClientStore : IClientStore
+{
+    public Task<Client?> FindClientByIdAsync(string clientId)
+    {
+        // ...
+    }
+}
+
+
+// After (v8.0)
+public class MyClientStore : IClientStore
+{
+    public Task<Client?> FindClientByIdAsync(string clientId, CancellationToken ct)
+    {
+        // ...
+    }
+
+
+    public IAsyncEnumerable<Client> GetAllClientsAsync(CancellationToken ct)
+    {
+        // ...
+    }
+}
+```
+
+This applies to all store interfaces in `Duende.IdentityServer.Stores` and service interfaces in `Duende.IdentityServer.Services`. Update all custom implementations to add the `CancellationToken ct` parameter.
+
+### ICancellationTokenProvider Removed
+
+[Section titled "ICancellationTokenProvider Removed"](#icancellationtokenprovider-removed)
+
+`ICancellationTokenProvider` has been removed from both `Duende.IdentityServer` and `Duende.IdentityServer.Configuration.EntityFramework`. If you injected this service, remove that dependency. Use the `CancellationToken` passed directly to interface methods instead.
+
+### HTTP 303 Redirects Now Unconditional
+
+[Section titled "HTTP 303 Redirects Now Unconditional"](#http-303-redirects-now-unconditional)
+
+IdentityServer now always uses HTTP 303 (See Other) for redirects from POST endpoints, in compliance with [FAPI 2.0 Section 5.3.2.2](https://openid.net/specs/fapi-security-profile-2_0.html).
+
+### IClientStore.GetAllClientsAsync Now Required
+
+[Section titled "IClientStore.GetAllClientsAsync Now Required"](#iclientstoregetallclientsasync-now-required)
+
+`IClientStore` now includes a second required method:
+
+```csharp
+IAsyncEnumerable<Client> GetAllClientsAsync(CancellationToken ct);
+```
+
+All custom `IClientStore` implementations must add this method. It is used by the conformance report and configuration validation features. Return an async enumerable of all configured clients.
+
+For the in-memory store, this returns all clients passed to `AddInMemoryClients`. For Entity Framework, it queries the `Clients` table. Custom implementations should return all clients without filtering.
+
+### DPoP Changes (JwtBearer Package)
+
+[Section titled "DPoP Changes (JwtBearer Package)"](#dpop-changes-jwtbearer-package)
+
+The `Client.DPoPValidationMode` property (of type `DPoPTokenExpirationValidationMode`) is **unchanged** in IdentityServer's client model.
+
+In the **JwtBearer** package (`Duende.AspNetCore.Authentication.JwtBearer`), the DPoP configuration was restructured for v8.0:
+
+* New enum `DPoPProofExpirationMode` with values `IssuedAt`, `Nonce`, and `Both`
+* `DPoPOptions.ProofTokenExpirationMode` property (default: `IssuedAt`)
+* New properties: `ProofTokenIssuedAtClockSkew`, `ProofTokenNonceClockSkew`, `EnableReplayDetection`
+* New interface `IDPoPNonceValidator` with default implementation `DefaultDPoPNonceValidator`
+* `DPoPExtensions` class replaced by `DPoPServiceCollectionExtensions`
+
+Update any code that references `DPoPExtensions` to use `DPoPServiceCollectionExtensions` instead.
+
+## Step 5: New Features
+
+[Section titled "Step 5: New Features"](#step-5-new-features)
+
+### SAML 2.0 Identity Provider
+
+[Section titled "SAML 2.0 Identity Provider"](#saml-20-identity-provider)
+
+IdentityServer 8.0 adds support for acting as a SAML 2.0 Identity Provider, enabling integration with enterprise applications and legacy systems that use SAML. See the [SAML 2.0 documentation](/identityserver/saml/) for setup and configuration details.
+
+Note
+
+SAML 2.0 Identity Provider support requires an Enterprise Edition license.
+
+### Conformance Report
+
+[Section titled "Conformance Report"](#conformance-report)
+
+A new `Duende.IdentityServer.ConformanceReport` package generates an HTML report assessing your IdentityServer deployment against OAuth 2.1 and FAPI 2.0 specifications. See the [Conformance Report documentation](/identityserver/diagnostics/conformance-report/) for details.
+
+## Step 6: Done!
+
+[Section titled "Step 6: Done!"](#step-6-done)
+
+That's it. Of course, at this point you can and should test that your IdentityServer is updated and working properly.

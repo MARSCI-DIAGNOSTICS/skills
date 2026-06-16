@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cdo-review",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "c-level-advisor/c-level-agents/skills/cdo-review",
+  "branch": "main",
+  "sha": "fb6bbb5fb3a69bf7a8e51d3e1bf1638738c17928",
+  "source": "manual"
+}

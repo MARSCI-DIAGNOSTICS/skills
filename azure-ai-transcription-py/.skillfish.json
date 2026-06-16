@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-transcription-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-transcription-py",
+  "branch": "main",
+  "sha": "f1ea004d0efe83b6df1d15a0f798b5c92e503b2a",
+  "source": "manual"
+}

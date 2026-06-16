@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-anthropic-template-skill",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-anthropic-template-skill",
+  "branch": "main",
+  "sha": "254a9007985755b32534bc1246e3fc2e1cb76705",
+  "source": "manual"
+}

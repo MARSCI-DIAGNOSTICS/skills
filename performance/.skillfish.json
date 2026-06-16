@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "performance",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/flutter/performance",
+  "branch": "main",
+  "sha": "4719a72b547683d6912f0ef85764c3877f6cd969",
+  "source": "manual"
+}

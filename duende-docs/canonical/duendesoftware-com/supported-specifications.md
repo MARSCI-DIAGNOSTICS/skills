@@ -1,0 +1,56 @@
+---
+title: Supported Specifications
+source_url: https://docs.duendesoftware.com/supported-specifications/
+source_type: llms-full-txt
+content_hash: sha256:3d09d8eb9bc779ffd941a4a184da85d4f731c0f1abe62eae1d33dbcb912499b0
+doc_id: supported-specifications
+---
+
+> A comprehensive list of supported OpenID Connect and OAuth 2.x specifications implemented in Duende IdentityServer
+
+Duende IdentityServer implements the following specifications:
+
+Note
+
+Some specifications are only available in the [Duende IdentityServer Business or Enterprise Edition](https://duendesoftware.com/products/identityserver).
+
+## OpenID Connect
+
+[Section titled "OpenID Connect"](#openid-connect)
+
+* OpenID Connect Core 1.0 ([spec](https://openid.net/specs/openid-connect-core-1_0.html))
+* OpenID Connect Discovery 1.0 ([spec](https://openid.net/specs/openid-connect-discovery-1_0.html))
+* OpenID Connect RP-Initiated Logout 1.0 ([spec](https://openid.net/specs/openid-connect-rpinitiated-1_0.html))
+* OpenID Connect Session Management 1.0 ([spec](https://openid.net/specs/openid-connect-session-1_0.html))
+* OpenID Connect Front-Channel Logout 1.0 ([spec](https://openid.net/specs/openid-connect-frontchannel-1_0.html))
+* OpenID Connect Back-Channel Logout 1.0 ([spec](https://openid.net/specs/openid-connect-backchannel-1_0.html))
+* Multiple Response Types ([spec](https://openid.net/specs/oauth-v2-multiple-response-types-1_0.html))
+* Form Post Response Mode ([spec](https://openid.net/specs/oauth-v2-form-post-response-mode-1_0.html))
+* Enterprise Edition: OpenID Connect Client-Initiated Backchannel Authentication (CIBA) ([spec](https://openid.net/specs/openid-client-initiated-backchannel-authentication-core-1_0.html))
+* FAPI 2.0 Security Profile ([spec](https://openid.net/specs/fapi-security-profile-2_0-final.html))
+
+## OAuth 2.x
+
+[Section titled "OAuth 2.x"](#oauth-2x)
+
+* OAuth 2.0 ([RFC 6749](https://tools.ietf.org/html/rfc6749))
+* OAuth 2.0 Bearer Token Usage ([RFC 6750](https://tools.ietf.org/html/rfc6750))
+* JSON Web Token ([RFC 7519](https://tools.ietf.org/html/rfc7519))
+* OAuth 2.0 Token Revocation ([RFC 7009](https://tools.ietf.org/html/rfc7009))
+* OAuth 2.0 Token Introspection ([RFC 7662](https://tools.ietf.org/html/rfc7662))
+* Proof Key for Code Exchange by OAuth Public Clients ([RFC 7636](https://tools.ietf.org/html/rfc7636))
+* OAuth 2.0 JSON Web Tokens for Client Authentication ([RFC 7523](https://tools.ietf.org/html/rfc7523))
+* OAuth 2.0 Device Authorization Grant ([RFC 8628](https://tools.ietf.org/html/rfc8628))
+* Proof-of-Possession Key Semantics for JSON Web Tokens ([RFC 7800](https://tools.ietf.org/html/rfc7800))
+* OAuth 2.0 Mutual TLS Client Authentication and Certificate-Bound Access Tokens ([RFC 8705](https://tools.ietf.org/html/rfc8705))
+* OAuth 2.0 Token Exchange ([RFC 8693](https://tools.ietf.org/html/rfc8693))
+* JWT Secured Authorization Request / JAR ([RFC 9101](https://datatracker.ietf.org/doc/html/rfc9101))
+* JWT Profile for OAuth 2.0 Access Tokens ([RFC 9068](https://datatracker.ietf.org/doc/html/rfc9068))
+* OAuth 2.0 Authorization Server Issuer Identifier in Authorization Response ([RFC 9207](https://datatracker.ietf.org/doc/html/rfc9207))
+* OAuth 2.0 Step-up Authentication Challenge Protocol ([RFC 9470](https://datatracker.ietf.org/doc/html/rfc9470))
+* Business Edition: OAuth 2.0 Dynamic Client Registration Protocol ([RFC 7591](https://www.rfc-editor.org/rfc/rfc7591))
+* Business Edition: OAuth 2.0 Pushed Authorization Requests ([RFC 9126](https://www.rfc-editor.org/rfc/rfc9126))
+* Enterprise Edition: Resource Indicators for OAuth 2.0 ([RFC 8707](https://tools.ietf.org/html/rfc8707))
+* Enterprise Edition: OAuth 2.0 Demonstrating Proof-of-Possession at the Application Layer / DPoP ([RFC 9449](https://datatracker.ietf.org/doc/html/rfc9449))
+* JSON Web Token (JWT) Response for OAuth Token Introspection ([RFC 9701](https://www.rfc-editor.org/rfc/rfc9701.html))
+* OAuth 2.0 Authorization Server Metadata ([RFC 8414](https://datatracker.ietf.org/doc/html/rfc8414))

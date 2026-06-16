@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "asyncapi-design",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/formal-specification/skills/asyncapi-design",
+  "branch": "main",
+  "sha": "10c06e6020afcf5d74919f8cb31aefecf28fb1b4",
+  "source": "manual"
+}

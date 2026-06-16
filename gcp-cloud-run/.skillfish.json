@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gcp-cloud-run",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/gcp-cloud-run",
+  "branch": "main",
+  "sha": "92ea35ed7e06411b091a6ab62e771f9343444eea",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gui-tools",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/git/skills/gui-tools",
+  "branch": "main",
+  "sha": "49b8e88e0983b70833f13f76764d972220c283b3",
+  "source": "manual"
+}

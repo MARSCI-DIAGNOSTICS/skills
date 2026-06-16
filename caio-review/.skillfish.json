@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "caio-review",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "c-level-advisor/c-level-agents/skills/caio-review",
+  "branch": "main",
+  "sha": "09199e8ac9cfe2ac98f11cd2e08ac52751983fb1",
+  "source": "manual"
+}

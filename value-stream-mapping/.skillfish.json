@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "value-stream-mapping",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/business-analysis/skills/value-stream-mapping",
+  "branch": "main",
+  "sha": "41359faa818dbe4a12040d0f8a3a888a87c5c4b7",
+  "source": "manual"
+}

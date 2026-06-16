@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "authorization-models",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/security/skills/authorization-models",
+  "branch": "main",
+  "sha": "c0b85420f42ff9b3676f4907ce7d5f081ee9cb02",
+  "source": "manual"
+}

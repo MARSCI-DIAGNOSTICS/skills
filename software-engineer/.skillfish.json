@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "software-engineer",
+  "owner": "nagisanzenin",
+  "repo": "claude-code-production-grade-plugin",
+  "path": "skills/software-engineer",
+  "branch": "main",
+  "sha": "5d797df8fd3c3a33a75f4083bc885ca6393ec669",
+  "source": "manual"
+}

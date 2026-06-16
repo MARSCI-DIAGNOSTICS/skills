@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ux-foundations",
+  "owner": "williamfontaine",
+  "repo": "claude-plugins-marketplace",
+  "path": "plugins/ux-expert/skills/ux-foundations",
+  "branch": "main",
+  "sha": "aace80f848c75b0cdea073236a4e3fbf41925d9c",
+  "source": "manual"
+}

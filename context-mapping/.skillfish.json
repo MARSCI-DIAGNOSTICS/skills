@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "context-mapping",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/enterprise-architecture/skills/context-mapping",
+  "branch": "main",
+  "sha": "4cfb84612740f3b54363134c9df15ee4aa443116",
+  "source": "manual"
+}

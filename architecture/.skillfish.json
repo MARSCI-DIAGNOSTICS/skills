@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "architecture",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nestjs/architecture",
+  "branch": "main",
+  "sha": "09a6d5639ffc8b97e0312e3c237ef836beda7a76",
+  "source": "manual"
+}

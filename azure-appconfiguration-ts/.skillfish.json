@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-appconfiguration-ts",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-appconfiguration-ts",
+  "branch": "main",
+  "sha": "c8d3956fad102fe0d62c581b309fd890a3863c12",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-guidance",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "engineering/security-guidance/skills/security-guidance",
+  "branch": "main",
+  "sha": "ead386a81c5641862c85211a3858ef1089223d01",
+  "source": "manual"
+}

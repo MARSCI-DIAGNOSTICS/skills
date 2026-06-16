@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "understand",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "Understand-Anything/understand-anything-plugin/skills/understand",
+  "branch": "main",
+  "sha": "444ca04ed92b24eccf490c26222f5f123246e058",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "modular-architecture",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/enterprise-architecture/skills/modular-architecture",
+  "branch": "main",
+  "sha": "64d8813559e5c7a7ba398aee7543ccd02d2eb0b8",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "openapi-design",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/formal-specification/skills/openapi-design",
+  "branch": "main",
+  "sha": "36bc4c9b364cd5d5264731a7e32b0f83c47a265d",
+  "source": "manual"
+}

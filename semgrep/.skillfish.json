@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "semgrep",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/static-analysis/skills/semgrep",
+  "branch": "main",
+  "sha": "7be6fe5a8a34965888680e60142b889d8b3c7050",
+  "source": "manual"
+}

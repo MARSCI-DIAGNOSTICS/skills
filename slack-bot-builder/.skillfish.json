@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "slack-bot-builder",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/slack-bot-builder",
+  "branch": "main",
+  "sha": "b26734d54c7a91426cb0cf6eafd03fb1630e9bee",
+  "source": "manual"
+}

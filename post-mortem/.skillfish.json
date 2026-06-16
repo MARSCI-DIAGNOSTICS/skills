@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "post-mortem",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "c-level-advisor/c-level-agents/skills/post-mortem",
+  "branch": "main",
+  "sha": "91eb8d8c64a538e2d612c36ca6e43d5b05bb80f9",
+  "source": "manual"
+}

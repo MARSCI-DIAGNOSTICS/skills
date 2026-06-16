@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-claude-engineering-pr-review-expert",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-claude-engineering-pr-review-expert",
+  "branch": "main",
+  "sha": "b6debb86c422e7ee6d27ce03aa50c77e6cbb3f1c",
+  "source": "manual"
+}

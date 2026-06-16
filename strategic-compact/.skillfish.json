@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "strategic-compact",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-archive/harness/.agents/skills/strategic-compact",
+  "branch": "main",
+  "sha": "866bc50ad5871fabe168d474b08a28f37802bd10",
+  "source": "manual"
+}

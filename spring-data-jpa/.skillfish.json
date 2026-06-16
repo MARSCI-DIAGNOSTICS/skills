@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "spring-data-jpa",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/java/spring-data-jpa",
+  "branch": "main",
+  "sha": "34db30f88ba8a15e0e55c757729ae095b84ca764",
+  "source": "manual"
+}

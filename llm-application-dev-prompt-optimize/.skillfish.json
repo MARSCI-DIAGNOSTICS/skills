@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "llm-application-dev-prompt-optimize",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/llm-application-dev-prompt-optimize",
+  "branch": "main",
+  "sha": "41a61c1b041967e75e24e33e1e5ea208fac54018",
+  "source": "manual"
+}

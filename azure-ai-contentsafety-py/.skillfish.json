@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-contentsafety-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-contentsafety-py",
+  "branch": "main",
+  "sha": "5331679a51f49e7280914fec3dfaf6ab53bde94c",
+  "source": "manual"
+}

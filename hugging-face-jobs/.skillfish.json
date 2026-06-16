@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hugging-face-jobs",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/hugging-face-jobs",
+  "branch": "main",
+  "sha": "65242ea92f8ae939ad143185cf21c99c117308ed",
+  "source": "manual"
+}

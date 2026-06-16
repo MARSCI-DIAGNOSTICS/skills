@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "adr-create",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/spec-driven-development/skills/adr-create",
+  "branch": "main",
+  "sha": "79da147a52fb287f66f7d3589e410548e09abe7c",
+  "source": "manual"
+}

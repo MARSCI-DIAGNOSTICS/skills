@@ -1,0 +1,147 @@
+---
+title: Protecting APIs
+source_url: https://docs.duendesoftware.com/identityserver/protecting-apis/
+source_type: llms-full-txt
+content_hash: sha256:855e62a946ccb21a97101546adccd2b6516af5b7815b94ba96409f93e12ac53c
+category: identityserver
+doc_id: identityserver/protecting-apis
+---
+
+> Learn how to secure and protect your APIs using Duende IdentityServer's token-based authentication and authorization
+
+Duende IdentityServer issues tokens for accessing resources.
+
+These resources are very often HTTP-based APIs, but could be also other "invocable" functionality like messaging endpoints, gRPC services or even good old XML Web Services. See the [issuing tokens](/identityserver/tokens/) section on more information on access tokens and how to request them.
+
+## Adding API Endpoints to IdentityServer
+
+[Section titled "Adding API Endpoints to IdentityServer"](#adding-api-endpoints-to-identityserver)
+
+It's a common scenario to add additional API endpoints to the application hosting IdentityServer. These endpoints are typically protected by IdentityServer itself.
+
+For simple scenarios, we give you some helpers. See the advanced section to understand more of the internal plumbing.
+
+Note
+
+You could achieve the same by using either Microsoft's `JwtBearer` handler. But this requires more configuration and creates dependencies on external libraries that might lead to conflicts in future updates.
+
+Start by registering your API as an `ApiScope`, (or resource) e.g.:
+
+```csharp
+var scopes = new List<ApiScope>
+{
+    // local API
+    new ApiScope(IdentityServerConstants.LocalApi.ScopeName),
+};
+```
+
+...and give your clients access to this API, e.g.:
+
+```csharp
+new Client
+{
+    // rest omitted
+    AllowedScopes = { IdentityServerConstants.LocalApi.ScopeName },
+}
+```
+
+Note
+
+The value of `IdentityServerConstants.LocalApi.ScopeName` is `IdentityServerApi`.
+
+To enable token validation for local APIs, add the following to your IdentityServer startup:
+
+Program.cs
+
+```csharp
+builder.Services.AddLocalApiAuthentication();
+```
+
+To protect an API endpoint, call `RequireAuthorization` with the `LocalApi.PolicyName` policy:
+
+```csharp
+app.MapGet("/localApi", () =>
+{
+    // omitted
+}).RequireAuthorization(LocalApi.PolicyName);
+```
+
+To protect an API controller, decorate it with an `Authorize` attribute using the `LocalApi.PolicyName` policy:
+
+```csharp
+[Route("localApi")]
+[Authorize(LocalApi.PolicyName)]
+public class LocalApiController : ControllerBase
+{
+    public IActionResult Get()
+    {
+        // omitted
+    }
+}
+```
+
+Authorized clients can then request a token for the `IdentityServerApi` scope and use it to call the API.
+
+## Discovery
+
+[Section titled "Discovery"](#discovery)
+
+You can also add your endpoints to the discovery document if you want, e.g.like this::
+
+Program.cs
+
+```csharp
+builder.Services.AddIdentityServer(options =>
+{
+    options.Discovery.CustomEntries.Add("local_api", "~/localapi");
+})
+```
+
+## Advanced
+
+[Section titled "Advanced"](#advanced)
+
+Under the hood, the `AddLocalApiAuthentication` helper does a couple of things:
+
+* adds an authentication handler that validates incoming tokens using IdentityServer's built-in token validation engine (the name of this handler is `IdentityServerAccessToken` or `IdentityServerConstants.LocalApi.AuthenticationScheme`
+* configures the authentication handler to require a scope claim inside the access token of value `IdentityServerApi`
+* sets up an authorization policy that checks for a scope claim of value `IdentityServerApi`
+
+This covers the most common scenarios. You can customize this behavior in the following ways:
+
+* Add the authentication handler yourself by calling `services.AddAuthentication().AddLocalApi(...)`. This way you can specify the required scope name yourself, or (by specifying no scope at all) accept any token from the current IdentityServer instance
+* Do your own scope validation/authorization in your controllers using custom policies or code, e.g.:
+
+Program.cs
+
+```csharp
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy(IdentityServerConstants.LocalApi.PolicyName, policy =>
+    {
+        policy.AddAuthenticationSchemes(IdentityServerConstants.LocalApi.AuthenticationScheme);
+        policy.RequireAuthenticatedUser();
+        // custom requirements
+    });
+});
+```
+
+## Claims Transformation
+
+[Section titled "Claims Transformation"](#claims-transformation)
+
+You can provide a callback to transform the claims of the incoming token after validation. Either use the helper method, e.g.:
+
+Program.cs
+
+```csharp
+builder.Services.AddLocalApiAuthentication(principal =>
+{
+    principal.Identities.First().AddClaim(new Claim("additional_claim", "additional_value"));
+
+
+    return Task.FromResult(principal);
+});
+```
+
+...or implement the event on the options if you add the authentication handler manually.

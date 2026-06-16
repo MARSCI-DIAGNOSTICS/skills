@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hubspot-integration",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/hubspot-integration",
+  "branch": "main",
+  "sha": "df87c1cbb4e0d957404f34371206633279017a73",
+  "source": "manual"
+}

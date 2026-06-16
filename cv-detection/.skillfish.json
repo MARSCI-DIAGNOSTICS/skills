@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cv-detection",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "AutoResearchClaw/researchclaw/skills/builtin/domain/cv-detection",
+  "branch": "main",
+  "sha": "0eb9ca12d9e1d5f3f0675ed924746bfe9b84be13",
+  "source": "manual"
+}

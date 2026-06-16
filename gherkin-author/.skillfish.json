@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gherkin-author",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/spec-driven-development/skills/gherkin-author",
+  "branch": "main",
+  "sha": "a43e41346911587e8f7602a4f458efdf6b7f8ab8",
+  "source": "manual"
+}

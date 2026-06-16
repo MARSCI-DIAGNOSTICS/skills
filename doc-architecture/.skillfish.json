@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "doc-architecture",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/documentation-standards/skills/doc-architecture",
+  "branch": "main",
+  "sha": "d0d7f1e1b4f33a591a0dc1dc095839b815a50e3d",
+  "source": "manual"
+}

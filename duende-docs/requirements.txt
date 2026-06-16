@@ -1,0 +1,11 @@
+# Core dependencies for duende-docs skill
+pyyaml>=6.0
+requests>=2.31.0
+filelock>=3.12.0
+
+# Optional but recommended for keyword extraction
+yake>=0.4.8
+
+# Development dependencies (for testing)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0

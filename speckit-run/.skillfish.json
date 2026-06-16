@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "speckit-run",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/spec-driven-development/skills/speckit-run",
+  "branch": "main",
+  "sha": "8a9aeeb99e7a49bb47a00add46258ea48b561b6e",
+  "source": "manual"
+}

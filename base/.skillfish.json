@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "base",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/libreoffice/base",
+  "branch": "main",
+  "sha": "aa70b78d2b72fc030c9615497b1f7c6a4b0a04b3",
+  "source": "manual"
+}

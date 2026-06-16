@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "deploy-team",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/deploy-team",
+  "branch": "main",
+  "sha": "f9275e68923a10c9d7249691bf8a7ea1e4662b12",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docs-as-code",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/documentation-standards/skills/docs-as-code",
+  "branch": "main",
+  "sha": "1961ca5f77f5f9f55486a245fed9402932b66f2c",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "conversation-format",
+  "owner": "oborchers",
+  "repo": "fractional-cto",
+  "path": "retell/skills/conversation-format",
+  "branch": "main",
+  "sha": "cdd15a1fc6272c9be5fab9314c57e520805d9dc6",
+  "source": "manual"
+}

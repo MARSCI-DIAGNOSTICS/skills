@@ -1,0 +1,126 @@
+{
+  "schema_version": "2.0.0",
+  "scan_defaults": {
+    "depth": "shallow",
+    "accounts_filter": "critical",
+    "relevance_threshold": 0.4,
+    "navigation_delay_ms": 2500,
+    "max_posts_per_account": 20,
+    "max_scroll_attempts": 3
+  },
+  "relevance_scoring": {
+    "author_priority_weights": {
+      "critical": 0.3,
+      "high": 0.2,
+      "medium": 0.1,
+      "low": 0.0
+    },
+    "keyword_weights": {
+      "claude_code_specific": 0.3,
+      "anthropic_product": 0.2,
+      "general_ai": 0.1
+    },
+    "content_signal_weights": {
+      "changelog_docs_github_links": 0.2,
+      "code_screenshots": 0.1
+    },
+    "category_boost": {
+      "feature_announcement": 0.2,
+      "api_change": 0.2,
+      "deprecation": 0.2,
+      "upcoming_change": 0.1,
+      "bug_fix": 0.1,
+      "tip_trick": 0.1,
+      "general": 0.0
+    }
+  },
+  "keywords": {
+    "claude_code_specific": [
+      "claude code",
+      "claude-code",
+      "claude cli",
+      "claude terminal",
+      "claude sdk",
+      "agent sdk",
+      "claude hooks",
+      "claude mcp",
+      "claude skills",
+      "claude plugins",
+      "claude memory",
+      "CLAUDE.md",
+      "claude subagent",
+      "claude desktop",
+      "claude settings",
+      "claude permissions",
+      "claude sandbox",
+      "PreToolUse",
+      "PostToolUse",
+      "UserPromptSubmit",
+      "claude-in-chrome",
+      "claude max",
+      "/init",
+      "/compact",
+      "/review",
+      "cowork",
+      "agent teams",
+      "contribution metrics",
+      "fast mode",
+      "/fast",
+      "/debug",
+      "auto-memory",
+      "context compaction",
+      "adaptive thinking",
+      "diff view"
+    ],
+    "anthropic_product": [
+      "anthropic",
+      "claude",
+      "sonnet",
+      "opus",
+      "haiku",
+      "claude api",
+      "claude model",
+      "tool use",
+      "function calling",
+      "computer use",
+      "extended thinking",
+      "model context protocol",
+      "context window",
+      "opus 4.6",
+      "1M context",
+      "claude in excel"
+    ],
+    "general_ai": [
+      "ai coding",
+      "ai agent",
+      "llm",
+      "agentic",
+      "copilot",
+      "code generation"
+    ]
+  },
+  "category_signals": {
+    "feature_announcement": ["shipped", "launched", "now available", "just released", "new feature", "announcing", "introducing", "changelog"],
+    "upcoming_change": ["working on", "coming soon", "WIP", "sneak peek", "preview", "in progress", "building"],
+    "api_change": ["breaking change", "deprecated", "new API", "API update", "endpoint", "schema change", "migration"],
+    "bug_fix": ["fixed", "patched", "workaround", "resolved", "hotfix", "regression"],
+    "tip_trick": ["tip:", "pro tip", "did you know", "trick:", "protip", "TIL", "hidden feature"],
+    "deprecation": ["removing", "sunset", "end of life", "EOL", "no longer supported", "will be removed"],
+    "general": []
+  },
+  "area_mappings": {
+    "hook-management": ["hooks", "PreToolUse", "PostToolUse", "UserPromptSubmit", "NotificationShown", "SessionStart", "SessionEnd"],
+    "claude-code-observability": ["hooks", "logging", "event", "observability", "telemetry"],
+    "skill-development": ["skills", "SKILL.md", "frontmatter", "slash command"],
+    "plugin-development": ["plugin", "plugin.json", "manifest"],
+    "mcp-integration": ["MCP", "server", "tool", "model context protocol"],
+    "memory-management": ["memory", "CLAUDE.md", "context", "auto memory"],
+    "claude-desktop": ["desktop", "desktop app", "GUI"],
+    "cowork": ["cowork", "Cowork", "desktop app", "connectors"],
+    "settings-management": ["settings", "config", "configuration", "settings.json"],
+    "subagent-development": ["subagent", "agent SDK", "Task tool", "teammate"],
+    "agent-sdk-development": ["agent SDK", "SDK", "Claude SDK"],
+    "permission-management": ["permissions", "permission mode", "allowedTools"],
+    "sandbox-configuration": ["sandbox", "isolation", "container"]
+  }
+}

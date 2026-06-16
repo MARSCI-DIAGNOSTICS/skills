@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "angular-migration",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/angular-migration",
+  "branch": "main",
+  "sha": "643fa514caa39e21cea38b612e2ce4a006ddab6e",
+  "source": "manual"
+}

@@ -1,0 +1,46 @@
+---
+title: End Session Endpoint
+source_url: https://docs.duendesoftware.com/end-session-endpoint/
+source_type: llms-full-txt
+content_hash: sha256:96895341ff7a2d8f6554f11b6fd4a9538822a47cdf8db9f056e29ba4782a4e82
+doc_id: end-session-endpoint
+---
+
+> The end session endpoint enables single sign-out functionality in OpenID Connect, allowing users to terminate their sessions across multiple client applications.
+
+The end session endpoint can be used to trigger single sign-out in the browser ( see [spec](https://openid.net/specs/openid-connect-rpinitiated-1_0.html)).
+
+To use the end session endpoint a client application will redirect the user's browser to the end session URL. All applications that the user has logged into via the browser during the user's session can participate in the sign-out.
+
+The URL for the end session endpoint is available via discovery.
+
+* **`id_token_hint`**
+
+  When the user is redirected to the endpoint, they will be prompted if they really want to sign-out. This prompt can be bypassed by a client sending the original `id_token` received from authentication. This is passed as a query string parameter called `id_token_hint`.
+
+* **`post_logout_redirect_uri`**
+
+  If a valid `id_token_hint` is passed, then the client may also send a `post_logout_redirect_uri` parameter. This can be used to allow the user to redirect back to the client after sign-out. The value must match one of the client's pre-configured `PostLogoutRedirectUris`.
+
+* **`state`**
+
+  If a valid `post_logout_redirect_uri` is passed, then the client may also send a `state` parameter. This will be returned back to the client as a query string parameter after the user redirects back to the client. This is typically used by clients to roundtrip state across the redirect.
+
+```text
+GET /connect/endsession?id_token_hint=...&post_logout_redirect_uri=http%3A%2F%2Flocalhost%3A7017%2Findex.html
+```
+
+## .NET Client Library
+
+[Section titled ".NET Client Library"](#net-client-library)
+
+You can use the [Duende IdentityModel](/identitymodel/) client library to programmatically create end sessions request URLs from .NET code.
+
+```csharp
+var ru = new RequestUrl("https://demo.duendesoftware.com/connect/end_session");
+
+
+var url = ru.CreateEndSessionUrl(
+    idTokenHint: "...",
+    postLogoutRedirectUri: "...");
+```

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "claude-desktop",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/claude-desktop",
+  "branch": "main",
+  "sha": "7bec89ae60a7961d818ecacad5206b3074149ed6",
+  "source": "manual"
+}

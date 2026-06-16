@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "reduce-delegate-framework",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/reduce-delegate-framework",
+  "branch": "main",
+  "sha": "3aeef415fe0fe38a9873092e335122a6fe79f522",
+  "source": "manual"
+}

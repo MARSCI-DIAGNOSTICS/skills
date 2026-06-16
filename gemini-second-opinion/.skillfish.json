@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gemini-second-opinion",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/google-ecosystem/skills/gemini-second-opinion",
+  "branch": "main",
+  "sha": "4cf24faf520c930bb74a1a4d80cf98007b7b7a18",
+  "source": "manual"
+}

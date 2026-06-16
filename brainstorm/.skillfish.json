@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "brainstorm",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/requirements-elicitation/skills/brainstorm",
+  "branch": "main",
+  "sha": "29da2bc556ebbb2641f2e44f219257452bfa9c2a",
+  "source": "manual"
+}

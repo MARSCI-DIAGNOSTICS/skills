@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "database-migrations-migration-observability",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/database-migrations-migration-observability",
+  "branch": "main",
+  "sha": "3f3d3712e91bcbe6ed9afd6e0e17b4c18e09e16e",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "second-opinion",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/second-opinion/skills/second-opinion",
+  "branch": "main",
+  "sha": "e9a24800b12ed40e4a0b28df9a90e0c3c654df13",
+  "source": "manual"
+}

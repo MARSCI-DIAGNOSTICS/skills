@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "document-extraction",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/requirements-elicitation/skills/document-extraction",
+  "branch": "main",
+  "sha": "99af3ebf1a2449b2fbc51db26e5c751259cd2134",
+  "source": "manual"
+}

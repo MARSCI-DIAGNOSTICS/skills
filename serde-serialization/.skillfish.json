@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "serde-serialization",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/rust/serde-serialization",
+  "branch": "main",
+  "sha": "87c51245f5622dc5cf9874017081bbdcf17c4903",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/dotnet/security",
+  "branch": "main",
+  "sha": "872150fc5c73eae4f39a2418e32aaf3a08414b5e",
+  "source": "manual"
+}

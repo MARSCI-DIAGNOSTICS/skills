@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "data-access-layer",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nextjs/data-access-layer",
+  "branch": "main",
+  "sha": "5cf643a92a4f1cf757e53b8cda03afe6cfc0d02d",
+  "source": "manual"
+}

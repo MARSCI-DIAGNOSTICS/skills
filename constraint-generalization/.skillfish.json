@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "constraint-generalization",
+  "owner": "plurigrid",
+  "repo": "asi",
+  "path": "ies/music-topos/.agents/skills/constraint-generalization",
+  "branch": "main",
+  "sha": "d3d5daca3c4b2ee38cf4c839ed8bbcdadf7a3ce5",
+  "source": "manual"
+}

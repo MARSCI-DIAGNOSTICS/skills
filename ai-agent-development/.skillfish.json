@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ai-agent-development",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/ai-agent-development",
+  "branch": "main",
+  "sha": "32a7fc9d98f8c0a44d641fc194f9e46e3059be1d",
+  "source": "manual"
+}

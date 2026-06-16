@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "optimize-images",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/content-management-system/skills/optimize-images",
+  "branch": "main",
+  "sha": "14c4f0cb65981690ec10898895b89047553be14f",
+  "source": "manual"
+}

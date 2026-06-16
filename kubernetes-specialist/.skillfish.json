@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "kubernetes-specialist",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/kubernetes-specialist",
+  "branch": "main",
+  "sha": "5cc3710adde341a9e8e25490ff8f2bd26e6b354d",
+  "source": "manual"
+}

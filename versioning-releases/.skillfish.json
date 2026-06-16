@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "versioning-releases",
+  "owner": "oborchers",
+  "repo": "fractional-cto",
+  "path": "python-package/skills/versioning-releases",
+  "branch": "main",
+  "sha": "bf03884d30a7f0b389db8f3adea195e5c91920dc",
+  "source": "manual"
+}

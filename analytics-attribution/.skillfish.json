@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analytics-attribution",
+  "owner": "harutsugu-namitsuki",
+  "repo": "databricks_datamng",
+  "path": "skills/agentkits-marketing-main/.claude/skills/analytics-attribution",
+  "branch": "main",
+  "sha": "043c6685c6759e8069a17292a29ea402e2d3a514",
+  "source": "manual"
+}

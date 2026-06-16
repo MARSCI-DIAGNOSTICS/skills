@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "deployment-procedures",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/deployment-procedures",
+  "branch": "main",
+  "sha": "d5321a9d79f9b80dd80f441730bd92f755dcc1c0",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "test-automator",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/test-automator",
+  "branch": "main",
+  "sha": "09e5c19a8a36b4c0db866a34c4643ca3eae9ee9c",
+  "source": "manual"
+}

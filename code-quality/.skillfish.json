@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "code-quality",
+  "owner": "oborchers",
+  "repo": "fractional-cto",
+  "path": "python-package/skills/code-quality",
+  "branch": "main",
+  "sha": "470af7625ffc0d749797f0b062f78472cfc941b3",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "best-practices",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/dart/best-practices",
+  "branch": "main",
+  "sha": "71ea0644fb0da061eed2edd120bc522f1341c643",
+  "source": "manual"
+}

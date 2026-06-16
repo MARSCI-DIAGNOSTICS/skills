@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "product-expert-design",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/product-expert-design",
+  "branch": "main",
+  "sha": "4cbb17c03294a424a8faea496aa24faee14edfd9",
+  "source": "manual"
+}

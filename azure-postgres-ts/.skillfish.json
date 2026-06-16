@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-postgres-ts",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-postgres-ts",
+  "branch": "main",
+  "sha": "b5e780156947b94dded7cacf5eed30b95bb78193",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gherkin-convert",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/spec-driven-development/skills/gherkin-convert",
+  "branch": "main",
+  "sha": "323f1592a22c1fc0208ef3fe8d5e9f24c1b41d20",
+  "source": "manual"
+}

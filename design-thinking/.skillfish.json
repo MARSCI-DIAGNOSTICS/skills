@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "design-thinking",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/business-analysis/skills/design-thinking",
+  "branch": "main",
+  "sha": "07ddd5851b8d4e3966b9ff35d6ba164d5b8d1db5",
+  "source": "manual"
+}

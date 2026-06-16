@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "code-maturity-assessor",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/building-secure-contracts/skills/code-maturity-assessor",
+  "branch": "main",
+  "sha": "001978d6aa04fe04405df8f462cc1d48ebc7acfb",
+  "source": "manual"
+}

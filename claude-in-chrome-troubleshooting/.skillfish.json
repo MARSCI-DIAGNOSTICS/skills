@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "claude-in-chrome-troubleshooting",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/claude-in-chrome-troubleshooting/skills/claude-in-chrome-troubleshooting",
+  "branch": "main",
+  "sha": "b76dac95803aeffa1e24bf94fdd47cf168202499",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "go-concurrency-patterns",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/go-concurrency-patterns",
+  "branch": "main",
+  "sha": "8200494cc393902379ea44211d9c6b3572567cf5",
+  "source": "manual"
+}

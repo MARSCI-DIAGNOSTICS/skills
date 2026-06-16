@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "template-meta-prompt-creation",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/template-meta-prompt-creation",
+  "branch": "main",
+  "sha": "9dfa62127ec082d53afcace43aa088f34355d714",
+  "source": "manual"
+}

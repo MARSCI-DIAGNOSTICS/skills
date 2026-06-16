@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ml-system-design",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/ml-system-design",
+  "branch": "main",
+  "sha": "1c061bc91bc0083a4f81c1cc4e94f434db8cf314",
+  "source": "manual"
+}

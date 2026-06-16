@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "devops-troubleshooter",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/devops-troubleshooter",
+  "branch": "main",
+  "sha": "cd6acea3a33ba91ccba90e1c785161f4f563fc0c",
+  "source": "manual"
+}

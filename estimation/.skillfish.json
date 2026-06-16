@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "estimation",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/business-analysis/skills/estimation",
+  "branch": "main",
+  "sha": "f9ab8e6b845adaeb84272cf5e0b4618385faf6c0",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "headless-api-design",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/content-management-system/skills/headless-api-design",
+  "branch": "main",
+  "sha": "c4a658891084719a7a79aba4dd15c6eb4681fd66",
+  "source": "manual"
+}

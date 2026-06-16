@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "classify-issue",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/classify-issue",
+  "branch": "main",
+  "sha": "bf26381bba922a9e968e3fe734ab47165a6efd2e",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "latency-budget",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/latency-budget",
+  "branch": "main",
+  "sha": "f700e01e97157d4229b22cddd5b075c2e56050f8",
+  "source": "manual"
+}

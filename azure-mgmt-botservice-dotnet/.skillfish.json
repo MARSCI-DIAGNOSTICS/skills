@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-mgmt-botservice-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-mgmt-botservice-dotnet",
+  "branch": "main",
+  "sha": "b28aa78faf562437c3a460d5a868d96aa03d57d2",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "m365-agents-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/m365-agents-py",
+  "branch": "main",
+  "sha": "86040f3b87d0eb8498bf6a01b026dfa1b4577ef7",
+  "source": "manual"
+}

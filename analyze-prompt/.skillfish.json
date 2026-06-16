@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyze-prompt",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/analyze-prompt",
+  "branch": "main",
+  "sha": "d2cd84174fd2d021d84f08052ac80fc94b8abf16",
+  "source": "manual"
+}

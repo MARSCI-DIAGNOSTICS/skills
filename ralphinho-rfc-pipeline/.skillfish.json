@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ralphinho-rfc-pipeline",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-sync/work/ecc/docs/zh-CN/skills/ralphinho-rfc-pipeline",
+  "branch": "main",
+  "sha": "d067c49c6f4eea6377ff7d7ad8801a3df471ed69",
+  "source": "manual"
+}

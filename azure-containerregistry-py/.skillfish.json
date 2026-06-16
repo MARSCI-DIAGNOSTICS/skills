@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-containerregistry-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-containerregistry-py",
+  "branch": "main",
+  "sha": "3354926e5d9ba0314eb3f92e7386e7ea9f232a7e",
+  "source": "manual"
+}

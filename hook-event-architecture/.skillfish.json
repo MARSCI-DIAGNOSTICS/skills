@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hook-event-architecture",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/hook-event-architecture",
+  "branch": "main",
+  "sha": "c874b7072c418e13e219eecadf50fc9c5208c6cf",
+  "source": "manual"
+}

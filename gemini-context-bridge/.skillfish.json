@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gemini-context-bridge",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/google-ecosystem/skills/gemini-context-bridge",
+  "branch": "main",
+  "sha": "c026c46182c7a9ae3818810205fd5bf4f5967bcb",
+  "source": "manual"
+}

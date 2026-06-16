@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hubspot-automation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/hubspot-automation",
+  "branch": "main",
+  "sha": "650625da548a325708daacf38edc4a38581b209b",
+  "source": "manual"
+}

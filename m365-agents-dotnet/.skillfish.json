@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "m365-agents-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/m365-agents-dotnet",
+  "branch": "main",
+  "sha": "131147708d5a7828e4da2a1c7f8b485b6a1646c3",
+  "source": "manual"
+}

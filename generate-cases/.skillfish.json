@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "generate-cases",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/test-strategy/skills/generate-cases",
+  "branch": "main",
+  "sha": "4ba655b0f0aaea7f211c6497b8138bdc4eac185a",
+  "source": "manual"
+}

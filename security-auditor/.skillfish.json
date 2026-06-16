@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-auditor",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/security-auditor",
+  "branch": "main",
+  "sha": "bd5b2982d35e8171e22d0860f0ebd1b56833a40f",
+  "source": "manual"
+}

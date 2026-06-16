@@ -1,0 +1,22 @@
+[
+  {
+    "name": "duendesoftware.com (llms-full)",
+    "type": "llms-full-txt",
+    "url": "https://docs.duendesoftware.com/llms-full.txt",
+    "skip_existing": true,
+    "expected_count": 150,
+    "expected_count_tolerance": 30,
+    "timeout": 600,
+    "comment": "Pre-rendered markdown for all Duende products (IdentityServer, BFF, ATM, IdentityModel, OidcClient). Single file containing all documentation with page separators."
+  },
+  {
+    "name": "duendesoftware.com (llms-txt discovery)",
+    "type": "llms-txt",
+    "url": "https://docs.duendesoftware.com/llms.txt",
+    "skip_existing": true,
+    "expected_count": 6,
+    "expected_count_tolerance": 2,
+    "timeout": 300,
+    "comment": "Discovery index with links to per-product .txt files. Can be used for incremental updates. Products: IdentityServer, BFF, AccessTokenManagement, IdentityModel, OidcClient, General."
+  }
+]

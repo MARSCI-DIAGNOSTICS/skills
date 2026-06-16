@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "youtube-summarizer",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/youtube-summarizer",
+  "branch": "main",
+  "sha": "3d82937c601c5ed38658f29be570cde28d2ae632",
+  "source": "manual"
+}

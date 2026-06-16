@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "leverage-point-audit",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/leverage-point-audit",
+  "branch": "main",
+  "sha": "f97833fc3eccdfeadf3a80e97798bf692a90321a",
+  "source": "manual"
+}

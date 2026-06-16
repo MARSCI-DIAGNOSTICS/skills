@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "chemistry-rdkit",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "AutoResearchClaw/.claude/skills/chemistry-rdkit",
+  "branch": "main",
+  "sha": "515434fbcf2b533338b4f1618ffe73ae48465805",
+  "source": "manual"
+}

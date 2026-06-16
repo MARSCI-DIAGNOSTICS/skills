@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "yara-rule-authoring",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/yara-authoring/skills/yara-rule-authoring",
+  "branch": "main",
+  "sha": "e897051c49644ec3add14771fb1d09e7fe0d0e87",
+  "source": "manual"
+}

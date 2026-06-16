@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "skill-template",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/skill-development/assets/skill-template",
+  "branch": "main",
+  "sha": "0e57415e6a6071b6415fcf284f8536919bc116de",
+  "source": "manual"
+}

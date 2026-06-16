@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cross-eval",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "c-level-advisor/c-level-agents/skills/cross-eval",
+  "branch": "main",
+  "sha": "c662bd60e0e4ced852fc08fc2a319be18d4aeb30",
+  "source": "manual"
+}

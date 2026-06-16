@@ -1,0 +1,346 @@
+# Tag Detection Configuration for Duende Software Documentation
+# Version: 1.0
+
+tags:
+  oauth:
+    terms:
+      - oauth
+      - oauth 2.0
+      - oauth2
+      - authorization server
+      - resource server
+      - client registration
+    min_mentions: 4
+
+  oidc:
+    terms:
+      - oidc
+      - openid connect
+      - openid
+      - id token
+      - userinfo
+      - discovery
+      - well-known
+    min_mentions: 4
+
+  tokens:
+    terms:
+      - token
+      - tokens
+      - access token
+      - refresh token
+      - reference token
+      - jwt
+      - json web token
+    min_mentions: 5
+
+  dpop:
+    terms:
+      - dpop
+      - proof of possession
+      - sender constrained
+      - token binding
+      - dpop proof
+    min_mentions: 3
+
+  mtls:
+    terms:
+      - mtls
+      - mutual tls
+      - client certificate
+      - certificate authentication
+      - x509
+    min_mentions: 3
+
+  bff:
+    terms:
+      - bff
+      - backend for frontend
+      - bff pattern
+      - yarp
+      - reverse proxy
+    min_mentions: 4
+
+  blazor:
+    terms:
+      - blazor
+      - blazor server
+      - blazor wasm
+      - blazor webassembly
+      - interactive
+    min_mentions: 3
+
+  aspnetcore:
+    terms:
+      - asp.net core
+      - aspnetcore
+      - asp net
+      - middleware
+      - authentication handler
+      - authorization policy
+    min_mentions: 5
+
+  dotnet:
+    terms:
+      - .net
+      - dotnet
+      - c#
+      - csharp
+      - nuget
+    min_mentions: 4
+
+  client-credentials:
+    terms:
+      - client credentials
+      - machine to machine
+      - m2m
+      - service account
+      - daemon
+    min_mentions: 3
+
+  authorization-code:
+    terms:
+      - authorization code
+      - code flow
+      - pkce
+      - code challenge
+      - code verifier
+    min_mentions: 3
+
+  quickstart:
+    terms:
+      - quickstart
+      - quick start
+      - getting started
+      - tutorial
+      - step by step
+    min_mentions: 3
+
+  sample-code:
+    terms:
+      - sample
+      - example
+      - code sample
+      - demo
+      - repository
+    min_mentions: 3
+
+  configuration:
+    terms:
+      - configuration
+      - config
+      - settings
+      - options
+      - appsettings
+    min_mentions: 5
+
+  entityframework:
+    terms:
+      - entity framework
+      - ef core
+      - efcore
+      - migrations
+      - dbcontext
+    min_mentions: 3
+
+  signing:
+    terms:
+      - signing
+      - signing key
+      - signing credential
+      - certificate
+      - key material
+    min_mentions: 4
+
+  validation:
+    terms:
+      - validation
+      - validate
+      - token validation
+      - claims validation
+      - scope validation
+    min_mentions: 4
+
+  claims:
+    terms:
+      - claim
+      - claims
+      - claims transformation
+      - claims principal
+      - identity claims
+    min_mentions: 4
+
+  scopes:
+    terms:
+      - scope
+      - scopes
+      - api scope
+      - identity scope
+      - scope validation
+    min_mentions: 4
+
+  grants:
+    terms:
+      - grant
+      - grants
+      - persisted grant
+      - grant type
+      - consent
+    min_mentions: 4
+
+  licensing:
+    terms:
+      - license
+      - licensing
+      - license key
+      - community edition
+      - enterprise
+    min_mentions: 3
+
+  migration:
+    terms:
+      - migration
+      - migrate
+      - upgrade
+      - v5
+      - v6
+      - v7
+      - breaking changes
+    min_mentions: 3
+
+  spa:
+    terms:
+      - spa
+      - single page
+      - single-page
+      - javascript
+      - frontend
+    min_mentions: 3
+
+categories:
+  identityserver:
+    path_patterns:
+      - identityserver
+      - is
+      - identity-server
+    tag_mapping:
+      - oauth
+      - oidc
+      - tokens
+    content_terms:
+      - identityserver
+      - authorization server
+      - token service
+
+  bff:
+    path_patterns:
+      - bff
+      - backend-for-frontend
+    tag_mapping:
+      - bff
+      - blazor
+    content_terms:
+      - bff
+      - backend for frontend
+      - yarp
+
+  accesstokenmanagement:
+    path_patterns:
+      - accesstokenmanagement
+      - atm
+      - token-management
+    tag_mapping:
+      - tokens
+    content_terms:
+      - access token management
+      - token management
+      - token handler
+
+  identitymodel:
+    path_patterns:
+      - identitymodel
+      - identity-model
+    tag_mapping:
+      - oauth
+      - oidc
+    content_terms:
+      - identitymodel
+      - protocol operations
+      - discovery client
+
+  identitymodel-oidcclient:
+    path_patterns:
+      - identitymodel-oidcclient
+      - oidcclient
+      - oidc-client
+    tag_mapping:
+      - oidc
+    content_terms:
+      - oidc client
+      - native client
+      - desktop application
+      - mobile application
+
+  general:
+    path_patterns:
+      - general
+      - shared
+      - common
+    tag_mapping:
+      - licensing
+    content_terms:
+      - licensing
+      - support
+      - glossary
+      - overview
+
+  quickstarts:
+    path_patterns:
+      - quickstart
+      - quickstarts
+      - getting-started
+    tag_mapping:
+      - quickstart
+    content_terms:
+      - quickstart
+      - getting started
+      - step by step
+
+  samples:
+    path_patterns:
+      - sample
+      - samples
+      - example
+    tag_mapping:
+      - sample-code
+    content_terms:
+      - sample
+      - example
+      - demo
+
+  fundamentals:
+    path_patterns:
+      - fundamentals
+      - basics
+      - concepts
+    tag_mapping:
+      - oauth
+      - oidc
+    content_terms:
+      - fundamental
+      - concept
+      - overview
+      - architecture
+
+  reference:
+    path_patterns:
+      - reference
+      - api
+      - options
+    tag_mapping:
+      - configuration
+    content_terms:
+      - reference
+      - api
+      - options
+      - settings

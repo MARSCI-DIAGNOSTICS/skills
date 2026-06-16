@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "eval",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering/agenthub/skills/eval",
+  "branch": "main",
+  "sha": "709d7db21503927199a61ce71ced126488eec01b",
+  "source": "manual"
+}

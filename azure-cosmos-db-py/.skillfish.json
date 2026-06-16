@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-cosmos-db-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-cosmos-db-py",
+  "branch": "main",
+  "sha": "2b51565afe9d3abd9ae0591c5f50fb23e42411a5",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "scaffold-layer",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/scaffold-layer",
+  "branch": "main",
+  "sha": "7349d826d08eb6cefa4aae323228a80d45486efa",
+  "source": "manual"
+}

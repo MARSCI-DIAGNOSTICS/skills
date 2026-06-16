@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cyton-dongle",
+  "owner": "plurigrid",
+  "repo": "asi",
+  "path": ".claude/skills/cyton-dongle",
+  "branch": "main",
+  "sha": "be7925a8f60bf4c8cfa44c0d1484a589b57c5b66",
+  "source": "manual"
+}

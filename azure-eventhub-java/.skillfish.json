@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-eventhub-java",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-eventhub-java",
+  "branch": "main",
+  "sha": "b0b343bb8c0cad60c2e8be546d5d689f1ec98a99",
+  "source": "manual"
+}

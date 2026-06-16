@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mcp-integration",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/mcp-integration",
+  "branch": "main",
+  "sha": "6d576166a7ec0cb1442f071cc286c7a6f0646143",
+  "source": "manual"
+}

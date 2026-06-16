@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tokio-runtime",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/rust/tokio-runtime",
+  "branch": "main",
+  "sha": "d34de1db15449d9de47ecdce6a5bf256a48a53f2",
+  "source": "manual"
+}

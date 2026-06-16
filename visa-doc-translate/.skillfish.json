@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "visa-doc-translate",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-sync/work/ecc/docs/zh-CN/skills/visa-doc-translate",
+  "branch": "main",
+  "sha": "80c1234a00be2a005364a5c0afbffbcaf3d55da2",
+  "source": "manual"
+}

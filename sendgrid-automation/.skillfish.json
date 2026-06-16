@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sendgrid-automation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/sendgrid-automation",
+  "branch": "main",
+  "sha": "6a8eb6896aa0ea4b2d6a5f4c2f75b28936a3a3ec",
+  "source": "manual"
+}

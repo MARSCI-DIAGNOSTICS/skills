@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "workflow-builder",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "engineering/workflow-builder/skills/workflow-builder",
+  "branch": "main",
+  "sha": "26fba3bb8d355e1dfef4b1bec3f829536615eb13",
+  "source": "manual"
+}

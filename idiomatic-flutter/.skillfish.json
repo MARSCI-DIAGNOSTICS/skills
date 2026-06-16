@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "idiomatic-flutter",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/flutter/idiomatic-flutter",
+  "branch": "main",
+  "sha": "b35887e356cf56cbd80cc044775f748c8923ccc8",
+  "source": "manual"
+}

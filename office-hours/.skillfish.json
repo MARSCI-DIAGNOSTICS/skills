@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "office-hours",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "c-level-advisor/c-level-agents/skills/office-hours",
+  "branch": "main",
+  "sha": "ce3c4836426c347657dc9ffa006598e2ff452904",
+  "source": "manual"
+}

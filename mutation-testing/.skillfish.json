@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mutation-testing",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/mutation-testing/skills/mutation-testing",
+  "branch": "main",
+  "sha": "59a1394a39084651d6f7bb9b3db966ffdb263d7d",
+  "source": "manual"
+}

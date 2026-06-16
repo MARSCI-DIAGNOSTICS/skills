@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "terraform-skill",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/terraform-skill",
+  "branch": "main",
+  "sha": "07e9167d031df8953092a7a7404cf1e2ba2523b1",
+  "source": "manual"
+}

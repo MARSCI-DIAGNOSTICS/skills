@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "git-cleanup",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/git-cleanup/skills/git-cleanup",
+  "branch": "main",
+  "sha": "6d8d02cebf83e78e9c4be70e76345776b6c757cc",
+  "source": "manual"
+}

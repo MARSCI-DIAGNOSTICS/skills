@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-evaluation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/agent-evaluation",
+  "branch": "main",
+  "sha": "9fb9ece069799c3ae236b5f310e63f14651bcc3d",
+  "source": "manual"
+}

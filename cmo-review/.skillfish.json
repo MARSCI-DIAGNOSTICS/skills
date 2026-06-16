@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cmo-review",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "c-level-advisor/c-level-agents/skills/cmo-review",
+  "branch": "main",
+  "sha": "272da75cc308bb09d769e44e1201868fe1fb42c4",
+  "source": "manual"
+}

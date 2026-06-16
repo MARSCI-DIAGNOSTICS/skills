@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fine-tuning-expert",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/fine-tuning-expert",
+  "branch": "main",
+  "sha": "ceea5ba5d635e6150fbd39bca8e0670abf40d5c4",
+  "source": "manual"
+}

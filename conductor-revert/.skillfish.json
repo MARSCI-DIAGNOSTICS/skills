@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "conductor-revert",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/conductor-revert",
+  "branch": "main",
+  "sha": "7c278dd47d1c72a7410dc3de88d6089449d65f95",
+  "source": "manual"
+}

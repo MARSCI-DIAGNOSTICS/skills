@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bazel-build-optimization",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/bazel-build-optimization",
+  "branch": "main",
+  "sha": "f951af234530f145a96f254ffd31b1cdbbc2701b",
+  "source": "manual"
+}

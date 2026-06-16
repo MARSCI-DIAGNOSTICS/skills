@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cognitive-load-assessment",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/team-design/skills/cognitive-load-assessment",
+  "branch": "main",
+  "sha": "134785a0cb6e14a98b28fa7447cc37d2f6c414b0",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "billing-automation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/billing-automation",
+  "branch": "main",
+  "sha": "0afce479cbb04b620b15a2e7ad3b8bd445e63393",
+  "source": "manual"
+}

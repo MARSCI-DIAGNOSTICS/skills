@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "convert",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/spec-driven-development/skills/convert",
+  "branch": "main",
+  "sha": "b5af8d76e96416eacbab3d302ed2faff66905951",
+  "source": "manual"
+}

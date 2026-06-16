@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "git-pr-workflows-pr-enhance",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/git-pr-workflows-pr-enhance",
+  "branch": "main",
+  "sha": "61dde92ee1ecb54b3b11e60d981292eb8e983ed7",
+  "source": "manual"
+}

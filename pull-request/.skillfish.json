@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pull-request",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/pull-request",
+  "branch": "main",
+  "sha": "1dd63e72a1442dfd6a1e9afb1adaa8d0fe870b25",
+  "source": "manual"
+}

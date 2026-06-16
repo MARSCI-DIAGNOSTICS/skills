@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "foundry-sdk-python",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/foundry-sdk-python",
+  "branch": "main",
+  "sha": "cbb60cbe49a4c33232784eb07aeb0b8a77f9cb23",
+  "source": "manual"
+}

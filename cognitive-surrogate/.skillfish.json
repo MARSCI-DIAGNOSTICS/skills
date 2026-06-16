@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cognitive-surrogate",
+  "owner": "plurigrid",
+  "repo": "asi",
+  "path": "ies/music-topos/.agents/skills/cognitive-surrogate",
+  "branch": "main",
+  "sha": "c51a21e7585b209ac7fffb832e29e90b67447d35",
+  "source": "manual"
+}

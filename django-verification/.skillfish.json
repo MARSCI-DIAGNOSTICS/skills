@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "django-verification",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-sync/work/ecc/docs/ja-JP/skills/django-verification",
+  "branch": "main",
+  "sha": "465904acab0692f676ee69807d4b7695706e7d09",
+  "source": "manual"
+}

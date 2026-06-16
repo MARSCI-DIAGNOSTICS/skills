@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-search-python",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-search-python",
+  "branch": "main",
+  "sha": "ee79ca7b55415f27574e7a99b0b539e2e1f4d1fe",
+  "source": "manual"
+}

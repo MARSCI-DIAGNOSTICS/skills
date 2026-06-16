@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "claude-code-guide",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/claude-code-guide",
+  "branch": "main",
+  "sha": "1bf592e0277a4d0da3d2e622d1844077053ec7de",
+  "source": "manual"
+}

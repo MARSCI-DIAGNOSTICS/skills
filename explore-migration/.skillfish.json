@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "explore-migration",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/enterprise-architecture/skills/explore-migration",
+  "branch": "main",
+  "sha": "f6ef8ea41bd637ef6281a86001ac6ecf70b03d19",
+  "source": "manual"
+}

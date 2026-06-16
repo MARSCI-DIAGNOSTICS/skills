@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "metasploit-framework",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/metasploit-framework",
+  "branch": "main",
+  "sha": "7754975805b4f00a1d1fe394dcb26b547e8cabfe",
+  "source": "manual"
+}

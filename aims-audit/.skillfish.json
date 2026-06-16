@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aims-audit",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "compliance-os/skills/aims-audit",
+  "branch": "main",
+  "sha": "b9c62f63c426739370011e24542b8e945ee4d32c",
+  "source": "manual"
+}

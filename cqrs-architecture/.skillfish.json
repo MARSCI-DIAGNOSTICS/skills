@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cqrs-architecture",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/event-modeling/skills/cqrs-architecture",
+  "branch": "main",
+  "sha": "f059a469cd81cb9b919a9723014ac4f7a7a0952f",
+  "source": "manual"
+}

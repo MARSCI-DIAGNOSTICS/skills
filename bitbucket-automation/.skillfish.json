@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bitbucket-automation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/bitbucket-automation",
+  "branch": "main",
+  "sha": "652be94ac1783406cd564066fbedb84027634de8",
+  "source": "manual"
+}

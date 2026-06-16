@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-role-go-build-resolver",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-role-go-build-resolver",
+  "branch": "main",
+  "sha": "67f06421aaef3f9768aab410936f42b44e196e50",
+  "source": "manual"
+}

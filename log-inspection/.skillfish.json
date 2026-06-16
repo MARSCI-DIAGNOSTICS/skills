@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "log-inspection",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-code-observability/skills/log-inspection",
+  "branch": "main",
+  "sha": "e8aedd007dac218432cfddbb4cf233f4fb3b091c",
+  "source": "manual"
+}

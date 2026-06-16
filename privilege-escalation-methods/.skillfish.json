@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "privilege-escalation-methods",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/privilege-escalation-methods",
+  "branch": "main",
+  "sha": "6e5ed3ceb2cfbaf4337f1a9d10552265ee321c63",
+  "source": "manual"
+}

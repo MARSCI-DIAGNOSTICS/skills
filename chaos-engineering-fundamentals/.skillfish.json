@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "chaos-engineering-fundamentals",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/chaos-engineering-fundamentals",
+  "branch": "main",
+  "sha": "9267ea4e6fe3f4c08f0d8a390b034ff91d147c92",
+  "source": "manual"
+}

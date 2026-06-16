@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bevy",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/rust/bevy",
+  "branch": "main",
+  "sha": "043ff7951d084bc52adaeded0b5b88769b24d908",
+  "source": "manual"
+}

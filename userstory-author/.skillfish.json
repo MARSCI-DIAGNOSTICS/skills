@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "userstory-author",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/spec-driven-development/skills/userstory-author",
+  "branch": "main",
+  "sha": "854c3135b0b2dc1b1b3b4a4df3a166512911011e",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "create-runbook",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/documentation-standards/skills/create-runbook",
+  "branch": "main",
+  "sha": "ac87ec03acf69d39d82506014c1254ee94ad6ce8",
+  "source": "manual"
+}

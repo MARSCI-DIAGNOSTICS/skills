@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "claude-ally-health",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/claude-ally-health",
+  "branch": "main",
+  "sha": "9816024b354efe941e4c6242fe4abf74094c1909",
+  "source": "manual"
+}

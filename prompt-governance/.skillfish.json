@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "prompt-governance",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering/prompt-governance",
+  "branch": "main",
+  "sha": "943867f929e69726aacae092c11672c4894a65e0",
+  "source": "manual"
+}

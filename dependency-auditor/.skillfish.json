@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dependency-auditor",
+  "owner": "zhangzhang-111-i",
+  "repo": "claude-skills111",
+  "path": "engineering/dependency-auditor",
+  "branch": "main",
+  "sha": "08c9f228634f886a3454fb4c8595e7865e045533",
+  "source": "manual"
+}

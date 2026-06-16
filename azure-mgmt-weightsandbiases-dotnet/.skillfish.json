@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-mgmt-weightsandbiases-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-mgmt-weightsandbiases-dotnet",
+  "branch": "main",
+  "sha": "47d2c828f7fd5c264652a8f2560309c2a66e9106",
+  "source": "manual"
+}

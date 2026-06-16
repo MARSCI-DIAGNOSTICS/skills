@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "building-ai-agent-on-cloudflare",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/building-ai-agent-on-cloudflare",
+  "branch": "main",
+  "sha": "ff4bb6fd21216bb9d58fad4ef968cff2546c1a5c",
+  "source": "manual"
+}

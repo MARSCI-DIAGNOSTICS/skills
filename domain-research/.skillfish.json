@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "domain-research",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/requirements-elicitation/skills/domain-research",
+  "branch": "main",
+  "sha": "5b56b102c0323296a5de770b4dd5793414433088",
+  "source": "manual"
+}

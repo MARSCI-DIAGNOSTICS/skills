@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "adversarial-reviewer",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering-team/adversarial-reviewer",
+  "branch": "main",
+  "sha": "017410158824b152b6d1ce00fc171d2493d516fd",
+  "source": "manual"
+}

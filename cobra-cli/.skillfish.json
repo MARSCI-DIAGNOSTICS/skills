@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cobra-cli",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/golang/cobra-cli",
+  "branch": "main",
+  "sha": "8639bd53b6b171151cbe1ac8abc3482234f6edf2",
+  "source": "manual"
+}

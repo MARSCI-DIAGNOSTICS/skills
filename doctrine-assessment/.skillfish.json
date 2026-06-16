@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "doctrine-assessment",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/wardley-mapping/skills/doctrine-assessment",
+  "branch": "main",
+  "sha": "20c65785d188f173f051f7974f078d45481bbbe2",
+  "source": "manual"
+}

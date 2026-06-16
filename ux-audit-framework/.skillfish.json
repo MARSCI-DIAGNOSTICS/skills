@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ux-audit-framework",
+  "owner": "williamfontaine",
+  "repo": "claude-plugins-marketplace",
+  "path": "plugins/ux-expert/skills/ux-audit-framework",
+  "branch": "main",
+  "sha": "79915c9c4f0a5873a6ca514c8f5ef0867a75f972",
+  "source": "manual"
+}

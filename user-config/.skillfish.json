@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "user-config",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/user-config",
+  "branch": "main",
+  "sha": "f8927960a84ea5b26d820d775fd7ba6ad23aa4c1",
+  "source": "manual"
+}

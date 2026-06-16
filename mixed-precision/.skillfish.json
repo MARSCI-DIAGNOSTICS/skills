@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mixed-precision",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "AutoResearchClaw/researchclaw/skills/builtin/tooling/mixed-precision",
+  "branch": "main",
+  "sha": "a44f75581c002d4dc2028ebee43571b5d92e05fd",
+  "source": "manual"
+}

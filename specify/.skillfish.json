@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "specify",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/formal-specification/skills/specify",
+  "branch": "main",
+  "sha": "ce7976a45b09f4c508f549c2762d0519a125e2ff",
+  "source": "manual"
+}

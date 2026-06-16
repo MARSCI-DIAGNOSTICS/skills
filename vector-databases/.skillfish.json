@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "vector-databases",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/vector-databases",
+  "branch": "main",
+  "sha": "75320ed3151eda129d809fb1e16e62827c9be2ce",
+  "source": "manual"
+}

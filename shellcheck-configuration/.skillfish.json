@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "shellcheck-configuration",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/shellcheck-configuration",
+  "branch": "main",
+  "sha": "ebaf70cf05f75b3cc487d24c24daf41aef36ecee",
+  "source": "manual"
+}

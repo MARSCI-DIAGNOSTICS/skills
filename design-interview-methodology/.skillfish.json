@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "design-interview-methodology",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/design-interview-methodology",
+  "branch": "main",
+  "sha": "a48047dd2bb96f35dade9b6c28de45479b10fce5",
+  "source": "manual"
+}

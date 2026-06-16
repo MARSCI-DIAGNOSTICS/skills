@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-keyvault-certificates-rust",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-keyvault-certificates-rust",
+  "branch": "main",
+  "sha": "dd1325bb355190d16dbbdd56e850230f6de8b2b9",
+  "source": "manual"
+}

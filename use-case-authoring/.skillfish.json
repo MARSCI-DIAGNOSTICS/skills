@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "use-case-authoring",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/formal-specification/skills/use-case-authoring",
+  "branch": "main",
+  "sha": "49265bd20e745a934235b65a280b68c9625f3b70",
+  "source": "manual"
+}

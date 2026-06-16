@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "spring-boot-web",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/java/spring-boot-web",
+  "branch": "main",
+  "sha": "b73c81abfb62dcd7286047bc9b2c0c8e363e947f",
+  "source": "manual"
+}

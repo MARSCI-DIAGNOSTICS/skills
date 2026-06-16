@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-agents-persistent-java",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-agents-persistent-java",
+  "branch": "main",
+  "sha": "fa3870ca2fba4efb3cf70a10e98fce2ed44fcbf9",
+  "source": "manual"
+}

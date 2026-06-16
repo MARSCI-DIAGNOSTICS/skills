@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ml-pipeline-workflow",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/ml-pipeline-workflow",
+  "branch": "main",
+  "sha": "da82aa24ff1a6f840d81bdcb10c35c39a5003451",
+  "source": "manual"
+}

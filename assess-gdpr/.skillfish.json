@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "assess-gdpr",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/compliance-planning/skills/assess-gdpr",
+  "branch": "main",
+  "sha": "5d86e866c35db67abdf6caf2327df36e348c065f",
+  "source": "manual"
+}

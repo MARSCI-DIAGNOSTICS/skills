@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "moodle-external-api-development",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/moodle-external-api-development",
+  "branch": "main",
+  "sha": "58948b390f8d4f958fd1840c202c0580be875aee",
+  "source": "manual"
+}

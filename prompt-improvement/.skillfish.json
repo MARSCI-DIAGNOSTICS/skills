@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "prompt-improvement",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/prompt-improvement",
+  "branch": "main",
+  "sha": "bc8061b9ef87cf20c1073ed251fbe47381ada276",
+  "source": "manual"
+}

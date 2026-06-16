@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pydantic-models",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/pydantic-models",
+  "branch": "main",
+  "sha": "7fba428ab47b7d362bc5ca99ec102478c48a404d",
+  "source": "manual"
+}

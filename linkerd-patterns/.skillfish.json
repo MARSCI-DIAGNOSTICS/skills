@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "linkerd-patterns",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/linkerd-patterns",
+  "branch": "main",
+  "sha": "3e4042d53189e25e6d160963056970373d8cc601",
+  "source": "manual"
+}

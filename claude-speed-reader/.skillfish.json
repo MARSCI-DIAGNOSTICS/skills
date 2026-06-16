@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "claude-speed-reader",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/claude-speed-reader",
+  "branch": "main",
+  "sha": "12a8e39d99f66831182b51dc1a6c86c5bc4a3d10",
+  "source": "manual"
+}

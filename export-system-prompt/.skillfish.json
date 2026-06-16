@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "export-system-prompt",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/export-system-prompt",
+  "branch": "main",
+  "sha": "e9dde564514acb2c087f353e10e26ebb2b2ffe61",
+  "source": "manual"
+}

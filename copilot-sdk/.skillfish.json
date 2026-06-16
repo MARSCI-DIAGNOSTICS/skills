@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "copilot-sdk",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/copilot-sdk",
+  "branch": "main",
+  "sha": "efd22fc4e4c8056f81ced1e2ab342e9223cbf525",
+  "source": "manual"
+}

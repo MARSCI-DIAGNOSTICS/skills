@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "llm-application-dev",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/llm-application-dev",
+  "branch": "main",
+  "sha": "6edaa40ffe6e55a74e9b984f86829c0b5df9b6c0",
+  "source": "manual"
+}

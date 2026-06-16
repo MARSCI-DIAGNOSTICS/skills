@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "java-concurrency",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/java/java-concurrency",
+  "branch": "main",
+  "sha": "47d42141720d3f378dd5b03281f8442c4237c29c",
+  "source": "manual"
+}

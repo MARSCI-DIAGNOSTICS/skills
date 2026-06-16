@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pagerduty-automation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/pagerduty-automation",
+  "branch": "main",
+  "sha": "20c1d26d1a1b268b54b7e20c249a3d3d4d40978e",
+  "source": "manual"
+}

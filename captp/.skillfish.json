@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "captp",
+  "owner": "plurigrid",
+  "repo": "asi",
+  "path": "ies/music-topos/.agents/skills/captp",
+  "branch": "main",
+  "sha": "69a0a270c08d834b2c1db0fe69489939a43ceb9c",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-cmd-skill-create",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-cmd-skill-create",
+  "branch": "main",
+  "sha": "214ee979d1c0ce2b9201f9f4aa921dd1c2d65e9d",
+  "source": "manual"
+}

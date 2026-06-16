@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "guidelines-advisor",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/building-secure-contracts/skills/guidelines-advisor",
+  "branch": "main",
+  "sha": "0299a277f9b12a5a880b836ab0aef57107bf8b1e",
+  "source": "manual"
+}

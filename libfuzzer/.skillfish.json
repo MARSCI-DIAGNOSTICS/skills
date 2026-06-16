@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "libfuzzer",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/testing-handbook-skills/skills/libfuzzer",
+  "branch": "main",
+  "sha": "8eebf2884c3f91269a503d253b353f8cbab0e549",
+  "source": "manual"
+}

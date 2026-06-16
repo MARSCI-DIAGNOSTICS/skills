@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "devcontainer-setup",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/devcontainer-setup/skills/devcontainer-setup",
+  "branch": "main",
+  "sha": "4ba42bce4e43e9803e79a0747c710d6fdef57bbe",
+  "source": "manual"
+}

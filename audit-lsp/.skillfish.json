@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "audit-lsp",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/audit-lsp",
+  "branch": "main",
+  "sha": "33a6bdeaa18e92251ca1d2e2e7174c8112e15011",
+  "source": "manual"
+}

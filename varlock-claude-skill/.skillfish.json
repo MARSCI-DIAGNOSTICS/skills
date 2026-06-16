@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "varlock-claude-skill",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/varlock-claude-skill",
+  "branch": "main",
+  "sha": "bcfc681d4528cdbd960aa2e4928ff23e6222c5c2",
+  "source": "manual"
+}

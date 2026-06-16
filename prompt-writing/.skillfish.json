@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "prompt-writing",
+  "owner": "bcasci",
+  "repo": "hustler-marketplace",
+  "path": "prompting_plugin/skills/prompt-writing",
+  "branch": "main",
+  "sha": "23d46bc2a5bfafd238503259e93e7d06cd3b20d8",
+  "source": "manual"
+}

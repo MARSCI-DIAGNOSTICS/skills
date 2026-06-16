@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "supply-chain-security",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/security/skills/supply-chain-security",
+  "branch": "main",
+  "sha": "7e700849688ee299384ac48dc08ff137d820f7c8",
+  "source": "manual"
+}

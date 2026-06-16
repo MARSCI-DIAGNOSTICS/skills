@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-claude-engineering-runbook-generator",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-claude-engineering-runbook-generator",
+  "branch": "main",
+  "sha": "64103be55f791bf45eb1e69ff01c04244315bda3",
+  "source": "manual"
+}

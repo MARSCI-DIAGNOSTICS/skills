@@ -1,0 +1,13 @@
+[
+  {
+    "name": "developers.openai.com (codex llms-txt)",
+    "type": "llms-txt",
+    "url": "https://developers.openai.com/codex/llms.txt",
+    "skip_existing": true,
+    "expected_count": 68,
+    "expected_count_tolerance": 15,
+    "timeout": 300,
+    "try_markdown": true,
+    "comment": "OpenAI Codex CLI documentation from llms.txt discovery index. The llms.txt contains embedded markdown links that are extracted by the parser."
+  }
+]

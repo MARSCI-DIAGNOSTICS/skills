@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "kiro-sync",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/spec-driven-development/skills/kiro-sync",
+  "branch": "main",
+  "sha": "582183891dcc297640b1e16439acdcbcc2eceee8",
+  "source": "manual"
+}

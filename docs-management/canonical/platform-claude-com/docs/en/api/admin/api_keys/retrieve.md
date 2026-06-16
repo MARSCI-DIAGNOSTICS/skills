@@ -1,0 +1,73 @@
+---
+source_url: https://platform.claude.com/docs/en/api/admin/api_keys/retrieve
+source_type: sitemap
+content_hash: sha256:a6bad1e5081b72517c86bc9d3a860909d77a7badb71713d976b140789f5d82bf
+sitemap_url: https://platform.claude.com/sitemap.xml
+fetch_method: markdown
+---
+
+## Retrieve
+
+**get** `/v1/organizations/api_keys/{api_key_id}`
+
+Get API Key
+
+### Path Parameters
+
+- `api_key_id: string`
+
+  ID of the API key.
+
+### Returns
+
+- `APIKey = object { id, created_at, created_by, 5 more }`
+
+  - `id: string`
+
+    ID of the API key.
+
+  - `created_at: string`
+
+    RFC 3339 datetime string indicating when the API Key was created.
+
+  - `created_by: object { id, type }`
+
+    The ID and type of the actor that created the API key.
+
+    - `id: string`
+
+      ID of the actor that created the object.
+
+    - `type: string`
+
+      Type of the actor that created the object.
+
+  - `name: string`
+
+    Name of the API key.
+
+  - `partial_key_hint: string`
+
+    Partially redacted hint for the API key.
+
+  - `status: "active" or "inactive" or "archived"`
+
+    Status of the API key.
+
+    - `"active"`
+
+    - `"inactive"`
+
+    - `"archived"`
+
+  - `type: "api_key"`
+
+    Object type.
+
+    For API Keys, this is always `"api_key"`.
+
+    - `"api_key"`
+
+  - `workspace_id: string`
+
+    ID of the Workspace associated with the API key, or `null` if the API key belongs to the default Workspace.

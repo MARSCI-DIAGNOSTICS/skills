@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "task-based-multiagent",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/task-based-multiagent",
+  "branch": "main",
+  "sha": "18fdaf78efe5e1648e2488f53bb5b7c546253635",
+  "source": "manual"
+}

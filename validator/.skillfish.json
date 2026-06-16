@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "validator",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/golang/validator",
+  "branch": "main",
+  "sha": "9575dcf5169b54896a5da1ce09a18d99b16cee9a",
+  "source": "manual"
+}

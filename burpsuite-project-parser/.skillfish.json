@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "burpsuite-project-parser",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/burpsuite-project-parser/skills/burpsuite-project-parser",
+  "branch": "main",
+  "sha": "6d3242040ad16488d81e37f1231b063db8b328a0",
+  "source": "manual"
+}

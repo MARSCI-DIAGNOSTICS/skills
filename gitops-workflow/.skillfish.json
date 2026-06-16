@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gitops-workflow",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/gitops-workflow",
+  "branch": "main",
+  "sha": "5d68342bd29b1226cff0e96a8c7ede5cfebe4494",
+  "source": "manual"
+}

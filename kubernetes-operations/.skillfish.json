@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "kubernetes-operations",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "awesome-claude-code-toolkit/skills/kubernetes-operations",
+  "branch": "main",
+  "sha": "8ea4d0457ddfde06c9f225fe084eab614db4e0c5",
+  "source": "manual"
+}

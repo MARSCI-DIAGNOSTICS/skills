@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "audit-rules",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/audit-rules",
+  "branch": "main",
+  "sha": "294b166946d4dbae6a4e27a9e7c907ef33a78b56",
+  "source": "manual"
+}

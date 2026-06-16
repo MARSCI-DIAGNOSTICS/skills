@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "coverage-report",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/dotnet/skills/coverage-report",
+  "branch": "main",
+  "sha": "7d832b3dca3c9aa41ecbe816e74951c7e9e57762",
+  "source": "manual"
+}

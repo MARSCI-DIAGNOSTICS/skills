@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "threat-modeling",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/security/skills/threat-modeling",
+  "branch": "main",
+  "sha": "2a28f5642c9b290b3d325ea0381932bd8eb124d1",
+  "source": "manual"
+}

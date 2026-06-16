@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "jira-issues",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/jira-issues",
+  "branch": "main",
+  "sha": "d17e3d919a6f3a8af6524e2f0acfd41dfa034d8e",
+  "source": "manual"
+}

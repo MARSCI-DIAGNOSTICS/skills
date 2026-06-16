@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-hardening",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "awesome-claude-code-toolkit/skills/security-hardening",
+  "branch": "main",
+  "sha": "3037040600ab59379bb2bfd25e74c505a1335066",
+  "source": "manual"
+}

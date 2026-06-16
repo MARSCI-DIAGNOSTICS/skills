@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mermaid-syntax",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/visualization/skills/mermaid-syntax",
+  "branch": "main",
+  "sha": "82adf3b30e0ec5cf51a29fa5a27782ce641fa6dd",
+  "source": "manual"
+}

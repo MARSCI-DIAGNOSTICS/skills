@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "plan-generation",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/plan-generation",
+  "branch": "main",
+  "sha": "1d84d9da8ee38f1bb7233727034103af447caf57",
+  "source": "manual"
+}

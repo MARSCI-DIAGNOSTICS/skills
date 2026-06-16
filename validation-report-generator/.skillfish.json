@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "validation-report-generator",
+  "owner": "alirezarezvani",
+  "repo": "claude-cto-team",
+  "path": "skills/validation-report-generator",
+  "branch": "main",
+  "sha": "7e0d6c0384406ebb2de0dcf62b7f51b36da87fde",
+  "source": "manual"
+}

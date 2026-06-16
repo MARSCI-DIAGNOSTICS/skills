@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-orchestration-multi-agent-optimize",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/agent-orchestration-multi-agent-optimize",
+  "branch": "main",
+  "sha": "6e097140dc6e905f6c8c88b98a80b6af2f8714bf",
+  "source": "manual"
+}

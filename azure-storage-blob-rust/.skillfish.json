@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-storage-blob-rust",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-storage-blob-rust",
+  "branch": "main",
+  "sha": "2bf66d64d4996be2230a5183e35a584cc034255a",
+  "source": "manual"
+}

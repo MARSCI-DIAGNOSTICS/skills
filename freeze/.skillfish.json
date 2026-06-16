@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "freeze",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "c-level-advisor/c-level-agents/skills/freeze",
+  "branch": "main",
+  "sha": "61c655a282cd688502588da7020b6b58786e6013",
+  "source": "manual"
+}

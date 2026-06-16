@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "observability-monitoring-monitor-setup",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/observability-monitoring-monitor-setup",
+  "branch": "main",
+  "sha": "5bb47451a9a14b888331e1cb7b4d9b7649efdae9",
+  "source": "manual"
+}

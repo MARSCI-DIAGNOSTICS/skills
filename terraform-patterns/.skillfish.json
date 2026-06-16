@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "terraform-patterns",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering/terraform-patterns",
+  "branch": "main",
+  "sha": "f68289c88119d2b2cfb5d0ddbbd8ecda2ffaf940",
+  "source": "manual"
+}

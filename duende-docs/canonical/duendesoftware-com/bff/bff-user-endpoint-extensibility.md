@@ -1,0 +1,154 @@
+---
+title: BFF User Endpoint Extensibility
+source_url: https://docs.duendesoftware.com/bff/bff-user-endpoint-extensibility/
+source_type: llms-full-txt
+content_hash: sha256:0c9b96fd29f83c53a498b0aff99220224ee4639e038c1f45fe8248785519893c
+category: bff
+doc_id: bff/bff-user-endpoint-extensibility
+---
+
+The BFF user endpoint can be customized by implementing the `IUserEndpoint`.
+
+Caution
+
+In BFF V3, the `IUserEndpoint` interface is called `IUserService` instead.
+
+## Request Processing
+
+[Section titled "Request Processing"](#request-processing)
+
+* V4
+
+  You can customize the behavior of the user endpoint by implementing the `ProcessRequestAsync` method of the `IUserEndpoint` interface. The [default implementation](https://github.com/DuendeSoftware/products/tree/releases/bff/4.0.x/bff/src/Bff/Endpoints/Internal/DefaultUserEndpoint.cs) can serve as a starting point for your own implementation.
+
+  If you want to extend the default behavior of the user endpoint, you can instead add a custom endpoint and call the original endpoint implementation:
+
+  Program.cs
+
+  ```csharp
+  var bffOptions = app.Services.GetRequiredService<IOptions<BffOptions>>().Value;
+
+
+  app.MapGet(bffOptions.UserPath, async (HttpContext context, CancellationToken ct) =>
+  {
+    // Custom logic before calling the original endpoint implementation
+    var endpointProcessor = context.RequestServices.GetRequiredService<IUserEndpoint>();
+    await endpointProcessor.ProcessRequestAsync(context, ct);
+    // Custom logic after calling the original endpoint implementation
+  });
+  ```
+
+* V3
+
+  `ProcessRequestAsync` is the top-level function called in the endpoint service `DefaultUserService`, and can be used to add arbitrary logic to the endpoint.
+
+  For example, you could take whatever actions you need before normal processing of the request like this:
+
+  ```csharp
+  public override Task ProcessRequestAsync(HttpContext context, CancellationToken ct)
+  {
+    // Custom logic here
+
+
+    return base.ProcessRequestAsync(context);
+  }
+  ```
+
+### Enriching User Claims
+
+[Section titled "Enriching User Claims"](#enriching-user-claims)
+
+There are several ways how you can enrich the claims for a specific user, depending on where the required data comes from.
+
+#### Claims Transformations
+
+[Section titled "Claims Transformations"](#claims-transformations)
+
+To enrich claims for a user, you can implement a custom `IClaimsTransformation`. Claims transformation executes as part of the authentication process.
+
+```csharp
+services.AddScoped<IClaimsTransformation, CustomClaimsTransformer>();
+
+
+public class CustomClaimsTransformer : IClaimsTransformation
+{
+    public Task<ClaimsPrincipal> TransformAsync(ClaimsPrincipal principal)
+    {
+        var identity = (ClaimsIdentity)principal.Identity;
+
+
+        if (!identity.HasClaim(c => c.Type == "custom_claim"))
+        {
+            identity.AddClaim(new Claim("custom_claim", "your_value"));
+        }
+
+
+        return Task.FromResult(principal);
+    }
+}
+```
+
+See the [Claims Transformation](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/claims?view=aspnetcore-9.0) topic in the ASP.NET Core documentation for more information.
+
+#### User Endpoint Claims Enricher v4.0
+
+[Section titled "User Endpoint Claims Enricher "v4.0](#user-endpoint-claims-enricher)
+
+User claims can be enriched by implementing the `IUserEndpointClaimsEnricher` interface. This interface is specific to the user endpoint and runs after authentication.
+
+Because this runs within the user endpoint request, you can access the current HTTP context to retrieve the user's access token. We recommend using the [`GetUserAccessTokenAsync`](/accesstokenmanagement/web-apps/#http-context-extension-methods) extension method from `Duende.AccessTokenManagement.OpenIdConnect`, as it will automatically handle refreshing the token if it has expired.
+
+Program.cs
+
+```csharp
+builder.Services.AddTransient<IUserEndpointClaimsEnricher, CustomUserEndpointClaimsEnricher>();
+```
+
+CustomUserEndpointClaimsEnricher.cs
+
+```csharp
+using Duende.Bff;
+using Duende.Bff.Endpoints;
+using Duende.AccessTokenManagement.OpenIdConnect;
+using Microsoft.AspNetCore.Authentication;
+
+
+public class CustomUserEndpointClaimsEnricher : IUserEndpointClaimsEnricher
+{
+    private readonly IHttpContextAccessor _httpContextAccessor;
+
+
+    public CustomUserEndpointClaimsEnricher(IHttpContextAccessor httpContextAccessor)
+    {
+        _httpContextAccessor = httpContextAccessor;
+    }
+
+
+    public async Task<IReadOnlyList<ClaimRecord>> EnrichClaimsAsync(
+        AuthenticateResult authenticateResult,
+        IReadOnlyList<ClaimRecord> claims,
+        CancellationToken ct = default)
+    {
+        var newClaims = claims.ToList();
+
+
+        // Get the access token using the extension method
+        // This will automatically handle token refreshing if needed
+        var token = await _httpContextAccessor.HttpContext.GetUserAccessTokenAsync(cancellationToken: ct);
+
+
+        if (!string.IsNullOrEmpty(token.AccessToken))
+        {
+             // Call external API using the access token
+             // ...
+        }
+
+
+        // Add custom claims
+        newClaims.Add(new ClaimRecord("custom_data", "some value"));
+
+
+        return newClaims;
+    }
+}
+```

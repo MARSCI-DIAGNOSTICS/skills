@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "postgresql",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/postgresql",
+  "branch": "main",
+  "sha": "e209066f0096468f80b5cc4ad8c09ccbda68db87",
+  "source": "manual"
+}

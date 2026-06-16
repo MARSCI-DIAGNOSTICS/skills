@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyze",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/code-quality/skills/analyze",
+  "branch": "main",
+  "sha": "0bab548aaa1ae497be421c2cfa5b8a4e1013e385",
+  "source": "manual"
+}

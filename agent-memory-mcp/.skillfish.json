@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-memory-mcp",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/agent-memory-mcp",
+  "branch": "main",
+  "sha": "1b6d8ba0bb24a991d10bcb37c318004680c6a5f4",
+  "source": "manual"
+}

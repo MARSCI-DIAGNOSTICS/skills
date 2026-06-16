@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "kubernetes-operator",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "engineering/kubernetes-operator/skills/kubernetes-operator",
+  "branch": "main",
+  "sha": "c316420a8a4b8ce2133ce2d6b0791029b443c8ec",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "coverage-analysis",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/testing-handbook-skills/skills/coverage-analysis",
+  "branch": "main",
+  "sha": "eee6b9040edb65c6d16f894ab830852683203bcf",
+  "source": "manual"
+}

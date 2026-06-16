@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "journey-mapping",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/business-analysis/skills/journey-mapping",
+  "branch": "main",
+  "sha": "fae09242851489fd40846459539a0ec95e743a46",
+  "source": "manual"
+}

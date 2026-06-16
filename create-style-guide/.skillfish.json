@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "create-style-guide",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/content-management-system/skills/create-style-guide",
+  "branch": "main",
+  "sha": "4dc59c2d36252164f59d1041ce235ab5a1453ca4",
+  "source": "manual"
+}

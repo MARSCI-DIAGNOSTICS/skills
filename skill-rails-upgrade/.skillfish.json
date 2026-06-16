@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "skill-rails-upgrade",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/skill-rails-upgrade",
+  "branch": "main",
+  "sha": "b885b7e06b88d27a1bcd14e417637f835d3a4a2f",
+  "source": "manual"
+}

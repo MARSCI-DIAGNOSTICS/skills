@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rag-architecture",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/rag-architecture",
+  "branch": "main",
+  "sha": "59662aee119758230bbc15ae96546d6e981b715c",
+  "source": "manual"
+}

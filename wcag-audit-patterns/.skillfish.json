@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "wcag-audit-patterns",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/wcag-audit-patterns",
+  "branch": "main",
+  "sha": "1a7b3e841f6b301e7f134204f4ec6fbbef253318",
+  "source": "manual"
+}

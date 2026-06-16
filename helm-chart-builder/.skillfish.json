@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "helm-chart-builder",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering/helm-chart-builder",
+  "branch": "main",
+  "sha": "b0799b4de04b7a6256002cd9138da1a2156ea12a",
+  "source": "manual"
+}

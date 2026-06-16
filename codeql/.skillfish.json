@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "codeql",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/static-analysis/skills/codeql",
+  "branch": "main",
+  "sha": "04035c88475754d04a3635d41f11c0e982606f9b",
+  "source": "manual"
+}

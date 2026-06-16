@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "prime",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/prime",
+  "branch": "main",
+  "sha": "2bb98c9470bc4c134fc13d8e4275eee11c3a6da2",
+  "source": "manual"
+}

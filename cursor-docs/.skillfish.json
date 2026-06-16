@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cursor-docs",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/cursor-ecosystem/skills/cursor-docs",
+  "branch": "main",
+  "sha": "4d3f2f6a6d4f7d4e0cdf0bea4af3696d819ee29d",
+  "source": "manual"
+}

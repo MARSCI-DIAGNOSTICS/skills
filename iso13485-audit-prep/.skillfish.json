@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "iso13485-audit-prep",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "compliance-os/skills/iso13485-audit-prep",
+  "branch": "main",
+  "sha": "ed0cfb476fca08a6c25e247dd0fba33e34b60111",
+  "source": "manual"
+}

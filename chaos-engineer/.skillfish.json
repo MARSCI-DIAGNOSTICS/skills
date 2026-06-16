@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "chaos-engineer",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/chaos-engineer",
+  "branch": "main",
+  "sha": "ce6c41d90c01685ba513cfd1d78e948bd2a45f01",
+  "source": "manual"
+}

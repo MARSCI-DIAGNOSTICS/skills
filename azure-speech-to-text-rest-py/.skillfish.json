@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-speech-to-text-rest-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-speech-to-text-rest-py",
+  "branch": "main",
+  "sha": "73f01622956673e0529d785ca651e72d6917a518",
+  "source": "manual"
+}

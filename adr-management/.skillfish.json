@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "adr-management",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/enterprise-architecture/skills/adr-management",
+  "branch": "main",
+  "sha": "b5a32adf147fa21d2393f9790fc1288d789bfa89",
+  "source": "manual"
+}

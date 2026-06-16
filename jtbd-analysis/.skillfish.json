@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "jtbd-analysis",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/requirements-elicitation/skills/jtbd-analysis",
+  "branch": "main",
+  "sha": "76ad72dc30e0fae12f1193bbefe3a4704990e5a7",
+  "source": "manual"
+}

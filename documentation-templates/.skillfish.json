@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "documentation-templates",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/documentation-templates",
+  "branch": "main",
+  "sha": "58a0332ffd26098fa6c2ef6aa8a985807ed9a7de",
+  "source": "manual"
+}

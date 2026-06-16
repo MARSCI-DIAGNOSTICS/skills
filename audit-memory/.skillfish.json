@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "audit-memory",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/audit-memory",
+  "branch": "main",
+  "sha": "5d25de3464336d748491b4f238bb825bef35ae8a",
+  "source": "manual"
+}

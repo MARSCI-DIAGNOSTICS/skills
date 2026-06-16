@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "check-deps",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/security/skills/check-deps",
+  "branch": "main",
+  "sha": "ee9e8c6f216ff0cfdecb42de5664c888d6c84f39",
+  "source": "manual"
+}

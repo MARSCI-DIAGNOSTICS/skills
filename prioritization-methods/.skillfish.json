@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "prioritization-methods",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/requirements-elicitation/skills/prioritization-methods",
+  "branch": "main",
+  "sha": "b8a6c98b725ae3dbafc5906872b19e6e3342ae87",
+  "source": "manual"
+}

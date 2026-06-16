@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "entry-point-analyzer",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/entry-point-analyzer/skills/entry-point-analyzer",
+  "branch": "main",
+  "sha": "0f2830a20747aa158b92f1501b4a0c8ade3acd49",
+  "source": "manual"
+}

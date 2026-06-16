@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "meeting-analyzer",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/project-management/meeting-analyzer",
+  "branch": "main",
+  "sha": "b005bd12c5f06bdb3ea9c1ad37d67fdb6096dd77",
+  "source": "manual"
+}

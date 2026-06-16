@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sandbox-configuration",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/sandbox-configuration",
+  "branch": "main",
+  "sha": "b80a4c9882d39ff3d922727ff949f30d25ec764c",
+  "source": "manual"
+}

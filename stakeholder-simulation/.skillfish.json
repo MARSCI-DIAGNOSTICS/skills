@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "stakeholder-simulation",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/requirements-elicitation/skills/stakeholder-simulation",
+  "branch": "main",
+  "sha": "6c5bff2fd03a062903569287dbc1a210e0547f01",
+  "source": "manual"
+}

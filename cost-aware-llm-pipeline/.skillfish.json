@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cost-aware-llm-pipeline",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-sync/work/ecc/docs/zh-CN/skills/cost-aware-llm-pipeline",
+  "branch": "main",
+  "sha": "08b1d3dec40db590d67c38024353fba51480185b",
+  "source": "manual"
+}

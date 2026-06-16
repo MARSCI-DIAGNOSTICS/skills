@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-keyvault-secrets-ts",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-keyvault-secrets-ts",
+  "branch": "main",
+  "sha": "74d0d1b76b7f4ec9ed17f21dfe668e0e94c659b9",
+  "source": "manual"
+}

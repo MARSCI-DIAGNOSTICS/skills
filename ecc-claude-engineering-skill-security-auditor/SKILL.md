@@ -1,0 +1,34 @@
+---
+name: ecc-claude-engineering-skill-security-auditor
+description: "OpenClaw bridge skill for engineering skill security auditor. Use when tasks match this specialized claude-skills capability and need OpenClaw-native execution with explicit verification."
+---
+
+# ecc-claude-engineering-skill-security-auditor
+
+## Purpose
+Apply `engineering skill security auditor` guidance from upstream references in an OpenClaw-native workflow.
+
+## Trigger Conditions
+- User request clearly matches `engineering skill security auditor` capability.
+- Task benefits from specialized domain guidance plus execution steps.
+
+## When NOT to Use
+- Generic tasks better handled by broader `ecc-cmd-*` workflows.
+- Requests unrelated to `engineering skill security auditor` specialization.
+
+## Workflow
+1. Read upstream reference snapshot in `references/upstream-path.txt`.
+2. Extract relevant guidance for the current objective.
+3. Translate to OpenClaw tool-backed steps.
+4. Execute incrementally and verify outcomes.
+
+## Output Format
+- Objective
+- Chosen approach
+- Actions executed
+- Verification evidence
+- Risks/next steps
+
+## Guardrails
+- Preserve upstream intent without assuming harness-specific runtime semantics.
+- Prefer deterministic checks and concise, evidence-backed conclusions.

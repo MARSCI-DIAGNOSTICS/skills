@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "test-e2e",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/test-e2e",
+  "branch": "main",
+  "sha": "1e6b399f86bcbfa8425799b3d1a48474db5591cc",
+  "source": "manual"
+}

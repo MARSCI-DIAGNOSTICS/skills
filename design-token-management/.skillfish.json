@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "design-token-management",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/content-management-system/skills/design-token-management",
+  "branch": "main",
+  "sha": "d76c6aca293a1a9577479ef93b608c4db2739785",
+  "source": "manual"
+}

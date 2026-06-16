@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "promote",
+  "owner": "zhangzhang-111-i",
+  "repo": "claude-skills111",
+  "path": "engineering-team/self-improving-agent/skills/promote",
+  "branch": "main",
+  "sha": "1e7fe36517536b0139fa2d18a1b90f15252b0a76",
+  "source": "manual"
+}

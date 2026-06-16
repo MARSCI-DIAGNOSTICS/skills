@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ux-saas-app",
+  "owner": "williamfontaine",
+  "repo": "claude-plugins-marketplace",
+  "path": "plugins/ux-expert/skills/ux-saas-app",
+  "branch": "main",
+  "sha": "fd8895fb87543166fd631a412c7bd047990a6b7f",
+  "source": "manual"
+}

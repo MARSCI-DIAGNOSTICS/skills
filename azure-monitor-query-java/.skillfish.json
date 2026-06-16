@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-monitor-query-java",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-monitor-query-java",
+  "branch": "main",
+  "sha": "4408fceb3fd45fdd88ad074320d4c3aeba1b6844",
+  "source": "manual"
+}

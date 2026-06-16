@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tracing",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/rust/tracing",
+  "branch": "main",
+  "sha": "2d7619b7b82b60b895821e62dcc18190bfd49453",
+  "source": "manual"
+}

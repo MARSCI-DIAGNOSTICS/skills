@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-mgmt-apicenter-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-mgmt-apicenter-py",
+  "branch": "main",
+  "sha": "59fbfac5626e869336cebfe43b49b1fd1564066d",
+  "source": "manual"
+}

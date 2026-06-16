@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "inbox-triage",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "productivity/email/skills/inbox-triage",
+  "branch": "main",
+  "sha": "0e1a194f1d13fb5765622ea362f8ea9bc782e332",
+  "source": "manual"
+}

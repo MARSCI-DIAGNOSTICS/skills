@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "token-integration-analyzer",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/building-secure-contracts/skills/token-integration-analyzer",
+  "branch": "main",
+  "sha": "6363c14757eb3f3a82daaebe88586984ebe7d546",
+  "source": "manual"
+}

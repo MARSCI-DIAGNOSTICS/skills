@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-security-keyvault-keys-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-security-keyvault-keys-dotnet",
+  "branch": "main",
+  "sha": "a8877e9e6945746e5dfc554aaf4a2489e9d132f0",
+  "source": "manual"
+}

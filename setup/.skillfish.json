@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "setup",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering/autoresearch-agent/skills/setup",
+  "branch": "main",
+  "sha": "2adacdf2690f42c9dc47e6ccf20a244636d7b659",
+  "source": "manual"
+}

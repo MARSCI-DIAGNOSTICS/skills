@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "model-selection",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/model-selection",
+  "branch": "main",
+  "sha": "34e7ff85d8f4c20ce90cac802ae437b65192bb40",
+  "source": "manual"
+}

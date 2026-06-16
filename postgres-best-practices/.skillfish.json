@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "postgres-best-practices",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/postgres-best-practices",
+  "branch": "main",
+  "sha": "1a4694f7220c629a69f2ec3d080574a542b42ed9",
+  "source": "manual"
+}

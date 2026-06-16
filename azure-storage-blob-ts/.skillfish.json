@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-storage-blob-ts",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-storage-blob-ts",
+  "branch": "main",
+  "sha": "ed939f8d9a960d4eaa505592fbc03ced9321307f",
+  "source": "manual"
+}

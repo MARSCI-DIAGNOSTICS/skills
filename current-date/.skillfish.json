@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "current-date",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/current-date",
+  "branch": "main",
+  "sha": "9c0c2756efb02f60d67ae7c3b6bc006e71c762e9",
+  "source": "manual"
+}

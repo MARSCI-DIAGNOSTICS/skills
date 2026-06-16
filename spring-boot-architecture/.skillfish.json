@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "spring-boot-architecture",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/java/spring-boot-architecture",
+  "branch": "main",
+  "sha": "aa01a27040ac459889524721a7b7de0774c9aa86",
+  "source": "manual"
+}

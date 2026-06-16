@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ci-cd",
+  "owner": "oborchers",
+  "repo": "fractional-cto",
+  "path": "python-package/skills/ci-cd",
+  "branch": "main",
+  "sha": "db6d809cb0d0d1748d7946ac67d143df2ea13b4d",
+  "source": "manual"
+}

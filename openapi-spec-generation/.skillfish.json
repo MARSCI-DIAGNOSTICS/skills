@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "openapi-spec-generation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/openapi-spec-generation",
+  "branch": "main",
+  "sha": "1f8c154964887ff87726ba5584dfa4776b9dce59",
+  "source": "manual"
+}

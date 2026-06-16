@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "chi-router",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/golang/chi-router",
+  "branch": "main",
+  "sha": "57b05fbf5ccd5641b8ea73d05d41f8e6f27c94bf",
+  "source": "manual"
+}

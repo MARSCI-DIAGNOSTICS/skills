@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-governance",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/agent-governance",
+  "branch": "main",
+  "sha": "9dcb71b8b89060330c2651b7fd8f27a2c712dd4c",
+  "source": "manual"
+}

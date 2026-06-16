@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sql-database-assistant",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering/sql-database-assistant",
+  "branch": "main",
+  "sha": "be4c7b546f2bd5bdc0669ee9a0133fd0afd4ac46",
+  "source": "manual"
+}

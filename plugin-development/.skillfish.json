@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "plugin-development",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/plugin-development",
+  "branch": "main",
+  "sha": "bb0a1fd10edf16768c7a3932c3fc54ae7d68cc84",
+  "source": "manual"
+}

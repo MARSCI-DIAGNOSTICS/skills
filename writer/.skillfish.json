@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "writer",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/libreoffice/writer",
+  "branch": "main",
+  "sha": "6eae9caecfa8f36b698c9b92761ab46b6e33e9f2",
+  "source": "manual"
+}

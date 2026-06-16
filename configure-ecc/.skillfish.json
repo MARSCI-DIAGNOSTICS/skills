@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "configure-ecc",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-sync/work/ecc/docs/ja-JP/skills/configure-ecc",
+  "branch": "main",
+  "sha": "1df18910b2e1898b48372cb48e8547632b41b7ce",
+  "source": "manual"
+}

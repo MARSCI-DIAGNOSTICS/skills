@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dwarf-expert",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/dwarf-expert/skills/dwarf-expert",
+  "branch": "main",
+  "sha": "c544153f38a7beb6bce743d5cc6f7b05a8e7db49",
+  "source": "manual"
+}

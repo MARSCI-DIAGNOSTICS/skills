@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rl-policy-optimization",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "AutoResearchClaw/researchclaw/skills/builtin/domain/rl-policy-optimization",
+  "branch": "main",
+  "sha": "4401a91f29b695def01d7989d5f3d6ba910a9aa6",
+  "source": "manual"
+}

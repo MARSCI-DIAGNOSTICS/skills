@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sqlx-database",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/rust/sqlx-database",
+  "branch": "main",
+  "sha": "054375b83a48401a22bbac59b54413bb317b3793",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ab-test-setup",
+  "owner": "zhangzhang-111-i",
+  "repo": "claude-skills111",
+  "path": "marketing-skill/ab-test-setup",
+  "branch": "main",
+  "sha": "e17388cd447c051f5ba68bce000129b3a0339298",
+  "source": "manual"
+}

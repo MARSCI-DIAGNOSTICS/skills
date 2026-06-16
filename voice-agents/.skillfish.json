@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "voice-agents",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/voice-agents",
+  "branch": "main",
+  "sha": "e9b81633c0fb8c690cdceca6b51eb414dfce8d08",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "api-design-fundamentals",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/api-design-fundamentals",
+  "branch": "main",
+  "sha": "d52009795c743ffd839f0c9979b5f29580d2e107",
+  "source": "manual"
+}

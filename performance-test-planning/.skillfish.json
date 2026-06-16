@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "performance-test-planning",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/test-strategy/skills/performance-test-planning",
+  "branch": "main",
+  "sha": "72d6c00359b83abb5aaa1ea5dcbf5ee905439081",
+  "source": "manual"
+}

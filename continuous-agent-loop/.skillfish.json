@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "continuous-agent-loop",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-sync/work/ecc/docs/zh-CN/skills/continuous-agent-loop",
+  "branch": "main",
+  "sha": "a0b3efa494283ffe0eb0e1b4c5e72976b209dc67",
+  "source": "manual"
+}

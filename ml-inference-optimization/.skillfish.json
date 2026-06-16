@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ml-inference-optimization",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/ml-inference-optimization",
+  "branch": "main",
+  "sha": "d44273716a8dd782be2a42e84cf0aaeecc3b50fd",
+  "source": "manual"
+}

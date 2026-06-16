@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hallucination-prevention",
+  "owner": "oborchers",
+  "repo": "fractional-cto",
+  "path": "deep-research/skills/hallucination-prevention",
+  "branch": "main",
+  "sha": "09b1681faa99abb13c8125aa208e2c94989bb840",
+  "source": "manual"
+}

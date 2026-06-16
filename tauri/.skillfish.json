@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tauri",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/rust/tauri",
+  "branch": "main",
+  "sha": "3513443dcb0df558df23727da348d72807a1f106",
+  "source": "manual"
+}

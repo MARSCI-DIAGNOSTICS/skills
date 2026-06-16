@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "stripe-setup",
+  "owner": "mickaelmamani",
+  "repo": "saas-toolkit",
+  "path": "saas-toolkit/skills/stripe-setup",
+  "branch": "main",
+  "sha": "8f3909fbe9c466576d279345e79cf36c58c60c3d",
+  "source": "manual"
+}

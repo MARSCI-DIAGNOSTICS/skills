@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "codebase-cleanup-deps-audit",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/codebase-cleanup-deps-audit",
+  "branch": "main",
+  "sha": "1099dda7c8d424eaba3beef335287b5b3344d37d",
+  "source": "manual"
+}

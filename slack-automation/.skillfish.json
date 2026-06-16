@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "slack-automation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/slack-automation",
+  "branch": "main",
+  "sha": "d75ff4993de781f36c122c3645241f9fdf1639bb",
+  "source": "manual"
+}

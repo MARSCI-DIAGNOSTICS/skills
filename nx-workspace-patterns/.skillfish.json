@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "nx-workspace-patterns",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/nx-workspace-patterns",
+  "branch": "main",
+  "sha": "366e351a3ddc962453f39df597e5339475d688ac",
+  "source": "manual"
+}

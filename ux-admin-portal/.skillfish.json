@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ux-admin-portal",
+  "owner": "williamfontaine",
+  "repo": "claude-plugins-marketplace",
+  "path": "plugins/ux-expert/skills/ux-admin-portal",
+  "branch": "main",
+  "sha": "7427711ec638cbe1f48ba45a1761f44bedf490df",
+  "source": "manual"
+}

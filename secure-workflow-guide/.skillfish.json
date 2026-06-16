@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "secure-workflow-guide",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/building-secure-contracts/skills/secure-workflow-guide",
+  "branch": "main",
+  "sha": "18e002df2f43431418fb4afc94f1448043774112",
+  "source": "manual"
+}

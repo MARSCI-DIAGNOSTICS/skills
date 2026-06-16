@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ciso-review",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "c-level-advisor/c-level-agents/skills/ciso-review",
+  "branch": "main",
+  "sha": "426795a0d60bc96780400c2e04d5680ed4c6982b",
+  "source": "manual"
+}

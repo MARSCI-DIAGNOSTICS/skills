@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "compliance-readiness",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "compliance-os/skills/compliance-readiness",
+  "branch": "main",
+  "sha": "a63e54dec53a98aa357461baa5e64a43c997120e",
+  "source": "manual"
+}

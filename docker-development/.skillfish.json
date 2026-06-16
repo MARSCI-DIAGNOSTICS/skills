@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docker-development",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering/docker-development",
+  "branch": "main",
+  "sha": "7517047eb622f0880f07c639d89cb85b7a862a29",
+  "source": "manual"
+}

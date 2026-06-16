@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "qa-regression",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/qa-regression",
+  "branch": "main",
+  "sha": "231f8ae48414b60026fc263b60876a3ec4488d94",
+  "source": "manual"
+}

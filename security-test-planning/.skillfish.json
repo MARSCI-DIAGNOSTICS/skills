@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-test-planning",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/test-strategy/skills/security-test-planning",
+  "branch": "main",
+  "sha": "0b6b0fca1906e6dd65eb46e7825b6f7393f7d646",
+  "source": "manual"
+}

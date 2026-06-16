@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "etl-elt-patterns",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/etl-elt-patterns",
+  "branch": "main",
+  "sha": "03cd314c141bf074c821b930aa5e511c471f1135",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "incident-runbook-templates",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/incident-runbook-templates",
+  "branch": "main",
+  "sha": "71e574002a07cffe7bfe2d9c7645a2234ed3b8cd",
+  "source": "manual"
+}

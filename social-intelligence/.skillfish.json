@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "social-intelligence",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/social-intelligence",
+  "branch": "main",
+  "sha": "8099fb61772ff9997a06481d97b1446112c7f555",
+  "source": "manual"
+}

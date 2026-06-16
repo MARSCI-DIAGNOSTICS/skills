@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "audio-transcriber",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/audio-transcriber",
+  "branch": "main",
+  "sha": "c1db7365cfd993a876c1f2cb1ceb785f740e931d",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "run",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering/agenthub/skills/run",
+  "branch": "main",
+  "sha": "1ea9a756db30816a8f40cc138c27adb92f0398d4",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "risk-register",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/business-analysis/skills/risk-register",
+  "branch": "main",
+  "sha": "902d784d64c6d99816d4e3c16a504a2ac019408e",
+  "source": "manual"
+}

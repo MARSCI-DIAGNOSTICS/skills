@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "spring-cloud",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/java/spring-cloud",
+  "branch": "main",
+  "sha": "7bc5011fc9f33e35c291cb239d6be9cabc7c0fa1",
+  "source": "manual"
+}

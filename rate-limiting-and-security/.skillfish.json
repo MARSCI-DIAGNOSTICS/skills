@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rate-limiting-and-security",
+  "owner": "oborchers",
+  "repo": "fractional-cto",
+  "path": "api-design-principles/skills/rate-limiting-and-security",
+  "branch": "main",
+  "sha": "2ab7b467a4999fd14254927aa8818204a8f94b0e",
+  "source": "manual"
+}

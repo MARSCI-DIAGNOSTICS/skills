@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "service-owned-infrastructure",
+  "owner": "oborchers",
+  "repo": "fractional-cto",
+  "path": "cloud-foundation-principles/skills/service-owned-infrastructure",
+  "branch": "main",
+  "sha": "64fedd95c58c5b5fed70e6e58f9c01c1366e328a",
+  "source": "manual"
+}

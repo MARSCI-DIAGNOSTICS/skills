@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "code-review-communication",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/soft-skills/skills/code-review-communication",
+  "branch": "main",
+  "sha": "a831cb40e705bf0f3035c5ed22536cf5aad21aa7",
+  "source": "manual"
+}

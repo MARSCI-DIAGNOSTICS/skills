@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "skill-stocktake",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-sync/work/ecc/docs/zh-CN/skills/skill-stocktake",
+  "branch": "main",
+  "sha": "13a6ba5672fe263a8d9c112afc12288135bb0567",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "design-lab",
+  "owner": "phrazzld",
+  "repo": "claude-config",
+  "path": "plugins/marketplaces/design-plugins/design-and-refine/skills/design-lab",
+  "branch": "master",
+  "sha": "477a24bb090747398e0cecfd80dd813a93c79502",
+  "source": "manual"
+}

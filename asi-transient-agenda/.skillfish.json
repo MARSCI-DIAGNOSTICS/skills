@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "asi-transient-agenda",
+  "owner": "plurigrid",
+  "repo": "asi",
+  "path": ".claude/skills/asi-transient-agenda",
+  "branch": "main",
+  "sha": "97a2d65b963e4fee6f69210d54db0e05c72af20b",
+  "source": "manual"
+}

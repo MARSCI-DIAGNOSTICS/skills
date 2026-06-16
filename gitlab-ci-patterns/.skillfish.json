@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gitlab-ci-patterns",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/gitlab-ci-patterns",
+  "branch": "main",
+  "sha": "276e5e984098d82c695fb9aaa895bc4ff0b50092",
+  "source": "manual"
+}

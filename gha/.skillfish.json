@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gha",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-code-tips/skills/gha",
+  "branch": "main",
+  "sha": "0a6d628eb892a75eff0de00443ba973406ba8005",
+  "source": "manual"
+}

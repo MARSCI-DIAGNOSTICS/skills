@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docs-management",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/docs-management",
+  "branch": "main",
+  "sha": "6bc949ed9eeee6ca2786b3d35e221bef0d855114",
+  "source": "manual"
+}

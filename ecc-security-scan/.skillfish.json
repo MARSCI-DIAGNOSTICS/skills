@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-security-scan",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-security-scan",
+  "branch": "main",
+  "sha": "86fc6cc7fb24bf411fcd006d838a24ea4310125e",
+  "source": "manual"
+}

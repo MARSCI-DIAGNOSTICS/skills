@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aws-serverless-eda",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/aws-serverless-eda",
+  "branch": "main",
+  "sha": "dcd7713e7a7b97175010e203ba8fbfc8ec840784",
+  "source": "manual"
+}

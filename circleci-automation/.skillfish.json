@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "circleci-automation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/circleci-automation",
+  "branch": "main",
+  "sha": "40c25f62c6fc82ced8637cd2418ff48eacebb8a9",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "inbox-setup",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "productivity/email/skills/inbox-setup",
+  "branch": "main",
+  "sha": "e526287585a750051793ccf29c4c5dc1ae65c95b",
+  "source": "manual"
+}

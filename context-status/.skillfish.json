@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "context-status",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/context-status",
+  "branch": "main",
+  "sha": "dad1166ac06dd1294c1930e897a55a877c9f5919",
+  "source": "manual"
+}

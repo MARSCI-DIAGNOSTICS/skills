@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-claude-engineering-dependency-auditor",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-claude-engineering-dependency-auditor",
+  "branch": "main",
+  "sha": "b72229212bdafa41718932148921fe88d2486007",
+  "source": "manual"
+}

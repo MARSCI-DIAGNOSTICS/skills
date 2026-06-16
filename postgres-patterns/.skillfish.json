@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "postgres-patterns",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-sync/work/ecc/docs/ja-JP/skills/postgres-patterns",
+  "branch": "main",
+  "sha": "80e018510174600130b987ede41ff4dacc934a5a",
+  "source": "manual"
+}

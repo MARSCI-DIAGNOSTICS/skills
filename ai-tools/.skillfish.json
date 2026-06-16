@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ai-tools",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/melodic-software/skills/ai-tools",
+  "branch": "main",
+  "sha": "402ecf86ce71124064142fd0cc9de3a52f4ce138",
+  "source": "manual"
+}

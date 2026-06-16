@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "batch-scrape",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": ".claude/skills/batch-scrape",
+  "branch": "main",
+  "sha": "b173688ca9272a279dba53f3456ae48ddbfa638b",
+  "source": "manual"
+}

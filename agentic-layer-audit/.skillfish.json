@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agentic-layer-audit",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/agentic-layer-audit",
+  "branch": "main",
+  "sha": "e361fd9c9582ff1078a3e63330d4e873e8ca62e6",
+  "source": "manual"
+}

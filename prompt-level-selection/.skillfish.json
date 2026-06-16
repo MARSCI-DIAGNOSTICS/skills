@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "prompt-level-selection",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/prompt-level-selection",
+  "branch": "main",
+  "sha": "919e8d7662ace8e45700a03b0e3a25a3f098fb9a",
+  "source": "manual"
+}

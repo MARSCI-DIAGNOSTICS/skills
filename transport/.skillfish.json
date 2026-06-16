@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "transport",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nestjs/transport",
+  "branch": "main",
+  "sha": "9833efa704783e8780445ed20c52f71e28690be7",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pci-compliance",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/pci-compliance",
+  "branch": "main",
+  "sha": "4c71edeeb526fde9a34f59d57df9ecfabd962d47",
+  "source": "manual"
+}

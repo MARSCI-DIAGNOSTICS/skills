@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "convertkit-automation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/convertkit-automation",
+  "branch": "main",
+  "sha": "d2ab223ec290dc9edd5c3df479f64499658ee1a1",
+  "source": "manual"
+}

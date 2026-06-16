@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hook-schema-audit",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-code-observability/skills/hook-schema-audit",
+  "branch": "main",
+  "sha": "2ab4f641da13a0a6e90d5175079148dbda01ccfb",
+  "source": "manual"
+}

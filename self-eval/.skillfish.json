@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "self-eval",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering/self-eval",
+  "branch": "main",
+  "sha": "2d7850ce2e5a4c45ab17c5a67925fca251b86ef3",
+  "source": "manual"
+}

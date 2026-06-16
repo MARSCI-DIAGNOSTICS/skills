@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-claude-engineering-agent-designer",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-claude-engineering-agent-designer",
+  "branch": "main",
+  "sha": "b124ea3c06614ee9d26d945d50a6f7d3431eaee3",
+  "source": "manual"
+}

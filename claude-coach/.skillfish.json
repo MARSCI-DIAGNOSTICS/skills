@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "claude-coach",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "engineering/claude-coach/skills/claude-coach",
+  "branch": "main",
+  "sha": "a4ec8589a0a59cfaf759a9c0191753442195001e",
+  "source": "manual"
+}

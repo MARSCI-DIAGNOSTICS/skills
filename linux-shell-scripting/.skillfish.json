@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "linux-shell-scripting",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/linux-shell-scripting",
+  "branch": "main",
+  "sha": "6cf05de8b5e4056d58cfd93fc03a743498031728",
+  "source": "manual"
+}

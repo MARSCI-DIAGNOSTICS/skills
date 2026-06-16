@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-voicelive-java",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-voicelive-java",
+  "branch": "main",
+  "sha": "a5f157ac697686b35778dac9d480bfa913fb56de",
+  "source": "manual"
+}

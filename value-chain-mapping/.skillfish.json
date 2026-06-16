@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "value-chain-mapping",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/wardley-mapping/skills/value-chain-mapping",
+  "branch": "main",
+  "sha": "1abd1655d7e5b291a0a3ce8735af9fb7e21785c2",
+  "source": "manual"
+}

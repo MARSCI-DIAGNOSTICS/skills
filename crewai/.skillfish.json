@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "crewai",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/crewai",
+  "branch": "main",
+  "sha": "3249284d8aa95bb97003ec79b617d788fd515ead",
+  "source": "manual"
+}

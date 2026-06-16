@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "onboarding-docs",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/documentation-standards/skills/onboarding-docs",
+  "branch": "main",
+  "sha": "9bd8264dcd446f1ef3337996cf5ab2726deed419",
+  "source": "manual"
+}

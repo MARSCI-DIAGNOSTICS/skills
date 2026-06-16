@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bash-aliases",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/git/skills/bash-aliases",
+  "branch": "main",
+  "sha": "54798af843352b20247ef4986507b6b66314ad20",
+  "source": "manual"
+}

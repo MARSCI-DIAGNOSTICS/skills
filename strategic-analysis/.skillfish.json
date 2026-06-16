@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "strategic-analysis",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/wardley-mapping/skills/strategic-analysis",
+  "branch": "main",
+  "sha": "170aecf69a07abbd406c9919e7e1624c75e3a55b",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-role-database-reviewer",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-role-database-reviewer",
+  "branch": "main",
+  "sha": "ae415fd6f87d8da8f26d821514d77baa8c665340",
+  "source": "manual"
+}

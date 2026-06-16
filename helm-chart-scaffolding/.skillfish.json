@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "helm-chart-scaffolding",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/helm-chart-scaffolding",
+  "branch": "main",
+  "sha": "bb0a9b362514934a64ba0dd949bf033370217994",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-vision-imageanalysis-java",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-vision-imageanalysis-java",
+  "branch": "main",
+  "sha": "4df5141b7fb420308656afecb5d7231890eecdc6",
+  "source": "manual"
+}

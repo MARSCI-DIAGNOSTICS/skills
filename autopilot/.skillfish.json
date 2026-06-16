@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "autopilot",
+  "owner": "phrazzld",
+  "repo": "claude-config",
+  "path": "skills/autopilot",
+  "branch": "master",
+  "sha": "88299e67cefc495c9b242290d749a52cdfb602b2",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aspnet-core",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/dotnet/aspnet-core",
+  "branch": "main",
+  "sha": "8ee8846f73ca5ba41b24551a7ace1ff2c447a496",
+  "source": "manual"
+}

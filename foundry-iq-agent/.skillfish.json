@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "foundry-iq-agent",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/foundry-iq-agent",
+  "branch": "main",
+  "sha": "647013a22971694f3c191e9e966eff49c9e2f711",
+  "source": "manual"
+}

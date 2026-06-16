@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aws-cost-cleanup",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/aws-cost-cleanup",
+  "branch": "main",
+  "sha": "b41632db52c7a9069f66ff4920f55a8d63faa6fc",
+  "source": "manual"
+}

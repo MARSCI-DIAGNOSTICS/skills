@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "llm-application-dev-langchain-agent",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/llm-application-dev-langchain-agent",
+  "branch": "main",
+  "sha": "d2bca4f9120380c784c67ffd6e4d05ae6f25d952",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tools",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/tools",
+  "branch": "main",
+  "sha": "52dad6b390f2bc63c981b245edcf55a0da6fd979",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tonic",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/rust/tonic",
+  "branch": "main",
+  "sha": "91386f257054969d0035590a57f14d5ee8db6f46",
+  "source": "manual"
+}

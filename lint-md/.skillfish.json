@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lint-md",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/code-quality/skills/lint-md",
+  "branch": "main",
+  "sha": "f4be4f72741999ec1b0c314acfb0749d38c06cbe",
+  "source": "manual"
+}

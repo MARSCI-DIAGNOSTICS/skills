@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "subagent-development",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/subagent-development",
+  "branch": "main",
+  "sha": "6fe2bb7cd886e476fcda00c15a311e3a3b4dc286",
+  "source": "manual"
+}

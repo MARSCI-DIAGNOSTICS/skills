@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "firmware-analyst",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/firmware-analyst",
+  "branch": "main",
+  "sha": "ee8c2732f8bbbd98671804dd46dba716a0befe8f",
+  "source": "manual"
+}

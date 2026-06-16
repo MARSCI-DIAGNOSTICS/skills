@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "x-article-publisher-skill",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/x-article-publisher-skill",
+  "branch": "main",
+  "sha": "50c36660914b544c29c32cbbe76bfbcd0112dbc3",
+  "source": "manual"
+}

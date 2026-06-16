@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ai-act-readiness",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "compliance-os/skills/ai-act-readiness",
+  "branch": "main",
+  "sha": "e9efc8381b99092c54a42d7a05fecd907528d9a3",
+  "source": "manual"
+}

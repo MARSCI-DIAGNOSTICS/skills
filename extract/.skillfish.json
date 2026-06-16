@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "extract",
+  "owner": "zhangzhang-111-i",
+  "repo": "claude-skills111",
+  "path": "engineering-team/self-improving-agent/skills/extract",
+  "branch": "main",
+  "sha": "3410f43e71c8d28be13a745ac7258cd88f5e09af",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-anthropic-mcp-builder",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-anthropic-mcp-builder",
+  "branch": "main",
+  "sha": "e41333a8fe067994ddd7ef5f0846502966be6882",
+  "source": "manual"
+}

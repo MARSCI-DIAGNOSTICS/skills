@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fda-qsr-audit-prep",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "compliance-os/skills/fda-qsr-audit-prep",
+  "branch": "main",
+  "sha": "0b545a12d1876dcf210e947c7ae53b5aea6d2040",
+  "source": "manual"
+}

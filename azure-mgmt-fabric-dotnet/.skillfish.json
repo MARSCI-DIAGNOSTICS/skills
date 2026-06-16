@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-mgmt-fabric-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-mgmt-fabric-dotnet",
+  "branch": "main",
+  "sha": "d0bdb5b372e90a30dfa11e0d5ed70ae240d05b20",
+  "source": "manual"
+}

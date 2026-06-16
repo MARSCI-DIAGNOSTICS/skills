@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "execute",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "c-level-advisor/c-level-agents/skills/execute",
+  "branch": "main",
+  "sha": "adcc985225cc3e6cdab6488657e154b94a2b83a4",
+  "source": "manual"
+}

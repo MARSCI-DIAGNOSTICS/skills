@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "commercial-forecaster",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "commercial/skills/commercial-forecaster",
+  "branch": "main",
+  "sha": "3f6b116d8b1dfc1465e189e15e105e0e3828facf",
+  "source": "manual"
+}

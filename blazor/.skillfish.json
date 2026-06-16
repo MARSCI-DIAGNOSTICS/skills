@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "blazor",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/dotnet/blazor",
+  "branch": "main",
+  "sha": "26af8c9e90467ff589ef0cf1f8f11c088fa56dfd",
+  "source": "manual"
+}

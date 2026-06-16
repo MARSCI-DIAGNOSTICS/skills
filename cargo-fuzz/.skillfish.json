@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cargo-fuzz",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/testing-handbook-skills/skills/cargo-fuzz",
+  "branch": "main",
+  "sha": "bc085b131b9b1b3c1d26ec3469e894eb9a6a25c2",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "workshop",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/requirements-elicitation/skills/workshop",
+  "branch": "main",
+  "sha": "8a73ac55d460258ab7a897184f29afcb6de9dec4",
+  "source": "manual"
+}

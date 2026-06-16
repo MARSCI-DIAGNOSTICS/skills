@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "linear-claude-skill",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/linear-claude-skill",
+  "branch": "main",
+  "sha": "0827f8847aed9556c30a49cf1c139a1757396ba9",
+  "source": "manual"
+}

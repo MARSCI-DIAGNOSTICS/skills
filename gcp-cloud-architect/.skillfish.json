@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gcp-cloud-architect",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering-team/gcp-cloud-architect",
+  "branch": "main",
+  "sha": "075aed09df8fbac1c981ec080d30f83e0db5d6ee",
+  "source": "manual"
+}

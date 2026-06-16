@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gaps",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/requirements-elicitation/skills/gaps",
+  "branch": "main",
+  "sha": "f0a858bd441174d139973be5c1d9acb62b8c3110",
+  "source": "manual"
+}

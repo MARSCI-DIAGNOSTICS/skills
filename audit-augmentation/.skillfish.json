@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "audit-augmentation",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/trailmark/skills/audit-augmentation",
+  "branch": "main",
+  "sha": "f676081df90a2c6b3f5643062ee5cc36dee803ca",
+  "source": "manual"
+}

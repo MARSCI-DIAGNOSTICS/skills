@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-storage-queue-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-storage-queue-py",
+  "branch": "main",
+  "sha": "a8399fcb28707fb00a0a17e5ea25fcfafd5cb815",
+  "source": "manual"
+}

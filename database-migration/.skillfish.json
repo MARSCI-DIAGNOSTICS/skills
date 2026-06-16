@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "database-migration",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/database-migration",
+  "branch": "main",
+  "sha": "cdd2c220b00d05f4ad985dc45eb863fb4d5ea608",
+  "source": "manual"
+}

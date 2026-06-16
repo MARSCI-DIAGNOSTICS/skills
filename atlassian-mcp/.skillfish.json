@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "atlassian-mcp",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/atlassian-mcp",
+  "branch": "main",
+  "sha": "9347e03b375fc5eac247bfe1e13f1662da244d89",
+  "source": "manual"
+}

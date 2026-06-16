@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "posthog-automation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/posthog-automation",
+  "branch": "main",
+  "sha": "7c14856c317cf6b7b50fdbc2bfa348922b14b5a0",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-communication-callingserver-java",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-communication-callingserver-java",
+  "branch": "main",
+  "sha": "6dc6ecfbafd5b8bcccb457f4792076928fbb8a91",
+  "source": "manual"
+}

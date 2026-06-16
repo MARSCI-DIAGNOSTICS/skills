@@ -1,0 +1,86 @@
+# Default Configuration for Milan Jovanovic Blog Skill
+# Values can be overridden via environment variables: MILAN_BLOG_<SECTION>_<KEY>
+
+# HTTP and Network Configuration
+http:
+  default_timeout: 30
+  max_timeout: 300
+  default_max_retries: 3
+  initial_retry_delay: 1.0
+  backoff_factor: 2.0
+  retryable_status_codes:
+    - 429
+    - 500
+    - 502
+    - 503
+    - 504
+  user_agent: "Milan-Blog-Scraper/1.0 (Educational purposes)"
+
+# Scraping Configuration
+scraping:
+  base_url: "https://www.milanjovanovic.tech"
+  blog_path: "/blog"
+  pagination_pattern: "/p/{page}"
+  max_pages: 20
+  rate_limit: 1.0  # seconds between requests
+  max_workers: 2
+  skip_existing: true
+  default_timeout: 300
+
+# Date Filtering
+date_filter:
+  # Default minimum date - .NET 10 GA (November 2025)
+  min_date: "2025-11-01"
+  allow_override: true
+
+# Content Cleanup
+cleanup:
+  remove_sponsors: true
+  remove_ctas: true
+  remove_newsletter: true
+  preserve_code_blocks: true
+
+# Index Configuration
+index:
+  filename: "index.json"
+  lock_timeout: 30.0
+  chunk_size: 100
+
+# Path Configuration
+paths:
+  base_dir: "canonical"
+  index_filename: "index.json"
+  temp_dir: ".claude/temp"
+
+# Search Configuration
+search:
+  default_limit: 25
+  min_score_default: null
+  domain_weights:
+    milanjovanovic.tech: 10.0
+  match_weights:
+    keyword_exact: 3.0
+    title_match: 2.5
+    tag_match: 1.5
+    category_match: 1.0
+
+# Keyword Extraction
+keyword_extraction:
+  limits:
+    max_file_tokens: 4
+    max_heading_phrases: 10
+    max_heading_keywords: 8
+    max_body_keywords: 6
+    max_total_keywords: 12
+
+# Cache Configuration
+cache:
+  inverted_index_enabled: true
+  ttl: 0
+  directory: ".cache"
+
+# Logging Configuration
+logging:
+  directory: "logs"
+  retention_days: 30
+  default_level: "INFO"

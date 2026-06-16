@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "assess-hipaa",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/compliance-planning/skills/assess-hipaa",
+  "branch": "main",
+  "sha": "f2466d6edeea60d484c3ee27b04365fd6bb2c026",
+  "source": "manual"
+}

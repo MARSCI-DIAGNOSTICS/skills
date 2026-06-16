@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ci-cd-pipelines",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "awesome-claude-code-toolkit/skills/ci-cd-pipelines",
+  "branch": "main",
+  "sha": "a543598973e164fdaeb34da9adb179a99c4fdd25",
+  "source": "manual"
+}

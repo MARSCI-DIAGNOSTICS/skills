@@ -1,0 +1,120 @@
+---
+title: Duende IdentityServer v5.2 to v6.0
+source_url: https://docs.duendesoftware.com/identityserver/duende-identityserver-v52-to-v60/
+source_type: llms-full-txt
+content_hash: sha256:30b1bdb25d5a77ad9db157df07d63eef63b9e38af2ca82e9d117e7b038fda23e
+category: identityserver
+doc_id: identityserver/duende-identityserver-v52-to-v60
+---
+
+This upgrade guide covers upgrading from Duende IdentityServer v5.2 to v6.0 ([release notes](https://github.com/DuendeSoftware/products/releases/tag/is%2F6.0.0)). The most significant aspect of this upgrade is that Duende IdentityServer v6.0 targets .NET 6, and [CIBA](/identityserver/ui/ciba/) support was added.
+
+Note
+
+With any major release, there is always the possibility of some breaking changes.
+
+List of updates where a breaking change might affect your use of IdentityServer.
+
+* [Quickstart UI updated to use razor pages](https://github.com/DuendeSoftware/IdentityServer/pull/263)
+* [Addition of cancellation token to store APIs](https://github.com/DuendeSoftware/IdentityServer/pull/405)
+* [Store DbContext ctors to support DbContext pooling](https://github.com/DuendeSoftware/IdentityServer/pull/260)
+* [CustomRedirectResult returnUrl changes](https://github.com/DuendeSoftware/IdentityServer/pull/358)
+* [Add missing columns for created, updated, etc to EF entities](https://github.com/DuendeSoftware/IdentityServer/pull/356)
+* [Add unique constraints to EF tables where duplicate records not allowed](https://github.com/DuendeSoftware/IdentityServer/pull/355)
+* [Added grant handle versioning suffix](https://github.com/DuendeSoftware/IdentityServer/pull/404)
+* [Many HttpContext extensions marked obsolete](https://github.com/DuendeSoftware/IdentityServer/pull/414)
+* [New APIs to the ICache interface](https://github.com/DuendeSoftware/IdentityServer/pull/421)
+* [New Client columns for CIBA](https://github.com/DuendeSoftware/IdentityServer/pull/498)
+* [openid no longer implicit in OidcProvider scope collection](https://github.com/DuendeSoftware/IdentityServer/pull/507)
+* [JwtRequestValidator signature changes](https://github.com/DuendeSoftware/IdentityServer/pull/537)
+* [Changes in AppAuth URL validator for logout](https://github.com/DuendeSoftware/IdentityServer/pull/619)
+* [Use of EmailClaimType option in ASP.NET Identity integration](https://github.com/DuendeSoftware/IdentityServer/pull/625)
+
+## Step 1: Update to .NET 6
+
+[Section titled "Step 1: Update to .NET 6"](#step-1-update-to-net-6)
+
+In your IdentityServer host project, update the version of the .NET framework. For example in your project file:
+
+```xml
+<TargetFramework>netcoreapp3.1</TargetFramework>
+```
+
+would change to:
+
+```xml
+<TargetFramework>net6.0</TargetFramework>
+```
+
+Also, any other NuGets that you were previously using that targeted an older version of .NET should be updated. For example, `Microsoft.EntityFrameworkCore.SqlServer` or `Microsoft.AspNetCore.Authentication.Google`. Depending on what your application was using, there may or may not be code changes based on those updated NuGet packages.
+
+## Step 2: Update the IdentityServer NuGet package
+
+[Section titled "Step 2: Update the IdentityServer NuGet package"](#step-2-update-the-identityserver-nuget-package)
+
+In your IdentityServer host project, update the version of the Duende IdentityServer NuGet. For example in your project file:
+
+```xml
+<PackageReference Include="Duende.IdentityServer" Version="5.2.0" />
+```
+
+would change to:
+
+```xml
+<PackageReference Include="Duende.IdentityServer" Version="6.0.0" />
+```
+
+## Step 3: Update Database Schema (if needed)
+
+[Section titled "Step 3: Update Database Schema (if needed)"](#step-3-update-database-schema-if-needed)
+
+If you are using a [database](/identityserver/data) for your configuration data, then there is a small database schema update. This includes:
+
+* Add missing columns for created, updated, etc. to EF entities ([more details](https://github.com/DuendeSoftware/products/pull/356)).
+* Add unique constraints to EF tables where duplicate records not allowed ([more details](https://github.com/DuendeSoftware/products/pull/355)). IdentityServer is abstracted from the data store on multiple levels, so the exact steps involved in updating your data store will depend on your implementation details.
+
+#### Custom Store Implementations
+
+[Section titled "Custom Store Implementations"](#custom-store-implementations)
+
+The core of IdentityServer is written against the [store interfaces](/identityserver/reference/stores), which abstract all the implementation details of actually storing data. If your IdentityServer implementation includes a custom implementation of those stores, then you will have to determine how best to include the changes in the model in the underlying data store and make any necessary changes to schemas, if your data store requires that.
+
+#### Duende.IdentityServer.EntityFramework
+
+[Section titled "Duende.IdentityServer.EntityFramework"](#duendeidentityserverentityframework)
+
+We also provide a default implementation of the stores in the `Duende.IdentityServer.EntityFramework` package, but this implementation is still highly abstracted because it is usable with any database that has an EF provider. Different database vendors have very different dialects of sql that have different syntax and type systems, so we don't provide schema changes directly. Instead, we provide the Entity Framework entities and mappings which can be used with Entity Framework's migrations feature to generate the schema updates that are needed in your database.
+
+To generate a migration, run the command below. Note that you might need to adjust paths based on your specific organization of the migration files.
+
+Terminal
+
+```bash
+dotnet ef migrations add Update_DuendeIdentityServer_v6_0 -c ConfigurationDbContext -o Data/Migrations/IdentityServer/ConfigurationDb
+```
+
+Note
+
+You will likely get the warning "An operation was scaffolded that may result in the loss of data. Please review the migration for accuracy.". This is due to the fact that in this release the column length for redirect URIs (for both login and logout) was reduced from 2000 to 400. This was needed because some database providers have limits on index size. This should not affect you unless you are using redirect URIs greater than 400 characters.
+
+Then to apply those changes to your database:
+
+Terminal
+
+```bash
+dotnet ef database update -c ConfigurationDbContext
+```
+
+Some organizations prefer to use other tools for managing schema changes. You're free to manage your schema however you see fit, as long as the entities can be successfully mapped. Even if you're not going to ultimately use Entity Framework migrations to manage your database changes, generating a migration can be a useful development step to get an idea of what needs to be done.
+
+## Step 4: Verify Data Protection Configuration
+
+[Section titled "Step 4: Verify Data Protection Configuration"](#step-4-verify-data-protection-configuration)
+
+IdentityServer depends on ASP.NET Data Protection. Data Protection encrypts and signs data using keys managed by ASP.NET. Those keys are isolated by application name, which by default is set to the content root path of the host. This prevents multiple applications from sharing encryption keys, which is necessary to protect your encryption against certain forms of attack. However, this means that if your content root path changes, the default settings for data protection will prevent you from using your old keys. Beginning in .NET 6, the content root path is now normalized so that it ends with a directory separator. This means that your content root path might change when you upgrade to .NET 6. This can be mitigated by explicitly setting the application name and removing the separator character. See [Microsoft's documentation for more information](https://learn.microsoft.com/en-us/aspnet/core/security/data-protection/configuration/overview?view=aspnetcore-6.0#setapplicationname).
+
+## Step 5: Done!
+
+[Section titled "Step 5: Done!"](#step-5-done)
+
+That's it. Of course, at this point you can and should test that your IdentityServer is updated and working properly.

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-cmd-pm2",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-cmd-pm2",
+  "branch": "main",
+  "sha": "4f29590812e13656e3ec2e756578e066069ecb55",
+  "source": "manual"
+}

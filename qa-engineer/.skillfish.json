@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "qa-engineer",
+  "owner": "nagisanzenin",
+  "repo": "claude-code-production-grade-plugin",
+  "path": "skills/qa-engineer",
+  "branch": "main",
+  "sha": "fbd0d0052befbfa81ba87870c3fb1f6ce85d54e1",
+  "source": "manual"
+}

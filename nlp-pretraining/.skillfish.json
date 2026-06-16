@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "nlp-pretraining",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "AutoResearchClaw/researchclaw/skills/builtin/domain/nlp-pretraining",
+  "branch": "main",
+  "sha": "f3e6c798c29e3343a014535f9270be5a48353bef",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "atlassian-templates",
+  "owner": "zhangzhang-111-i",
+  "repo": "claude-skills111",
+  "path": "project-management/atlassian-templates",
+  "branch": "main",
+  "sha": "389b8b1a4798c2be2cbb4609e0a680becc448ef3",
+  "source": "manual"
+}

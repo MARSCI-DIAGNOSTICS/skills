@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "frontend-mobile-security-xss-scan",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/frontend-mobile-security-xss-scan",
+  "branch": "main",
+  "sha": "441d11f6a3690ba135f1c1459c098de9a0eee147",
+  "source": "manual"
+}

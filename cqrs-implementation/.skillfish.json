@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cqrs-implementation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/cqrs-implementation",
+  "branch": "main",
+  "sha": "0b3ee880bfe381e04148f16d67a23365d81c04cf",
+  "source": "manual"
+}

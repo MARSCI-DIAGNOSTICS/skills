@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "team-api-design",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/team-design/skills/team-api-design",
+  "branch": "main",
+  "sha": "70324079e27175975fb431972a20f895113100c3",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "capability-mapping",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/business-analysis/skills/capability-mapping",
+  "branch": "main",
+  "sha": "cc598798e3d5bd09e5fd5d30ff47a1ff754ca6eb",
+  "source": "manual"
+}

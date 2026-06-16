@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "threat-detection",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering-team/threat-detection",
+  "branch": "main",
+  "sha": "7ddde9b4b4eea84b41270ca56081c61e8ade7a4e",
+  "source": "manual"
+}

@@ -1,0 +1,176 @@
+---
+title: Duende BFF Security Framework v2.x to v3.0
+source_url: https://docs.duendesoftware.com/bff/duende-bff-security-framework-v2x-to-v30/
+source_type: llms-full-txt
+content_hash: sha256:1919fa1b44eae99bdeedd333d206bccc4562635d95d287032167eb4ae6e99579
+category: bff
+doc_id: bff/duende-bff-security-framework-v2x-to-v30
+---
+
+> Guide for upgrading Duende BFF Security Framework from version 2.x to version 3.0, including migration steps for custom implementations and breaking changes.
+
+Duende BFF Security Framework v3.0 is a significant release that includes:
+
+* .NET 9 support
+* Blazor support
+* Several fixes and improvements
+
+## Upgrading
+
+[Section titled "Upgrading"](#upgrading)
+
+If you rely on the default extension methods for wiring up the BFF, then V3 should be a drop-in replacement.
+
+### Migrating From Custom Implementations Of IHttpMessageInvokerFactory
+
+[Section titled "Migrating From Custom Implementations Of IHttpMessageInvokerFactory"](#migrating-from-custom-implementations-of-ihttpmessageinvokerfactory)
+
+In Duende.BFF V2, there was an interface called `IHttpMessageInvokerFactory`. This class was responsible for creating and wiring up yarp's `HttpMessageInvoker`. This interface has been removed in favor YARP's `IForwarderHttpClientFactory`.
+
+One common scenario for creating a custom implementation of this class was for mocking the http client during unit testing.
+
+If you wish to inject a http handler for unit testing, you should now inject a custom `IForwarderHttpClientFactory`. For example:
+
+```csharp
+// A Forwarder factory that forwards the messages to a message handler (which can be easily retrieved from a testhost)
+public class BackChannelHttpMessageInvokerFactory(HttpMessageHandler backChannel)
+    : IForwarderHttpClientFactory
+{
+    public HttpMessageInvoker CreateClient(ForwarderHttpClientContext context) =>
+        new HttpMessageInvoker(backChannel);
+}
+
+
+// Wire up the forwarder in your application's test host:
+services.AddSingleton<IForwarderHttpClientFactory>(
+     new BackChannelHttpMessageInvokerFactory(_apiHost.Server.CreateHandler()));
+```
+
+### Migrating From Custom Implementations Of IHttpTransformerFactory
+
+[Section titled "Migrating From Custom Implementations Of IHttpTransformerFactory"](#migrating-from-custom-implementations-of-ihttptransformerfactory)
+
+The `IHttpTransformerFactory` was a way to globally configure the YARP tranform pipeline. In V3, the way that the default `endpoints.MapRemoteBffApiEndpoint()` method builds up the YARP transform has been simplified significantly. Most of the logic has been pushed down to the *AccessTokenRequestTransform*.
+
+Here are common scenario's for implementing your own *IHttpTransformerFactory* and how to upgrade:
+
+#### Replacing Defaults
+
+[Section titled "Replacing Defaults"](#replacing-defaults)
+
+If you used a custom implementation of `IHttpTransformerFactory` to change the default behavior of `MapRemoteBffApiEndpoint()`, for example to add additional transforms, then you can now inject a custom delegate into the ASP.NET Core service provider:
+
+```csharp
+services.AddSingleton<BffYarpTransformBuilder>(CustomDefaultYarpTransforms);
+
+
+//...
+
+
+// This is an example of how to add a response header to ALL invocations of MapRemoteBffApiEndpoint()
+private void CustomDefaultBffTransformBuilder(string localpath, TransformBuilderContext context)
+{
+    context.AddResponseHeader("added-by-custom-default-transform", "some-value");
+    DefaultBffYarpTransformerBuilders.DirectProxyWithAccessToken(localpath, context);
+}
+```
+
+Another way of doing this is to create a custom extensionmethod `MyCustomMapRemoteBffApiEndpoint()` that wraps the `MapRemoteBffApiEndpoint()` and use that everywhere in your application. This is a great way to add other defaults that should apply to all endpoints, such as requiring a specific type of access token.
+
+#### Configuring Transforms For A Single Route
+
+[Section titled "Configuring Transforms For A Single Route"](#configuring-transforms-for-a-single-route)
+
+Another common usecase for overriding the `IHttpTransformerFactory` was to have a custom transform for a single route, by applying a switch statement and testing for specific routes.
+
+Now, there is an overload on the `endpoints.MapRemoteBffApiEndpoint()` that allows you to configure the pipeline directly:
+
+```csharp
+endpoints.MapRemoteBffApiEndpoint(
+    "/local-path",
+    _apiHost.Url(),
+    context =>
+    {
+        // do something custom: IE: copy request headers
+        context.CopyRequestHeaders = true;
+
+
+        // wire up the default transformer logic
+        DefaultTransformers.DirectProxyWithAccessToken("/local-path", context);
+    })
+    // Continue with normal BFF configuration, for example, allowing optional user access tokens
+    .WithOptionalUserAccessToken();
+```
+
+### Removed method RemoteApiEndpoint.Map(localpath, apiAddress).
+
+[Section titled "Removed method RemoteApiEndpoint.Map(localpath, apiAddress)."](#removed-method-remoteapiendpointmaplocalpath-apiaddress)
+
+The Map method was no longer needed as most of the logic had been moved to either the `MapRemoteBffApiEndpoint` and the DefaultTransformers. The map method also wasn't very explicit about what it did and a number of test scenario's tried to verify if it wasn't called wrongly. You are now expected to call the method `MapRemoteBffApiEndpoint`. This method now has a nullable parameter that allows you to inject your own transformers.
+
+### AccessTokenRetrievalContext Properties Are Now Typed
+
+[Section titled "AccessTokenRetrievalContext Properties Are Now Typed"](#accesstokenretrievalcontext-properties-are-now-typed)
+
+The LocalPath and ApiAddress properties are now typed. They used to be strings. If you rely on these, for example for implementing a custom `IAccessTokenRetriever`, then you should adjust their usage accordingly.
+
+```csharp
+/// <summary>
+/// The locally requested path.
+/// </summary>
+public required PathString PathMatch { get; set; }
+
+
+/// <summary>
+/// The remote address of the API.
+/// </summary>
+public required Uri ApiAddress { get; set; }
+```
+
+### AddAddEntityFrameworkServerSideSessionsServices Renamed To AddEntityFrameworkServerSideSessionsServices
+
+[Section titled "AddAddEntityFrameworkServerSideSessionsServices Renamed To AddEntityFrameworkServerSideSessionsServices"](#addaddentityframeworkserversidesessionsservices-renamed-to-addentityframeworkserversidesessionsservices)
+
+If you used the method `AddAddEntityFrameworkServerSideSessionsServices()` in your code, please replace it with the corrected `AddEntityFrameworkServerSideSessionsServices()`.
+
+### StateProviderPollingDelay and StateProviderPollingInterval Split Into Separate Options For WebAssembly and Server.
+
+[Section titled "StateProviderPollingDelay and StateProviderPollingInterval Split Into Separate Options For WebAssembly and Server."](#stateproviderpollingdelay-and-stateproviderpollinginterval-split-into-separate-options-for-webassembly-and-server)
+
+If you used `BffBlazorOptions.StateProviderPollingInterval` or `BffBlazorOptions.StateProviderPollingDelay` to configure different polling settings, you should now consider if this same setting applies to either Server, WASM or both. Set the appropriate properties accordingly.
+
+### Server Side Sessions Database Migrations
+
+[Section titled "Server Side Sessions Database Migrations"](#server-side-sessions-database-migrations)
+
+No [Entity Framework database migrations](/bff/fundamentals/session/server-side-sessions/#entity-framework-migrations) are required for the server side sessions feature when using the `Duende.BFF.EntityFramework` package.
+
+The database structure remains the same:
+
+serversidesessions.sql
+
+```sqlite
+CREATE TABLE "UserSessions" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_UserSessions" PRIMARY KEY AUTOINCREMENT,
+    "ApplicationName" TEXT NULL,
+    "SubjectId" TEXT NOT NULL,
+    "SessionId" TEXT NULL,
+    "Created" TEXT NOT NULL,
+    "Renewed" TEXT NOT NULL,
+    "Expires" TEXT NULL,
+    "Ticket" TEXT NOT NULL,
+    "Key" TEXT NOT NULL
+);
+
+
+CREATE UNIQUE INDEX "IX_UserSessions_ApplicationName_Key" ON "UserSessions" ("ApplicationName", "Key");
+
+
+CREATE UNIQUE INDEX "IX_UserSessions_ApplicationName_SessionId" ON "UserSessions" ("ApplicationName", "SessionId");
+
+
+CREATE UNIQUE INDEX "IX_UserSessions_ApplicationName_SubjectId_SessionId" ON "UserSessions" ("ApplicationName", "SubjectId", "SessionId");
+
+
+CREATE INDEX "IX_UserSessions_Expires" ON "UserSessions" ("Expires");
+```

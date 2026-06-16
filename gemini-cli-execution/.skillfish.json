@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gemini-cli-execution",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/google-ecosystem/skills/gemini-cli-execution",
+  "branch": "main",
+  "sha": "c04fe0c24f24d77ef4690204c2baa1e1d8444ade",
+  "source": "manual"
+}

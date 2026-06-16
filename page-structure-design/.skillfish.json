@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "page-structure-design",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/content-management-system/skills/page-structure-design",
+  "branch": "main",
+  "sha": "a75b26478dcea8dc18eb691b1bc1249dd712e053",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-regex-vs-llm-structured-text",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-regex-vs-llm-structured-text",
+  "branch": "main",
+  "sha": "f07fb186fa99f79bae608bfeb5ec11f2f2f8509b",
+  "source": "manual"
+}

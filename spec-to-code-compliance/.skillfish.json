@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "spec-to-code-compliance",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/spec-to-code-compliance/skills/spec-to-code-compliance",
+  "branch": "main",
+  "sha": "7b9602424c36be855832b7e112df6afd9fc9868e",
+  "source": "manual"
+}

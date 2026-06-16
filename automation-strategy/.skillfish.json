@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "automation-strategy",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/test-strategy/skills/automation-strategy",
+  "branch": "main",
+  "sha": "775c11447e912cebc06f619ece493a796d9f8eee",
+  "source": "manual"
+}

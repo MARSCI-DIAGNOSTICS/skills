@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "migrate",
+  "owner": "zhangzhang-111-i",
+  "repo": "claude-skills111",
+  "path": "engineering-team/playwright-pro/skills/migrate",
+  "branch": "main",
+  "sha": "f320da680f37d93f5598b4034eef006b40f232fe",
+  "source": "manual"
+}

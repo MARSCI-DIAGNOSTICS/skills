@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-appconfiguration-java",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-appconfiguration-java",
+  "branch": "main",
+  "sha": "365f88b5d31cb5e6816982d05a0c075225c1cd14",
+  "source": "manual"
+}

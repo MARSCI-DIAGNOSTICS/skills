@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "qa-web-testing",
+  "owner": "williamfontaine",
+  "repo": "claude-plugins-marketplace",
+  "path": "plugins/qa-hunter/skills/qa-web-testing",
+  "branch": "main",
+  "sha": "3ac31069ef2479140d742d2c6feced52a2f1c6ee",
+  "source": "manual"
+}

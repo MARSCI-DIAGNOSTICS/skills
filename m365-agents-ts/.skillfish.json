@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "m365-agents-ts",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/m365-agents-ts",
+  "branch": "main",
+  "sha": "591e18a865b2cafac00ceadac1a0499423e6c3b9",
+  "source": "manual"
+}

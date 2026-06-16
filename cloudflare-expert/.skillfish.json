@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cloudflare-expert",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/cloudflare-expert",
+  "branch": "main",
+  "sha": "e8a4f0e80e4f3aa6aa374d6a7a51bab19977310d",
+  "source": "manual"
+}

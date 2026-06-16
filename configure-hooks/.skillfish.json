@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "configure-hooks",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/configure-hooks",
+  "branch": "main",
+  "sha": "8ad90231c6c0dc863655831e628ffbcf3f5fa2d8",
+  "source": "manual"
+}

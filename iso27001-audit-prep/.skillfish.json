@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "iso27001-audit-prep",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "compliance-os/skills/iso27001-audit-prep",
+  "branch": "main",
+  "sha": "4a97b19f30e97d5f90ddc4c3811e88336f633eff",
+  "source": "manual"
+}

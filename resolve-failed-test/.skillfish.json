@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "resolve-failed-test",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/resolve-failed-test",
+  "branch": "main",
+  "sha": "8ad55fb9c71be61914df4525c2d54a95d26d6f12",
+  "source": "manual"
+}

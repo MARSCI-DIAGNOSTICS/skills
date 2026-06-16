@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "postgresql-optimization",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/postgresql-optimization",
+  "branch": "main",
+  "sha": "c233ec4c70125b4850388637b4b804bc4699b45f",
+  "source": "manual"
+}

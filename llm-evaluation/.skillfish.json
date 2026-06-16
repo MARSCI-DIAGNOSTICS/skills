@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "llm-evaluation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/llm-evaluation",
+  "branch": "main",
+  "sha": "7dc04d5749d7d72da57b72d43f3aadcd3e49d642",
+  "source": "manual"
+}

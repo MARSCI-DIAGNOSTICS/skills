@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gemini-json-parsing",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/google-ecosystem/skills/gemini-json-parsing",
+  "branch": "main",
+  "sha": "1bac42bbf245b5ac30e335a2c8db4affbf3a2775",
+  "source": "manual"
+}

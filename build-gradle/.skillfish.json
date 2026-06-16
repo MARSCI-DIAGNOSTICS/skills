@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "build-gradle",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/java/build-gradle",
+  "branch": "main",
+  "sha": "51fec172f734ded60808f52761f0e3b3c36970e7",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "testing-handbook-generator",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/testing-handbook-skills/skills/testing-handbook-generator",
+  "branch": "main",
+  "sha": "ad9dc69659fd4078b0a6bda9dcfc92b79961b249",
+  "source": "manual"
+}

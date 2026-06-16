@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "composable-primitives",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/composable-primitives",
+  "branch": "main",
+  "sha": "08a94968c93434cc839424d0c858bdb763f68bdc",
+  "source": "manual"
+}

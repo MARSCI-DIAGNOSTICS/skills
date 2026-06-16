@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "handoff",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-code-tips/skills/handoff",
+  "branch": "main",
+  "sha": "caf69aee32ab88cb692eb386ff9cabfd3a252b7b",
+  "source": "manual"
+}

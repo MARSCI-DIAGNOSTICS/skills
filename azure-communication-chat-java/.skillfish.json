@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-communication-chat-java",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-communication-chat-java",
+  "branch": "main",
+  "sha": "1ad430040d8a46369ca8d24d4206f184f4f82b2f",
+  "source": "manual"
+}

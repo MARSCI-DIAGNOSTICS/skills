@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "api-versioning",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/api-versioning",
+  "branch": "main",
+  "sha": "b1301832b8da9cb5df0e49827cce424408d96c7d",
+  "source": "manual"
+}

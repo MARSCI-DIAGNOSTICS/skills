@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fiber-framework",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/golang/fiber-framework",
+  "branch": "main",
+  "sha": "63568e4a49be65e03e4aa65572dd566405cb3200",
+  "source": "manual"
+}

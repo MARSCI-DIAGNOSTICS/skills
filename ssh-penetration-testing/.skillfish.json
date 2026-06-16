@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ssh-penetration-testing",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/ssh-penetration-testing",
+  "branch": "main",
+  "sha": "64dfd848f1ff75dc9656631980583d368de263b3",
+  "source": "manual"
+}

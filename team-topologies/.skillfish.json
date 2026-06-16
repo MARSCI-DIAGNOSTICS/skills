@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "team-topologies",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/team-design/skills/team-topologies",
+  "branch": "main",
+  "sha": "fc6901e932874d9e24892143feb36e99a416f726",
+  "source": "manual"
+}

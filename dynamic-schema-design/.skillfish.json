@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dynamic-schema-design",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/content-management-system/skills/dynamic-schema-design",
+  "branch": "main",
+  "sha": "4fd5afbe1d621618cb8288b90c77b9ca97822e0f",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "frontend-engineer",
+  "owner": "nagisanzenin",
+  "repo": "claude-code-production-grade-plugin",
+  "path": "skills/frontend-engineer",
+  "branch": "main",
+  "sha": "3f274cca891dc7d81ffd10bc8cc896d888edb9e3",
+  "source": "manual"
+}

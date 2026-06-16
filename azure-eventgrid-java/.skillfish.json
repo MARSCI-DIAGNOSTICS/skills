@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-eventgrid-java",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-eventgrid-java",
+  "branch": "main",
+  "sha": "9751d11da655e8895bf569aa79677c93329d01ef",
+  "source": "manual"
+}

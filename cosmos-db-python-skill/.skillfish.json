@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cosmos-db-python-skill",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/cosmos-db-python-skill",
+  "branch": "main",
+  "sha": "62a2be27dec06c84c0b2ea716f47bb5cf5a5ba96",
+  "source": "manual"
+}

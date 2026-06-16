@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "qa-foundations",
+  "owner": "williamfontaine",
+  "repo": "claude-plugins-marketplace",
+  "path": "plugins/qa-hunter/skills/qa-foundations",
+  "branch": "main",
+  "sha": "07b31bcdef0d03b78e4fd737e8c53150622e1830",
+  "source": "manual"
+}

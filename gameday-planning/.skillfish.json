@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gameday-planning",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/gameday-planning",
+  "branch": "main",
+  "sha": "207a8a6d2448a0cd7257a7a8d4a5e769a819d068",
+  "source": "manual"
+}

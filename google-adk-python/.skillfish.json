@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "google-adk-python",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/google-adk-python",
+  "branch": "main",
+  "sha": "1a874e4e34602d8700e2eba30a9680868694dc57",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "piter-setup",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/piter-setup",
+  "branch": "main",
+  "sha": "a624d6e40d0905a6262320affd93f8bfffbfc1a8",
+  "source": "manual"
+}

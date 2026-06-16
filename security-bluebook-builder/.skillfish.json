@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-bluebook-builder",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/security-bluebook-builder",
+  "branch": "main",
+  "sha": "24478a8fe529c4793ca7d7b62aaff43cc5650b67",
+  "source": "manual"
+}

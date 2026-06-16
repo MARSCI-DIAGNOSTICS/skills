@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ai-writing-assistant",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/soft-skills/skills/ai-writing-assistant",
+  "branch": "main",
+  "sha": "95dfcad508ff9afe3fe5bd6d63a2bb238b4ab0c6",
+  "source": "manual"
+}

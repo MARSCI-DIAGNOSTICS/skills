@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "review-claudemd",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-code-tips/skills/review-claudemd",
+  "branch": "main",
+  "sha": "995b2d811fea1fb356cc0eb1ea47470ad545823e",
+  "source": "manual"
+}

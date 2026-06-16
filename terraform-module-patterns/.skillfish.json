@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "terraform-module-patterns",
+  "owner": "oborchers",
+  "repo": "fractional-cto",
+  "path": "cloud-foundation-principles/skills/terraform-module-patterns",
+  "branch": "main",
+  "sha": "b9f2c77a1810ad5ad8e8e899fff267ac501e83c4",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "plantuml-syntax",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/visualization/skills/plantuml-syntax",
+  "branch": "main",
+  "sha": "068ef3d5aadf3ee97577a24dc79444382425243e",
+  "source": "manual"
+}

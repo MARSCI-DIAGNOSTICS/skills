@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "threat-modeling-expert",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/threat-modeling-expert",
+  "branch": "main",
+  "sha": "eeb3229285a4ae3c232b826f1e92dd0af8c64677",
+  "source": "manual"
+}

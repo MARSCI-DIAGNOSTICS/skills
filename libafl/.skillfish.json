@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "libafl",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/testing-handbook-skills/skills/libafl",
+  "branch": "main",
+  "sha": "df5a3e5e916db281657183ff5f5d88f11fefeb6d",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sbom-management",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/compliance-planning/skills/sbom-management",
+  "branch": "main",
+  "sha": "8c2cb3b53099258f96f3e57b7fc5846eedc1303c",
+  "source": "manual"
+}

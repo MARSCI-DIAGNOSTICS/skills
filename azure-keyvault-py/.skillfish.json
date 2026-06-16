@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-keyvault-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-keyvault-py",
+  "branch": "main",
+  "sha": "0da62e92653c9da08d9cf1c631a3d1a5620e6e6c",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "windows-privilege-escalation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/windows-privilege-escalation",
+  "branch": "main",
+  "sha": "c056d7085a39ec07c4710edfefaa8b1c37e553c8",
+  "source": "manual"
+}

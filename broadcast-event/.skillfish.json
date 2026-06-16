@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "broadcast-event",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/broadcast-event",
+  "branch": "main",
+  "sha": "dc20346c0e8d5a01b4618ec8164f38a4a18bfe20",
+  "source": "manual"
+}

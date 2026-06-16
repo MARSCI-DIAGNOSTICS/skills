@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "vercel-deployment",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/vercel-deployment",
+  "branch": "main",
+  "sha": "0742ff5c4072327055ed24c78159f17c0c54285f",
+  "source": "manual"
+}

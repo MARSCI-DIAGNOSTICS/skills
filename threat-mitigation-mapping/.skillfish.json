@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "threat-mitigation-mapping",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/threat-mitigation-mapping",
+  "branch": "main",
+  "sha": "f61878880b8e4f9cb9eb7d331493a52fa04a932a",
+  "source": "manual"
+}

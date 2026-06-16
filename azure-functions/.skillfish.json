@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-functions",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-functions",
+  "branch": "main",
+  "sha": "477e5c3c9742b120a8f03ae9f73a1da935d77f00",
+  "source": "manual"
+}

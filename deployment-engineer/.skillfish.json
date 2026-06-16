@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "deployment-engineer",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/deployment-engineer",
+  "branch": "main",
+  "sha": "db480d3c5cf297f1559ba6134c2bb6745864c67a",
+  "source": "manual"
+}

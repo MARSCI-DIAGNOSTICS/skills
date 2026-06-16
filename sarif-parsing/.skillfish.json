@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sarif-parsing",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/static-analysis/skills/sarif-parsing",
+  "branch": "main",
+  "sha": "26af59b2512870d13ff05354e1b3ecb568b527e9",
+  "source": "manual"
+}

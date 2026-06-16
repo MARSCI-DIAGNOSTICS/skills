@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "secrets-vault-manager",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering/secrets-vault-manager",
+  "branch": "main",
+  "sha": "3357bc199af689de27162fc95cffa46d07bbbd81",
+  "source": "manual"
+}

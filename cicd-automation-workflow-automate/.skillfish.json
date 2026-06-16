@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cicd-automation-workflow-automate",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/cicd-automation-workflow-automate",
+  "branch": "main",
+  "sha": "b3e25ed24c927f9ad52673407026c0e539d0d676",
+  "source": "manual"
+}

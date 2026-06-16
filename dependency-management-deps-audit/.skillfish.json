@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dependency-management-deps-audit",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/dependency-management-deps-audit",
+  "branch": "main",
+  "sha": "8d218a458037539419e1154f8837eac02eb52f18",
+  "source": "manual"
+}

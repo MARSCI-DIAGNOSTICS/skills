@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "feature-flags-architect",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "engineering/feature-flags-architect/skills/feature-flags-architect",
+  "branch": "main",
+  "sha": "164b002adc57e1449b920d29151f05163f2fdb46",
+  "source": "manual"
+}

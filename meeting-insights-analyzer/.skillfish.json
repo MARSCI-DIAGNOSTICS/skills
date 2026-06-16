@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "meeting-insights-analyzer",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/meeting-insights-analyzer",
+  "branch": "main",
+  "sha": "b80111f3d59933667bb5728848903bad3f5487d8",
+  "source": "manual"
+}

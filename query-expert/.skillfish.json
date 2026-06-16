@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "query-expert",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/query-expert",
+  "branch": "main",
+  "sha": "36955148293eb47f0cdb47193f0f8c8608d36075",
+  "source": "manual"
+}

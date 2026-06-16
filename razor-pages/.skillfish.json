@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "razor-pages",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/dotnet/razor-pages",
+  "branch": "main",
+  "sha": "a08f512a405c782338d5c0ac87ae55a674405ff5",
+  "source": "manual"
+}

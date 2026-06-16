@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hosted-agents-v2-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/hosted-agents-v2-py",
+  "branch": "main",
+  "sha": "c970ce9e983443e4f82bd04800012ed8771afc5b",
+  "source": "manual"
+}

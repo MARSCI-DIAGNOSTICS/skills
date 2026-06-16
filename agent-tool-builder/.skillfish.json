@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-tool-builder",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/agent-tool-builder",
+  "branch": "main",
+  "sha": "75f2a6b03c13bd391d05ed8e4321a11d97b2e9cf",
+  "source": "manual"
+}

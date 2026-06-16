@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "axum",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/rust/axum",
+  "branch": "main",
+  "sha": "2433aa6e1a036a813affbe0fe9f3676302a5d4e3",
+  "source": "manual"
+}

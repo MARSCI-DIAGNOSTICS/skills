@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-claude-engineering-api-test-suite-builder",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-claude-engineering-api-test-suite-builder",
+  "branch": "main",
+  "sha": "90a0d466bfebc4bb8d86ed2f7157b383e4493f90",
+  "source": "manual"
+}

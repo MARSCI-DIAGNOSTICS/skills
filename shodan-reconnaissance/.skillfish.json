@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "shodan-reconnaissance",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/shodan-reconnaissance",
+  "branch": "main",
+  "sha": "e18796ad74db612e0dd990911fed7dbbbc8b02f6",
+  "source": "manual"
+}

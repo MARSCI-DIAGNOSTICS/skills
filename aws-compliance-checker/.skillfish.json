@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aws-compliance-checker",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/security/aws-compliance-checker",
+  "branch": "main",
+  "sha": "c2627d2186e09bb5f6e94f847a87a98524af38a1",
+  "source": "manual"
+}

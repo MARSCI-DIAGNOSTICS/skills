@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "simulate",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/requirements-elicitation/skills/simulate",
+  "branch": "main",
+  "sha": "32aaac6148a0c5bd7e5b2b53273d42cb8d3201f4",
+  "source": "manual"
+}

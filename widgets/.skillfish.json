@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "widgets",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/flutter/widgets",
+  "branch": "main",
+  "sha": "e8aaf60a80dee148b6eba9a0efb757f08a4a4966",
+  "source": "manual"
+}

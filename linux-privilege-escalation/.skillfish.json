@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "linux-privilege-escalation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/linux-privilege-escalation",
+  "branch": "main",
+  "sha": "8d6fcf15d4b3a6be92411729486f38e9b688f6ff",
+  "source": "manual"
+}

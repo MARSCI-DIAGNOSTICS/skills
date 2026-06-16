@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "firebase-apk-scanner",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/firebase-apk-scanner/skills/firebase-apk-scanner",
+  "branch": "main",
+  "sha": "9175518adb06087d32896b9d03b8928e00a07608",
+  "source": "manual"
+}

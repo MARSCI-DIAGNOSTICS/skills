@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "n8n-mcp-tools-expert",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/n8n-mcp-tools-expert",
+  "branch": "main",
+  "sha": "068fcb6dee71724aa22158876d3190311e618a8b",
+  "source": "manual"
+}

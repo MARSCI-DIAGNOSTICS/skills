@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "autoresearch-agent",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering/autoresearch-agent",
+  "branch": "main",
+  "sha": "c0a018a20fae581808119ad0aa5bf0a3550a2ef8",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "design-page-builder",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/content-management-system/skills/design-page-builder",
+  "branch": "main",
+  "sha": "44de534e832c2911f8855783958c9677481ee8c7",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "semgrep-rule-variant-creator",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/semgrep-rule-variant-creator/skills/semgrep-rule-variant-creator",
+  "branch": "main",
+  "sha": "9a1b7a67752a67a95c8b7f981422a2a4e98d418f",
+  "source": "manual"
+}

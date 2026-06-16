@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-orchestration-improve-agent",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/agent-orchestration-improve-agent",
+  "branch": "main",
+  "sha": "14b7146b8b9b5860f0157b602ba90440fb41c02d",
+  "source": "manual"
+}

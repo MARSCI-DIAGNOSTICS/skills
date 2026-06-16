@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tooling",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/dart/tooling",
+  "branch": "main",
+  "sha": "8cbfbbaab3e37967c727f3aa335f20da7896d236",
+  "source": "manual"
+}

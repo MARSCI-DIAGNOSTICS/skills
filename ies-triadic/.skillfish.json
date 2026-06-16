@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ies-triadic",
+  "owner": "plurigrid",
+  "repo": "asi",
+  "path": "ies/music-topos/.agents/skills/ies-triadic",
+  "branch": "main",
+  "sha": "d0d7f68c4dbb4289d2122675237b5570f68b1b80",
+  "source": "manual"
+}

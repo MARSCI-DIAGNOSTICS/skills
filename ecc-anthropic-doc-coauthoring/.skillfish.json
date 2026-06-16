@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-anthropic-doc-coauthoring",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-anthropic-doc-coauthoring",
+  "branch": "main",
+  "sha": "8a7df7a92332191a9329e9bf2ee9f97fe78c705b",
+  "source": "manual"
+}

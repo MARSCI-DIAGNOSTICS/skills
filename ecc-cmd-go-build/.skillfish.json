@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-cmd-go-build",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-cmd-go-build",
+  "branch": "main",
+  "sha": "31dda9ab5dfc210b6f23d125efe5a58ae556b18e",
+  "source": "manual"
+}

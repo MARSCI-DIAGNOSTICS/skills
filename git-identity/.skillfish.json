@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "git-identity",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/git/skills/git-identity",
+  "branch": "main",
+  "sha": "76dc267b35b4da3d336728b2ee27a9bc1565d22a",
+  "source": "manual"
+}

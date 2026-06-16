@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "kubernetes-architect",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/kubernetes-architect",
+  "branch": "main",
+  "sha": "e7498730a022e2050b7f6eaf9a9bfbedadbd052e",
+  "source": "manual"
+}

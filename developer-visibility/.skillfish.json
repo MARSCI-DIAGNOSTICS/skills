@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "developer-visibility",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/soft-skills/skills/developer-visibility",
+  "branch": "main",
+  "sha": "e7d81759391cee435cdaf03cd09986f067e219d9",
+  "source": "manual"
+}

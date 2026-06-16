@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-storage-blob-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-storage-blob-py",
+  "branch": "main",
+  "sha": "6a7ffc5fa0ac6976ed65c060138e1b77a2274fcb",
+  "source": "manual"
+}

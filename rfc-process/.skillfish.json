@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rfc-process",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/documentation-standards/skills/rfc-process",
+  "branch": "main",
+  "sha": "b3a05c51bf187dd453aaa4d6840b8afe0917a54a",
+  "source": "manual"
+}

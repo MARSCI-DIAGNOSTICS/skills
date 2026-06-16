@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "investor-outreach",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-archive/harness/.agents/skills/investor-outreach",
+  "branch": "main",
+  "sha": "998c07d68ecc368a87a986838b001912564a677a",
+  "source": "manual"
+}

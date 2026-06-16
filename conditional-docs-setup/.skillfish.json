@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "conditional-docs-setup",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/conditional-docs-setup",
+  "branch": "main",
+  "sha": "ef5a1c8135623186745de3c24f407987ec6946dc",
+  "source": "manual"
+}

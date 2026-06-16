@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "service-mesh-expert",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/service-mesh-expert",
+  "branch": "main",
+  "sha": "d9a78950dfe887d14d4e4a829685507edcf0ef33",
+  "source": "manual"
+}

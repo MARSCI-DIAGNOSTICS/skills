@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "speckit-workflow",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/spec-driven-development/skills/speckit-workflow",
+  "branch": "main",
+  "sha": "419ba508ef91470771bf6f59534d1defa5814b00",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-sdk-development",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/agent-sdk-development",
+  "branch": "main",
+  "sha": "3e43124dc19f8a0589fed41f169fdfe982281f12",
+  "source": "manual"
+}

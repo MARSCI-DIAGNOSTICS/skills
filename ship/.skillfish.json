@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ship",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/ship",
+  "branch": "main",
+  "sha": "b7610254d36b9c96bd690f55c6bb21522168377c",
+  "source": "manual"
+}

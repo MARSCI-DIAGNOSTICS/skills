@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "conductor-validator",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/conductor-validator",
+  "branch": "main",
+  "sha": "f2c1f5f82912054efb162a83ff26575f075d1e06",
+  "source": "manual"
+}

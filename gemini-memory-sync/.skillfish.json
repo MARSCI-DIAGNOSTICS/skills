@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gemini-memory-sync",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/google-ecosystem/skills/gemini-memory-sync",
+  "branch": "main",
+  "sha": "f16e50ddd12021397fd4f1c1a13a3f78bf265bc8",
+  "source": "manual"
+}

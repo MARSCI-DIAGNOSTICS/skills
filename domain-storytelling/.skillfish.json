@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "domain-storytelling",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/enterprise-architecture/skills/domain-storytelling",
+  "branch": "main",
+  "sha": "ee06682576789c7cacd41642bfdfc7209b8765bc",
+  "source": "manual"
+}

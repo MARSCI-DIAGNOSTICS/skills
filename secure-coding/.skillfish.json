@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "secure-coding",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/security/skills/secure-coding",
+  "branch": "main",
+  "sha": "5216460e622d8eccd37597e086a1dacd1fba342b",
+  "source": "manual"
+}

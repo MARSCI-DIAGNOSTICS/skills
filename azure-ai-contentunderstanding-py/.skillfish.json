@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-contentunderstanding-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-contentunderstanding-py",
+  "branch": "main",
+  "sha": "58616b34b9d8bd3ec7c3f751f0a8b8142f7ed058",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "map-frameworks",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/compliance-planning/skills/map-frameworks",
+  "branch": "main",
+  "sha": "76033a2455e1031325062428d1e60dfb7f28a48b",
+  "source": "manual"
+}

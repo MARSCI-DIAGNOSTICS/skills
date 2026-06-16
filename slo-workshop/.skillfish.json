@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "slo-workshop",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/slo-workshop",
+  "branch": "main",
+  "sha": "7262a24df7568ff2717863b7fbef74117915a038",
+  "source": "manual"
+}

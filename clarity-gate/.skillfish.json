@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "clarity-gate",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/clarity-gate",
+  "branch": "main",
+  "sha": "ad303995177310508c2d73b18fc44c9f28a5efd5",
+  "source": "manual"
+}

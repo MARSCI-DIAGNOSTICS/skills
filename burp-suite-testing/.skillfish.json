@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "burp-suite-testing",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/burp-suite-testing",
+  "branch": "main",
+  "sha": "86d9988e0e02e67fa79019304e532327b2ad9278",
+  "source": "manual"
+}

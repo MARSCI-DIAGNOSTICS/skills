@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "setup-lsp",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/setup-lsp",
+  "branch": "main",
+  "sha": "a76f4cc766f2f5b0db8ff588f8042f610c9ab31a",
+  "source": "manual"
+}

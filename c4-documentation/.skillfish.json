@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "c4-documentation",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/documentation-standards/skills/c4-documentation",
+  "branch": "main",
+  "sha": "9200dcac46ec0f4d13e4ca69a711a3ab6d5dca5a",
+  "source": "manual"
+}

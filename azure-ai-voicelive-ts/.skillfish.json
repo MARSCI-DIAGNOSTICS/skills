@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-voicelive-ts",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-voicelive-ts",
+  "branch": "main",
+  "sha": "3a12e94b0f0e0886eee799094d38023def14507c",
+  "source": "manual"
+}

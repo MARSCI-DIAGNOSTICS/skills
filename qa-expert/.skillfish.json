@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "qa-expert",
+  "owner": "luodashiv5",
+  "repo": "please_answer_this_era_5.0",
+  "path": "claude-code-skills/qa-expert",
+  "branch": "main",
+  "sha": "b75a6930a99531db75eebc511d1116d753b97dcb",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "seatbelt-sandboxer",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/seatbelt-sandboxer/skills/seatbelt-sandboxer",
+  "branch": "main",
+  "sha": "66eb5ba03126f65bff27cd2a865abf563fe836c5",
+  "source": "manual"
+}

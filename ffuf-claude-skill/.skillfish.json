@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ffuf-claude-skill",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/ffuf-claude-skill",
+  "branch": "main",
+  "sha": "6dd2361cc125333d76afba520f04c3ae6d33307a",
+  "source": "manual"
+}

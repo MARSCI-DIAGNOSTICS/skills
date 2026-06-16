@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "terraform-infrastructure",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/terraform-infrastructure",
+  "branch": "main",
+  "sha": "621b417db54d078d226ceeee40ecbd6f70bb534e",
+  "source": "manual"
+}

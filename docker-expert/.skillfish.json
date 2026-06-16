@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docker-expert",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/docker-expert",
+  "branch": "main",
+  "sha": "6d7d3b5af18da6104018e434d4a909fb5b138946",
+  "source": "manual"
+}

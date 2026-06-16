@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "duckdb-spatial",
+  "owner": "plurigrid",
+  "repo": "asi",
+  "path": "ies/music-topos/.agents/skills/duckdb-spatial",
+  "branch": "main",
+  "sha": "d0d8ce2bd3821c32939de5111c9480057154ce0b",
+  "source": "manual"
+}

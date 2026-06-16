@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dead-code-intolerance",
+  "owner": "oborchers",
+  "repo": "fractional-cto",
+  "path": "pedantic-coder/skills/dead-code-intolerance",
+  "branch": "main",
+  "sha": "2c1eddf92be0514ce9cc8fa5709926f145179fdf",
+  "source": "manual"
+}

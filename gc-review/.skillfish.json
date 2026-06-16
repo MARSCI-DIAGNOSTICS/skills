@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gc-review",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "c-level-advisor/c-level-agents/skills/gc-review",
+  "branch": "main",
+  "sha": "6397564b2e0e2c2352aae6928a1d41a437dccde0",
+  "source": "manual"
+}

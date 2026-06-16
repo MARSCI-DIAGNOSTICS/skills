@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "code-reviewer",
+  "owner": "nagisanzenin",
+  "repo": "claude-code-production-grade-plugin",
+  "path": "skills/code-reviewer",
+  "branch": "main",
+  "sha": "0bb26ca9a13587dd8e95486f4360c1567ffac091",
+  "source": "manual"
+}

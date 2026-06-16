@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ea-learning",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/enterprise-architecture/skills/ea-learning",
+  "branch": "main",
+  "sha": "452b0d032ae6243ee01d8bab89b38d2563b2d9fa",
+  "source": "manual"
+}

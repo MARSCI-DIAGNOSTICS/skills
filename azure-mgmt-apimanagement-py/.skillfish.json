@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-mgmt-apimanagement-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-mgmt-apimanagement-py",
+  "branch": "main",
+  "sha": "9a57bb8d03b31b52999436ac4f54a8d280968ecb",
+  "source": "manual"
+}

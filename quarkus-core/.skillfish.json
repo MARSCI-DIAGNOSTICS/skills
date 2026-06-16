@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "quarkus-core",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/java/quarkus-core",
+  "branch": "main",
+  "sha": "c453015ca115d683fd0d70f12e43b69d5550c73f",
+  "source": "manual"
+}

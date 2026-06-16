@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "draw",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/libreoffice/draw",
+  "branch": "main",
+  "sha": "dcb66af0ba82a42bca3ed5a8dfa0b12ddc68a379",
+  "source": "manual"
+}

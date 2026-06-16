@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mcp-builder-ms",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/mcp-builder-ms",
+  "branch": "main",
+  "sha": "691f17296fae32b495070dd9c0ed48b6c0a8f030",
+  "source": "manual"
+}

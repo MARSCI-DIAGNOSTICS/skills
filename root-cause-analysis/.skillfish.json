@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "root-cause-analysis",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/business-analysis/skills/root-cause-analysis",
+  "branch": "main",
+  "sha": "c2fe80bcd23544fb511f3ce3d74bfb34ed5d1a5f",
+  "source": "manual"
+}

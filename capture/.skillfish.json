@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "capture",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "productivity/capture/skills/capture",
+  "branch": "main",
+  "sha": "653eadeceec1efa8cda8c403b3e680b93f0a84f0",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "systematic-review",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "AutoResearchClaw/researchclaw/skills/builtin/experiment/systematic-review",
+  "branch": "main",
+  "sha": "4118613bd83f2bd9107cd07376e05ded448b755d",
+  "source": "manual"
+}

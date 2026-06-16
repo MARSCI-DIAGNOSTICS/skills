@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-search-documents-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-search-documents-dotnet",
+  "branch": "main",
+  "sha": "dbf74b41637058dc776fcb190e3fbc3713260925",
+  "source": "manual"
+}

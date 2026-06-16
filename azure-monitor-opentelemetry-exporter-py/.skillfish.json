@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-monitor-opentelemetry-exporter-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-monitor-opentelemetry-exporter-py",
+  "branch": "main",
+  "sha": "845d0dd051c1aefc342c1be4a84b220662ea3236",
+  "source": "manual"
+}

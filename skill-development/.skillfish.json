@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "skill-development",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/skill-development",
+  "branch": "main",
+  "sha": "6f60cf3f4c81c7085107111796479b54040db920",
+  "source": "manual"
+}

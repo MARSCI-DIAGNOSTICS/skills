@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mtls-service-mesh",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/mtls-service-mesh",
+  "branch": "main",
+  "sha": "5c24404c1ce7076027c02522e6edaff2a26de4d4",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "apply-findings",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/melodic-software/skills/apply-findings",
+  "branch": "main",
+  "sha": "ecb26a1bf0ab1e7563577f72b6d9afdd5c72ac63",
+  "source": "manual"
+}

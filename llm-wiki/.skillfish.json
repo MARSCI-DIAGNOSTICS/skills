@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "llm-wiki",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "engineering/llm-wiki/skills/llm-wiki",
+  "branch": "main",
+  "sha": "317a42437735827a2837d40cca410c7564966139",
+  "source": "manual"
+}

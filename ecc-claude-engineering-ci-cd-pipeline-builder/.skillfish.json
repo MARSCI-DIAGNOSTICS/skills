@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-claude-engineering-ci-cd-pipeline-builder",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-claude-engineering-ci-cd-pipeline-builder",
+  "branch": "main",
+  "sha": "9555ea9ddb5b1aff52e0f12290e498cd4602e45f",
+  "source": "manual"
+}

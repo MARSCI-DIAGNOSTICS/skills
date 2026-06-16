@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-resource-manager-cosmosdb-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-resource-manager-cosmosdb-dotnet",
+  "branch": "main",
+  "sha": "e56430a84fe987c717567a365225e6f6284b24c8",
+  "source": "manual"
+}

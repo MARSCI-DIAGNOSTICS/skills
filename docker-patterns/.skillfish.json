@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docker-patterns",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-sync/work/ecc/docs/zh-CN/skills/docker-patterns",
+  "branch": "main",
+  "sha": "4d93693ef333c96a4365edbbdbf317910c998fd0",
+  "source": "manual"
+}

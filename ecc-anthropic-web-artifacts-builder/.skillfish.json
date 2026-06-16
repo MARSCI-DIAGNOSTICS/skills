@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-anthropic-web-artifacts-builder",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-anthropic-web-artifacts-builder",
+  "branch": "main",
+  "sha": "fa7eca93620dcd4174087139fd0a380573f25578",
+  "source": "manual"
+}

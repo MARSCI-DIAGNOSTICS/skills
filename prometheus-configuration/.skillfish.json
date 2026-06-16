@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "prometheus-configuration",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/prometheus-configuration",
+  "branch": "main",
+  "sha": "3f59fac0d33f0c09eacb8c21ec2ea865f2235db5",
+  "source": "manual"
+}

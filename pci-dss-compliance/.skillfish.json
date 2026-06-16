@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pci-dss-compliance",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/compliance-planning/skills/pci-dss-compliance",
+  "branch": "main",
+  "sha": "ec8cc3177d5089377e6ea6927cb74feded220a61",
+  "source": "manual"
+}

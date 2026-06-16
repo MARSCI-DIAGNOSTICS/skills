@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "output-customization",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/output-customization",
+  "branch": "main",
+  "sha": "96b23a14611e619e2c8a46b8885f96115186ae77",
+  "source": "manual"
+}

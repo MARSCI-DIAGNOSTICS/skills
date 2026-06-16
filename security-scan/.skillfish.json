@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-scan",
+  "owner": "mickaelmamani",
+  "repo": "saas-toolkit",
+  "path": "saas-toolkit/skills/security-scan",
+  "branch": "main",
+  "sha": "f0bd6f23b7b929601eaaaff45bad75e8ccbd9015",
+  "source": "manual"
+}

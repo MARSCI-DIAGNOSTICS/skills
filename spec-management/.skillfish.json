@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "spec-management",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/spec-driven-development/skills/spec-management",
+  "branch": "main",
+  "sha": "d09c3c64ccc2c37e4722a16dfbf2d755c4e76144",
+  "source": "manual"
+}

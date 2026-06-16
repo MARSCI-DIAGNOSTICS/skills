@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aws-cost-operations",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/aws-cost-operations",
+  "branch": "main",
+  "sha": "c2f8298bcd3b3534a232ea9f13be50181937009e",
+  "source": "manual"
+}

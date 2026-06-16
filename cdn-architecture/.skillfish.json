@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cdn-architecture",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/cdn-architecture",
+  "branch": "main",
+  "sha": "45d6dceeef8e28410550999c4eb3795c7a3f1633",
+  "source": "manual"
+}

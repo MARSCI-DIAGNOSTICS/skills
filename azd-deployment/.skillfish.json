@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azd-deployment",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azd-deployment",
+  "branch": "main",
+  "sha": "646350e8bd2993ccc4cb5c1e454b90fb84264b74",
+  "source": "manual"
+}

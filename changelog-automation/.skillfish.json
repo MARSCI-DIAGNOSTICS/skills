@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "changelog-automation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/changelog-automation",
+  "branch": "main",
+  "sha": "b0046a54b8864a62170c095c80f355e761f39349",
+  "source": "manual"
+}

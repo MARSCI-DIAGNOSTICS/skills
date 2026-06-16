@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "event-storming-advanced",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/event-modeling/skills/event-storming-advanced",
+  "branch": "main",
+  "sha": "9537dcdddae751555106e5fa72aed9e8b189a057",
+  "source": "manual"
+}

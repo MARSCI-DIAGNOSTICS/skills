@@ -1,0 +1,238 @@
+---
+title: Embedded (Local) APIs
+source_url: https://docs.duendesoftware.com/embedded-local-apis/
+source_type: llms-full-txt
+content_hash: sha256:7a3488d7cde5b63b1984bf49712fca7a06481981440871020ddd43166f79e976
+doc_id: embedded-local-apis
+---
+
+> Documentation about Embedded (Local) APIs in BFF, including self-contained APIs and those using managed access tokens, along with securing endpoints and configuration details.
+
+An *Embedded API* (or local API) is an API located within the BFF host. Embedded APIs are implemented with the familiar ASP.NET abstractions of API controllers or Minimal API endpoints.
+
+There are two styles of Embedded APIs:
+
+* Self-contained Embedded APIs
+* Embedded APIs that Make Requests using Managed Access Tokens
+
+#### Self-Contained Embedded APIs
+
+[Section titled "Self-Contained Embedded APIs"](#self-contained-embedded-apis)
+
+These APIs reside within the BFF and don't make HTTP requests to other APIs. They access data controlled by the BFF itself, which can simplify the architecture of the system by reducing the number of APIs that must be deployed and managed. They are suitable for scenarios where the BFF is the sole consumer of the data. If you require data accessibility from other applications or services, this approach is probably not suitable.
+
+#### Embedded APIs That Make Requests Using Managed Access Tokens
+
+[Section titled "Embedded APIs That Make Requests Using Managed Access Tokens"](#embedded-apis-that-make-requests-using-managed-access-tokens)
+
+Alternatively, you can make the data available as a service and make HTTP requests to that service from your BFF's Embedded endpoints. The benefits of this style of Embedded Endpoint include:
+
+* Your frontend's network access can be simplified into an aggregated call for the specific data that it needs, which reduces the amount of data that must be sent to the client.
+* Your BFF endpoint can expose a subset of your remote APIs so that they are called in a more controlled manner than if the BFF proxied all requests to the endpoint.
+* Your BFF endpoint can include business logic to call the appropriate endpoints, which simplifies your front end code.
+
+Your Embedded endpoints can leverage services like the HTTP client factory and Duende.BFF [token management](/bff/fundamentals/tokens/) to make the outgoing calls.
+
+The following is a simplified example showing how Embedded endpoints can get managed access tokens and use them to make requests to remote APIs.
+
+Program.cs
+
+```csharp
+app.MapGet("/myApi", async (IHttpClientFactory httpClientFactory, HttpContext context) =>
+{
+    var id = context.Request.Query["id"];
+
+
+    // create HTTP client
+    var client = httpClientFactory.CreateClient();
+
+
+    // get current user access token and set it on HttpClient
+    var token = await context.GetUserAccessTokenAsync();
+    client.SetBearerToken(token);
+
+
+    // call remote API
+    var response = await client.GetAsync($"https://remoteServer/remoteApi?id={id}");
+
+
+    // maybe process response and return to frontend
+    return Results.Text(await response.Content.ReadAsStringAsync());
+});
+```
+
+The example above is simplified to demonstrate the way that you might obtain a token. Embedded endpoints will typically enforce constraints on the way the API is called, aggregate multiple calls, or perform other business logic. Embedded endpoints that merely forward requests from the frontend to the remote API may not be needed at all. Instead, you could proxy the requests through the BFF using either the [simple http forwarder](/bff/fundamentals/apis/remote/) or [YARP](/bff/fundamentals/apis/yarp/).
+
+## Securing Embedded API Endpoints
+
+[Section titled "Securing Embedded API Endpoints"](#securing-embedded-api-endpoints)
+
+Regardless of the style of data access used by an Embedded API, it must be protected against threats such as [CSRF (Cross-Site Request Forgery)](https://developer.mozilla.org/en-US/docs/Glossary/CSRF) attacks. To defend against such attacks and ensure that only the frontend can access these endpoints, we recommend implementing two layers of protection.
+
+#### SameSite Cookies
+
+[Section titled "SameSite Cookies"](#samesite-cookies)
+
+[The SameSite cookie attribute](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie#samesitesamesite-value) is a feature of modern browsers that restricts cookies so that they are only sent to pages originating from the [site](https://developer.mozilla.org/en-US/docs/Glossary/Site) where the cookie was originally issued.
+
+This is a good first layer of defense, but makes the assumption that you can trust all subdomains of your site. All subdomains within a registrable domain are considered the same site for purposes of SameSite cookies. Thus, if another application hosted on a subdomain within your site is infected with malware, it can make CSRF attacks against your application.
+
+#### Anti-forgery Header
+
+[Section titled "Anti-forgery Header"](#anti-forgery-header)
+
+We recommend requiring an additional custom header on API endpoints, for example:
+
+```plaintext
+GET /endpoint
+
+
+x-csrf: 1
+```
+
+The value of the header is not important, but its presence, combined with the cookie requirement, triggers a CORS preflight request for cross-origin calls. This effectively isolates the caller to the same origin as the backend, providing a robust security guarantee.
+
+Additionally, API endpoints should handle scenarios where the session has expired or authorization fails without triggering an authentication redirect to the upstream identity provider. Instead, they should return Ajax-friendly status codes.
+
+## Setup
+
+[Section titled "Setup"](#setup)
+
+### Adding Anti-forgery Protection
+
+[Section titled "Adding Anti-forgery Protection"](#adding-anti-forgery-protection)
+
+Duende.BFF can automate the pre-processing step of requiring the custom anti-forgery header. To do so, first add the BFF middleware to the pipeline, and then decorate your endpoints to indicate that they should receive BFF pre-processing.
+
+1. **Add Middleware to the pipeline**
+
+   Add the BFF middleware to the pipeline by calling `UseBff`. Note that the middleware must be placed before the authorization middleware, but after routing.
+
+   Program.cs
+
+   ```csharp
+   app.UseAuthentication();
+   app.UseRouting();
+
+
+   app.UseBff();
+
+
+   app.UseAuthorization();
+
+
+   // map endpoints
+   ```
+
+2. **Decorate Endpoints**
+
+   Endpoints that require the pre- and post-processing described above must be decorated with a call to `AsBffApiEndpoint()`.
+
+   For Minimal API endpoints, you can apply BFF pre- and post-processing when they are mapped.
+
+   ```csharp
+   app.MapPost("/foo", context => {
+       // ...
+   })
+       .RequireAuthorization()  // no anonymous access
+       .AsBffApiEndpoint();     // BFF pre/post processing
+   ```
+
+   For MVC controllers, you can similarly apply BFF pre- and post-processing to controller actions when they are mapped.
+
+   ```csharp
+   app.MapControllers()
+       .RequireAuthorization()  // no anonymous access
+       .AsBffApiEndpoint();     // BFF pre/post processing
+   ```
+
+   Alternatively, you can apply the `[BffApi]` attribute directly to the controller or action.
+
+   ```csharp
+   [Route("myApi")]
+   [BffApi]
+   public class MyApiController : ControllerBase
+   {
+       // ...
+   }
+   ```
+
+### Disabling Anti-forgery Protection
+
+[Section titled "Disabling Anti-forgery Protection"](#disabling-anti-forgery-protection)
+
+Disabling anti-forgery protection is possible but not recommended. Antiforgery protection defends against CSRF attacks, so opting out may cause security vulnerabilities.
+
+However, if you are defending against CSRF attacks with some other mechanism, you can opt out of Duende.BFF's CSRF protection. Depending on the version of Duende.BFF, use one of the following approaches.
+
+For *version 1.x*, set the `requireAntiForgeryCheck` parameter to `false` when adding the endpoint. For example:
+
+Program.cs
+
+```csharp
+// MVC controllers
+app.MapControllers()
+    .RequireAuthorization()
+    // WARNING: Disabling antiforgery protection may make
+    // your APIs vulnerable to CSRF attacks
+    .AsBffApiEndpoint(requireAntiforgeryCheck: false);
+
+
+// simple endpoint
+app.MapPost("/foo", context => {
+        // ...
+    })
+    .RequireAuthorization()
+    // WARNING: Disabling antiforgery protection may make
+    // your APIs vulnerable to CSRF attacks
+    .AsBffApiEndpoint(requireAntiforgeryCheck: false);
+```
+
+On MVC controllers and actions you can set the `RequireAntiForgeryCheck` as a flag in the `BffApiAttribute`, like this:
+
+```csharp
+[Route("sample")]
+// WARNING: Disabling antiforgery protection may make
+// your APIs vulnerable to CSRF attacks
+[BffApi(requireAntiForgeryCheck: false)]
+public class SampleApiController : ControllerBase
+{ /* ... */ }
+```
+
+In *version 2.x and 3.x*, use the `SkipAntiforgery` fluent API when adding the endpoint. For example:
+
+Program.cs
+
+```csharp
+// MVC controllers
+app.MapControllers()
+    .RequireAuthorization()
+    .AsBffApiEndpoint()
+    // WARNING: Disabling antiforgery protection may make
+    // your APIs vulnerable to CSRF attacks
+    .SkipAntiforgery();
+
+
+// simple endpoint
+app.MapPost("/foo", context => { /* ... */ })
+    .RequireAuthorization()
+    .AsBffApiEndpoint()
+    // WARNING: Disabling antiforgery protection may make
+    // your APIs vulnerable to CSRF attacks
+    .SkipAntiforgery();
+```
+
+MVC controllers and actions can use the `BffApiSkipAntiforgeryAttribute` (which is independent of the `BffApiAttribute`), like this:
+
+```csharp
+[Route("sample")]
+// WARNING: Disabling antiforgery protection may make
+// your APIs vulnerable to CSRF attacks
+[BffApiSkipAntiforgeryAttribute]
+public class SampleApiController : ControllerBase
+{ /* ... */ }
+```
+
+Note
+
+It's also possible to disable anti-forgery protection using *BffOptions.DisableAntiForgeryCheck()*

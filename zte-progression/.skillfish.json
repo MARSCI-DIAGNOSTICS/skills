@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zte-progression",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/zte-progression",
+  "branch": "main",
+  "sha": "c871cc755f8c44d199523a5b0db812fd2662832c",
+  "source": "manual"
+}

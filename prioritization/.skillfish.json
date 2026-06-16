@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "prioritization",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/business-analysis/skills/prioritization",
+  "branch": "main",
+  "sha": "d34ae277ee7ef27c4ed0f2d2075a64a27d9e2449",
+  "source": "manual"
+}

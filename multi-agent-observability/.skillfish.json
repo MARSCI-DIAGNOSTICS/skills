@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "multi-agent-observability",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/multi-agent-observability",
+  "branch": "main",
+  "sha": "1d85e84e53885df1da974b8a6e56f0f359c3a066",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "merge",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering/agenthub/skills/merge",
+  "branch": "main",
+  "sha": "14fad727eb1e2b86c70eef94c947da310f05afc9",
+  "source": "manual"
+}

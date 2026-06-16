@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-anthropic-claude-api",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-anthropic-claude-api",
+  "branch": "main",
+  "sha": "0224312ba70a479aaac1033afe75ec25b4e85c9a",
+  "source": "manual"
+}

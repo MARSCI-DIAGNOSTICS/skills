@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gemini-session-management",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/google-ecosystem/skills/gemini-session-management",
+  "branch": "main",
+  "sha": "800b102f3de1d91c134ac91b92e90fa8a0fb9f8d",
+  "source": "manual"
+}

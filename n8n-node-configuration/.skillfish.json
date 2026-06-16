@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "n8n-node-configuration",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/n8n-node-configuration",
+  "branch": "main",
+  "sha": "285947059d95bc4b40b4ea7edf3e2342ebe8cfe8",
+  "source": "manual"
+}

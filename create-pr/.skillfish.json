@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "create-pr",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/create-pr",
+  "branch": "main",
+  "sha": "f8e2d681f685afbffe468973ccf136d9d43835d6",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "framework-migration-legacy-modernize",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/framework-migration-legacy-modernize",
+  "branch": "main",
+  "sha": "59cf9e732a52bf8d8f8d10c21c2eae3875f4727e",
+  "source": "manual"
+}

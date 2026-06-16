@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "scout-and-build",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/scout-and-build",
+  "branch": "main",
+  "sha": "4a44321bfb036c2f2ea912da62fbfa1f4c4fcb2a",
+  "source": "manual"
+}

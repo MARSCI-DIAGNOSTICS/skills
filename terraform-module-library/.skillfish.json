@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "terraform-module-library",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/terraform-module-library",
+  "branch": "main",
+  "sha": "124af9dae7739262262939f7c53e5199605f62a7",
+  "source": "manual"
+}

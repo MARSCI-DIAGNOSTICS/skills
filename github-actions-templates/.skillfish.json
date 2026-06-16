@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "github-actions-templates",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/github-actions-templates",
+  "branch": "main",
+  "sha": "0bb427de407e422e001486bcdeb3bbaaf08f7ac1",
+  "source": "manual"
+}

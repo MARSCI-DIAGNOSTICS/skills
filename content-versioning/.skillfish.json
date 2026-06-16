@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "content-versioning",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/content-management-system/skills/content-versioning",
+  "branch": "main",
+  "sha": "72408db514c274277a02764dfb5ae798e1429d7d",
+  "source": "manual"
+}

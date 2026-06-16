@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "story-map",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/requirements-elicitation/skills/story-map",
+  "branch": "main",
+  "sha": "aebaa53254c2d2467506c8e63e9982642fb41872",
+  "source": "manual"
+}

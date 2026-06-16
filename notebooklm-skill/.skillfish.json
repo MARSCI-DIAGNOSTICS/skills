@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "notebooklm-skill",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/notebooklm-skill",
+  "branch": "main",
+  "sha": "c9dca3429dc0693e54dba2cce262b6de9de67a4b",
+  "source": "manual"
+}

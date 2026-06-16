@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "production-code-audit",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/production-code-audit",
+  "branch": "main",
+  "sha": "d3818f2e589a79f197d02361038786cf94b5eb70",
+  "source": "manual"
+}

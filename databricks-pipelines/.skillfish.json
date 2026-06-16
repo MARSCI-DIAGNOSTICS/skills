@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "databricks-pipelines",
+  "owner": "harutsugu-namitsuki",
+  "repo": "databricks_datamng",
+  "path": ".claude/skills/databricks-agent-skills-main/skills/databricks-pipelines",
+  "branch": "main",
+  "sha": "120b56d820e6ff0b56b4b58bef390f8e39715a2d",
+  "source": "manual"
+}

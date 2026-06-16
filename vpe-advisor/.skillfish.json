@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "vpe-advisor",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "c-level-advisor/skills/vpe-advisor",
+  "branch": "main",
+  "sha": "ef03d2a34bec24da9a4bca92159ae74dc00abb16",
+  "source": "manual"
+}

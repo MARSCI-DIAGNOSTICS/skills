@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-supply-chain",
+  "owner": "oborchers",
+  "repo": "fractional-cto",
+  "path": "python-package/skills/security-supply-chain",
+  "branch": "main",
+  "sha": "3c04874c8a9a4d74bae2c08799a5fb8c571cf6be",
+  "source": "manual"
+}

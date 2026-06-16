@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "github-issues",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/git/skills/github-issues",
+  "branch": "main",
+  "sha": "305afcada1e5d8fe42f8c99800a7c0aa67bafc9c",
+  "source": "manual"
+}

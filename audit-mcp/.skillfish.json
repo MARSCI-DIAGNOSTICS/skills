@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "audit-mcp",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/audit-mcp",
+  "branch": "main",
+  "sha": "525fc843d6a87d25e1d09bc76e1a282d850ecb9f",
+  "source": "manual"
+}

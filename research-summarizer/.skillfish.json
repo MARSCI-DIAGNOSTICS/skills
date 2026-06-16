@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "research-summarizer",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/product-team/research-summarizer",
+  "branch": "main",
+  "sha": "0f1cc2f950138ee6ddfc372f30ba055d28364b66",
+  "source": "manual"
+}

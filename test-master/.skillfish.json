@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "test-master",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/test-master",
+  "branch": "main",
+  "sha": "499cfb8bf6d43e963a14dcb84189b10bb95063de",
+  "source": "manual"
+}

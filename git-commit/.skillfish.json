@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "git-commit",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/melodic-software/skills/git-commit",
+  "branch": "main",
+  "sha": "3b62fc1f9bfb723b52d257d5191b6574833332e5",
+  "source": "manual"
+}

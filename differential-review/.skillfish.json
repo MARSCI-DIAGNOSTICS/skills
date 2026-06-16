@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "differential-review",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/differential-review/skills/differential-review",
+  "branch": "main",
+  "sha": "0879a9be20cb10bdc5543b27d6117b8ed09b7a7a",
+  "source": "manual"
+}

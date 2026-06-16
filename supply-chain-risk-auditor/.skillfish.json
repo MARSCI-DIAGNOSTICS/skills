@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "supply-chain-risk-auditor",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "trailofbits-skills/plugins/supply-chain-risk-auditor/skills/supply-chain-risk-auditor",
+  "branch": "main",
+  "sha": "d150815669168a71269c409346cc1ec4193ad0af",
+  "source": "manual"
+}

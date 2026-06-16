@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rendering",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nextjs/rendering",
+  "branch": "main",
+  "sha": "4b59d3e45d8a6439fe6b2ac2c78a8c77a49e9d5a",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-keyvault-secrets-rust",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-keyvault-secrets-rust",
+  "branch": "main",
+  "sha": "81f3472e85c524f3816a887bfd115eb99308a47f",
+  "source": "manual"
+}

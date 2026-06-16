@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "improve-expertise",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/improve-expertise",
+  "branch": "main",
+  "sha": "917f04f5914f4ca3979c4ea67f88e8e2db8c10dc",
+  "source": "manual"
+}

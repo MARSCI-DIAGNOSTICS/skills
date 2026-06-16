@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "monitoring-expert",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/monitoring-expert",
+  "branch": "main",
+  "sha": "5896db00393dcbfa18255d66bdb22f29ebc6aa33",
+  "source": "manual"
+}

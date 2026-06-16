@@ -1,0 +1,177 @@
+---
+title: BFF Multi-Frontend Configuration
+source_url: https://docs.duendesoftware.com/bff/bff-multi-frontend-configuration/
+source_type: llms-full-txt
+content_hash: sha256:b41ea3bfc449b026e77b577817c195d8d19216bfda7f6f5e87d2575748ff28ad
+category: bff
+doc_id: bff/bff-multi-frontend-configuration
+---
+
+> Documentation for managing BFF multi-frontend configuration
+
+It's possible to configure frontends for the BFF via `IConfiguration`. This enables dynamic loading / changing of frontends, including their OpenID Connect configuration, BFF Configuration, and Remote APIs.
+
+```csharp
+var bffConfig = new ConfigurationBuilder()
+    .AddJsonFile(Path.Combine(AppContext.BaseDirectory, "..", "..", "..", "BffConfig.json"), optional: false, reloadOnChange: true)
+
+
+services
+  .AddBff()
+  .LoadConfiguration(bffConfig);
+```
+
+The configuration supports dynamic reloading (so any new frontend added / removed is immediately reflected).
+
+### BffConfiguration
+
+[Section titled "BffConfiguration"](#bffconfiguration)
+
+* `defaultOidcSettings` OIDC settings applied globally to all frontends unless overridden.\
+  Type: OidcConfiguration object ([see below](#oidcconfiguration-json-properties)).
+
+* `defaultCookieSettings` Cookie settings applied globally to all frontends unless overridden.\
+  Type: CookieConfiguration object ([see below](#cookieconfiguration-json-properties)).
+
+* `frontends` Dictionary of frontend configurations.\
+  Each key is a frontend name, and the value is a BffFrontendConfiguration object ([see below](#bfffrontendconfiguration-json-properties)).
+
+***
+
+### BffFrontendConfiguration JSON Properties
+
+[Section titled "BffFrontendConfiguration JSON Properties"](#bfffrontendconfiguration-json-properties)
+
+* `cdnIndexHtmlUrl` The `index.html` that should be used for this frontend (usually on a CDN). When using this property, a fallback route will be created that only proxies the `index.html`. Other static assets are supposed to be retrieved directly from the CDN by the browser. Example: `"https://cdn.yourapp.com/some_app/index.html"`
+
+* `staticAssetsUrl` The URL where all static assets can be found. This registers a fallback route that will proxy all static assets from this URL. This is usually used during development, when you're using a development web server such as Vite. Example: `"https://localhost:3000/"`
+
+* `matchingPath` The path prefix for requests routed to this frontend.\
+  Example: `"/from-config"`
+
+* `matchingHostHeader` The host to match for this frontend. Example: `"https://localhost:5005"`
+
+* `oidc` OIDC settings specific to this frontend.\
+  Type: OidcConfiguration object ([see below](#oidcconfiguration-json-properties)).
+
+* `cookies` Cookie settings specific to this frontend.\
+  Type: CookieConfiguration object ([see below](#cookieconfiguration-json-properties)).
+
+* `remoteApis` Remote APIs for this frontend. Type: RemoteApiConfiguration object. ([see below](#remoteapiconfiguration-json-properties)).
+
+### RemoteApiConfiguration JSON Properties
+
+[Section titled "RemoteApiConfiguration JSON Properties"](#remoteapiconfiguration-json-properties)
+
+* `pathMatch` String. The local path that will be used to access the remote API.\
+  Example: `"/api/user-token"`
+
+* `targetUri` String. The target URI of the remote API.\
+  Example: `"https://localhost:5010"`
+
+* `requiredTokenType` String. The token requirement for accessing the remote API.\
+  Possible values: `"User"`, `"Client"`, `"None"`, `"OptionalUserOrClient"`, `"OptionalUserOrNone"`\
+  Default: `"User"`
+
+* `tokenRetrieverTypeName` String. The type name of the access token retriever to use for this remote API.
+
+* `userAccessTokenParameters` Object. Parameters for retrieving a user access token ([see below](#useraccesstokenparameters-json-properties)).
+
+* `activityTimeout` String. How long a request is allowed to remain idle between operations before being canceled.\
+  Use C# `TimeSpan` serialization format, e.g. `"00:01:40"` for 100 seconds.
+
+* `allowResponseBuffering` Boolean. Allows write buffering when sending a response back to the client (if supported by the server).\
+  Note: Enabling this can break server-sent events (SSE) scenarios.
+
+***
+
+### UserAccessTokenParameters JSON Properties
+
+[Section titled "UserAccessTokenParameters JSON Properties"](#useraccesstokenparameters-json-properties)
+
+* `signInScheme` String. The scheme used for signing in the user (typically the cookie authentication scheme).\
+  Example: `"Cookies"`
+
+* `challengeScheme` String. The authentication scheme to be used for challenges.\
+  Example: `"OpenIdConnect"`
+
+* `forceRenewal` Boolean. Whether to force renewal of the access token.
+
+* `resource` String. The resource for which the access token is requested.\
+  Example: `"https://api.example.com"`
+
+### OidcConfiguration JSON Properties
+
+[Section titled "OidcConfiguration JSON Properties"](#oidcconfiguration-json-properties)
+
+* `clientId` The client ID of the OpenID Connect client.
+
+* `clientSecret` The client secret of the OpenID Connect client.
+
+* `callbackPath` The path or URI to which the OpenID Connect client will redirect after authentication.
+
+* `authority` The authority URI, typically the issuer or identity provider endpoint.
+
+* `responseType` The response type that the OpenID Connect client will request.
+
+* `responseMode` The response mode that the OpenID Connect client will use to return the authentication response.
+
+* `mapInboundClaims` Boolean. Whether to map inbound claims from the OpenID Connect provider to the user's claims in the application.
+
+* `saveTokens` Boolean. Whether to save the tokens received from the OpenID Connect provider.
+
+* `scope` Array of strings. The scopes that the OpenID Connect client will request from the provider.
+
+* `getClaimsFromUserInfoEndpoint` Boolean. Whether to retrieve claims from the UserInfo endpoint of the OpenID Connect provider.
+
+### CookieConfiguration JSON Properties
+
+[Section titled "CookieConfiguration JSON Properties"](#cookieconfiguration-json-properties)
+
+* `httpOnly` Boolean. Indicates whether the cookie is inaccessible by client-side script. Defaults to true.
+
+* `sameSite` String. The SameSite attribute of the cookie. Defaults to `"Strict"`.\
+  Possible values: `"None"`, `"Lax"`, `"Strict"`
+
+* `securePolicy` String. The policy used to determine if the cookie is sent only over HTTPS.\
+  Possible values: `"Always"`, `"None"`, `"SameAsRequest"`
+
+* `name` String. The name of the cookie.
+
+* `maxAge` String. The max-age for the cookie. Example: "0:01:00 for 1 minute
+
+* `path` String. The cookie path. The BFF will configure the default values for this property. Example: `"/"`
+
+* `domain` String. The domain to associate the cookie with. The BFF will configure the default values for this property.\
+  Example: `"example.com"`
+
+### Example
+
+[Section titled "Example"](#example)
+
+```json
+{
+  "defaultOidcSettings": {
+    "clientId": "global-client",
+    "authority": "https://login.example.com"
+  },
+  "defaultCookieSettings": null,
+  "frontends": {
+    "some_frontend": {
+      "cdnIndexHtmlUrl": "https://localhost:5005/static/index.html",
+      "matchingPath": "/from-config",
+      "oidc": {
+        "clientId": "frontend1-client",
+        "scope": ["openid", "profile", "email"]
+      },
+      "remoteApis": [
+        {
+          "pathMatch": "/todos",
+          "targetUri": "https://localhost:5020/todos/",
+          "requiredTokenType": "User"
+        }
+      ]
+    }
+  }
+}
+```

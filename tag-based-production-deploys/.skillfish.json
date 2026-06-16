@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tag-based-production-deploys",
+  "owner": "oborchers",
+  "repo": "fractional-cto",
+  "path": "cloud-foundation-principles/skills/tag-based-production-deploys",
+  "branch": "main",
+  "sha": "4e5bd2e07997489147ad5ab8390d326056f6fd6c",
+  "source": "manual"
+}

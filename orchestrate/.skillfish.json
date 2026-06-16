@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "orchestrate",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/orchestrate",
+  "branch": "main",
+  "sha": "995c5dcbfc6452f69742190127493e223348c918",
+  "source": "manual"
+}

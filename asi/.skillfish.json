@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "asi",
+  "owner": "plurigrid",
+  "repo": "asi",
+  "path": ".claude-plugin/asi",
+  "branch": "main",
+  "sha": "d27bfa3ce6f505b581aef35657fbf7c903583e24",
+  "source": "manual"
+}

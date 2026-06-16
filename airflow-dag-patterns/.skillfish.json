@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "airflow-dag-patterns",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/airflow-dag-patterns",
+  "branch": "main",
+  "sha": "941ec9aefe190b37452c7f1992f33764859ac38b",
+  "source": "manual"
+}

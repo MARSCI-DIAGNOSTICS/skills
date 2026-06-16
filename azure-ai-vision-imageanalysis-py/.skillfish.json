@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-ai-vision-imageanalysis-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-ai-vision-imageanalysis-py",
+  "branch": "main",
+  "sha": "fdebf5bc2af85c016061e1f21213fa7bf3a9fa76",
+  "source": "manual"
+}

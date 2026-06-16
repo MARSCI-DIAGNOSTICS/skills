@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "meta-analysis",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "AutoResearchClaw/researchclaw/skills/builtin/experiment/meta-analysis",
+  "branch": "main",
+  "sha": "9d16ff588b6c768ac8834e8f054e6b9f4113e432",
+  "source": "manual"
+}

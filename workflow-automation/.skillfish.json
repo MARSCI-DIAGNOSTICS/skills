@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "workflow-automation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/workflow-automation",
+  "branch": "main",
+  "sha": "cabd4a87990f93aefdb1d71ef60ccfb101b5221a",
+  "source": "manual"
+}

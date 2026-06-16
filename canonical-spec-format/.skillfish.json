@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "canonical-spec-format",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/spec-driven-development/skills/canonical-spec-format",
+  "branch": "main",
+  "sha": "5fec4ad36b8b343eb0a7ed88f3058b9a20aa7f79",
+  "source": "manual"
+}

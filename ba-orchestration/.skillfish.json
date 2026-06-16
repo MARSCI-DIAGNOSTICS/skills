@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ba-orchestration",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/business-analysis/skills/ba-orchestration",
+  "branch": "main",
+  "sha": "f008dac26fb81b4b572ab142f76d2ac791f67252",
+  "source": "manual"
+}

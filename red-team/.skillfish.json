@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "red-team",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering-team/red-team",
+  "branch": "main",
+  "sha": "a660286fedd7ae0eca7de33b60f30b5e9772b7bd",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-eventgrid-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-eventgrid-py",
+  "branch": "main",
+  "sha": "f0d94cc41e05f6450e3ce61b5fd8570faaa638c5",
+  "source": "manual"
+}

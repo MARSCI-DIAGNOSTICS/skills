@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-messaging-webpubsubservice-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-messaging-webpubsubservice-py",
+  "branch": "main",
+  "sha": "89f9b60df8d69e01a80004a50f3e2099dca1fb20",
+  "source": "manual"
+}

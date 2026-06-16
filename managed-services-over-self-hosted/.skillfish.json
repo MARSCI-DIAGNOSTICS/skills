@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "managed-services-over-self-hosted",
+  "owner": "oborchers",
+  "repo": "fractional-cto",
+  "path": "cloud-foundation-principles/skills/managed-services-over-self-hosted",
+  "branch": "main",
+  "sha": "c00f242eb1dc71f20073124f340d774298d0d835",
+  "source": "manual"
+}

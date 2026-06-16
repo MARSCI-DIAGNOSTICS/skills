@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "secrets-management",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/security/skills/secrets-management",
+  "branch": "main",
+  "sha": "89e4e5727d8fcc7c6467e7d8e11b77780c9a4368",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "search",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nestjs/search",
+  "branch": "main",
+  "sha": "4899247fedf96315d3053be945fe9b21a11c7265",
+  "source": "manual"
+}

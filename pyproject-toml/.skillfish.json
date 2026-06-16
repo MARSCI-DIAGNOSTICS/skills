@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pyproject-toml",
+  "owner": "oborchers",
+  "repo": "fractional-cto",
+  "path": "python-package/skills/pyproject-toml",
+  "branch": "main",
+  "sha": "1a318c921c50c0f0565ae752886e170bd27c6f69",
+  "source": "manual"
+}

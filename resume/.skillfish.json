@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "resume",
+  "owner": "boboegg",
+  "repo": "ai-resources",
+  "path": "claude-skills/engineering/autoresearch-agent/skills/resume",
+  "branch": "main",
+  "sha": "b2a79005c93597356d14a43e47338470b0ea206c",
+  "source": "manual"
+}

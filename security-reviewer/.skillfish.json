@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-reviewer",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/security-reviewer",
+  "branch": "main",
+  "sha": "d4e23d2b907f25826406b2d5acb408bf0a616b5b",
+  "source": "manual"
+}

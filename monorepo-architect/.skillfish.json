@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "monorepo-architect",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/monorepo-architect",
+  "branch": "main",
+  "sha": "e8d53887d94d19b5f8bc3ee5f6d40c7f0be99995",
+  "source": "manual"
+}

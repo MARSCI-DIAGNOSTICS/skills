@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "vpe-review",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "c-level-advisor/c-level-agents/skills/vpe-review",
+  "branch": "main",
+  "sha": "716f790cb0dde5e482a67dc9734979d4d142ab67",
+  "source": "manual"
+}

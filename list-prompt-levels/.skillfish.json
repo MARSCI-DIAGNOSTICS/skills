@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "list-prompt-levels",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/list-prompt-levels",
+  "branch": "main",
+  "sha": "8bf216d2cdfd8047fad4355a6341c2cae4400aeb",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "abductive-repl",
+  "owner": "plurigrid",
+  "repo": "asi",
+  "path": "ies/music-topos/.agents/skills/abductive-repl",
+  "branch": "main",
+  "sha": "1dbe5849c69ef60fa85700c8ee24416ea94a1960",
+  "source": "manual"
+}

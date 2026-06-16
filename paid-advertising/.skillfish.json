@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "paid-advertising",
+  "owner": "harutsugu-namitsuki",
+  "repo": "databricks_datamng",
+  "path": "skills/agentkits-marketing-main/.claude/skills/paid-advertising",
+  "branch": "main",
+  "sha": "de3420216a0dc35f404048bf9d68c3c17b6128c0",
+  "source": "manual"
+}

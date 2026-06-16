@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-monitor-opentelemetry-ts",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-monitor-opentelemetry-ts",
+  "branch": "main",
+  "sha": "06105caed6618ea9bc7d86038c763efb205c19bb",
+  "source": "manual"
+}

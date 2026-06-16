@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "packaging-distribution",
+  "owner": "oborchers",
+  "repo": "fractional-cto",
+  "path": "python-package/skills/packaging-distribution",
+  "branch": "main",
+  "sha": "1f0dce0261d2bf788c9a5b362f9c09a91115ad76",
+  "source": "manual"
+}

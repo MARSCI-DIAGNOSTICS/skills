@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cro-review",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "c-level-advisor/c-level-agents/skills/cro-review",
+  "branch": "main",
+  "sha": "d0979a84e8a0c6ab559a5f7135b75564fd50479b",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "claude-skills-troubleshooting",
+  "owner": "luodashiv5",
+  "repo": "please_answer_this_era_5.0",
+  "path": "claude-code-skills/claude-skills-troubleshooting",
+  "branch": "main",
+  "sha": "2e871d01688564b43d29eea5cff0acf80d6a1135",
+  "source": "manual"
+}

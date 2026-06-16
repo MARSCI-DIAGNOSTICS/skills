@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "defi-protocol-templates",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/defi-protocol-templates",
+  "branch": "main",
+  "sha": "b069d3773e4ecbe7aae0464485415cecb4e03b0e",
+  "source": "manual"
+}

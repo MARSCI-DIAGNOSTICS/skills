@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-resource-manager-mysql-dotnet",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-resource-manager-mysql-dotnet",
+  "branch": "main",
+  "sha": "f553c0bcd1cfb6bb329ec80a8aebfaaa99418156",
+  "source": "manual"
+}

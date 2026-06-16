@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "content-workflow",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/content-management-system/skills/content-workflow",
+  "branch": "main",
+  "sha": "7d0de5a10b417ae2471cb85c7c92dd4e895ffb5c",
+  "source": "manual"
+}

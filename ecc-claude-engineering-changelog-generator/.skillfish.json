@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-claude-engineering-changelog-generator",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-claude-engineering-changelog-generator",
+  "branch": "main",
+  "sha": "2fc28a74ab6549c2307e29c73136a579f46fade9",
+  "source": "manual"
+}

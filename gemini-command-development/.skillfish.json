@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gemini-command-development",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/google-ecosystem/skills/gemini-command-development",
+  "branch": "main",
+  "sha": "e3c954366235357ee6ef09007fa24142805ae59f",
+  "source": "manual"
+}

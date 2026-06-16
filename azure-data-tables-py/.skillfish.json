@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-data-tables-py",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/azure-data-tables-py",
+  "branch": "main",
+  "sha": "855f02247954695ba72528c5ac418ee92244d15c",
+  "source": "manual"
+}

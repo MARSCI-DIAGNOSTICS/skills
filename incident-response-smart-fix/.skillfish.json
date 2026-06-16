@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "incident-response-smart-fix",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/incident-response-smart-fix",
+  "branch": "main",
+  "sha": "02a39ce9df4895b3ab337e653c0b4d835c4883ac",
+  "source": "manual"
+}

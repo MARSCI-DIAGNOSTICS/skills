@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "component-patterns",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/react/component-patterns",
+  "branch": "main",
+  "sha": "11137753c89c9d47db06a6ebafcbad1bb97fb5a0",
+  "source": "manual"
+}

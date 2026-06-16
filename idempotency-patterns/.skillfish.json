@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "idempotency-patterns",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/systems-design/skills/idempotency-patterns",
+  "branch": "main",
+  "sha": "c10ea22fc3e3439849c33696ba929dfb0321c51b",
+  "source": "manual"
+}

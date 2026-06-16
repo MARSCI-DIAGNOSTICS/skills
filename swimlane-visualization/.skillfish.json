@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "swimlane-visualization",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/swimlane-visualization",
+  "branch": "main",
+  "sha": "09d9236872080ae4f9af8b4c2cd7758dcde040b8",
+  "source": "manual"
+}

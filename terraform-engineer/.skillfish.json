@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "terraform-engineer",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/terraform-engineer",
+  "branch": "main",
+  "sha": "4aaa99a8b573349e6d347490da4108aac9ecdc0a",
+  "source": "manual"
+}

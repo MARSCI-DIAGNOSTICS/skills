@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sentry-automation",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/sentry-automation",
+  "branch": "main",
+  "sha": "f13c05be40a6185b8f1451551376c016d1a290c1",
+  "source": "manual"
+}

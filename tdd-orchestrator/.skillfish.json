@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tdd-orchestrator",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/tdd-orchestrator",
+  "branch": "main",
+  "sha": "67ff8d714c924eba89ecae3c726b4d3c83a1dc59",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "refine",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/spec-driven-development/skills/refine",
+  "branch": "main",
+  "sha": "1327d7b89c06c45600e950200f1d160d82cece43",
+  "source": "manual"
+}

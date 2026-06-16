@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "design-media-strategy",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/content-management-system/skills/design-media-strategy",
+  "branch": "main",
+  "sha": "ad269d9daaea239c8077b3ed81b06dafdc9be5c9",
+  "source": "manual"
+}

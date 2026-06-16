@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "event-sourcing-design",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/event-modeling/skills/event-sourcing-design",
+  "branch": "main",
+  "sha": "b8c0776791c443197322e457de4ffec4eddc6a15",
+  "source": "manual"
+}

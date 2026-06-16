@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "delegation-prompt-crafter",
+  "owner": "alirezarezvani",
+  "repo": "claude-cto-team",
+  "path": "skills/delegation-prompt-crafter",
+  "branch": "main",
+  "sha": "2eb6e89502be16179f6fda99aead69fda61dd648",
+  "source": "manual"
+}

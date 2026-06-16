@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "swot-pestle-analysis",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/business-analysis/skills/swot-pestle-analysis",
+  "branch": "main",
+  "sha": "52adde70d44c34dfddccd93c51cc7d7bc3c90c78",
+  "source": "manual"
+}

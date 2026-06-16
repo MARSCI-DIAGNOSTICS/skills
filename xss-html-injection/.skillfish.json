@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "xss-html-injection",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/xss-html-injection",
+  "branch": "main",
+  "sha": "4c82dca47bb3a43226ca278b838244051c9270d4",
+  "source": "manual"
+}

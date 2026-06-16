@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gin-framework",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/golang/gin-framework",
+  "branch": "main",
+  "sha": "4a11d8ca0488a45690489cb7a916fbb5a33fb123",
+  "source": "manual"
+}

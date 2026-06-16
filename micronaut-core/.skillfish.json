@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "micronaut-core",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/java/micronaut-core",
+  "branch": "main",
+  "sha": "cfce1103f1e522c0989aab9c2fcf4c29a39e28c1",
+  "source": "manual"
+}

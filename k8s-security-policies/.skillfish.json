@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "k8s-security-policies",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/k8s-security-policies",
+  "branch": "main",
+  "sha": "d73d965c42c7c0aab2aca257921aec18ebb9fd98",
+  "source": "manual"
+}

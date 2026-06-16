@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "django-security",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "upstream-sync/work/ecc/docs/ja-JP/skills/django-security",
+  "branch": "main",
+  "sha": "de23730b9988554b88ebcbdb2f1dd869a1e8e2ec",
+  "source": "manual"
+}

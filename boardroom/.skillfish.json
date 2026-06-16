@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "boardroom",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "c-level-advisor/c-level-agents/skills/boardroom",
+  "branch": "main",
+  "sha": "bddf50a9b14bc827ff41fac182c65908ef119597",
+  "source": "manual"
+}

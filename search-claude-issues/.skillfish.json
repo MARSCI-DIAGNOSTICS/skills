@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "search-claude-issues",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/search-claude-issues",
+  "branch": "main",
+  "sha": "a08b8caa65cc935582b10d99b51c8a3724f689b1",
+  "source": "manual"
+}

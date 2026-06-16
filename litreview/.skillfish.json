@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "litreview",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "research/litreview/skills/litreview",
+  "branch": "main",
+  "sha": "876ca4f4b0e976ded7fdd1fbdd25e27a1a92e27b",
+  "source": "manual"
+}

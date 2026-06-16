@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "code-review-checklist",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "skills/code-review-checklist",
+  "branch": "main",
+  "sha": "59edad59c4172e9e3d5789de9bdc4a5af8bc6448",
+  "source": "manual"
+}

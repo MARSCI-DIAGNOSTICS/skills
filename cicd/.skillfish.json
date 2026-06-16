@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cicd",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/flutter/cicd",
+  "branch": "main",
+  "sha": "f28665e91d536dbbb6e1720e14713fdf595f957e",
+  "source": "manual"
+}

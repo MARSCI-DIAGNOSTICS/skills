@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "risk-analysis",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/business-analysis/skills/risk-analysis",
+  "branch": "main",
+  "sha": "4b66a7a79d20bf3dbfbaa24447e7f1cf7f004752",
+  "source": "manual"
+}

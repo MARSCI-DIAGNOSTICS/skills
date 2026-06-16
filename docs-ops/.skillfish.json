@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docs-ops",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/claude-ecosystem/skills/docs-ops",
+  "branch": "main",
+  "sha": "e49f33326c9f404c1fb71c046e50a3393b733b47",
+  "source": "manual"
+}

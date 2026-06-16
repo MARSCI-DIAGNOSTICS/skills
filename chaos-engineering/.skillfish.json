@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "chaos-engineering",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "engineering/chaos-engineering/skills/chaos-engineering",
+  "branch": "main",
+  "sha": "870619bb8053eeffd8fde065b0fe15f8e36f248a",
+  "source": "manual"
+}

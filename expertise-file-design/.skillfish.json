@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "expertise-file-design",
+  "owner": "melodic-software",
+  "repo": "claude-code-plugins",
+  "path": "plugins/tac/skills/expertise-file-design",
+  "branch": "main",
+  "sha": "d93f53b84cb538d3a16ba777c071a8412f07bd15",
+  "source": "manual"
+}

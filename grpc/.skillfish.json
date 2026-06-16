@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "grpc",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/golang/grpc",
+  "branch": "main",
+  "sha": "6d91d9d8e6f4dbf6de9939d01716ae84ea0125d4",
+  "source": "manual"
+}

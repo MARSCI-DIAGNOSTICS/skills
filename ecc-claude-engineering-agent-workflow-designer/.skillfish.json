@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecc-claude-engineering-agent-workflow-designer",
+  "owner": "oabdelmaksoud",
+  "repo": "agention",
+  "path": "skills/ecc-claude-engineering-agent-workflow-designer",
+  "branch": "main",
+  "sha": "676c5d76659beb575a5d029e128b405bc480e023",
+  "source": "manual"
+}

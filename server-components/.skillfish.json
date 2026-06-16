@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "server-components",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/nextjs/server-components",
+  "branch": "main",
+  "sha": "af0c8e52e2867bf1364a39fd5c1024068d1f5817",
+  "source": "manual"
+}

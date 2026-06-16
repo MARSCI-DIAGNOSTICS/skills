@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "demo-video",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "path": "engineering/demo-video/skills/demo-video",
+  "branch": "main",
+  "sha": "3748833b302eb12c8288ece618de9f550cb02c2c",
+  "source": "manual"
+}

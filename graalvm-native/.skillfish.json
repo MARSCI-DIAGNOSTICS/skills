@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "graalvm-native",
+  "owner": "ngxtm",
+  "repo": "devkit",
+  "path": "rules/java/graalvm-native",
+  "branch": "main",
+  "sha": "eb8316854ee2f8e8bac0eb8265d474bcfa9dcd02",
+  "source": "manual"
+}
