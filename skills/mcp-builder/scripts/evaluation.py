@@ -369,5 +369,5 @@ Examples:
             print("\n" + report)
 
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     asyncio.run(main())

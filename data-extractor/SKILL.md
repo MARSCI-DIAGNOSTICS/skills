@@ -76,7 +76,7 @@ elements = partition("document.pdf")
 
 # Access extracted elements
 for element in elements:
-    print(f"Type: {type(element).__name__}")
+    print(f"Type: {type(element)._name_}")
     print(f"Text: {element.text}")
     print(f"Metadata: {element.metadata}")
 ```
@@ -315,7 +315,7 @@ def document_to_json(file_path, output_path=None):
     
     for element in elements:
         output['elements'].append({
-            'type': type(element).__name__,
+            'type': type(element)._name_,
             'text': element.text,
             'metadata': {
                 'page': element.metadata.page_number,
@@ -361,7 +361,7 @@ def parse_email(email_path):
         
         # Body content
         email_data['body'].append({
-            'type': type(element).__name__,
+            'type': type(element)._name_,
             'text': element.text
         })
     
@@ -506,7 +506,7 @@ def build_corpus(input_dir, output_path):
                 corpus.append({
                     'id': f"{file.stem}_{i}",
                     'source': str(file),
-                    'type': type(chunk).__name__,
+                    'type': type(chunk)._name_,
                     'text': chunk.text,
                     'page': chunk.metadata.page_number if chunk.metadata.page_number else None
                 })

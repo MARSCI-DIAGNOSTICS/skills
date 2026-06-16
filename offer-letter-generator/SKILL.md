@@ -115,9 +115,9 @@ ACCEPTANCE
 
 I accept this offer of employment:
 
-Signature: _______________________
-Print Name: ______________________
-Date: ___________________________
+Signature: _
+Print Name: _
+Date: _
 ```
 
 ## Template Sections
@@ -257,11 +257,11 @@ ACCEPTANCE
 
 I accept this offer of employment and agree to the terms outlined above.
 
-Signature: _______________________
+Signature: _
 
-Print Name: ______________________
+Print Name: _
 
-Date: ___________________________
+Date: _
 ```
 
 ## Best Practices

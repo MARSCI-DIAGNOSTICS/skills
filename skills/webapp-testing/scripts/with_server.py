@@ -102,5 +102,5 @@ def main():
         print("All servers stopped")
 
 
-if __name__ == '__main__':
+if _name_ == '_main_':
     main()

@@ -125,7 +125,7 @@ import json
 from pathlib import Path
 
 class BatchProcessor:
-    def __init__(self, checkpoint_file: str = "checkpoint.json"):
+    def _init_(self, checkpoint_file: str = "checkpoint.json"):
         self.checkpoint_file = checkpoint_file
         self.processed = self._load_checkpoint()
     
