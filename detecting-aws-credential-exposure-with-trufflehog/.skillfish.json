@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-aws-credential-exposure-with-trufflehog",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-aws-credential-exposure-with-trufflehog",
+  "branch": "master",
+  "sha": "28a2c893bf6524f3036ee38e66f7242510e2d85a",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "setup-workiq",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "polyclaw/polyclaw-repo/plugins/second-brain-workiq/skills/setup-workiq",
+  "branch": "main",
+  "sha": "9fd1ec89d45d438618a2f2e4191448a0d2102450",
+  "source": "manual"
+}

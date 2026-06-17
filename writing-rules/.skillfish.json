@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "writing-rules",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/anthropic-hookify/skills/writing-rules",
+  "branch": "main",
+  "sha": "419cd37ff832b1ba46b956b173d1278315b9619f",
+  "source": "manual"
+}

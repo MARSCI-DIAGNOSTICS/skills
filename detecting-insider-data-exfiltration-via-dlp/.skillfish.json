@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-insider-data-exfiltration-via-dlp",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-insider-data-exfiltration-via-dlp",
+  "branch": "master",
+  "sha": "2e13a50b91d839057a21aa81ea63927f00fad2bb",
+  "source": "manual"
+}

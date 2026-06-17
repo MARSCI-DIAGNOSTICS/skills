@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "anonyflow-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/anonyflow-automation",
+  "branch": "main",
+  "sha": "3c101173e393315b57e9b21b75edbf1efeeda771",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "salesforce-marketing-cloud-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/salesforce-marketing-cloud-automation",
+  "branch": "main",
+  "sha": "3a4f021aba33564ed4de0c2fb12bc78b6395bfc2",
+  "source": "manual"
+}

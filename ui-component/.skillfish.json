@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ui-component",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/ui-component",
+  "branch": "main",
+  "sha": "f0308230c3517af20a44854ffca15d620a126c47",
+  "source": "manual"
+}

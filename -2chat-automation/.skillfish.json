@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "-2chat-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/-2chat-automation",
+  "branch": "main",
+  "sha": "ac17740863f9b85c323960fcd0f058102c02fd25",
+  "source": "manual"
+}

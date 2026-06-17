@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fitbit-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/fitbit-automation",
+  "branch": "main",
+  "sha": "9ce2d6e03439d6c9082d50a9ec5d2452c1165bfd",
+  "source": "manual"
+}

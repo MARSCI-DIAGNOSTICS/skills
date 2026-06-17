@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "clockify-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/clockify-automation",
+  "branch": "main",
+  "sha": "ad36336872146eccb372a4f3d0e95eaf43f38824",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ingest-youtube",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/ingest-youtube",
+  "branch": "main",
+  "sha": "362a281c05234f8292719512bec085962ee37258",
+  "source": "manual"
+}

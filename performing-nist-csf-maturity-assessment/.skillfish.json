@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "performing-nist-csf-maturity-assessment",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/performing-nist-csf-maturity-assessment",
+  "branch": "master",
+  "sha": "5c94ebb3152d433cb18069c97b061b9f7bfcee43",
+  "source": "manual"
+}

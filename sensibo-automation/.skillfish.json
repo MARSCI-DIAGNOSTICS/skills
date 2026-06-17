@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sensibo-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/sensibo-automation",
+  "branch": "main",
+  "sha": "4f4644d3e7001eea204408629822d6b7d2340784",
+  "source": "manual"
+}

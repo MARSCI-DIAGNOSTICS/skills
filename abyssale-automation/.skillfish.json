@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "abyssale-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/abyssale-automation",
+  "branch": "main",
+  "sha": "f5ff4a7e2da4cc7c5e771a69e8064d413c93d404",
+  "source": "manual"
+}

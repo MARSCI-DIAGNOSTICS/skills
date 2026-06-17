@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "harvest-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/harvest-automation",
+  "branch": "main",
+  "sha": "f40d2bcb1e322ccd7d0f9e66ab15056c66cf0099",
+  "source": "manual"
+}

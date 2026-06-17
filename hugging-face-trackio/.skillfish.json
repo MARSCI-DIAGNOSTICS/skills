@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hugging-face-trackio",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/hugging-face-trackio",
+  "branch": "main",
+  "sha": "69682999d85e664d6cf9b512e7a19a8e0d1efdcf",
+  "source": "manual"
+}

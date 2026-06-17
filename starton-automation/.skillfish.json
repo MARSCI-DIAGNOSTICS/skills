@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "starton-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/starton-automation",
+  "branch": "main",
+  "sha": "9adb7bb6c9081af44225380a72bf4975b84cdb39",
+  "source": "manual"
+}

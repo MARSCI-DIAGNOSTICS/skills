@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "python-design-patterns",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/python-development/skills/python-design-patterns",
+  "branch": "main",
+  "sha": "d14f37b9654a3e70b1efa2ceae5b9b3bb706d46e",
+  "source": "manual"
+}

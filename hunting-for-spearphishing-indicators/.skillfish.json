@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hunting-for-spearphishing-indicators",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/hunting-for-spearphishing-indicators",
+  "branch": "master",
+  "sha": "a326221aa490cd4ef31982543f5a4eba82ac58f2",
+  "source": "manual"
+}

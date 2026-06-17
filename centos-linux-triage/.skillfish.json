@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "centos-linux-triage",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/centos-linux-triage",
+  "branch": "main",
+  "sha": "2c49e5f067b98bc84978dd9aa6fa8518d34103e1",
+  "source": "manual"
+}

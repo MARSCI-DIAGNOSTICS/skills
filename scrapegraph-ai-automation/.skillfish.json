@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "scrapegraph-ai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/scrapegraph-ai-automation",
+  "branch": "main",
+  "sha": "83d479cafd063c70368dfcfdb8a5bbc5c75f0b2b",
+  "source": "manual"
+}

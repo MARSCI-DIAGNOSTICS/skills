@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "firecrawl-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/firecrawl-automation",
+  "branch": "main",
+  "sha": "f2a48370d497513b771decfd55fd09f5007a05eb",
+  "source": "manual"
+}

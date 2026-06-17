@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "linkedin-content-generator",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/linkedin-content-generator",
+  "branch": "main",
+  "sha": "3b18ecc467c92d4b1855df1f88d5708e8e2edd4f",
+  "source": "manual"
+}

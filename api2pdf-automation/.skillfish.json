@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "api2pdf-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/api2pdf-automation",
+  "branch": "main",
+  "sha": "1fd1a8944d435cf68e6118c8ed7a85e75303c1f2",
+  "source": "manual"
+}

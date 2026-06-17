@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "shortpixel-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/shortpixel-automation",
+  "branch": "main",
+  "sha": "065ce768cce736c6d0f4eae1345b1b6dfb858f3d",
+  "source": "manual"
+}

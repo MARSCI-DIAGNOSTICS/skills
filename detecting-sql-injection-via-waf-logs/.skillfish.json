@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-sql-injection-via-waf-logs",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-sql-injection-via-waf-logs",
+  "branch": "master",
+  "sha": "66c990413fe3f8ad50fd1f6360a4bfcf4c0b6331",
+  "source": "manual"
+}

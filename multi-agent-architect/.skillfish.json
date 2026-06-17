@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "multi-agent-architect",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/multi-agent-architect",
+  "branch": "main",
+  "sha": "ac5e53df08d3e4b06211e8cb09942e5b995d5a33",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "langsmith-fetch",
+  "owner": "ai-wes",
+  "repo": "glassbox-operator",
+  "path": "awesome-claude-skills/langsmith-fetch",
+  "branch": "main",
+  "sha": "c7efb4617746915a2fe9d963ea284cafae7f6d58",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "self-pr-review",
+  "owner": "hideki5123",
+  "repo": "agent-skill-set",
+  "path": "self-pr-review",
+  "branch": "master",
+  "sha": "6c768b886551a983370b52de5d5ba5ef35f4dee6",
+  "source": "manual"
+}

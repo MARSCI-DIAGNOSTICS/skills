@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gender-api-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/gender-api-automation",
+  "branch": "main",
+  "sha": "ddd1d22174cb742624d3df07bc9f37272df5eb20",
+  "source": "manual"
+}

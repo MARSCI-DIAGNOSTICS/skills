@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "nextjs-seo-indexing",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/nextjs-seo-indexing",
+  "branch": "main",
+  "sha": "dd80c12df7e0313b0eea4b94325515a53c0c3349",
+  "source": "manual"
+}

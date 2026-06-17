@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-ransomware-precursors-in-network",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-ransomware-precursors-in-network",
+  "branch": "master",
+  "sha": "cfa93142c6c4e8e4d2624ce8796c445585ec2a6e",
+  "source": "manual"
+}

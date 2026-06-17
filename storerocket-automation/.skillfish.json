@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "storerocket-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/storerocket-automation",
+  "branch": "main",
+  "sha": "2733ef6dfdbf8c14418d37bcfa9c699a3cfcdf87",
+  "source": "manual"
+}

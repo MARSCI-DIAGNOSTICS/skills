@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "performing-network-traffic-analysis-with-zeek",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/performing-network-traffic-analysis-with-zeek",
+  "branch": "master",
+  "sha": "45269a086b679ed5b520dfb21f5280a2b9d7269e",
+  "source": "manual"
+}

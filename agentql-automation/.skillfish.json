@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agentql-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/agentql-automation",
+  "branch": "main",
+  "sha": "5f27371031eb3dcc8c041d5886a9dc5e234c10f5",
+  "source": "manual"
+}

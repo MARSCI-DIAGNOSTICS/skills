@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "smtp2go-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/smtp2go-automation",
+  "branch": "main",
+  "sha": "4c4bd3842c921edb2b24599fe805a8cd9c0770ba",
+  "source": "manual"
+}

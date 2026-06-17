@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "customjs-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/customjs-automation",
+  "branch": "main",
+  "sha": "7c3cc4aedb2eea5586dc7a760b399ce09343eaa8",
+  "source": "manual"
+}

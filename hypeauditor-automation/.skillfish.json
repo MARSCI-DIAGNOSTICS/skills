@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hypeauditor-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/hypeauditor-automation",
+  "branch": "main",
+  "sha": "e41105824dd0e2711df38f33b28dd35f712ac56f",
+  "source": "manual"
+}

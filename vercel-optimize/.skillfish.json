@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "vercel-optimize",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/vercel-optimize",
+  "branch": "main",
+  "sha": "5e3090e6f7129dd48e6e5f990be25f8c016306ed",
+  "source": "manual"
+}

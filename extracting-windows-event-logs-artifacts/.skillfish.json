@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "extracting-windows-event-logs-artifacts",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/extracting-windows-event-logs-artifacts",
+  "branch": "master",
+  "sha": "76ba3d83a20ab7062bef83eacfdcd28860a5d7ea",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "wolfram-alpha-api-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/wolfram-alpha-api-automation",
+  "branch": "main",
+  "sha": "afbb092ea174058fafab2d1cef94aef04380194b",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "exa-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/exa-automation",
+  "branch": "main",
+  "sha": "25f1986531a7e946191bcf030c9b3a2754350bdd",
+  "source": "manual"
+}

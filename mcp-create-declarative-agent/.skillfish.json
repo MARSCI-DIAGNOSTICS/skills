@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mcp-create-declarative-agent",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/mcp-create-declarative-agent",
+  "branch": "main",
+  "sha": "93bea0c5c8f3fe20f227e85adce119964237f93e",
+  "source": "manual"
+}

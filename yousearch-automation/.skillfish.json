@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "yousearch-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/yousearch-automation",
+  "branch": "main",
+  "sha": "7b4d315f1feb4b70db750a36e7203d12839b3d59",
+  "source": "manual"
+}

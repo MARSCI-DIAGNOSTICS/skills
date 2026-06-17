@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "privacy-notice-generator",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "legal/privacy-notice-generator",
+  "branch": "main",
+  "sha": "01024f917754d288cdb355a72dab1fe60ed4c598",
+  "source": "manual"
+}

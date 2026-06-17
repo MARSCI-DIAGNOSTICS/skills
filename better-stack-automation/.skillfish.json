@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "better-stack-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/better-stack-automation",
+  "branch": "main",
+  "sha": "19da2c8fd40a9fa85b856531a33df312faacc61e",
+  "source": "manual"
+}

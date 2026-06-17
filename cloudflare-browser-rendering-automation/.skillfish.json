@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cloudflare-browser-rendering-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/cloudflare-browser-rendering-automation",
+  "branch": "main",
+  "sha": "7da39ad1bd6840892766287edcd7878e1a6625db",
+  "source": "manual"
+}

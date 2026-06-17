@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zoho-mail-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/zoho-mail-automation",
+  "branch": "main",
+  "sha": "c979e4bf77f9e7b43f1b5a9c4543b8df11435498",
+  "source": "manual"
+}

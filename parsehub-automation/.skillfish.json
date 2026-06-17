@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "parsehub-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/parsehub-automation",
+  "branch": "main",
+  "sha": "1b0e1ce842a7b775a73f6822dcc60ab0fb71a63f",
+  "source": "manual"
+}

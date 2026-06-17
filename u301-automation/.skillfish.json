@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "u301-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/u301-automation",
+  "branch": "main",
+  "sha": "8806642cfcd2478c35b31537b8f99d5cbc394816",
+  "source": "manual"
+}

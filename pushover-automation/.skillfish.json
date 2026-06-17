@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pushover-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/pushover-automation",
+  "branch": "main",
+  "sha": "7b3ba177992596cfe2b8cfc256be4e7c77d143ec",
+  "source": "manual"
+}

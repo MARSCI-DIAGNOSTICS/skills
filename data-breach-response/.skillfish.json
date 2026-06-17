@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "data-breach-response",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "legal/data-breach-response",
+  "branch": "main",
+  "sha": "8a22b30f1a830b5c995611594d7031ec293f9cac",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "helloleads-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/helloleads-automation",
+  "branch": "main",
+  "sha": "42d8ed9033c9f7b87dd9d31a3e494c6c4fc97272",
+  "source": "manual"
+}

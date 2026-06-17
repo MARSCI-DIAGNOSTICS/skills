@@ -1,0 +1,4 @@
+{
+  "skills": "index-only",
+  "load_strategy": "on-demand"
+}

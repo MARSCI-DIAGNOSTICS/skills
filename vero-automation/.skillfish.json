@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "vero-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/vero-automation",
+  "branch": "main",
+  "sha": "c6aff30ff28fcf95c4bd6b9d01ca993163bad69f",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "beamer-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/beamer-automation",
+  "branch": "main",
+  "sha": "fa8249c555e11aefc9453a9d47f31a7f6a25ce3a",
+  "source": "manual"
+}

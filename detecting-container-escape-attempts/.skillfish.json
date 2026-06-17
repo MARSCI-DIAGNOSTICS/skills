@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-container-escape-attempts",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-container-escape-attempts",
+  "branch": "master",
+  "sha": "51ac92f88f8482a92283b21a70577959175586a3",
+  "source": "manual"
+}

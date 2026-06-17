@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "chatfai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/chatfai-automation",
+  "branch": "main",
+  "sha": "197e284f42c4f727a6529ea48174d5c7ecc509e4",
+  "source": "manual"
+}

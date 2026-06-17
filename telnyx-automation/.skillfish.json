@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "telnyx-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/telnyx-automation",
+  "branch": "main",
+  "sha": "12e07b99841a8818682e22d6db6e6c767e8166e4",
+  "source": "manual"
+}

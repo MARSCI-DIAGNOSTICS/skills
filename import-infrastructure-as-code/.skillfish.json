@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "import-infrastructure-as-code",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/import-infrastructure-as-code",
+  "branch": "main",
+  "sha": "21f1a41c47279e4dc9a11be7eacc8621e0252207",
+  "source": "manual"
+}

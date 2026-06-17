@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "building-patch-tuesday-response-process",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/building-patch-tuesday-response-process",
+  "branch": "master",
+  "sha": "2da9739268bb099879986bfddd531c949144a8b9",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "browser-tool-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/browser-tool-automation",
+  "branch": "main",
+  "sha": "ee567f3014f5dad8c8b4752ab883db80e9de6383",
+  "source": "manual"
+}

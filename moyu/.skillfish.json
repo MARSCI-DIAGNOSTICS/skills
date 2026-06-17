@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "moyu",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/moyu",
+  "branch": "main",
+  "sha": "b5c46d1ac2f676a51be879f4301c8cf1398e640f",
+  "source": "manual"
+}

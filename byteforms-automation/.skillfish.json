@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "byteforms-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/byteforms-automation",
+  "branch": "main",
+  "sha": "1515a917b9c05d3ad3d5bf5385c2f98d95678716",
+  "source": "manual"
+}

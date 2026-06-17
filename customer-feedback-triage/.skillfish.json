@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "customer-feedback-triage",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "project-management/execution/customer-feedback-triage",
+  "branch": "main",
+  "sha": "7dc0b4e1d1a6c1efeffcbc4def673f666bd38756",
+  "source": "manual"
+}

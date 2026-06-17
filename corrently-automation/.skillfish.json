@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "corrently-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/corrently-automation",
+  "branch": "main",
+  "sha": "c2ebed3599436e84a1985dde05a3b64d60007b5f",
+  "source": "manual"
+}

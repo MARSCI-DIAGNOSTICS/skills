@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "flowiseai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/flowiseai-automation",
+  "branch": "main",
+  "sha": "c862c8c981ac2964eeecd09910a0bf3a25b86838",
+  "source": "manual"
+}

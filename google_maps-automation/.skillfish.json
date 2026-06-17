@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "google_maps-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/google_maps-automation",
+  "branch": "main",
+  "sha": "3810a3885d1e8fc2acf133cbde1dd0e0d5581c73",
+  "source": "manual"
+}

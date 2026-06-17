@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "configuring-snort-ids-for-intrusion-detection",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/configuring-snort-ids-for-intrusion-detection",
+  "branch": "master",
+  "sha": "f99d2f8196aa5bd333d9f96a20e12c56d7cb7707",
+  "source": "manual"
+}

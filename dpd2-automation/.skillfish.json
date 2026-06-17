@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dpd2-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/dpd2-automation",
+  "branch": "main",
+  "sha": "dea3264f310493b8b14f1dbae07d932d874a7a09",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "storeganise-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/storeganise-automation",
+  "branch": "main",
+  "sha": "73cdd631c763612777bd31a9838c6f8a55466d98",
+  "source": "manual"
+}

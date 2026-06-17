@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "buywhere-product-catalog",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/buywhere-product-catalog",
+  "branch": "main",
+  "sha": "4bdc7f4085e8a508b04dbecb76dbed2eeda96e0e",
+  "source": "manual"
+}

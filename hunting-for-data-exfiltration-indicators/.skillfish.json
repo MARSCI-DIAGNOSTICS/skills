@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hunting-for-data-exfiltration-indicators",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/hunting-for-data-exfiltration-indicators",
+  "branch": "master",
+  "sha": "beca4bde55f30c7a90b6f89a598a67f4bb1ea319",
+  "source": "manual"
+}

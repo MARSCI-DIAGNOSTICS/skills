@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "adobe-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/adobe-automation",
+  "branch": "main",
+  "sha": "165bc167152e1b1e3fe1207e65f24590d27fb83d",
+  "source": "manual"
+}

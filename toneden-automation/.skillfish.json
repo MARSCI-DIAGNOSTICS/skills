@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "toneden-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/toneden-automation",
+  "branch": "main",
+  "sha": "f574059afb112269ac453f4d30821ba2896f2fe3",
+  "source": "manual"
+}

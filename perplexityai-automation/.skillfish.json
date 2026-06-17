@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "perplexityai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/perplexityai-automation",
+  "branch": "main",
+  "sha": "1c00a8cce45a8c2622c97faba24b1be4a4febf77",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "performing-container-security-scanning-with-trivy",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/performing-container-security-scanning-with-trivy",
+  "branch": "master",
+  "sha": "0afd14375f4c9438a70d47a9e25989d3047e4fa0",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zoho_books-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/zoho_books-automation",
+  "branch": "main",
+  "sha": "5d39c96eae3ad921c566caa253d9aaf1e9033aa7",
+  "source": "manual"
+}

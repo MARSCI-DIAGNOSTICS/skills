@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "debugging-toolkit",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/debugging-toolkit",
+  "branch": "main",
+  "sha": "a075922aa7dfc53ea19ed624842456aa53126aa8",
+  "source": "manual"
+}

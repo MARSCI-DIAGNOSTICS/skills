@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-compromised-cloud-credentials",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-compromised-cloud-credentials",
+  "branch": "master",
+  "sha": "d0cf4acf99777216203064fe0bbf478f2f03218d",
+  "source": "manual"
+}

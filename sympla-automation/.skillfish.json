@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sympla-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/sympla-automation",
+  "branch": "main",
+  "sha": "be6e1a05cd8b250e1b0c63eb6497718921f239c6",
+  "source": "manual"
+}

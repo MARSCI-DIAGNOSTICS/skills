@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "supportbee-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/supportbee-automation",
+  "branch": "main",
+  "sha": "28b48e25b54c29489cc55ba4f5e1e6adbb10dd37",
+  "source": "manual"
+}

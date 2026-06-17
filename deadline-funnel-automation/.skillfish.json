@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "deadline-funnel-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/deadline-funnel-automation",
+  "branch": "main",
+  "sha": "bda78f77a6c9ff93c70f7cff2de6c28c2ade9789",
+  "source": "manual"
+}

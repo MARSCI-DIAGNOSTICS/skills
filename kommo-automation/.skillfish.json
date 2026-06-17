@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "kommo-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/kommo-automation",
+  "branch": "main",
+  "sha": "588b338fc57ac2000e0900a5e5289bc58a913ede",
+  "source": "manual"
+}

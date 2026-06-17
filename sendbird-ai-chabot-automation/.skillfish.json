@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sendbird-ai-chabot-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/sendbird-ai-chabot-automation",
+  "branch": "main",
+  "sha": "69d8a75a31a8a7d4647d0f5cbae3b75c83d207ef",
+  "source": "manual"
+}

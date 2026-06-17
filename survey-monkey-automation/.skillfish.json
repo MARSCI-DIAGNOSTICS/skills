@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "survey-monkey-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/survey-monkey-automation",
+  "branch": "main",
+  "sha": "6b1a2c0edd902c14a4d585a7d5df34fed5421028",
+  "source": "manual"
+}

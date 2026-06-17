@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "suggest-awesome-github-copilot-prompts",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/suggest-awesome-github-copilot-prompts",
+  "branch": "main",
+  "sha": "f1e6c907684cb1196064873344210d1ab1cd23d0",
+  "source": "manual"
+}

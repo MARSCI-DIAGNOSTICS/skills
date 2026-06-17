@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "building-threat-actor-profile-from-osint",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/building-threat-actor-profile-from-osint",
+  "branch": "master",
+  "sha": "4892d3d604d139d8fc4517614296d6107041dba7",
+  "source": "manual"
+}

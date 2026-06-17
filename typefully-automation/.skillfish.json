@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "typefully-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/typefully-automation",
+  "branch": "main",
+  "sha": "d61c5fc49f80797b7b722c7ad0081b4040bac565",
+  "source": "manual"
+}

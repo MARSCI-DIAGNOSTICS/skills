@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "copilot-instructions-blueprint-generator",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/copilot-instructions-blueprint-generator",
+  "branch": "main",
+  "sha": "a67fccf32fc28eda70e5868e65e61e2fce3e64ef",
+  "source": "manual"
+}

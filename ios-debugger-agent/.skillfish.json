@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ios-debugger-agent",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/ios-debugger-agent",
+  "branch": "main",
+  "sha": "80275053e16cc48da24e771aa083c4679fe198be",
+  "source": "manual"
+}

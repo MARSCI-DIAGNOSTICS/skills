@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "terraform-azurerm-set-diff-analyzer",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/terraform-azurerm-set-diff-analyzer",
+  "branch": "main",
+  "sha": "1b7612733e3c6f834ca5cb87d6e5f2d0b4af824b",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "news-api-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/news-api-automation",
+  "branch": "main",
+  "sha": "8e540bf1cce4766788b92f552424ea00fa6e75de",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "googletasks-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/googletasks-automation",
+  "branch": "main",
+  "sha": "77ec146145cc5700854389fb1e32503f9d855f29",
+  "source": "manual"
+}

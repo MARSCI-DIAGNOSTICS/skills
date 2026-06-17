@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "axiom",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/axiom",
+  "branch": "main",
+  "sha": "ef09883aafcfca4555c8240988143e6ef2045d29",
+  "source": "manual"
+}

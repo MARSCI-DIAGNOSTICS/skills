@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "microsoft-tenant-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/microsoft-tenant-automation",
+  "branch": "main",
+  "sha": "6fc141a18d8204da87f32540c8b82156ab49f76d",
+  "source": "manual"
+}

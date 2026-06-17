@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "metaphor-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/metaphor-automation",
+  "branch": "main",
+  "sha": "f418c37794f41cc2fe9151d10f79a4396a307c49",
+  "source": "manual"
+}

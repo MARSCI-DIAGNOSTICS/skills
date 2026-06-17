@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "helcim-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/helcim-automation",
+  "branch": "main",
+  "sha": "786f7b67727063c92371c5d3fd10a2d3d79ac50d",
+  "source": "manual"
+}

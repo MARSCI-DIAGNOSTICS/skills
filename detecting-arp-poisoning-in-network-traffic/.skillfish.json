@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-arp-poisoning-in-network-traffic",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-arp-poisoning-in-network-traffic",
+  "branch": "master",
+  "sha": "0012c14c1e400ccaaf339c080d572433805b76e2",
+  "source": "manual"
+}

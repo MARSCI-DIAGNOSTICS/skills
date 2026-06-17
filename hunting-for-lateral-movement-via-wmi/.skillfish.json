@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hunting-for-lateral-movement-via-wmi",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/hunting-for-lateral-movement-via-wmi",
+  "branch": "master",
+  "sha": "780fab098bd796b4d3bff8272fee976f0e8c63de",
+  "source": "manual"
+}

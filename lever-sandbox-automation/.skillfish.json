@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lever-sandbox-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/lever-sandbox-automation",
+  "branch": "main",
+  "sha": "84ec7881026533f6b8c2ab1a9d0b941c523f6ac6",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lodgify-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/lodgify-automation",
+  "branch": "main",
+  "sha": "27dcce971b5c28eed68129b1a2fee768e72ae218",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "campaign-cleaner-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/campaign-cleaner-automation",
+  "branch": "main",
+  "sha": "9380f16f02295e4681578d9f54b4b8303dfe6101",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "performing-memory-forensics-with-volatility3-plugins",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/performing-memory-forensics-with-volatility3-plugins",
+  "branch": "master",
+  "sha": "83c2974d029eebf1d9a5944a5bab014f0b7ffc64",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "signpath-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/signpath-automation",
+  "branch": "main",
+  "sha": "4f4964fa7477c2ce0532b3fcd4ed568ac19751e0",
+  "source": "manual"
+}

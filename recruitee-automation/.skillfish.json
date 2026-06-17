@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "recruitee-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/recruitee-automation",
+  "branch": "main",
+  "sha": "53e3cfba8035359b6c3f1623d7725a312a882741",
+  "source": "manual"
+}

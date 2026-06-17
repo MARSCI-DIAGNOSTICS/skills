@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "it-manager-hospital",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/it-manager-hospital",
+  "branch": "main",
+  "sha": "f0b5cf93cee7fa159fef8c5a60423470c108d1c1",
+  "source": "manual"
+}

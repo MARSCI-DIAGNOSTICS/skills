@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "refiner-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/refiner-automation",
+  "branch": "main",
+  "sha": "af3b988dba3b18fadeccefceabb6bc5c2f2d05b0",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "monitoring-scada-modbus-traffic-anomalies",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/monitoring-scada-modbus-traffic-anomalies",
+  "branch": "master",
+  "sha": "9cd3b7606db8d8b41d9533f2623f7abb4d0a647f",
+  "source": "manual"
+}

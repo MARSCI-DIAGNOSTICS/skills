@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "privacy-compliance",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "legal/privacy-compliance",
+  "branch": "main",
+  "sha": "26d93e5f659855b0f14cba68eeadf2b208829fc0",
+  "source": "manual"
+}

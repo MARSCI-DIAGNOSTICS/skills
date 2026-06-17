@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zoho-desk-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/zoho-desk-automation",
+  "branch": "main",
+  "sha": "a2bc7b39b32cfa62fa7641863923e6a42e9beaf0",
+  "source": "manual"
+}

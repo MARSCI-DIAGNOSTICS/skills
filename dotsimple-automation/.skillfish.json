@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dotsimple-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/dotsimple-automation",
+  "branch": "main",
+  "sha": "0386ffeadbeb2c7c315256562291cf653a998c6c",
+  "source": "manual"
+}

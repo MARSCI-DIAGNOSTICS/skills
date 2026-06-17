@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "oncehub-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/oncehub-automation",
+  "branch": "main",
+  "sha": "96025040e4646efad8f2f8d4418f4c7e8e6582d7",
+  "source": "manual"
+}

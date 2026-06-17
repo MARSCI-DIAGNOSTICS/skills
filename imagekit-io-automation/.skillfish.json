@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "imagekit-io-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/imagekit-io-automation",
+  "branch": "main",
+  "sha": "0249ea4681b2066dd844462f6eec3ec34ff7b08c",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hunting-for-anomalous-powershell-execution",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/hunting-for-anomalous-powershell-execution",
+  "branch": "master",
+  "sha": "dc874ac87011f67c4f905c586ab71d4140f071fc",
+  "source": "manual"
+}

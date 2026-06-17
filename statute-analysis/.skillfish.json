@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "statute-analysis",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "legal/statute-analysis",
+  "branch": "main",
+  "sha": "64f401764afc81c3419ceffbce59ce772ee1e4b1",
+  "source": "manual"
+}

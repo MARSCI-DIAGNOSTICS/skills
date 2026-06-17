@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "forcemanager-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/forcemanager-automation",
+  "branch": "main",
+  "sha": "5700b282a278889e6d4ed4a61fc94e160c63d751",
+  "source": "manual"
+}

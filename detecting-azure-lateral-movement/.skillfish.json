@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-azure-lateral-movement",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-azure-lateral-movement",
+  "branch": "master",
+  "sha": "fcabac6ffb9b99e90f26cd30e60b682ae626a4e8",
+  "source": "manual"
+}

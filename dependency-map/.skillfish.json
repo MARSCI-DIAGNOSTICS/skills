@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dependency-map",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "project-management/execution/dependency-map",
+  "branch": "main",
+  "sha": "2c36522b321aa9f6c9ca0cc319790cfa8cd522e4",
+  "source": "manual"
+}

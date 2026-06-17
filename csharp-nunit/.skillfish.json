@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "csharp-nunit",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/csharp-nunit",
+  "branch": "main",
+  "sha": "3d541260df916843c10d12d63a1affcf76fef680",
+  "source": "manual"
+}

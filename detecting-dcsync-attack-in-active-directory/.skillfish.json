@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-dcsync-attack-in-active-directory",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-dcsync-attack-in-active-directory",
+  "branch": "master",
+  "sha": "3a93fc9ed671d5babdb6c4e947ae66e520e33243",
+  "source": "manual"
+}

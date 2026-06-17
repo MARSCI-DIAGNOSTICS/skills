@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "decision-navigator",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/decision-navigator",
+  "branch": "main",
+  "sha": "e4aa9c94ae9a5ecff82cea55aa5eea4bc1541296",
+  "source": "manual"
+}

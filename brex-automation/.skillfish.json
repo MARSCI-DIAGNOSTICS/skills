@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "brex-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/brex-automation",
+  "branch": "main",
+  "sha": "fbd047d26cb9efd1f7cb33f92bf81ed214dc6dd8",
+  "source": "manual"
+}

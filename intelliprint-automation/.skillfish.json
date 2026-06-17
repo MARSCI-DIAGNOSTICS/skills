@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "intelliprint-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/intelliprint-automation",
+  "branch": "main",
+  "sha": "29db3dbe41815842c2e7b74202863cd0c9e50d98",
+  "source": "manual"
+}

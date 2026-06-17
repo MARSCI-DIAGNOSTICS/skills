@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-t1055-process-injection-with-sysmon",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-t1055-process-injection-with-sysmon",
+  "branch": "master",
+  "sha": "ad4799ca39ce5d0137fd22674bb01e6f0ea26e4b",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ring-central-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ring-central-automation",
+  "branch": "main",
+  "sha": "0cf1749a0164f7897e4eb854975a998a65691f41",
+  "source": "manual"
+}

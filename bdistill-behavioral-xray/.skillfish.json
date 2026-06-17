@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bdistill-behavioral-xray",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/bdistill-behavioral-xray",
+  "branch": "main",
+  "sha": "073085ef1b741c5a3ce359e23b801b4289d12973",
+  "source": "manual"
+}

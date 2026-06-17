@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "launch_darkly-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/launch_darkly-automation",
+  "branch": "main",
+  "sha": "6a92a0736c218d6bd2d4df44d4fa63dc8e757714",
+  "source": "manual"
+}

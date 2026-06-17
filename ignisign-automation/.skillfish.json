@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ignisign-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ignisign-automation",
+  "branch": "main",
+  "sha": "6edf7001a54a0e814bac908ed320bee9a08ada9f",
+  "source": "manual"
+}

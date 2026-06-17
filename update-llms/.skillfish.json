@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "update-llms",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/update-llms",
+  "branch": "main",
+  "sha": "d83629edb40c26972a5594b2e1cb39f668518bbb",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "container-security-hardening",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/container-security-hardening",
+  "branch": "main",
+  "sha": "5070432f285e46a3bac3478ec0d30104d27b9c39",
+  "source": "manual"
+}

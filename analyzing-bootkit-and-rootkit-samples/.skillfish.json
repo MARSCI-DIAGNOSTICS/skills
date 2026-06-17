@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-bootkit-and-rootkit-samples",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/analyzing-bootkit-and-rootkit-samples",
+  "branch": "master",
+  "sha": "0504fde252cc3cb3d9a8237eac9dd9a8a45622d2",
+  "source": "manual"
+}

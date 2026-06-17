@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "placekey-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/placekey-automation",
+  "branch": "main",
+  "sha": "6917afb3598e7dfa7ee38909422e1af86e5e4585",
+  "source": "manual"
+}

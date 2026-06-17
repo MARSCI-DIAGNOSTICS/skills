@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "atlas-ledger",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/atlas-ledger",
+  "branch": "main",
+  "sha": "b9d0e8cf94fbceea6b7831153bb2ae29ef51b7bd",
+  "source": "manual"
+}

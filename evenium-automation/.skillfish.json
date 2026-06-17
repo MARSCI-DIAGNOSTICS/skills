@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "evenium-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/evenium-automation",
+  "branch": "main",
+  "sha": "67ee7611c8dda2e4613108c693f7403460391fde",
+  "source": "manual"
+}

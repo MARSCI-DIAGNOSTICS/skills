@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "affinda-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/affinda-automation",
+  "branch": "main",
+  "sha": "5c10cd4d9b82114823ec7b842dba6aa555659110",
+  "source": "manual"
+}

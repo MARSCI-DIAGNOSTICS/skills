@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sql-code-review",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/sql-code-review",
+  "branch": "main",
+  "sha": "88ddf7532577965a12997f6d39de53bbf39c744a",
+  "source": "manual"
+}

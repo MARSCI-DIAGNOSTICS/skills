@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "obsidian-bases",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/obsidian-bases",
+  "branch": "main",
+  "sha": "4496ce11cdbe9a32694363f2c50bbbe8c7f8784c",
+  "source": "manual"
+}

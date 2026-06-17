@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "loomio-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/loomio-automation",
+  "branch": "main",
+  "sha": "fec0fc0f5265ee6d8b277d1adc163456ebdf1446",
+  "source": "manual"
+}

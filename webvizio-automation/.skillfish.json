@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "webvizio-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/webvizio-automation",
+  "branch": "main",
+  "sha": "063310d75c417e170f2670c05d835c98b1585a09",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "passcreator-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/passcreator-automation",
+  "branch": "main",
+  "sha": "ff3a1b8415867ae923a9e39e4e4ec45b8623f7cf",
+  "source": "manual"
+}

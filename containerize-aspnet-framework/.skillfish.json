@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "containerize-aspnet-framework",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/containerize-aspnet-framework",
+  "branch": "main",
+  "sha": "3f6837d3412931b068f87ab97dd4444d14421057",
+  "source": "manual"
+}

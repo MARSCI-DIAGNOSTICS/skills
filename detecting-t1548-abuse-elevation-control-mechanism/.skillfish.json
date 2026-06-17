@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-t1548-abuse-elevation-control-mechanism",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-t1548-abuse-elevation-control-mechanism",
+  "branch": "master",
+  "sha": "d24242f588a6b6c61a224aa9dd88e2de8d036b34",
+  "source": "manual"
+}

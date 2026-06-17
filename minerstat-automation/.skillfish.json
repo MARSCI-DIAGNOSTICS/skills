@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "minerstat-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/minerstat-automation",
+  "branch": "main",
+  "sha": "50c6185c87ded3ec42eff4e88459f989d0700f77",
+  "source": "manual"
+}

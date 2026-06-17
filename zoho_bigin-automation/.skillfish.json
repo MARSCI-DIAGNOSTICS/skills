@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zoho_bigin-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/zoho_bigin-automation",
+  "branch": "main",
+  "sha": "b795c732bfaa96be5e71f14c79013b3b69a069c4",
+  "source": "manual"
+}

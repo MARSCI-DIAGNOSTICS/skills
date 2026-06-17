@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "grist-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/grist-automation",
+  "branch": "main",
+  "sha": "fb06d2ca6002c2687c5db6b6e09e061cb4012d93",
+  "source": "manual"
+}

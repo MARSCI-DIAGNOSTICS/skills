@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-azure-service-principal-abuse",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-azure-service-principal-abuse",
+  "branch": "master",
+  "sha": "76883a3a0222b470ce2ac815a79434dd9fff9a83",
+  "source": "manual"
+}

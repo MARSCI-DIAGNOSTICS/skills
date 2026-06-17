@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dialpad-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/dialpad-automation",
+  "branch": "main",
+  "sha": "5be6e86d74f110cd6134885963238b7403cff51c",
+  "source": "manual"
+}

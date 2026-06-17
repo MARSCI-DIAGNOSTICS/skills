@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-dll-sideloading-attacks",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-dll-sideloading-attacks",
+  "branch": "master",
+  "sha": "305a8c64ea7cc596719aa6c08d044e7d7719d073",
+  "source": "manual"
+}

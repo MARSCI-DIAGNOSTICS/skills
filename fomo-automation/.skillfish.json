@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fomo-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/fomo-automation",
+  "branch": "main",
+  "sha": "8250db85b6ba020fa781956e82dfb7dc3c67cca7",
+  "source": "manual"
+}

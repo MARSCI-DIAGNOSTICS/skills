@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "update-oo-component-documentation",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/update-oo-component-documentation",
+  "branch": "main",
+  "sha": "81b74fa76ca706e91d29be0b20e8a3adae45a313",
+  "source": "manual"
+}

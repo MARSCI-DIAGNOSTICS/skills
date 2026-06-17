@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "legal-risk-assessment",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "legal/legal-risk-assessment",
+  "branch": "main",
+  "sha": "66c09d86542b78e6d87824416651096b5c4c52cd",
+  "source": "manual"
+}

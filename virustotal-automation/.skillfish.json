@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "virustotal-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/virustotal-automation",
+  "branch": "main",
+  "sha": "8cd42066d9a6098fa15101e3b84a2da86814c55f",
+  "source": "manual"
+}

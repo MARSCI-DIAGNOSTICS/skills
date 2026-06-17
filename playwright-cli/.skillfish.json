@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "playwright-cli",
+  "owner": "hideki5123",
+  "repo": "agent-skill-set",
+  "path": "playwright-cli",
+  "branch": "master",
+  "sha": "7ae61722d0cfd17ebaa4c66b7cfd6c8f6ce4d891",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mx-toolbox-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/mx-toolbox-automation",
+  "branch": "main",
+  "sha": "6c35a06d3a938b3e340b1264d22768890246409e",
+  "source": "manual"
+}

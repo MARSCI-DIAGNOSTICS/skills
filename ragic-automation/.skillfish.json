@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ragic-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ragic-automation",
+  "branch": "main",
+  "sha": "24b6bc836fd5dd133ffd992f05fd977d2c7ddd04",
+  "source": "manual"
+}

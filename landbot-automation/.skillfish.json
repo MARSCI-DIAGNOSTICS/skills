@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "landbot-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/landbot-automation",
+  "branch": "main",
+  "sha": "e09cb2e0a7b3694cbe2feb86d9c025eb25d1eb66",
+  "source": "manual"
+}

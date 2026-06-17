@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "scrapfly-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/scrapfly-automation",
+  "branch": "main",
+  "sha": "192d428e4a693af4ae76a0fc0ae77e39fdd8fe6f",
+  "source": "manual"
+}

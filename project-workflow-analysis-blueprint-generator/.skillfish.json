@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "project-workflow-analysis-blueprint-generator",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/project-workflow-analysis-blueprint-generator",
+  "branch": "main",
+  "sha": "88a7484818d2e8f5539d3f2b9c8347b874b0d460",
+  "source": "manual"
+}

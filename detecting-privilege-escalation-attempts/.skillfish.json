@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-privilege-escalation-attempts",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-privilege-escalation-attempts",
+  "branch": "master",
+  "sha": "27eb6244f48140ff471d0b6283e2c6d7a501398b",
+  "source": "manual"
+}

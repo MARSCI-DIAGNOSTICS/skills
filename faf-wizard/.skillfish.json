@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "faf-wizard",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/faf-wizard",
+  "branch": "main",
+  "sha": "0a20b6182a1a4e63ad35d5aa17d775995aecd5e6",
+  "source": "manual"
+}

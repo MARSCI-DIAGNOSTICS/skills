@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "confluence",
+  "owner": "hideki5123",
+  "repo": "agent-skill-set",
+  "path": "confluence",
+  "branch": "master",
+  "sha": "7c5fcce281a64bded3216ff458212aa23467f19d",
+  "source": "manual"
+}

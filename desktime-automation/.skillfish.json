@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "desktime-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/desktime-automation",
+  "branch": "main",
+  "sha": "bd2c9c7983dec781a8701558375fb04d2bac2e23",
+  "source": "manual"
+}

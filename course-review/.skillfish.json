@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "course-review",
+  "owner": "nathanjgaul",
+  "repo": "plugins",
+  "path": "plugins/dev-course-builder/skills/course-review",
+  "branch": "main",
+  "sha": "8c8bfbcfb866f74ded0f2820d30dfc7d29e5e406",
+  "source": "manual"
+}

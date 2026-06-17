@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "control-d-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/control-d-automation",
+  "branch": "main",
+  "sha": "c0210f666e8c3cbbf5c24f3ac999b9d075cada16",
+  "source": "manual"
+}

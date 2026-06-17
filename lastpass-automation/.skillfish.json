@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lastpass-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/lastpass-automation",
+  "branch": "main",
+  "sha": "a7b7c8e3fe0274effa36cecf23821d2d11d01937",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "slack-cli",
+  "owner": "hideki5123",
+  "repo": "agent-skill-set",
+  "path": "slack-cli",
+  "branch": "master",
+  "sha": "75b8da120df9eaf5829c651df3df2bb4b9e02bb1",
+  "source": "manual"
+}

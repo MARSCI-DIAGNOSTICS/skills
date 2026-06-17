@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ocrspace-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ocrspace-automation",
+  "branch": "main",
+  "sha": "431ba447dce4c53db30449a60596c72712502b84",
+  "source": "manual"
+}

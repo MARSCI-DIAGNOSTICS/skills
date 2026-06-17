@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "jumpcloud-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/jumpcloud-automation",
+  "branch": "main",
+  "sha": "5a95d85f8fa38d1f7f09460fd7f988c98833537c",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "nano-nets-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/nano-nets-automation",
+  "branch": "main",
+  "sha": "e213832a85a99ddee93153dd8b6984a5a7221129",
+  "source": "manual"
+}

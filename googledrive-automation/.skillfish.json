@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "googledrive-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/googledrive-automation",
+  "branch": "main",
+  "sha": "71646c6053f4c003498b1a65c278ee2839cf17ea",
+  "source": "manual"
+}

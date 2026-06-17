@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "turso-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/turso-automation",
+  "branch": "main",
+  "sha": "fb9d7501b28633df53730e682628b25a96005135",
+  "source": "manual"
+}

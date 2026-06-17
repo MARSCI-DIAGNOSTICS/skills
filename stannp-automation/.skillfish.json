@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "stannp-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/stannp-automation",
+  "branch": "main",
+  "sha": "61cf49b7c4633fb1ded39b2d5d96cb3dbcb20343",
+  "source": "manual"
+}

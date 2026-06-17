@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "better-proposals-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/better-proposals-automation",
+  "branch": "main",
+  "sha": "e52ddc82121dd6301c385d29ff1f62b80d9a4364",
+  "source": "manual"
+}

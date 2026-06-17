@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "onesignal-rest-api-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/onesignal-rest-api-automation",
+  "branch": "main",
+  "sha": "dc0818b98699f62993d3d7b8fdbe83bfe408fedf",
+  "source": "manual"
+}

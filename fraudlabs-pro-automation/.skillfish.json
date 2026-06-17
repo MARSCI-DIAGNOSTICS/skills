@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fraudlabs-pro-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/fraudlabs-pro-automation",
+  "branch": "main",
+  "sha": "fca1caaade5e184a76c46bdbe3a16c6c80324e8d",
+  "source": "manual"
+}

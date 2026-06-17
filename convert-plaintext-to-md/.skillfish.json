@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "convert-plaintext-to-md",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/convert-plaintext-to-md",
+  "branch": "main",
+  "sha": "1e13c30fa3b4a91234339acaeb7efd33d3b72a62",
+  "source": "manual"
+}

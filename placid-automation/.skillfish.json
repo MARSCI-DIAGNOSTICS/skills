@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "placid-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/placid-automation",
+  "branch": "main",
+  "sha": "8509c6a145861e9494742f2f91c1d66ed1401117",
+  "source": "manual"
+}

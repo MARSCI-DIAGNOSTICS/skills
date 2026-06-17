@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "humanize-chinese",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/humanize-chinese",
+  "branch": "main",
+  "sha": "2580bba019c95235f028a5b42c24f3e57574cd63",
+  "source": "manual"
+}

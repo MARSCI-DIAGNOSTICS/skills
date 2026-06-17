@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tripadvisor-content-api-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/tripadvisor-content-api-automation",
+  "branch": "main",
+  "sha": "e1618c8506c2189a09320489f51331777a41d162",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "crowdin-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/crowdin-automation",
+  "branch": "main",
+  "sha": "4ec3af0aa6e06f7eb9671e07746a871b67fa077e",
+  "source": "manual"
+}

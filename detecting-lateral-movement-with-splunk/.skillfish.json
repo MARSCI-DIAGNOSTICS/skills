@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-lateral-movement-with-splunk",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-lateral-movement-with-splunk",
+  "branch": "master",
+  "sha": "f83cf7babddbbe0bf03ab2b1514fc509539520b1",
+  "source": "manual"
+}

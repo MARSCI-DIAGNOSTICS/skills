@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "idea-os",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/idea-os",
+  "branch": "main",
+  "sha": "ca4b367d645fe2c20839f99e2ccb9de629f3086b",
+  "source": "manual"
+}

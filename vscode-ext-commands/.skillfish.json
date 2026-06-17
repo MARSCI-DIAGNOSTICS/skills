@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "vscode-ext-commands",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/vscode-ext-commands",
+  "branch": "main",
+  "sha": "19be04ac2a25cb7999713b9da4f54020150b4027",
+  "source": "manual"
+}

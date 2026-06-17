@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dnsfilter-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/dnsfilter-automation",
+  "branch": "main",
+  "sha": "efbd7cbc08101856a08a9f39d96172e17bbb1f5d",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "msg91-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/msg91-automation",
+  "branch": "main",
+  "sha": "a7ed409183402a467798941394755dbb3c760649",
+  "source": "manual"
+}

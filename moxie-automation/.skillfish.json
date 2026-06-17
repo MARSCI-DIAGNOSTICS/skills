@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "moxie-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/moxie-automation",
+  "branch": "main",
+  "sha": "fc10ba3bf3cddac5a7b231e3233c3beb4445a477",
+  "source": "manual"
+}

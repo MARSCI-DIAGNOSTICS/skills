@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gamma-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/gamma-automation",
+  "branch": "main",
+  "sha": "2a4aa3e4877f760298a2225e8a389d5fdaa28939",
+  "source": "manual"
+}

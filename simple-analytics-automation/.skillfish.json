@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "simple-analytics-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/simple-analytics-automation",
+  "branch": "main",
+  "sha": "93842c263eeb02730b511d086716d58c8c08f223",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "synthflow-ai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/synthflow-ai-automation",
+  "branch": "main",
+  "sha": "d9343ca62f3ec6390fd7dca2981c0f6ef706f63f",
+  "source": "manual"
+}

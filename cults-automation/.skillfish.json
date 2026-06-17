@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cults-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/cults-automation",
+  "branch": "main",
+  "sha": "d01c437c9e01fffa6a46763f5d7323fb00d2ffa6",
+  "source": "manual"
+}

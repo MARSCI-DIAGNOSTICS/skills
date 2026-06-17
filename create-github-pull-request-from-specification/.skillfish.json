@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "create-github-pull-request-from-specification",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/create-github-pull-request-from-specification",
+  "branch": "main",
+  "sha": "530438a8ddfd059e4c74d6b79e6156a24344ca28",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "folk-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/folk-automation",
+  "branch": "main",
+  "sha": "268426e2492aa12522c0c020a5c29f407f78d3b5",
+  "source": "manual"
+}

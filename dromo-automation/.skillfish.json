@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dromo-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/dromo-automation",
+  "branch": "main",
+  "sha": "e6b804d561331d08324df364d44386e2a8abe320",
+  "source": "manual"
+}

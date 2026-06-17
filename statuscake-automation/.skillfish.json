@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "statuscake-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/statuscake-automation",
+  "branch": "main",
+  "sha": "f016e68c36e2a6132b374f1c3074fd13ba680b3b",
+  "source": "manual"
+}

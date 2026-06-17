@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gemini-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/gemini-automation",
+  "branch": "main",
+  "sha": "b49b7e21dd107e2e06a6566dc5d5405844f90dea",
+  "source": "manual"
+}

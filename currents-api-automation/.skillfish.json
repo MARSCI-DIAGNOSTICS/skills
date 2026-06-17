@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "currents-api-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/currents-api-automation",
+  "branch": "main",
+  "sha": "5fe67d101944faaac97193bbf60133747db6117f",
+  "source": "manual"
+}

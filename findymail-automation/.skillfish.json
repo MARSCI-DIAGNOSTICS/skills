@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "findymail-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/findymail-automation",
+  "branch": "main",
+  "sha": "1baa11b717a4ee628437e1e66a4060d142b7082e",
+  "source": "manual"
+}

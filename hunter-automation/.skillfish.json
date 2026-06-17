@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hunter-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/hunter-automation",
+  "branch": "main",
+  "sha": "b01897e0228ba27272be020d300210c373c8ec2d",
+  "source": "manual"
+}

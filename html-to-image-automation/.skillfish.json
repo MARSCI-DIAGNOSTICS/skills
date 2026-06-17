@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "html-to-image-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/html-to-image-automation",
+  "branch": "main",
+  "sha": "a5402a34c4dbd47fc13b1f31f1488f76ddc9c032",
+  "source": "manual"
+}

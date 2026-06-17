@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "design-auditor",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "engineering/design-auditor",
+  "branch": "main",
+  "sha": "ccb78480fa514be6af317cfcca2eb4fbf1ffe7fb",
+  "source": "manual"
+}

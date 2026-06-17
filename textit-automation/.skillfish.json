@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "textit-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/textit-automation",
+  "branch": "main",
+  "sha": "e884e348d6e8ae16c7534347ca9c9322b4007b5a",
+  "source": "manual"
+}

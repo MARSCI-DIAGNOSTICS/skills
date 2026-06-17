@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "nasa-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/nasa-automation",
+  "branch": "main",
+  "sha": "053f0ccb306e035f1215bdc4eb4e5bc7ac372551",
+  "source": "manual"
+}

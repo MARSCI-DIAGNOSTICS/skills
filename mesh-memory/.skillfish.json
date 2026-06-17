@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mesh-memory",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/mesh-memory",
+  "branch": "main",
+  "sha": "38aa2a03821ccabd644c0e971d5250999f105cef",
+  "source": "manual"
+}

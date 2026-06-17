@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "code-exemplars-blueprint-generator",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/code-exemplars-blueprint-generator",
+  "branch": "main",
+  "sha": "3d60e45078101dfd26d19cdab072f48fcb262589",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "magnetic-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/magnetic-automation",
+  "branch": "main",
+  "sha": "7889e1282ab3117e675626fc45d2fc54ad2e4562",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-misconfigured-azure-storage",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-misconfigured-azure-storage",
+  "branch": "master",
+  "sha": "a90dde0463fa70d1ffe2d919740f60c444bd5016",
+  "source": "manual"
+}

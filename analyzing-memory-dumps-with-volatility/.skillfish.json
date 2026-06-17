@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-memory-dumps-with-volatility",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/analyzing-memory-dumps-with-volatility",
+  "branch": "master",
+  "sha": "7ba70cdbe2c5adc635327c83bc60f502e5b12413",
+  "source": "manual"
+}

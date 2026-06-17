@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-aws-iam-privilege-escalation",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-aws-iam-privilege-escalation",
+  "branch": "master",
+  "sha": "c6fd605cd660b3c2d0bab7eb37d50c6ca1b84d64",
+  "source": "manual"
+}

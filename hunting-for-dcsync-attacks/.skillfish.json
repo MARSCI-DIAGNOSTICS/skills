@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hunting-for-dcsync-attacks",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/hunting-for-dcsync-attacks",
+  "branch": "master",
+  "sha": "8aa3589ba619c217d70f4ebd36bf0d436ce0740a",
+  "source": "manual"
+}

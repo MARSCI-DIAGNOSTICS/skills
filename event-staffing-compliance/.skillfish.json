@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "event-staffing-compliance",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/event-staffing-compliance",
+  "branch": "main",
+  "sha": "6cbd1edcbaffad9adf0db374e0987cf14b19f455",
+  "source": "manual"
+}

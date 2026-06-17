@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hunting-for-dcom-lateral-movement",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/hunting-for-dcom-lateral-movement",
+  "branch": "master",
+  "sha": "9ee0a284dff7181e569fdc8f216b0455ae9bf051",
+  "source": "manual"
+}

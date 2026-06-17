@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "idea-scale-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/idea-scale-automation",
+  "branch": "main",
+  "sha": "41c30dedcc17eb8333e7624fdf5b38411389a34b",
+  "source": "manual"
+}

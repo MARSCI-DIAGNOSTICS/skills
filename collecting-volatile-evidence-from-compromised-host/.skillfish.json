@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "collecting-volatile-evidence-from-compromised-host",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/collecting-volatile-evidence-from-compromised-host",
+  "branch": "master",
+  "sha": "641be3c1fa1be1e5ca63b4a30c11ea3d7e3af446",
+  "source": "manual"
+}

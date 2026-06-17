@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "optimoroute-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/optimoroute-automation",
+  "branch": "main",
+  "sha": "386c52d13e52f3b57ee3d2b662f6fa8a909c05f9",
+  "source": "manual"
+}

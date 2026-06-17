@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "kaggle-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/kaggle-automation",
+  "branch": "main",
+  "sha": "4bcde38d855e3d418992f453dfd477f2a4106bdc",
+  "source": "manual"
+}

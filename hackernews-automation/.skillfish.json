@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hackernews-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/hackernews-automation",
+  "branch": "main",
+  "sha": "1bab12ab32c465d5d111a3a5d48488d33ed9726e",
+  "source": "manual"
+}

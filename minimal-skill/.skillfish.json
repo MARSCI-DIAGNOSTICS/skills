@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "minimal-skill",
+  "owner": "hidorakai002",
+  "repo": "ai-workspace-archive",
+  "path": "ai_agent_frameworks/major_frameworks/crewAI/lib/crewai/tests/skills/fixtures/minimal-skill",
+  "branch": "main",
+  "sha": "e78efb77dce84d3f2ad0e12d8afc51b5dc839f51",
+  "source": "manual"
+}

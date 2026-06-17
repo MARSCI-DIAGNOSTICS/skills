@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "apitemplate-io-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/apitemplate-io-automation",
+  "branch": "main",
+  "sha": "3c90b9621d80c1b88c85d011ce3288815dc9b524",
+  "source": "manual"
+}

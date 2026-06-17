@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "d2lbrightspace-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/d2lbrightspace-automation",
+  "branch": "main",
+  "sha": "4aac5ca3e17eb8f5893e0c709b3e5ba5e86afa7e",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "meeting-minutes",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/meeting-minutes",
+  "branch": "main",
+  "sha": "4cb5aa761cf7dd3723d0c81584da8f0ff3e0c3a7",
+  "source": "manual"
+}

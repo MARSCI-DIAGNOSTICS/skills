@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "project-bubble-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/project-bubble-automation",
+  "branch": "main",
+  "sha": "f47544f1ca60ed76cbe6de75289284368175f708",
+  "source": "manual"
+}

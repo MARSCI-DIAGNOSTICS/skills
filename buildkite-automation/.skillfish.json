@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "buildkite-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/buildkite-automation",
+  "branch": "main",
+  "sha": "5f24ac183f11e063d0e2a983d525528fdbc4a9bf",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "kontent-ai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/kontent-ai-automation",
+  "branch": "main",
+  "sha": "71331a655d7f82111b3e958051e2ab61029236b3",
+  "source": "manual"
+}

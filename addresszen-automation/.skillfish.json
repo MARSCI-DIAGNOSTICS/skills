@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "addresszen-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/addresszen-automation",
+  "branch": "main",
+  "sha": "39f2bd3c584fe437d909ff072fb184db29c27b67",
+  "source": "manual"
+}

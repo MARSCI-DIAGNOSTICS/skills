@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "supadata-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/supadata-automation",
+  "branch": "main",
+  "sha": "4f93fac9a3acbdd5ace8b81885dceebb60f14c25",
+  "source": "manual"
+}

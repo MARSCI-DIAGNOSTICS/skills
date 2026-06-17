@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "performing-privilege-escalation-on-linux",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/performing-privilege-escalation-on-linux",
+  "branch": "master",
+  "sha": "7c05651b3633bf007567d16f6b978a8428297adf",
+  "source": "manual"
+}

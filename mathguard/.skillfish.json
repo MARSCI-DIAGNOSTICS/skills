@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mathguard",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/mathguard",
+  "branch": "main",
+  "sha": "8d0d8f7c3eae1a405e09fe5e226e41cee0ae344c",
+  "source": "manual"
+}

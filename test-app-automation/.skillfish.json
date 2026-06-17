@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "test-app-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/test-app-automation",
+  "branch": "main",
+  "sha": "eeab84f1fdb0d84930269300d8d6a881b6913d2d",
+  "source": "manual"
+}

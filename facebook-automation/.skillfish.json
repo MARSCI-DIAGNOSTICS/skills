@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "facebook-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/facebook-automation",
+  "branch": "main",
+  "sha": "f8e49e68822139f1e9c5b14124949864fabba6cb",
+  "source": "manual"
+}

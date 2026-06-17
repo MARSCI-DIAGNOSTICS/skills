@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "performing-dmarc-policy-enforcement-rollout",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/performing-dmarc-policy-enforcement-rollout",
+  "branch": "master",
+  "sha": "94542231110efc0a73211d79dc669468185cac08",
+  "source": "manual"
+}

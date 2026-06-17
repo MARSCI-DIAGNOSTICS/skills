@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "api-labz-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/api-labz-automation",
+  "branch": "main",
+  "sha": "9b79af81700d62910f1cc4b7bffb155c6c712291",
+  "source": "manual"
+}

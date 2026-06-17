@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mise-configurator",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/mise-configurator",
+  "branch": "main",
+  "sha": "7a0898b35f106ab15985a3c46972cf9d0fdc3d80",
+  "source": "manual"
+}

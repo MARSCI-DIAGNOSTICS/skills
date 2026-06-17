@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "webscraping-ai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/webscraping-ai-automation",
+  "branch": "main",
+  "sha": "f9498ed85713a3229ba31c9b70e9e54ec58c8170",
+  "source": "manual"
+}

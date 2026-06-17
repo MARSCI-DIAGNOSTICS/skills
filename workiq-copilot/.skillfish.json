@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "workiq-copilot",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/workiq-copilot",
+  "branch": "main",
+  "sha": "4d31a732e72d4edd9320724cb3515169abb06c29",
+  "source": "manual"
+}

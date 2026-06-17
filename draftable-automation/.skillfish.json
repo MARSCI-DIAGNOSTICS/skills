@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "draftable-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/draftable-automation",
+  "branch": "main",
+  "sha": "364053595845a29c8aea0c52dc3caebc9c1dc729",
+  "source": "manual"
+}

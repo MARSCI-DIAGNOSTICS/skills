@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "getform-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/getform-automation",
+  "branch": "main",
+  "sha": "8c92093de376efe06b4faad87b3757940b81e103",
+  "source": "manual"
+}

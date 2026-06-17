@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "coinranking-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/coinranking-automation",
+  "branch": "main",
+  "sha": "f1c4d4f78b28d3016688480a305ad5da88ac2c8c",
+  "source": "manual"
+}

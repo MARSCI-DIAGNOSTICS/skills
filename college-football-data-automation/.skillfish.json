@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "college-football-data-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/college-football-data-automation",
+  "branch": "main",
+  "sha": "f43370f9e5d8c5cb83413c777cd465d2d487cb6c",
+  "source": "manual"
+}

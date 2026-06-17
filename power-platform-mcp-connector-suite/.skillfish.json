@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "power-platform-mcp-connector-suite",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/power-platform-mcp-connector-suite",
+  "branch": "main",
+  "sha": "370ab3d9a5db7213e1d8eecad1d479fa1e7db291",
+  "source": "manual"
+}

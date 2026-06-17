@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "summarize-url",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "polyclaw/polyclaw-repo/skills/summarize-url",
+  "branch": "main",
+  "sha": "5b127f7e19fc14029fde2150d8a7c5998d1aeaea",
+  "source": "manual"
+}

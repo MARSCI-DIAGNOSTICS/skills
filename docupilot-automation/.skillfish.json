@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docupilot-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/docupilot-automation",
+  "branch": "main",
+  "sha": "c74bbf057a061230e640a5539a359e3065062013",
+  "source": "manual"
+}

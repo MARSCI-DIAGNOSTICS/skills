@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "daily-gift",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/daily-gift",
+  "branch": "main",
+  "sha": "342369694a3c8003cab3f22b7c104566f549f330",
+  "source": "manual"
+}

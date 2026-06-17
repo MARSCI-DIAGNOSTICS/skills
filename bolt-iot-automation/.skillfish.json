@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bolt-iot-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/bolt-iot-automation",
+  "branch": "main",
+  "sha": "4c55b3bb5d7fa04a89851436a993362d0145a6bf",
+  "source": "manual"
+}

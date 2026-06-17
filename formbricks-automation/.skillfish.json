@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "formbricks-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/formbricks-automation",
+  "branch": "main",
+  "sha": "e56b8c8788670dbf2a046d2ce56b94059d5c6474",
+  "source": "manual"
+}

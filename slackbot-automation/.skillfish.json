@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "slackbot-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/slackbot-automation",
+  "branch": "main",
+  "sha": "d425d014eb5ffda7bb2a9192f43b07bfb0d681aa",
+  "source": "manual"
+}

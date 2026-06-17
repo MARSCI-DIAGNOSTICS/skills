@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zenserp-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/zenserp-automation",
+  "branch": "main",
+  "sha": "1717e4486da8b23b65e8fe3029e6c1b47dc039bf",
+  "source": "manual"
+}

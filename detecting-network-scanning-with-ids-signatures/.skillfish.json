@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-network-scanning-with-ids-signatures",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-network-scanning-with-ids-signatures",
+  "branch": "master",
+  "sha": "d92f49b5a7625fac94b1ee92440f10df8219859b",
+  "source": "manual"
+}

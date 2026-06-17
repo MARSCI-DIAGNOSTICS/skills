@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-threat-landscape-with-misp",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/analyzing-threat-landscape-with-misp",
+  "branch": "master",
+  "sha": "56f1ccf634202c9b03cfd797d929e97831acdcaa",
+  "source": "manual"
+}

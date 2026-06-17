@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "building-detection-rule-with-splunk-spl",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/building-detection-rule-with-splunk-spl",
+  "branch": "master",
+  "sha": "525857b7caf4855e24dd743c11f2fd1ddf299647",
+  "source": "manual"
+}

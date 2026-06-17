@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "capsule_crm-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/capsule_crm-automation",
+  "branch": "main",
+  "sha": "975304352dc5b4b324435689932413e55dbc64ec",
+  "source": "manual"
+}

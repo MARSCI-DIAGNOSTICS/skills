@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "create-github-action-workflow-specification",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/create-github-action-workflow-specification",
+  "branch": "main",
+  "sha": "ee740bda6b10915c695084fced55fb4067bebd6b",
+  "source": "manual"
+}

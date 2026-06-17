@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "workiom-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/workiom-automation",
+  "branch": "main",
+  "sha": "01a1cba42e14a40cf3e1e9a92e86e9879d6bf559",
+  "source": "manual"
+}

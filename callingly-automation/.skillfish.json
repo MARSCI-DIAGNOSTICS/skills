@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "callingly-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/callingly-automation",
+  "branch": "main",
+  "sha": "cf801acb64d5c2ca02f303d24986409495977546",
+  "source": "manual"
+}

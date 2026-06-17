@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "benchmark-email-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/benchmark-email-automation",
+  "branch": "main",
+  "sha": "44d78ea96f1aab4919e263acf29f0fddb331c0d2",
+  "source": "manual"
+}

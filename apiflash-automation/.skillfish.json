@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "apiflash-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/apiflash-automation",
+  "branch": "main",
+  "sha": "65e6f86a3611f6ee6cec4cffb8ce980f8e663c04",
+  "source": "manual"
+}

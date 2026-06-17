@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "metrics-dashboard",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "project-management/discovery/metrics-dashboard",
+  "branch": "main",
+  "sha": "9eea9bcd843bb788b062398565cf6088be6d2e10",
+  "source": "manual"
+}

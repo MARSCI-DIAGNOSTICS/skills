@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "apex27-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/apex27-automation",
+  "branch": "main",
+  "sha": "89fdaad80c560d649d014526a8f35f3e42198523",
+  "source": "manual"
+}

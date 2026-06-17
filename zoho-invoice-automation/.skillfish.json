@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zoho-invoice-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/zoho-invoice-automation",
+  "branch": "main",
+  "sha": "25539e2b2e750e355b38ee948af8f0e9bdb6eae2",
+  "source": "manual"
+}

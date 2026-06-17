@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "helpwise-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/helpwise-automation",
+  "branch": "main",
+  "sha": "07cb8d1f126ae9a2a0e772a33bf22d3c1d525013",
+  "source": "manual"
+}

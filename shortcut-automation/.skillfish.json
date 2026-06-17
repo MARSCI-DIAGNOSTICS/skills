@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "shortcut-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/shortcut-automation",
+  "branch": "main",
+  "sha": "282f3565855177118bb5ce9237b59d9bebff5596",
+  "source": "manual"
+}

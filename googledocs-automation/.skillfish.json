@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "googledocs-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/googledocs-automation",
+  "branch": "main",
+  "sha": "4b995e80c5f25ad4f59bb0b3faf019b97415add0",
+  "source": "manual"
+}

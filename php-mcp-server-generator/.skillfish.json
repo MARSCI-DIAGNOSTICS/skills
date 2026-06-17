@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "php-mcp-server-generator",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/php-mcp-server-generator",
+  "branch": "main",
+  "sha": "f54a043828d26dbc214f2314b9ed1cfed320327a",
+  "source": "manual"
+}

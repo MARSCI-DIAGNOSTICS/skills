@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "eventzilla-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/eventzilla-automation",
+  "branch": "main",
+  "sha": "a5c2820a43fe128608644561c4a9f9030210209d",
+  "source": "manual"
+}

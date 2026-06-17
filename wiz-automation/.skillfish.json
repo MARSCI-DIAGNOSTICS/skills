@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "wiz-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/wiz-automation",
+  "branch": "main",
+  "sha": "263ff78e5ff8494d9518bfe433ff22b3ba738bcc",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "leverly-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/leverly-automation",
+  "branch": "main",
+  "sha": "d52045d4cb52b92ca04d289f82037982b37d0a3b",
+  "source": "manual"
+}

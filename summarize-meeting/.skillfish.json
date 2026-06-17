@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "summarize-meeting",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "project-management/execution/summarize-meeting",
+  "branch": "main",
+  "sha": "bf23c901999076ee4c0e4540b12f8f898115df5f",
+  "source": "manual"
+}

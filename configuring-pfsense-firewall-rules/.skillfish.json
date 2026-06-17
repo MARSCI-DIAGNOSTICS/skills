@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "configuring-pfsense-firewall-rules",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/configuring-pfsense-firewall-rules",
+  "branch": "master",
+  "sha": "db7d7daffb5f4a6e1ac8e16e9dbfbedcc6b5d226",
+  "source": "manual"
+}

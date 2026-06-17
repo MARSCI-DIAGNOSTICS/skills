@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "renderform-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/renderform-automation",
+  "branch": "main",
+  "sha": "5716419d7f171e337bcb26981dba9877b2fec804",
+  "source": "manual"
+}

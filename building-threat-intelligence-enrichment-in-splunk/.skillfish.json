@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "building-threat-intelligence-enrichment-in-splunk",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/building-threat-intelligence-enrichment-in-splunk",
+  "branch": "master",
+  "sha": "9c1abe038a93e90dba293718f1322dab9f248cbd",
+  "source": "manual"
+}

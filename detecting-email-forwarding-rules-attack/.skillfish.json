@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-email-forwarding-rules-attack",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-email-forwarding-rules-attack",
+  "branch": "master",
+  "sha": "b9db2f7ba026d2332c7a90e8bc39d757c50bb4bc",
+  "source": "manual"
+}

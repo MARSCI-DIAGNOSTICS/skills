@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "composio-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/composio-automation",
+  "branch": "main",
+  "sha": "98120ce5cc0721639a1ab3030ce35580d1dc2dfc",
+  "source": "manual"
+}

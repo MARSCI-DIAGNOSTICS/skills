@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "playwright-generate-test",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/playwright-generate-test",
+  "branch": "main",
+  "sha": "80b315fa5ec450946b5eb78c19fbd989dff33b11",
+  "source": "manual"
+}

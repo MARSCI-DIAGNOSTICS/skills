@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "business-intelligence",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "data-analytics/business-intelligence",
+  "branch": "main",
+  "sha": "29e758c0689c2b30dd334b05b144aaa02704039c",
+  "source": "manual"
+}

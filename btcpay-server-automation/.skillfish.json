@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "btcpay-server-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/btcpay-server-automation",
+  "branch": "main",
+  "sha": "0dc80023b9861e32ba6beeb1ba08cf9cbd6ae260",
+  "source": "manual"
+}

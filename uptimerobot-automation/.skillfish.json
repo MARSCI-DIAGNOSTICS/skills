@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "uptimerobot-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/uptimerobot-automation",
+  "branch": "main",
+  "sha": "1f5cb5e9c0b2aec53939d0b53bbe1365f2b2a88e",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "heyreach-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/heyreach-automation",
+  "branch": "main",
+  "sha": "204c0aaa1982adb65caeb2fe897b266665cd4558",
+  "source": "manual"
+}

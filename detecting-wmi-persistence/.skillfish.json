@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-wmi-persistence",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-wmi-persistence",
+  "branch": "master",
+  "sha": "5adb964b3648c1851d8fbd2b334f88b9f6a5d21b",
+  "source": "manual"
+}

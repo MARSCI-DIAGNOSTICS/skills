@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docmosis-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/docmosis-automation",
+  "branch": "main",
+  "sha": "ff8421d3f9a3dc09d9206cbfd73f7383d5a70301",
+  "source": "manual"
+}

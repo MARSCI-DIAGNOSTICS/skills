@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "highlevel-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/highlevel-automation",
+  "branch": "main",
+  "sha": "24fa7f45aad45666f35cdfc59825a1532fc1657d",
+  "source": "manual"
+}

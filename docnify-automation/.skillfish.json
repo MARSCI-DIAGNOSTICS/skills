@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docnify-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/docnify-automation",
+  "branch": "main",
+  "sha": "490ad85cea738928b887a4113ef52a0c8d2393ab",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "microsoft-docs",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/microsoft-docs",
+  "branch": "main",
+  "sha": "d66aaa670375a865b6547772f19117374b6e38a7",
+  "source": "manual"
+}

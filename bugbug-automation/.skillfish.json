@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bugbug-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/bugbug-automation",
+  "branch": "main",
+  "sha": "d00c0474e749d3a033b9ecd028d22b7e3f62fad7",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "groqcloud-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/groqcloud-automation",
+  "branch": "main",
+  "sha": "5784dc14a796a5a60b6ec81963ee337df52723f7",
+  "source": "manual"
+}

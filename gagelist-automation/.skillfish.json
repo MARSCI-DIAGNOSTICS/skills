@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gagelist-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/gagelist-automation",
+  "branch": "main",
+  "sha": "c56ab9b77ac373d650a4dd4bff7c168565c5f8bc",
+  "source": "manual"
+}

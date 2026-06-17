@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "twitch-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/twitch-automation",
+  "branch": "main",
+  "sha": "d1ae1b17ba0f508125a981ce559c0be825810a5d",
+  "source": "manual"
+}

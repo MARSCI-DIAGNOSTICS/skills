@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "kubestellar-console",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/kubestellar-console",
+  "branch": "main",
+  "sha": "33c8467b9a014c36722fb7745be777f60f5a36b1",
+  "source": "manual"
+}

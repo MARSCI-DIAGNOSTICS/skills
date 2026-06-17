@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "postgrid-verify-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/postgrid-verify-automation",
+  "branch": "main",
+  "sha": "6cde457e8f6bd79257a4f0d8b4a3bb52816322b5",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ui-a11y",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/ui-a11y",
+  "branch": "main",
+  "sha": "d7e359e0d2e7e405b96ba665cb979a9aa666db88",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hugging-face-gradio",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/hugging-face-gradio",
+  "branch": "main",
+  "sha": "7e0cadb9323409a486f85da3e84abf0ed229b8b1",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "test-scenarios",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "project-management/execution/test-scenarios",
+  "branch": "main",
+  "sha": "cd4bb3931c2094384bb9ee0bd220c08f14448440",
+  "source": "manual"
+}

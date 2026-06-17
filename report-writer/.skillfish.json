@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "report-writer",
+  "owner": "hidorakai002",
+  "repo": "ai-workspace-archive",
+  "path": "ai_agent_frameworks/major_frameworks/camel/examples/toolkits/skill_toolkit_example/.camel/skills/report-writer",
+  "branch": "main",
+  "sha": "11031ec8e32d069358b64fb1f17d13b88a368a01",
+  "source": "manual"
+}

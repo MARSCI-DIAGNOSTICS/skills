@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "canny-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/canny-automation",
+  "branch": "main",
+  "sha": "80ab5942c76360d082e997eea4c2f243e7ee217e",
+  "source": "manual"
+}

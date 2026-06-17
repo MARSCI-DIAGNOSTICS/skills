@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "microsoft-clarity-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/microsoft-clarity-automation",
+  "branch": "main",
+  "sha": "9c2e12fda46a0d191519de0462868abe181d0091",
+  "source": "manual"
+}

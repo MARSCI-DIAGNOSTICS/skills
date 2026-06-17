@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "monte-carlo-monitor-creation",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/monte-carlo-monitor-creation",
+  "branch": "main",
+  "sha": "de06735a4a74e5930359958da62fd4045893febc",
+  "source": "manual"
+}

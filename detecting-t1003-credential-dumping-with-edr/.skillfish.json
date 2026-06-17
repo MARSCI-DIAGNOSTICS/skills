@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-t1003-credential-dumping-with-edr",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-t1003-credential-dumping-with-edr",
+  "branch": "master",
+  "sha": "f6a6d2edaa83997162b397443ce5afdf440ebc14",
+  "source": "manual"
+}

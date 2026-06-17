@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "implementing-soar-playbook-with-palo-alto-xsoar",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/implementing-soar-playbook-with-palo-alto-xsoar",
+  "branch": "master",
+  "sha": "c4e4a3d8e0271c2b766c9dd29515bb7ca35bd648",
+  "source": "manual"
+}

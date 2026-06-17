@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "anti-sycophancy",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/anti-sycophancy",
+  "branch": "main",
+  "sha": "cd45282f6c98632098c454b3a5f7c9490da602d1",
+  "source": "manual"
+}

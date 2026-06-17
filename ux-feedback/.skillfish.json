@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ux-feedback",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/ux-feedback",
+  "branch": "main",
+  "sha": "6ed2c3e454dfca3d98e2d3744ed19fa0fa938e10",
+  "source": "manual"
+}

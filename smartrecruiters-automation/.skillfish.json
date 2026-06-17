@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "smartrecruiters-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/smartrecruiters-automation",
+  "branch": "main",
+  "sha": "4afdd4faae52153952b2a8ec15f84c62555651b7",
+  "source": "manual"
+}

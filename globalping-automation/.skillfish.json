@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "globalping-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/globalping-automation",
+  "branch": "main",
+  "sha": "518df6f2744812ef8620ea9c776dbea068f65cdb",
+  "source": "manual"
+}

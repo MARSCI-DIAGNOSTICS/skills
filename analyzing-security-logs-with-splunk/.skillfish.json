@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-security-logs-with-splunk",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/analyzing-security-logs-with-splunk",
+  "branch": "master",
+  "sha": "2e8810c5f3b5891951c7a19b991b69ca0b5ea986",
+  "source": "manual"
+}

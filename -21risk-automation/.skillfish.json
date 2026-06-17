@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "-21risk-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/-21risk-automation",
+  "branch": "main",
+  "sha": "67bc49db6b64f99a263c0ca3cabcdcef92029e2d",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ticktick-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ticktick-automation",
+  "branch": "main",
+  "sha": "f99eff3b386f10a4143bb9714284b7ce91f32702",
+  "source": "manual"
+}

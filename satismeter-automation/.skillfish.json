@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "satismeter-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/satismeter-automation",
+  "branch": "main",
+  "sha": "b21a013b2d53c46be3e16aa69d6762c6b7fc3e1b",
+  "source": "manual"
+}

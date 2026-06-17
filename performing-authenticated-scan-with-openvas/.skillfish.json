@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "performing-authenticated-scan-with-openvas",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/performing-authenticated-scan-with-openvas",
+  "branch": "master",
+  "sha": "c57eef2d9afeaf689277ab9149428d6b9604013b",
+  "source": "manual"
+}

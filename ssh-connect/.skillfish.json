@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ssh-connect",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/mcp-proxmox-admin/ssh-connect",
+  "branch": "main",
+  "sha": "b41141bf0f64fd163f2d53d98bf58353e4f69b00",
+  "source": "manual"
+}

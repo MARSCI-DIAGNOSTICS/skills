@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "apollo-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/apollo-automation",
+  "branch": "main",
+  "sha": "58d71e03ae123bf6ea7538d1fcdae01a733fd30f",
+  "source": "manual"
+}

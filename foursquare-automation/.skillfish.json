@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "foursquare-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/foursquare-automation",
+  "branch": "main",
+  "sha": "1f1fa2a5de1e60fbdd1e6de92a3f044b36af93ee",
+  "source": "manual"
+}

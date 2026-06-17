@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "salesmate-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/salesmate-automation",
+  "branch": "main",
+  "sha": "7e6f7067c18d5f43a914d11f7d35dcd458e546a5",
+  "source": "manual"
+}

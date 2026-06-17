@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "video-content-extractor",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/video-content-extractor",
+  "branch": "main",
+  "sha": "6e6b355b6404702d84aadcf6f7aa06061a3fd856",
+  "source": "manual"
+}

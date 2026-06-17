@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "e2e-test",
+  "owner": "hideki5123",
+  "repo": "agent-skill-set",
+  "path": "e2e-test",
+  "branch": "master",
+  "sha": "985e836659e591dd400ef49f37fd372da47ba9cd",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "openweather-api-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/openweather-api-automation",
+  "branch": "main",
+  "sha": "b5beb0716b4708bac4a7f1e15fffbdeaa20b4f22",
+  "source": "manual"
+}

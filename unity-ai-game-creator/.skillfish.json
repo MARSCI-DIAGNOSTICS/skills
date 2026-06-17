@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "unity-ai-game-creator",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/unity-ai-game-creator",
+  "branch": "main",
+  "sha": "6f0774585548e77daeebf94c7bb04584416eb783",
+  "source": "manual"
+}

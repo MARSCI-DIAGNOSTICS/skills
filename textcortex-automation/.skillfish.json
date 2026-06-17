@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "textcortex-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/textcortex-automation",
+  "branch": "main",
+  "sha": "45b8c0ca4f2100f95e19424369d41ec7d1d5845a",
+  "source": "manual"
+}

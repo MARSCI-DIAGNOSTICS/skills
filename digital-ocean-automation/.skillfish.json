@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "digital-ocean-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/digital-ocean-automation",
+  "branch": "main",
+  "sha": "32fc331c7319393ae9e206b0a9158c67edce515e",
+  "source": "manual"
+}

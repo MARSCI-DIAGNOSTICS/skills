@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "my-issues",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/my-issues",
+  "branch": "main",
+  "sha": "10e07ccfdbfa7fe07f370dbfb10d4733bcb04d27",
+  "source": "manual"
+}

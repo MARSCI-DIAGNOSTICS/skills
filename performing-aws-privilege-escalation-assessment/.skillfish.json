@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "performing-aws-privilege-escalation-assessment",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/performing-aws-privilege-escalation-assessment",
+  "branch": "master",
+  "sha": "6bd7039c2f0d2cd750d9136a9d51be46c664a736",
+  "source": "manual"
+}

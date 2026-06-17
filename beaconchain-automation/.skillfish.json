@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "beaconchain-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/beaconchain-automation",
+  "branch": "main",
+  "sha": "b817ab26d31dbb1364c3597e0df656bc78c1d7b6",
+  "source": "manual"
+}

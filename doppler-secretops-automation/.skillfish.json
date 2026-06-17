@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "doppler-secretops-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/doppler-secretops-automation",
+  "branch": "main",
+  "sha": "5f5417071fa899aa3a663d69641b70a68006d734",
+  "source": "manual"
+}

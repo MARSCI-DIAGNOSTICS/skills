@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "melo-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/melo-automation",
+  "branch": "main",
+  "sha": "111904320fd22ce71b4dfeca7ba6987c565b3afa",
+  "source": "manual"
+}

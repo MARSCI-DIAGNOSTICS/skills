@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "typespec-create-api-plugin",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/typespec-create-api-plugin",
+  "branch": "main",
+  "sha": "1d4741b1905ce32ed2b4934ee3949cab91f89767",
+  "source": "manual"
+}

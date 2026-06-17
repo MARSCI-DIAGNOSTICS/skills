@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "centralstationcrm-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/centralstationcrm-automation",
+  "branch": "main",
+  "sha": "836d1ba90c15b712052bbb788d3ad1ef322f89d6",
+  "source": "manual"
+}

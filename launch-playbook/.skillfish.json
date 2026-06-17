@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "launch-playbook",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "project-management/execution/launch-playbook",
+  "branch": "main",
+  "sha": "e605f2921090a0543f8df6a4b2e36aa84ac5821d",
+  "source": "manual"
+}

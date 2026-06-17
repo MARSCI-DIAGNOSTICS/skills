@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ffuf-web-fuzzing",
+  "owner": "satnamrsm",
+  "repo": "https-github.com-sickn33-antigravity-awesome-skills",
+  "path": "skills/ffuf-web-fuzzing",
+  "branch": "main",
+  "sha": "bc1a86dc6cd1bf3eb528510de3bd2b71582f19a5",
+  "source": "manual"
+}

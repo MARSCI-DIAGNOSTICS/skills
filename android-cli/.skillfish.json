@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "android-cli",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/android-cli",
+  "branch": "main",
+  "sha": "710b1339dbdb00ba7065cdc693e04a41e16a93b6",
+  "source": "manual"
+}

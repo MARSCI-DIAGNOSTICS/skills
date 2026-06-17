@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "performing-kubernetes-cis-benchmark-with-kube-bench",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/performing-kubernetes-cis-benchmark-with-kube-bench",
+  "branch": "master",
+  "sha": "6bb3d720a219d66f41964896246fb09c24b07a28",
+  "source": "manual"
+}

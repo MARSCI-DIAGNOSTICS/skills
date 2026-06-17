@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "nist-csf-specialist",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "ra-qm-team/nist-csf-specialist",
+  "branch": "main",
+  "sha": "93facfe6098d58781f23a1b537817f60d085c368",
+  "source": "manual"
+}

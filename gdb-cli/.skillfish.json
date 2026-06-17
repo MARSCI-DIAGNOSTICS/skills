@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gdb-cli",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/gdb-cli",
+  "branch": "main",
+  "sha": "1035c6131dc59daa6b64639cfe019775c6a0a09e",
+  "source": "manual"
+}

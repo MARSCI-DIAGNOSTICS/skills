@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "create-github-issue-feature-from-specification",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/create-github-issue-feature-from-specification",
+  "branch": "main",
+  "sha": "200d493d9bf618fa2ce34e45f773f8ba03d820c4",
+  "source": "manual"
+}

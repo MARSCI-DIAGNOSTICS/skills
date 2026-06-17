@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pdf4me-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/pdf4me-automation",
+  "branch": "main",
+  "sha": "088f0236feb590527aa471d3b7e3a1b329a32082",
+  "source": "manual"
+}

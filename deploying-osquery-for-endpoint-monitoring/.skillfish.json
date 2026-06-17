@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "deploying-osquery-for-endpoint-monitoring",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/deploying-osquery-for-endpoint-monitoring",
+  "branch": "master",
+  "sha": "b48a7dccf27fbb34e501dde59c6366a711cc9775",
+  "source": "manual"
+}

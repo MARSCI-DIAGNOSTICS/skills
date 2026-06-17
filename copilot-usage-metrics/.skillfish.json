@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "copilot-usage-metrics",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/copilot-usage-metrics",
+  "branch": "main",
+  "sha": "c624955b348dbd9e51d83fa906896e8fce1c187c",
+  "source": "manual"
+}

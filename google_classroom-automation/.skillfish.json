@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "google_classroom-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/google_classroom-automation",
+  "branch": "main",
+  "sha": "0d74ac019359effe54d272822d4ccb3a0657a1ca",
+  "source": "manual"
+}

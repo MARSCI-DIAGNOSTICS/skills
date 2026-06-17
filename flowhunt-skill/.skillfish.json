@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "flowhunt-skill",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/flowhunt-skill",
+  "branch": "main",
+  "sha": "32871f7ee868b56f31417821f0b74cd2f880ed7e",
+  "source": "manual"
+}

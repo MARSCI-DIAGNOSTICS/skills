@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zylvie-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/zylvie-automation",
+  "branch": "main",
+  "sha": "3ee761c9478b3b0c58d3524181d21efdaf3fbc5b",
+  "source": "manual"
+}

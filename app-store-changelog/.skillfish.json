@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "app-store-changelog",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/app-store-changelog",
+  "branch": "main",
+  "sha": "9e1f83e2f766eb6b01671ff62f2bbee6a61ae1f9",
+  "source": "manual"
+}

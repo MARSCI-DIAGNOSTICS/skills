@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "altoviz-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/altoviz-automation",
+  "branch": "main",
+  "sha": "0c5a20a3bd2c6ddba56cf12f6b0fb77aa9f9608a",
+  "source": "manual"
+}

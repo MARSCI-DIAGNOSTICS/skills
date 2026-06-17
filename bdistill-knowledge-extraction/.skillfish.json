@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bdistill-knowledge-extraction",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/bdistill-knowledge-extraction",
+  "branch": "main",
+  "sha": "be96a86f8e413eeafc6cda9d2e26395175e5c0df",
+  "source": "manual"
+}

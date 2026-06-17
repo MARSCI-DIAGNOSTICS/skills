@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ko-fi-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ko-fi-automation",
+  "branch": "main",
+  "sha": "8906d4584a7e7a0a2ea24120ee0983d26534dc8e",
+  "source": "manual"
+}

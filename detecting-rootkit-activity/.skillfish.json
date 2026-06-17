@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-rootkit-activity",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-rootkit-activity",
+  "branch": "master",
+  "sha": "7b5f40c63be5bb9bcdc81bf8ed7ccd54317bf19b",
+  "source": "manual"
+}

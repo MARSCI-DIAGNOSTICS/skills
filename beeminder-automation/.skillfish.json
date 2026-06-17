@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "beeminder-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/beeminder-automation",
+  "branch": "main",
+  "sha": "39f9b2e7a80c5dacbeee207cf640bbda673d3716",
+  "source": "manual"
+}

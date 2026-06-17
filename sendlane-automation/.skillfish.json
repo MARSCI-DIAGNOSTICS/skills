@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sendlane-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/sendlane-automation",
+  "branch": "main",
+  "sha": "ed4dcda229667b9a90aac4b094b3f83d7462b1b2",
+  "source": "manual"
+}

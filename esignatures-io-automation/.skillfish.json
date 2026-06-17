@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "esignatures-io-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/esignatures-io-automation",
+  "branch": "main",
+  "sha": "7dfa5a7001b71671e709608ca0007981c7565128",
+  "source": "manual"
+}

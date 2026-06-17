@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agentflow",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/agentflow",
+  "branch": "main",
+  "sha": "a7aad4b6b66a60ae10d66ac78d4a863f3c390056",
+  "source": "manual"
+}

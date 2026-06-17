@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "verifiedemail-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/verifiedemail-automation",
+  "branch": "main",
+  "sha": "11f6d4b3855d7e156e4d17d0cb224e0dd6be40e7",
+  "source": "manual"
+}

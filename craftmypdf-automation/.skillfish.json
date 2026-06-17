@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "craftmypdf-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/craftmypdf-automation",
+  "branch": "main",
+  "sha": "5ff4923b98a9d3fb9444e84e180a11f9e3d5a833",
+  "source": "manual"
+}

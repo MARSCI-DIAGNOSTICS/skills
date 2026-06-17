@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "make-repo-contribution",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/make-repo-contribution",
+  "branch": "main",
+  "sha": "00db961c2dfb0c27be715a37bf1ddc5ad1bc7185",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "heyzine-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/heyzine-automation",
+  "branch": "main",
+  "sha": "c15c695c0e9d46d28966738cf40cb87db5d26ba9",
+  "source": "manual"
+}

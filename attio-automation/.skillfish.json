@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "attio-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/attio-automation",
+  "branch": "main",
+  "sha": "c8cd1e8d0c3f8ee4856e44ade645f91806505419",
+  "source": "manual"
+}

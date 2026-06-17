@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "weekly-review",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "polyclaw/polyclaw-repo/plugins/second-brain-workiq/skills/weekly-review",
+  "branch": "main",
+  "sha": "c407d9752ed40c30330b919fa2e3766dbb390e98",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fixer-io-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/fixer-io-automation",
+  "branch": "main",
+  "sha": "deecfcb0d955593d0b9b383fb5467c99c747deef",
+  "source": "manual"
+}

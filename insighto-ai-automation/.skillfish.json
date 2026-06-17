@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "insighto-ai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/insighto-ai-automation",
+  "branch": "main",
+  "sha": "6d34640ed7e0c7999ad9c858d04252e7fa586b3c",
+  "source": "manual"
+}

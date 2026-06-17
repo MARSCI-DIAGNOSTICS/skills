@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "csharp-mcp-server-generator",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/csharp-mcp-server-generator",
+  "branch": "main",
+  "sha": "1fcb642ed5fcf7f86c51c0893715d00d76091932",
+  "source": "manual"
+}

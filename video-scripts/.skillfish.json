@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "video-scripts",
+  "owner": "nathanjgaul",
+  "repo": "plugins",
+  "path": "plugins/dev-course-builder/skills/video-scripts",
+  "branch": "main",
+  "sha": "cc994fc5c5234168967a679a71b7602c28d5ecdd",
+  "source": "manual"
+}

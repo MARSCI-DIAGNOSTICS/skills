@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hugging-face-community-evals",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/hugging-face-community-evals",
+  "branch": "main",
+  "sha": "d6376ac2acb8b2c16cb46c493216623cc1d0191b",
+  "source": "manual"
+}

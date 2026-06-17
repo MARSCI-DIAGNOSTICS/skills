@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "algodocs-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/algodocs-automation",
+  "branch": "main",
+  "sha": "c5497fbf2873b02dec5bff087113ba78d69b44a8",
+  "source": "manual"
+}

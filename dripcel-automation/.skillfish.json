@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dripcel-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/dripcel-automation",
+  "branch": "main",
+  "sha": "11c72638f695aa5cfa2cebbd69ecdc806aad8eb0",
+  "source": "manual"
+}

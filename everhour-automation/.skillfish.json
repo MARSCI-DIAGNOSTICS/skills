@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "everhour-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/everhour-automation",
+  "branch": "main",
+  "sha": "422047c2921fd07aaa7d384751049af15787dc85",
+  "source": "manual"
+}

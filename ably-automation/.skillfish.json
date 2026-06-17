@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ably-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ably-automation",
+  "branch": "main",
+  "sha": "50a2be3ab3a8c73902ebc133297676ab23ad1498",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "examprep-ai",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/examprep-ai",
+  "branch": "main",
+  "sha": "71488fb67491b6f4d20a3c6ae3a5d9995d61a771",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "odoo-migration-helper",
+  "owner": "satnamrsm",
+  "repo": "https-github.com-sickn33-antigravity-awesome-skills",
+  "path": "skills/odoo-migration-helper",
+  "branch": "main",
+  "sha": "cfd84e1cfa71b2e96d5aaae605ef0300c155ec33",
+  "source": "manual"
+}

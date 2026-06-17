@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-modbus-command-injection-attacks",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-modbus-command-injection-attacks",
+  "branch": "master",
+  "sha": "70c3e530416aeb756238b7fe9ef2b79cd2228f5e",
+  "source": "manual"
+}

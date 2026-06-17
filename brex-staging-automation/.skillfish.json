@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "brex-staging-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/brex-staging-automation",
+  "branch": "main",
+  "sha": "7ecaa22afc9e5d6ed294016f57488eb93bd162f2",
+  "source": "manual"
+}

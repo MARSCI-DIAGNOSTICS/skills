@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "collecting-indicators-of-compromise",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/collecting-indicators-of-compromise",
+  "branch": "master",
+  "sha": "c8d640de634400afea4390253cb74d940d087d5d",
+  "source": "manual"
+}

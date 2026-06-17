@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "moco-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/moco-automation",
+  "branch": "main",
+  "sha": "db16f67b359ad0592fce020f0a84ccedb09edc27",
+  "source": "manual"
+}

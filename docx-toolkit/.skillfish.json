@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docx-toolkit",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "documents/docx-toolkit",
+  "branch": "main",
+  "sha": "28b12007c921ab55314943b30ee50c1ec5c6e6b6",
+  "source": "manual"
+}

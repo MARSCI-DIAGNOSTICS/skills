@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "wave_accounting-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/wave_accounting-automation",
+  "branch": "main",
+  "sha": "6d60128eedd103dc46e53599bd6ebb3dcf051687",
+  "source": "manual"
+}

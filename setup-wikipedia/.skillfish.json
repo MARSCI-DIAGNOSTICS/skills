@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "setup-wikipedia",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "polyclaw/polyclaw-repo/plugins/wikipedia-lookup/skills/setup-wikipedia",
+  "branch": "main",
+  "sha": "ab071ce331234ec39449eaf9ad3f115bf3d69917",
+  "source": "manual"
+}

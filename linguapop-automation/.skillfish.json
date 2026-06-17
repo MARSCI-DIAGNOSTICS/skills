@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "linguapop-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/linguapop-automation",
+  "branch": "main",
+  "sha": "3a6e3ed485fea7392cf4ea0076eb0858cc7cace0",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "poptin-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/poptin-automation",
+  "branch": "main",
+  "sha": "2b0bc1d45d8a26d6ce20257a5305cc32b0bf701f",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mistral_ai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/mistral_ai-automation",
+  "branch": "main",
+  "sha": "daa14beaedc8dd822926386018685f9de5619e79",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "procfu-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/procfu-automation",
+  "branch": "main",
+  "sha": "148c5ddb555a98d31ccf58ae27d94dfa8e59d9ce",
+  "source": "manual"
+}

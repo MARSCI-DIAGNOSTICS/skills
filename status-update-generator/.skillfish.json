@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "status-update-generator",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "project-management/execution/status-update-generator",
+  "branch": "main",
+  "sha": "526341fd40978fd9f597ce8e6e02f76a55dfd664",
+  "source": "manual"
+}

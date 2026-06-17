@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-static-web-apps",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/azure-static-web-apps",
+  "branch": "main",
+  "sha": "f0cb53abab29a33c9b30b93c3c9f2d30fff76ef1",
+  "source": "manual"
+}

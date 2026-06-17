@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "blocknative-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/blocknative-automation",
+  "branch": "main",
+  "sha": "57bf865236d10e60934f07fc170b8090938c429b",
+  "source": "manual"
+}

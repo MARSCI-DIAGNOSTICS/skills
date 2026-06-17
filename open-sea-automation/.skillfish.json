@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "open-sea-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/open-sea-automation",
+  "branch": "main",
+  "sha": "458130d98b9551b0f49f34357bf666699f642d67",
+  "source": "manual"
+}

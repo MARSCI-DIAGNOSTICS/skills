@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dynamics365-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/dynamics365-automation",
+  "branch": "main",
+  "sha": "464924c9304324393f5d9ef0e7ee48a21d7d0730",
+  "source": "manual"
+}

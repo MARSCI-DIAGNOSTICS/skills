@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "clarvia-aeo-check",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/clarvia-aeo-check",
+  "branch": "main",
+  "sha": "6b17852f304587ad00e413b5a40ad48161cc7999",
+  "source": "manual"
+}

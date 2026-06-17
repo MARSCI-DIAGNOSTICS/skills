@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "release-orchestrator",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "engineering/release-orchestrator",
+  "branch": "main",
+  "sha": "b0996a49a29a46d139c3e21117696e852fd9ccb7",
+  "source": "manual"
+}

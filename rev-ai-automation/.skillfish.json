@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rev-ai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/rev-ai-automation",
+  "branch": "main",
+  "sha": "2de765df3609d0980920576ce8120f4659e409c4",
+  "source": "manual"
+}

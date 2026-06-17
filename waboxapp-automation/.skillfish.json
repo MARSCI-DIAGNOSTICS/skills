@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "waboxapp-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/waboxapp-automation",
+  "branch": "main",
+  "sha": "a65dd5c0d9ab48ada2961fae72deb98574a83119",
+  "source": "manual"
+}

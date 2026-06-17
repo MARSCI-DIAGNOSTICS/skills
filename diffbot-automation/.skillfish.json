@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "diffbot-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/diffbot-automation",
+  "branch": "main",
+  "sha": "f64476b3b114afced911fec409a624fd9009ceb7",
+  "source": "manual"
+}

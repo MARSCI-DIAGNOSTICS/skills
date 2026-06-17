@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dovetail-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/dovetail-automation",
+  "branch": "main",
+  "sha": "cbeb683eab396fe99eb8024ab4f1d08b391d9012",
+  "source": "manual"
+}

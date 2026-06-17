@@ -1,0 +1,1150 @@
+---
+name: html-presentation-generator
+description: "Generate professional multi-page HTML presentations (PPT) exportable to PDF/PPTX. Covers cover pages, table of contents, section dividers, content pages, and summary/closing slides. TRIGGERS: PPT, presentation, slides, 演示文稿, 幻灯片, HTML PPT, slide deck, 制作PPT, make slides, create presentation."
+---
+
+# HTML Presentation Generator
+
+## Overview
+
+This skill creates professional multi-page HTML-based presentations that can be exported to PDF / PPTX. Each slide is a standalone HTML file with fixed 960×540 dimensions. The skill covers all slide types: cover pages, table of contents, section dividers, content pages (text, mixed media, data visualization, comparison, timeline, image showcase), and summary/closing pages. It handles color palette selection, font pairing, visual style tokens, layout design, SVG decorations, and PPTX conversion constraints.
+
+## Workflow
+
+Follow these steps in order for every presentation:
+
+### Step 1 — Research (if needed)
+
+If you are not familiar with the topic of the presentation, research the background first. Gather, validate, and analyze information from diverse sources. Prioritize official/authoritative sources. For complex topics, read primary sources rather than relying on search snippets. Verify key facts from multiple independent sources.
+
+### Step 2 — Color Palette & Font Selection
+
+1. Review the **Color Palettes** section below and select a palette that matches the topic, audience, and tone.
+2. Font is mandatory: **Times New Roman** for both Chinese and English text.
+   - `font-family: "Times New Roman", serif`
+   - No other fonts are allowed.
+
+### Step 3 — Plan the PPT Outline
+
+1. Review the **Slide Page Types** section and classify every slide as exactly one of the 5 types.
+2. Plan the full outline: cover → TOC → (section divider → content pages)× → summary/closing.
+3. Determine content subtypes for each content page (Text, Mixed Media, Data Visualization, Comparison, Timeline/Process, Image Showcase).
+4. Ensure layout variety — each content slide should use a different layout from the previous one.
+
+### Step 4 — Generate Each Slide
+
+For each slide, follow the type-specific guidance below. Key rules for ALL slides:
+
+1. **File naming**: `slides/slide-01.html`, `slides/slide-02.html`, etc.
+2. **Images directory**: `slides/imgs/`
+3. **Dimensions**: `.slide-content` must be 960×540px.
+4. **Font**: Times New Roman for all text (Chinese and English).
+5. **Include Appendix A scaling snippet** in every HTML file.
+6. **All CSS must be inline** (except Appendix A snippet). No `<style>` blocks, no external stylesheets, no CSS classes.
+7. **Background on `.slide-content` directly** — do NOT create a nested full-size background DIV.
+8. **Colors**: Use ONLY the selected palette colors. No gradients. Only exception: opacity variations (e.g., `rgba(r,g,b,0.1)`).
+9. **No animations**: No CSS animations, transitions, hover effects, or SVG animations.
+10. **SVG for decorative shapes**: Use SVG for all decorative elements (dividers, badges, accents, shapes). Do NOT use CSS background/border for decorative shapes.
+11. **Page number badge**: MANDATORY on all slides except cover page (see Appendix G).
+12. **Image generation**: MANDATORY for cover pages and content pages. OPTIONAL for TOC, section dividers, and summary pages.
+13. **Verification**: After writing each HTML file, take a screenshot and verify: layout correctness, no text overlaps, no misplaced elements, page number badge present (where required).
+
+### Step 5 — Merge and Deploy
+
+After all slides are generated and verified, use the `deploy_html_presentation` tool to merge and deploy all pages into the final presentation.
+
+---
+
+## Slide Page Types
+
+### 1. Cover Page
+
+**Use for**: Opening + tone setting.
+
+**Content elements**:
+- **Main Title** (72–120px, bold) — Always required, most prominent
+- **Subtitle** (28–40px) — Additional context or tagline
+- **Supporting Text** (18–24px) — Presenter name, date, event info
+- **Meta Info** (14–18px) — Date, company name
+- **Icons / Logo** — When representing an organization
+- **Background Image** — MANDATORY (must generate via image tool)
+
+**Layout options**:
+
+#### Asymmetric Left-Right Layout
+Text concentrated on one side, image on the opposite. Best for corporate presentations, product launches.
+```
+|  Title & Subtitle  |    Visual/Image    |
+|  Description       |                    |
+```
+
+#### Center-Aligned Layout
+Content centered with background image. Best for inspirational talks, creative pitches.
+```
+|                                        |
+|           [Background Image]           |
+|              MAIN TITLE                |
+|              Subtitle                  |
+|                                        |
+```
+
+**Font size hierarchy**:
+
+| Element | Size | Ratio to Base |
+|---------|------|---------------|
+| Main Title | 72–120px | 3×–5× |
+| Subtitle | 28–40px | 1.5×–2× |
+| Supporting Text | 18–24px | 1× (base) |
+| Meta Info | 14–18px | 0.7×–1× |
+
+**Key principles**:
+- Dramatic contrast: main title at least 2–3× larger than subtitle
+- Never let adjacent text elements be within 20% of each other's size
+- The largest text becomes the focal point
+
+**Image generation is MANDATORY** — generate before writing HTML. Embed the returned file path. NEVER use placeholders.
+
+**No page number badge on cover page.**
+
+---
+
+### 2. Table of Contents
+
+**Use for**: Navigation + expectation setting (3–5 sections).
+
+**Content elements**:
+- **Page Title** ("Table of Contents", "Agenda", "Overview") — 36–44px
+- **Section Numbers** — 28–36px, bold, accent color
+- **Section Titles** — 20–28px
+- **Section Descriptions** — 14–16px (optional, one line max)
+- **Decorative Elements** — SVG dividers or accent shapes
+- **Page Number Badge** — MANDATORY (Appendix G)
+
+**Layout options**:
+
+#### Numbered Vertical List
+Best for 3–5 sections, straightforward presentations.
+```
+|  TABLE OF CONTENTS            |
+|  01  Section Title One        |
+|  02  Section Title Two        |
+|  03  Section Title Three      |
+```
+
+#### Two-Column Grid
+Best for 4–6 sections, content-rich presentations.
+```
+|  01  Section One   02  Section Two  |
+|  03  Section Three 04  Section Four |
+```
+
+#### Sidebar Navigation
+Narrow colored sidebar on left with section numbers, titles on right.
+```
+| ▌01 |  Section Title One           |
+| ▌02 |  Section Title Two           |
+```
+
+#### Card-Based Layout
+Each section as a card/block. Best for 3–4 sections, modern presentations.
+```
+|  ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐  |
+|  │ 01  │  │ 02  │  │ 03  │  │ 04  │  |
+|  └─────┘  └─────┘  └─────┘  └─────┘  |
+```
+
+**Decision framework**:
+- 3 sections → vertical list; 4–6 → grid or compact list; 7+ → multi-column
+- Match visual style of cover page
+- Image generation is OPTIONAL (most TOC slides work best with clean typography + SVG)
+
+---
+
+### 3. Section Divider
+
+**Use for**: Clear transitions between major parts.
+
+**Content elements**:
+- **Section Number** (72–120px, bold, accent color) — Always required, most prominent visual element
+- **Section Title** (36–48px, bold) — Always required
+- **Intro Text** (16–20px, light, muted) — Optional 1–2 line description
+- **Decorative Elements** — SVG accent shapes (bars, lines, geometric blocks)
+- **Page Number Badge** — MANDATORY (Appendix G)
+
+**Layout options**:
+
+#### Bold Center Layout
+```
+|                  02                    |
+|           SECTION TITLE               |
+|         Optional intro line           |
+```
+
+#### Left-Aligned with Accent Block
+```
+| ████ |  02                            |
+| ████ |  SECTION TITLE                 |
+| ████ |  Optional intro line           |
+```
+
+#### Split Background Layout
+```
+| ██████████ |     SECTION TITLE        |
+| ██  02  ██ |     Optional intro       |
+| ██████████ |                          |
+```
+
+#### Full-Bleed Background with Overlay
+```
+| ████████████████████████████████████  |
+| ████       large 02        █████████ |
+| ████    SECTION TITLE      █████████ |
+| ████████████████████████████████████  |
+```
+
+**Key principles**:
+- Section dividers are about bold simplicity — minimal content
+- Leave generous whitespace — dividers are pause moments
+- Use strong palette color for background or accent block
+- All dividers in one presentation should use the same style
+- Image generation is OPTIONAL (most work best with bold typography + solid colors + SVG)
+
+---
+
+### 4. Content Page
+
+Each content slide belongs to exactly ONE subtype. Choose based on content, then apply the matching layout.
+
+**Common elements for ALL content pages**:
+- **Slide Title** (36–44px, bold) — Always required, top of slide
+- **Body Text** (14–16px, regular weight, left-aligned) — Never center paragraphs or bullet lists
+- **Visual Element** — Always required (image, chart, icon, or SVG shape)
+- **Source / Caption** (10–12px, muted) — When showing data or external content
+- **Page Number Badge** — MANDATORY (Appendix G)
+
+**Font size hierarchy**:
+
+| Element | Size | Notes |
+|---------|------|-------|
+| Slide Title | 36–44px | Bold, top of slide |
+| Section Header | 20–24px | Bold, sub-sections within slide |
+| Body Text | 14–16px | Regular weight, left-aligned |
+| Captions / Source | 10–12px | Muted color, smallest text |
+| Stat Callout | 60–72px | Large bold numbers for key stats |
+
+**Image generation is MANDATORY** for all content pages — generate at least one image before writing HTML.
+
+#### Subtype: Text
+Bullets, quotes, or short paragraphs. Must include icons or SVG shapes — never plain text only.
+```
+|  SLIDE TITLE                          |
+|  • Bullet point one                   |
+|  • Bullet point two                   |
+|  • Bullet point three                 |
+```
+
+#### Subtype: Mixed Media
+Two-column layout or half-bleed image + text overlay.
+```
+|  SLIDE TITLE                          |
+|  Text content     |  [Image/Visual]   |
+|  and bullets      |                   |
+```
+
+#### Subtype: Data Visualization
+Chart (SVG bar/progress/ring) + 1–3 key takeaways. Must include data source.
+```
+|  SLIDE TITLE                          |
+|  [SVG Chart]      |  Key Takeaway 1   |
+|                   |  Key Takeaway 2   |
+|                   Source: xxx          |
+```
+
+#### Subtype: Comparison
+Side-by-side columns or cards (A vs B, pros/cons).
+```
+|  SLIDE TITLE                          |
+|  ┌─ Option A ─┐  ┌─ Option B ─┐      |
+|  │  Detail 1  │  │  Detail 1  │      |
+|  └────────────┘  └────────────┘      |
+```
+
+#### Subtype: Timeline / Process
+Steps with arrows, journey, or phases.
+```
+|  SLIDE TITLE                          |
+|  [1] ──→ [2] ──→ [3] ──→ [4]         |
+|  Step    Step    Step    Step          |
+```
+
+#### Subtype: Image Showcase
+Hero image, gallery, or visual-first layout.
+```
+|  SLIDE TITLE                          |
+|  ┌────────────────────────────────┐   |
+|  │         [Hero Image]           │   |
+|  └────────────────────────────────┘   |
+|  Caption or supporting text           |
+```
+
+**Content page design decision framework**:
+1. **Subtype** — determines the entire layout
+2. **Content Volume** — Dense → multi-column or smaller font; Light → larger elements with more whitespace
+3. **Data vs Narrative** — Data-heavy → charts + stat callouts; Story-driven → images + quotes
+4. **Variety** — Each content slide must use a different layout from the previous one
+5. **Consistency** — Typography, colors, and spacing must match rest of presentation
+
+---
+
+### 5. Summary / Closing Page
+
+**Use for**: Wrap-up + action.
+
+**Content elements**:
+- **Closing Title** (48–72px, bold) — "Summary", "Key Takeaways", "Thank You", "Next Steps"
+- **Takeaway Points** (18–24px) — 3–5 concise summary points
+- **Call to Action** (18–24px) — Clear next steps
+- **Contact Info** (14–16px, muted) — Email, website, social handles
+- **Decorative Elements** — SVG accents
+- **Page Number Badge** — MANDATORY (Appendix G)
+
+**Layout options**:
+
+#### Key Takeaways Layout
+```
+|  KEY TAKEAWAYS                        |
+|  ✓  Takeaway one                      |
+|  ✓  Takeaway two                      |
+|  ✓  Takeaway three                    |
+```
+
+#### CTA / Next Steps Layout
+```
+|  NEXT STEPS                           |
+|  [1] Action item one                  |
+|  [2] Action item two                  |
+|  Contact: email@example.com           |
+```
+
+#### Thank You / Contact Layout
+```
+|            THANK YOU                   |
+|         name@company.com              |
+|         @handle | website.com         |
+```
+
+#### Split Recap Layout
+```
+|  SUMMARY            |  NEXT STEPS      |
+|  • Point one        |  Contact us at   |
+|  • Point two        |  email@co.com    |
+```
+
+**Decision framework**:
+- Recap → takeaways layout; Action needed → CTA layout; Simple closing → thank-you
+- Match energy/tone of cover page
+- Image generation is OPTIONAL
+
+---
+
+## Color Palettes
+
+| # | Name | Colors | Style | Use Cases | Tips |
+|---|------|--------|-------|-----------|------|
+| 1 | 现代与健康 | `#006d77` `#83c5be` `#edf6f9` `#ffddd2` `#e29578` | 清新、治愈 | 医疗健康、心理咨询、护肤品、瑜伽Spa | 深青做标题，浅粉做背景 |
+| 2 | 商务与权威 | `#2b2d42` `#8d99ae` `#edf2f4` `#ef233c` `#d90429` | 严谨、经典 | 年度汇报、金融分析、企业介绍、政务报告 | 深蓝显专业，亮红强调数据 |
+| 3 | 自然与户外 | `#606c38` `#283618` `#fefae0` `#dda15e` `#bc6c25` | 沉稳、大地色 | 户外用品、环境保护、农业项目、历史文化 | 深绿为底，米色为字 |
+| 4 | 复古与学院 | `#780000` `#c1121f` `#fdf0d5` `#003049` `#669bbc` | 经典、书卷气 | 学术讲座、历史回顾、博物馆、复古品牌 | 深红与深蓝对比强烈 |
+| 5 | 柔美与创意 | `#cdb4db` `#ffc8dd` `#ffafcc` `#bde0fe` `#a2d2ff` | 梦幻、糖果色 | 母婴产品、甜品店、女性时尚、幼儿园 | 文字用深灰或黑色 |
+| 6 | 波西米亚 | `#ccd5ae` `#e9edc9` `#fefae0` `#faedcd` `#d4a373` | 温柔、低饱和 | 婚礼策划、家居软装、有机食品、慢生活 | 米色背景，绿棕点缀 |
+| 7 | 活力与科技 | `#8ecae6` `#219ebc` `#023047` `#ffb703` `#fb8500` | 高能量、运动 | 体育赛事、健身房、创业路演、少儿教育 | 深蓝稳重心，橙色做焦点 |
+| 8 | 匠心与手作 | `#7f5539` `#a68a64` `#ede0d4` `#656d4a` `#414833` | 质朴、咖啡调 | 咖啡店、手工艺品、传统文化、烘焙教学 | 适合纸质/皮革质感 |
+| 9 | 科技与夜景 | `#000814` `#001d3d` `#003566` `#ffc300` `#ffd60a` | 深邃、高亮 | 科技发布会、星空天文、夜间经济、高端汽车 | 必须用深色模式 |
+| 10 | 教育与图表 | `#264653` `#2a9d8f` `#e9c46a` `#f4a261` `#e76f51` | 清晰、逻辑强 | 统计报告、教育培训、市场分析、通用商务 | 完美的图表配色 |
+| 11 | 森林与环保 | `#dad7cd` `#a3b18a` `#588157` `#3a5a40` `#344e41` | 单色渐变、森系 | 园林设计、ESG报告、环保公益、植物研究 | 单色系安全不会乱 |
+| 12 | 优雅与时尚 | `#edafb8` `#f7e1d7` `#dedbd2` `#b0c4b1` `#4a5759` | 低饱和、莫兰迪 | 高定服装、艺术画廊、美妆品牌、杂志风 | 留白是关键 |
+| 13 | 艺术与美食 | `#335c67` `#fff3b0` `#e09f3e` `#9e2a2b` `#540b0e` | 浓郁、复古画报 | 美食纪录片、艺术展、民族风情、复古餐厅 | 适合大色块拼接 |
+| 14 | 轻奢与神秘 | `#22223b` `#4a4e69` `#9a8c98` `#c9ada7` `#f2e9e4` | 冷艳、紫调 | 珠宝展示、酒店管理、高端咨询、心理学 | 紫色营造高端氛围 |
+| 15 | 纯净科技蓝 | `#03045e` `#0077b6` `#00b4d8` `#90e0ef` `#caf0f8` | 未来感、纯净 | 云计算/AI、水利海洋、医院医疗、洁净能源 | 从深海到天空的渐变 |
+| 16 | 海岸珊瑚 | `#0081a7` `#00afb9` `#fdfcdc` `#fed9b7` `#f07167` | 清爽、夏日感 | 旅游度假、夏季活动、饮品品牌、海洋主题 | 青色与珊瑚色互补亮眼 |
+| 17 | 活力橙薄荷 | `#ff9f1c` `#ffbf69` `#ffffff` `#cbf3f0` `#2ec4b6` | 明亮、欢快 | 儿童活动、促销海报、快消品、社交媒体 | 橙色吸睛，薄荷绿清爽 |
+| 18 | 铂金白金 | `#0a0a0a` `#0070F3` `#D4AF37` `#f5f5f5` `#ffffff` | 高端、专业 | Agent产品、企业官网、金融科技、高端品牌 | 白金主调，蓝色行动，金色强调 |
+
+### Agent Design System — Complete Color Scales (Palette #18)
+
+#### White Series (backgrounds & light surfaces)
+
+| Scale | Value | Usage |
+|-------|-------|-------|
+| white-0 | `#ffffff` | 主背景 |
+| white-50 | `#fefefe` | 略带暖调的白 |
+| white-75 | `#fcfcfc` | 微灰白 |
+| white-100 | `#fafafa` | 次级背景 |
+| white-200 | `#f7f7f7` | 卡片背景 |
+| white-300 | `#f5f5f5` | 三级背景 |
+| white-400 | `#f0f0f0` | 分隔区域 |
+| white-500 | `#ebebeb` | 边框浅色 |
+| white-600 | `#e5e5e5` | 禁用态背景 |
+| white-700 | `#e0e0e0` | 深灰白 |
+| white-800 | `#d9d9d9` | 占位符 |
+| white-900 | `#d4d4d4` | 分隔线 |
+| white-1000 | `#cccccc` | 最深白 |
+
+#### Gold Series (platinum business accent)
+
+| Scale | Value | Usage |
+|-------|-------|-------|
+| gold-25 | `#FFFDF5` | 极浅金背景 |
+| gold-50 | `#FEF9E7` | 浅金背景 |
+| gold-75 | `#FCF3D0` | 淡金高亮 |
+| gold-100 | `#FAECB8` | 金色 hover 态 |
+| gold-200 | `#F5DC8A` | 亮金强调 |
+| gold-300 | `#E8C860` | 金色悬停 |
+| gold-400 | `#D4AF37` | **主金色（核心）** |
+| gold-500 | `#B8972E` | 金色文字 |
+| gold-600 | `#9A7E26` | 深金强调 |
+| gold-700 | `#7C651E` | 暗金边框 |
+| gold-800 | `#5E4C16` | 深金背景 |
+| gold-900 | `#40330F` | 极深金 |
+| gold-1000 | `#221A08` | 黑金 |
+
+#### Blue Series (primary action color)
+
+| Scale | Value | Usage |
+|-------|-------|-------|
+| blue-25 | `#F0F7FF` | 极浅蓝背景 |
+| blue-50 | `#E0EFFF` | 信息提示背景 |
+| blue-75 | `#C2DFFF` | 浅蓝高亮 |
+| blue-100 | `#A3CFFF` | 禁用态蓝 |
+| blue-200 | `#66AFFF` | 亮蓝 |
+| blue-300 | `#338FFF` | 蓝色悬停 |
+| blue-400 | `#0070F3` | **主蓝色（核心）** |
+| blue-500 | `#005FCC` | 蓝色文字 |
+| blue-600 | `#004FA6` | 深蓝强调 |
+| blue-700 | `#003F80` | 暗蓝边框 |
+| blue-800 | `#002F5A` | 深蓝背景 |
+| blue-900 | `#001F3D` | 极深蓝 |
+| blue-1000 | `#001026` | 黑蓝 |
+
+#### Gray Series (text & neutral)
+
+| Scale | Value | Usage |
+|-------|-------|-------|
+| gray-0 | `#ffffff` | 白色 |
+| gray-50 | `#fafafa` | 极浅灰 |
+| gray-75 | `#f5f5f5` | 浅灰背景 |
+| gray-100 | `#ededed` | 分隔线浅 |
+| gray-200 | `#d4d4d4` | 边框浅 |
+| gray-300 | `#a3a3a3` | 四级文字 |
+| gray-400 | `#737373` | 三级文字 |
+| gray-500 | `#525252` | 二级文字 |
+| gray-600 | `#404040` | 深灰 |
+| gray-700 | `#2e2e2e` | 暗色背景 |
+| gray-800 | `#1f1f1f` | 深色背景 |
+| gray-900 | `#141414` | 极深背景 |
+| gray-1000 | `#0a0a0a` | **主文字色（核心）** |
+
+#### Opacity Values
+
+**Opacity Black** (黑色透明):
+
+| Opacity | Value | Usage |
+|---------|-------|-------|
+| 0% | `#0a0a0a00` | 全透明 |
+| 2% | `#0a0a0a05` | 微弱遮罩 |
+| 4% | `#0a0a0a0a` | 次级交互背景 |
+| 8% | `#0a0a0a14` | 边框/分隔 |
+| 15% | `#0a0a0a26` | 按压态 |
+| 20% | `#0a0a0a33` | 浅遮罩 |
+| 25% | `#0a0a0a40` | 中遮罩 |
+| 50% | `#0a0a0a80` | 半透明 |
+| 70% | `#0a0a0ab2` | 深遮罩 |
+| 80% | `#0a0a0acc` | 悬停态 |
+| 90% | `#0a0a0ae5` | tooltip |
+| 95% | `#0a0a0af2` | 弹窗 |
+
+**Opacity White** (白色透明):
+
+| Opacity | Value | Usage |
+|---------|-------|-------|
+| 0% | `#ffffff00` | 全透明 |
+| 2% | `#ffffff05` | 微弱遮罩 |
+| 4% | `#ffffff0a` | 次级交互背景 |
+| 8% | `#ffffff12` | 边框/分隔 |
+| 15% | `#ffffff26` | 按压态 |
+| 20% | `#ffffff33` | 浅遮罩 |
+| 25% | `#ffffff40` | 中遮罩 |
+| 50% | `#ffffff80` | 半透明 |
+| 70% | `#ffffffb2` | 深遮罩 |
+| 80% | `#ffffffcc` | 悬停态 |
+| 90% | `#ffffffe5` | tooltip |
+| 95% | `#fffffff2` | 弹窗 |
+
+---
+
+## Visual Style System
+
+同一套设计可通过调整圆角（radius）和间距（spacing）呈现4种不同风格。根据场景选择合适的风格配方。
+
+### Style Overview
+
+| Style | Radius Range | Spacing Range | Best For |
+|-------|-------------|---------------|----------|
+| **Sharp & Compact** | radius-4 ~ radius-6 | spacing-4 ~ spacing-12 | 数据密集型后台、表格、IDE |
+| **Soft & Balanced** | radius-8 ~ radius-12 | spacing-8 ~ spacing-16 | 企业 SaaS、管理面板、通用 Web App |
+| **Rounded & Spacious** | radius-16 ~ radius-24 | spacing-16 ~ spacing-32 | 消费级产品、营销页、社交应用 |
+| **Pill & Airy** | radius-32 ~ radius-full | spacing-20 ~ spacing-48 | 移动端 Web、着陆页、品牌展示 |
+
+### Sharp & Compact Token Recipe
+
+| Category | Token | Value |
+|----------|-------|-------|
+| 圆角-小 | --component-radius-sm | 4px |
+| 圆角-中 | --component-radius-md | 4px |
+| 圆角-大 | --component-radius-lg | 6px |
+| 内间距-小 | --component-padding-sm | 4px |
+| 内间距-中 | --component-padding-md | 8px |
+| 内间距-大 | --component-padding-lg | 12px |
+| 间隔-小 | --component-gap-sm | 4px |
+| 间隔-中 | --component-gap-md | 8px |
+| 间隔-大 | --component-gap-lg | 16px |
+| 页面边距 | --page-margin | 16px |
+| 区块间距 | --section-gap | 24px |
+
+### Soft & Balanced Token Recipe
+
+| Category | Token | Value |
+|----------|-------|-------|
+| 圆角-小 | --component-radius-sm | 6px |
+| 圆角-中 | --component-radius-md | 8px |
+| 圆角-大 | --component-radius-lg | 12px |
+| 内间距-小 | --component-padding-sm | 8px |
+| 内间距-中 | --component-padding-md | 12px |
+| 内间距-大 | --component-padding-lg | 16px |
+| 间隔-小 | --component-gap-sm | 6px |
+| 间隔-中 | --component-gap-md | 12px |
+| 间隔-大 | --component-gap-lg | 24px |
+| 页面边距 | --page-margin | 24px |
+| 区块间距 | --section-gap | 32px |
+
+### Rounded & Spacious Token Recipe
+
+| Category | Token | Value |
+|----------|-------|-------|
+| 圆角-小 | --component-radius-sm | 10px |
+| 圆角-中 | --component-radius-md | 16px |
+| 圆角-大 | --component-radius-lg | 24px |
+| 内间距-小 | --component-padding-sm | 12px |
+| 内间距-中 | --component-padding-md | 20px |
+| 内间距-大 | --component-padding-lg | 32px |
+| 间隔-小 | --component-gap-sm | 10px |
+| 间隔-中 | --component-gap-md | 16px |
+| 间隔-大 | --component-gap-lg | 32px |
+| 页面边距 | --page-margin | 32px |
+| 区块间距 | --section-gap | 48px |
+
+### Pill & Airy Token Recipe
+
+| Category | Token | Value |
+|----------|-------|-------|
+| 圆角-小 | --component-radius-sm | 20px |
+| 圆角-中 | --component-radius-md | 32px |
+| 圆角-大 | --component-radius-lg | 999px (full) |
+| 内间距-小 | --component-padding-sm | 12px |
+| 内间距-中 | --component-padding-md | 24px |
+| 内间距-大 | --component-padding-lg | 40px |
+| 间隔-小 | --component-gap-sm | 12px |
+| 间隔-中 | --component-gap-md | 24px |
+| 间隔-大 | --component-gap-lg | 48px |
+| 页面边距 | --page-margin | 40px |
+| 区块间距 | --section-gap | 64px |
+
+### Component-Level Style Mapping
+
+| Component | Sharp | Soft | Rounded | Pill |
+|-----------|-------|------|---------|------|
+| **按钮** | radius-4, padding 8×16 | radius-6, padding 8×16 | radius-10, padding 12×20 | radius-full, padding 12×32 |
+| **输入框** | radius-4, padding 8×12 | radius-6, padding 8×12 | radius-10, padding 10×16 | radius-full, padding 10×20 |
+| **卡片** | radius-4, padding 8~12 | radius-8, padding 12~16 | radius-16, padding 20 | radius-24, padding 24~32 |
+| **模态框** | radius-6, padding 16 | radius-12, padding 20 | radius-20, padding 24~32 | radius-32, padding 32~40 |
+| **标签/Badge** | radius-4, padding 2×6 | radius-4, padding 2×8 | radius-6, padding 4×10 | radius-full, padding 4×12 |
+| **头像** | radius-4 | radius-8 | radius-12 | radius-full |
+| **下拉菜单** | radius-4, padding 4 | radius-6, padding 4 | radius-12, padding 8 | radius-16, padding 8 |
+| **Toast/Alert** | radius-4, padding 8×12 | radius-8, padding 12×16 | radius-12, padding 16×20 | radius-full, padding 12×24 |
+| **Tooltip** | radius-4, padding 4×8 | radius-6, padding 6×10 | radius-8, padding 8×12 | radius-full, padding 6×16 |
+
+### Mixing Principles
+
+#### 1. Outer container ≥ inner radius
+```
+Correct: outer > inner
+  .card     { border-radius: 16px; }
+  .card img { border-radius: 12px; }
+
+Wrong: inner > outer → visual overflow
+  .card     { border-radius: 8px;  }
+  .card img { border-radius: 16px; }
+```
+
+#### 2. Information density determines spacing
+
+| Area Type | Recommended Style |
+|-----------|-------------------|
+| 内容浏览区 | Spacious / Airy |
+| 工具栏/侧边栏 | Compact / Balanced |
+| 表单/数据区 | Balanced |
+
+#### 3. Interactive elements match container style
+
+#### 4. Radius-to-size ratio
+
+| Element Size | Sharp | Soft | Rounded | Pill |
+|-------------|-------|------|---------|------|
+| 小（< 32px） | 4px | 4px | 8px | full |
+| 中（32~64px） | 4px | 6~8px | 12~16px | full |
+| 大（64~200px） | 4~6px | 8~12px | 16~24px | 32px |
+| 超大（> 200px） | 6px | 12px | 24px | 32px |
+
+### Quick Selection Guide
+
+| Project Type | Recommended Style | Reason |
+|-------------|-------------------|--------|
+| 企业后台/Dashboard | Sharp & Compact | 信息密度高，专业感强 |
+| SaaS产品/Web App | Soft & Balanced | 平衡专业与友好 |
+| 消费级App/社交 | Rounded & Spacious | 亲切感，现代感 |
+| 着陆页/品牌展示 | Pill & Airy | 品牌调性强，视觉冲击 |
+| 数据可视化 | Sharp / Soft | 清晰的边界和对齐 |
+| 移动端H5 | Rounded / Pill | 触控友好 |
+
+---
+
+## HTML Implementation — Appendices
+
+### Appendix A — Responsive Scaling Snippet (REQUIRED in every HTML file)
+
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+}
+.slide-content {
+  width: 960px;
+  height: 540px;
+  position: relative;
+  transform-origin: center center;
+}
+</style>
+<script>
+function scaleSlide() {
+  const slide = document.querySelector('.slide-content');
+  if (!slide) return;
+  const slideWidth = 960;
+  const slideHeight = 540;
+  const scaleX = window.innerWidth / slideWidth;
+  const scaleY = window.innerHeight / slideHeight;
+  const scale = Math.min(scaleX, scaleY);
+  slide.style.width = slideWidth + 'px';
+  slide.style.height = slideHeight + 'px';
+  slide.style.transform = `scale(${scale})`;
+  slide.style.transformOrigin = 'center center';
+  slide.style.flexShrink = '0';
+}
+window.addEventListener('load', scaleSlide);
+window.addEventListener('resize', scaleSlide);
+</script>
+```
+
+### Appendix B — CSS Rules (REQUIRED)
+
+#### ⚠️ Inline-Only CSS
+
+**All CSS styles MUST be inline (except the snippet in Appendix A).**
+
+- Do NOT use `<style>` blocks outside Appendix A
+- Do NOT use external stylesheets
+- Do NOT use CSS classes or class-based styling
+
+```html
+<!-- ✅ Correct: Inline styles -->
+<div style="position:absolute; left:60px; top:120px; width:840px; height:240px; background:#023047;"></div>
+<p style="position:absolute; left:60px; top:140px; font-size:28px; color:#ffffff;">Title</p>
+
+<!-- ❌ Wrong: Style blocks or classes -->
+<style>
+  .card { background:#023047; }
+</style>
+<div class="card"></div>
+```
+
+#### ⚠️ Background on .slide-content Directly
+
+**Do NOT create a full-size background DIV inside `.slide-content`. Set background directly on `.slide-content` itself.**
+
+```html
+<!-- ✅ Correct -->
+<div class="slide-content" style="background:#023047;">
+  <p style="position:absolute; left:60px; top:140px; ...">Title</p>
+</div>
+
+<!-- ❌ Wrong: Nested full-size background DIV -->
+<div class="slide-content">
+  <div style="position:absolute; left:0; top:0; width:960px; height:540px; background:#023047;"></div>
+</div>
+```
+
+#### ⚠️ No Bold for Body Text and Captions
+
+- Body paragraphs, descriptions, explanatory text: normal weight (400–500)
+- Image captions, chart legends, footnotes: light-weight
+- Reserve bold (`font-weight: 600+`) for titles, headings, and key emphasis only
+
+### Appendix C — Color Palette Rules (REQUIRED)
+
+- **Strict palette adherence**: ALL colors must come from the selected palette. Do NOT invent colors.
+- **No modifications**: Do NOT adjust brightness, saturation, or mix colors.
+- **Only exception**: You may add opacity to palette colors (e.g., `rgba(r,g,b,0.1)`)
+- **No gradients**: No CSS `linear-gradient()`, `radial-gradient()`, `conic-gradient()`. No SVG `<linearGradient>`, `<radialGradient>`. All fills, backgrounds, and borders must use solid colors.
+- **No animations**: No CSS `animation`, `@keyframes`, `transition`. No JS animations. No hover effects with motion. No SVG `<animate>`, `<animateTransform>`, `<animateMotion>`.
+
+**For visual hierarchy without gradients**:
+1. Use different colors from the palette (dark for primary, light for secondary)
+2. Use solid color + opacity overlay
+3. Combine palette colors strategically
+
+### Appendix D — SVG Conversion Constraints (CRITICAL)
+
+The HTML-to-PPTX converter has **STRICT** SVG support limitations. Violating these will cause decorations to be **SKIPPED** in the final PPTX.
+
+#### Supported SVG Elements (WHITELIST)
+- ✅ `<rect>` — rectangles (with `rx`/`ry` for rounded corners)
+- ✅ `<circle>` — circles
+- ✅ `<ellipse>` — ellipses
+- ✅ `<line>` — straight lines
+- ✅ `<polyline>` — connected line segments (stroke only, NO fill)
+- ✅ `<polygon>` — closed polyline (stroke only, NO fill)
+- ✅ `<path>` — **ONLY with M/L/H/V/Z commands** (see below)
+- ✅ `<pattern>` — repeating patterns (dots, stripes, grids)
+
+#### `<path>` Command Restrictions (CRITICAL)
+
+**ONLY these commands are supported:**
+- ✅ `M/m` — moveTo
+- ✅ `L/l` — lineTo
+- ✅ `H/h` — horizontal line
+- ✅ `V/v` — vertical line
+- ✅ `Z/z` — close path
+
+**FORBIDDEN commands (will cause SVG to be SKIPPED):**
+- ❌ `Q/q` — quadratic Bézier curve
+- ❌ `C/c` — cubic Bézier curve
+- ❌ `S/s` — smooth cubic Bézier
+- ❌ `T/t` — smooth quadratic Bézier
+- ❌ `A/a` — elliptical arc
+
+#### Additional SVG Constraints
+- ❌ **NO rotated shapes** — `transform="rotate()"` causes fallback failure
+- ❌ **NO `<text>` in complex SVGs** — SVG text becomes rasterized (not editable in PPTX)
+- ❌ **Filled `<path>` must be rectangles** — if path has fill, it must form a closed rectangle with only M/L/H/V/Z
+- ⚠️ **`<linearGradient>` / `<radialGradient>` TECHNICALLY supported but DISCOURAGED**
+
+#### ⚠️ CRITICAL: Pie Charts — Image Generation Tool is MANDATORY
+
+**Pie charts MUST be created using the image generation tool. There is NO alternative.**
+
+- SVG pie charts require arc commands (`A`) which are FORBIDDEN
+- ALL workarounds (layered circles, stroke-dasharray, clip-paths, conic-gradient, rotated segments) WILL FAIL during PPTX conversion
+- The ONLY correct approach:
+  1. Use image generation tool to create pie chart as PNG/JPG
+  2. Embed using `<img>` element
+  3. Do NOT attempt any SVG-based or CSS-based pie chart solutions
+
+```html
+<!-- ✅ SUPPORTED: Simple shapes -->
+<svg width="200" height="4">
+  <rect width="200" height="4" rx="2" fill="#dda15e"/>
+</svg>
+
+<!-- ✅ SUPPORTED: Straight line with path -->
+<svg width="200" height="2">
+  <path d="M0 1 L200 1" stroke="#dda15e" stroke-width="2"/>
+</svg>
+
+<!-- ✅ SUPPORTED: Multi-segment straight lines -->
+<svg width="100" height="100">
+  <path d="M10 10 L50 10 L50 50 L10 50 Z" fill="#bc6c25"/>
+</svg>
+
+<!-- ❌ FORBIDDEN: Bézier curves -->
+<svg width="200" height="20">
+  <path d="M0 10 Q25 0 50 10 T100 10" stroke="#dda15e" stroke-width="2"/>
+</svg>
+
+<!-- ❌ FORBIDDEN: Arc command -->
+<svg width="32" height="32">
+  <path d="M16 4a8 8 0 0 1 5 14.3" stroke="#dda15e"/>
+</svg>
+
+<!-- ⚠️ WORKAROUND: Approximate curves with line segments -->
+<svg width="200" height="20">
+  <path d="M0 10 L12 6 L25 4 L37 6 L50 10" stroke="#dda15e" stroke-width="2"/>
+</svg>
+```
+
+### Appendix E — Advanced Techniques (REQUIRED)
+
+#### SVG — ONLY for Decorative Shapes (NOT a replacement for real images)
+- ⚠️ **CRITICAL**: SVG is for **decorative elements ONLY**. It does NOT satisfy the "real image" requirement.
+- You MUST still generate/find a real photo/illustration even if the slide uses SVG for diagrams or charts.
+- **DO NOT** use SVG to "draw" illustrations, backgrounds, or hero visuals.
+
+#### SVG Usage Guidelines
+- Prefer SVG for **all decorative shapes** (lines/dividers, corner accents, badges, frames, arrows)
+- Use SVG when you need **pixel-crisp geometry** that won't blur under scaling
+- Use SVG for **masks/overlays** and **diagram-like UI** (timeline rails, connectors)
+- **Rule of thumb**: if it's a "shape" (not text, not a photo), SVG is usually cleanest
+- ⚠️ **ALWAYS check Appendix D constraints before writing SVG paths**
+
+#### ⚠️ CRITICAL: Background Shapes Must Use SVG
+- **Do NOT use CSS background/border for decorative background shapes.** These must use SVG:
+  - Badge/tag backgrounds (rounded rectangles, pill shapes)
+  - Feature tag backgrounds
+  - Card borders
+  - Button-like backgrounds
+  - Dividers (must use SVG `<rect>` or `<path>`, NOT CSS `background`, `border`, or `<hr>`)
+- **Reason**: CSS borders/backgrounds blur under `transform: scale()`. SVG stays crisp.
+
+```html
+<!-- ✅ Correct: SVG badge with text INSIDE the SVG -->
+<svg class="badge" width="180" height="52" viewBox="0 0 180 52">
+  <rect width="180" height="52" rx="26" fill="#fb8500"/>
+  <text x="90" y="26" text-anchor="middle" dominant-baseline="central"
+        font-size="16" font-weight="700" fill="#ffffff">LABEL</text>
+</svg>
+
+<!-- ❌ Wrong: span overlay on SVG (text lost in PPTX) -->
+<div class="badge">
+  <svg><rect .../></svg>
+  <span>LABEL</span>
+</div>
+
+<!-- ❌ Wrong: CSS background -->
+<div style="background: #fb8500; border-radius: 26px;">LABEL</div>
+
+<!-- ✅ Correct: SVG divider -->
+<svg width="120" height="4" aria-hidden="true">
+  <rect width="120" height="4" rx="2" fill="#219ebc"/>
+</svg>
+
+<!-- ❌ Wrong: CSS divider -->
+<div style="width: 120px; height: 4px; background: #219ebc;"></div>
+```
+
+#### SVG Use Cases
+
+**1. Background Patterns** — Geometric textures for visual depth:
+
+```html
+<!-- Dot grid pattern -->
+<svg class="bg-pattern" width="100%" height="100%" style="position:absolute;top:0;left:0;opacity:0.08;pointer-events:none;">
+  <defs>
+    <pattern id="dots" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="20" r="2" fill="currentColor"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#dots)"/>
+</svg>
+
+<!-- Diagonal stripes -->
+<svg class="bg-stripes" width="100%" height="100%" style="position:absolute;top:0;left:0;opacity:0.05;pointer-events:none;">
+  <defs>
+    <pattern id="stripes" width="20" height="20" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="10" height="20" fill="currentColor"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#stripes)"/>
+</svg>
+
+<!-- Honeycomb hexagons -->
+<svg class="bg-hex" width="100%" height="100%" style="position:absolute;top:0;left:0;opacity:0.06;pointer-events:none;">
+  <defs>
+    <pattern id="hexagons" width="56" height="100" patternUnits="userSpaceOnUse">
+      <path d="M28 0 L56 25 L56 75 L28 100 L0 75 L0 25 Z" stroke="currentColor" stroke-width="1" fill="none"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#hexagons)"/>
+</svg>
+```
+
+**2. Decorative Elements** — Dividers, corners, borders, arrows, badges:
+
+```html
+<!-- L-shaped corner decoration -->
+<svg width="40" height="40" style="position:absolute;top:0;left:0;" aria-hidden="true">
+  <path d="M0 35 L0 0 L35 0" stroke="currentColor" stroke-width="2" fill="none" opacity="0.4"/>
+</svg>
+
+<!-- Straight divider line -->
+<svg width="400" height="2" aria-hidden="true">
+  <rect width="400" height="2" fill="currentColor" opacity="0.3"/>
+</svg>
+
+<!-- Segmented divider -->
+<svg width="300" height="3" aria-hidden="true">
+  <path d="M0 1.5 L100 1.5 M120 1.5 L220 1.5 M240 1.5 L300 1.5" stroke="currentColor" stroke-width="3" stroke-linecap="round" opacity="0.4"/>
+</svg>
+
+<!-- Simple arrow (right-pointing) -->
+<svg width="40" height="16" viewBox="0 0 40 16" aria-hidden="true">
+  <path d="M0 8 L32 8 M24 2 L32 8 L24 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
+```
+
+**3. Icons** — UI/status/numbered circles:
+
+```html
+<!-- Circled number (⚠️ <text> becomes rasterized in PPTX) -->
+<svg width="48" height="48" viewBox="0 0 48 48">
+  <circle cx="24" cy="24" r="22" stroke="currentColor" stroke-width="2" fill="none"/>
+  <text x="24" y="24" text-anchor="middle" dominant-baseline="central" font-size="20" font-weight="bold" fill="currentColor">1</text>
+</svg>
+
+<!-- Checkmark (polyline - SUPPORTED) -->
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <polyline points="20 6 9 17 4 12"/>
+</svg>
+
+<!-- Simple arrow icon (path with L/M - SUPPORTED) -->
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M5 12 L19 12 M12 5 L19 12 L12 19"/>
+</svg>
+
+<!-- Plus sign (lines - SUPPORTED) -->
+<svg width="24" height="24" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+  <line x1="12" y1="5" x2="12" y2="19"/>
+  <line x1="5" y1="12" x2="19" y2="12"/>
+</svg>
+```
+
+**4. Data Visualization Helpers** — Progress bars, rings, bar charts:
+
+```html
+<!-- Percentage ring (70%) -->
+<svg width="100" height="100" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="40" stroke="#e0e0e0" stroke-width="8" fill="none"/>
+  <circle cx="50" cy="50" r="40" stroke="#4CAF50" stroke-width="8" fill="none"
+          stroke-dasharray="251.3" stroke-dashoffset="75.4" stroke-linecap="round"
+          transform="rotate(-90 50 50)"/>
+  <text x="50" y="50" text-anchor="middle" dominant-baseline="central" font-size="20" font-weight="bold" fill="currentColor">70%</text>
+</svg>
+
+<!-- Horizontal progress bar -->
+<svg width="200" height="12" viewBox="0 0 200 12">
+  <rect x="0" y="0" width="200" height="12" rx="6" fill="#e0e0e0"/>
+  <rect x="0" y="0" width="140" height="12" rx="6" fill="#2196F3"/>
+</svg>
+
+<!-- Mini bar chart -->
+<svg width="80" height="40" viewBox="0 0 80 40">
+  <rect x="0" y="20" width="12" height="20" fill="currentColor" opacity="0.6"/>
+  <rect x="17" y="10" width="12" height="30" fill="currentColor" opacity="0.8"/>
+  <rect x="34" y="5" width="12" height="35" fill="currentColor"/>
+  <rect x="51" y="15" width="12" height="25" fill="currentColor" opacity="0.7"/>
+  <rect x="68" y="8" width="12" height="32" fill="currentColor" opacity="0.9"/>
+</svg>
+```
+
+**5. Masks & Overlays** — For text readability over images:
+
+```html
+<!-- Bottom overlay -->
+<svg width="100%" height="300" style="position:absolute;bottom:0;left:0;pointer-events:none;">
+  <rect width="100%" height="100%" fill="#000000" fill-opacity="0.7"/>
+</svg>
+
+<!-- Side overlay -->
+<svg width="400" height="100%" style="position:absolute;left:0;top:0;pointer-events:none;">
+  <rect width="100%" height="100%" fill="#000000" fill-opacity="0.8"/>
+</svg>
+```
+
+#### SVG Implementation Tips
+
+- Use `vector-effect="non-scaling-stroke"` to keep stroke widths stable under `transform: scale()`.
+- For thin lines, prefer **filled rectangles** to avoid stroke anti-alias artifacts.
+- Use `overflow="visible"` when SVG needs to extend beyond its box.
+- Use `aria-hidden="true"` for purely decorative SVGs.
+- Use `currentColor` for easy theming — inherits parent's CSS `color`.
+- Use `pointer-events: none` for overlay SVGs.
+
+#### Minimal Patterns
+
+```html
+<!-- Crisp divider line (filled rect) -->
+<svg overflow="visible" width="320" height="2" aria-hidden="true">
+  <rect width="320" height="2" fill="rgba(255,255,255,0.35)"></rect>
+</svg>
+
+<!-- Stroke consistent under scaling -->
+<svg overflow="visible" width="320" height="2" aria-hidden="true">
+  <path vector-effect="non-scaling-stroke" d="M0 1 L320 1" stroke="rgba(255,255,255,0.55)" stroke-width="2"></path>
+</svg>
+
+<!-- Solid overlay -->
+<svg width="100%" height="200" style="position:absolute;bottom:0;left:0;pointer-events:none;">
+  <rect width="100%" height="100%" fill="#000000" fill-opacity="0.6"/>
+</svg>
+```
+
+#### Other Techniques
+- **Clip-path**: crop images to custom shapes (CSS `clip-path: circle()`, `clip-path: polygon()`)
+- **Inline highlights**: subtle emphasis using semi-transparent `<span>` elements
+- **Math**: include KaTeX only if the slide contains formulas
+
+### Appendix F — HTML2PPTX Validation Rules (REQUIRED)
+
+#### Layout and Dimensions
+- Slide content must not overflow the body (no scroll)
+- Text elements larger than 12pt must be at least 0.5" above the bottom edge
+- HTML body dimensions must match presentation layout size
+
+#### Backgrounds and Images
+- Do NOT use CSS gradients
+- Do NOT use `background-image` on `div` elements
+- For slide backgrounds, use a real `<img>` element as background
+- Solid background colors: apply to dedicated shape/div element
+
+#### Text Elements
+- `p`, `h1`–`h6`, `ul`, `ol`, `li` must NOT have background, border, or shadow
+- Inline elements (`span`, `b`, `i`, `u`, `strong`, `em`) must NOT have margins
+- Do NOT use manual bullet symbols — use `<ul>` or `<ol>` lists
+- Do NOT leave raw text directly inside `div` — wrap all text in text tags
+
+#### SVG and Text
+- Do NOT place text (`<span>`, `<p>`, etc.) as overlay on SVG using absolute positioning — text will be **lost** in PPTX conversion
+- When badge/tag/label needs text on SVG background, put text **inside** SVG using `<text>` element
+- SVG `<text>` must use `text-anchor="middle"` and `dominant-baseline="central"` for centering
+
+```html
+<!-- ✅ Correct: Text inside SVG -->
+<svg width="100" height="32" viewBox="0 0 100 32">
+  <rect width="100" height="32" rx="16" fill="#bc6c25"/>
+  <text x="50" y="16" text-anchor="middle" dominant-baseline="central"
+        font-size="14" font-weight="700" fill="#fefae0" letter-spacing="3">丰收季</text>
+</svg>
+
+<!-- ❌ Wrong: Text overlaid on SVG (WILL BE LOST in PPTX) -->
+<div class="badge">
+  <svg aria-hidden="true"><rect .../></svg>
+  <span style="position:absolute;">丰收季</span>
+</div>
+```
+
+#### Placeholders
+- Elements with class `placeholder` must have non-zero width and height
+
+### Appendix G — Page Number Badge / 角标 (REQUIRED)
+
+All slides **except Cover Page** MUST include a page number badge showing current slide number in bottom-right corner.
+
+- **Position**: `position:absolute; right:32px; bottom:24px;`
+- **Must use SVG** (text inside `<text>`, not overlaid `<span>`) — same rule as Appendix F
+- Colors from palette only; keep it subtle; same style across all slides
+- Show current number only (e.g. `3` or `03`), **not** "3/12"
+
+```html
+<!-- ✅ Circle badge (default) -->
+<svg style="position:absolute; right:32px; bottom:24px;" width="36" height="36" viewBox="0 0 36 36">
+  <circle cx="18" cy="18" r="18" fill="#219ebc"/>
+  <text x="18" y="18" text-anchor="middle" dominant-baseline="central"
+        font-size="14" font-weight="600" fill="#ffffff">3</text>
+</svg>
+
+<!-- ✅ Pill badge -->
+<svg style="position:absolute; right:32px; bottom:24px;" width="48" height="28" viewBox="0 0 48 28">
+  <rect width="48" height="28" rx="14" fill="#219ebc"/>
+  <text x="24" y="14" text-anchor="middle" dominant-baseline="central"
+        font-size="13" font-weight="600" fill="#ffffff">03</text>
+</svg>
+
+<!-- ✅ Minimal (number only) -->
+<p style="position:absolute; right:36px; bottom:24px; margin:0; font-size:13px; font-weight:500; color:#8ecae6;">03</p>
+```
+
+---
+
+## Typography Reference
+
+### PPT Slide Typography
+
+| Element | Size | Weight |
+|---------|------|--------|
+| Slide title | 36–44px | bold |
+| Section header | 20–24px | bold |
+| Body text | 14–16px | regular (400) |
+| Captions | 10–12px | muted, regular |
+
+### General Typography Scale
+
+| Usage | Size | Line Height | Weight |
+|-------|------|-------------|--------|
+| Caption | 12px | 16px | regular (400) |
+| Body small | 14px | 20px | regular (400) |
+| Body | 16px | 22px | regular (400) |
+| Subtitle | 20px | 26px | medium (500) |
+| Title | 24px | 28px | medium (500) |
+| Heading | 32px | 36px | medium (500) |
+| Display | 40px | 40px | medium (500) |
+
+### Spacing
+
+- 0.5" minimum margins on slides
+- 0.3–0.5" between content blocks
+- Leave breathing room — don't fill every inch
+
+| Usage | Value |
+|-------|-------|
+| 紧密分组（图标与文字） | 4px ~ 8px |
+| 标准内间距 | 12px ~ 16px |
+| 区块分隔 | 24px ~ 32px |
+| 页面边距 | 40px ~ 64px |
+
+---
+
+## Common Mistakes to Avoid
+
+- **Don't repeat the same layout** — vary columns, cards, and callouts across slides
+- **Don't center body text** — left-align paragraphs and lists; center only titles
+- **Don't skimp on size contrast** — titles need 36pt+ to stand out from 14–16pt body
+- **Don't default to blue** — pick colors that reflect the specific topic
+- **Don't mix spacing randomly** — choose 0.3" or 0.5" gaps and use consistently
+- **Don't style one slide and leave the rest plain** — commit fully or keep it simple throughout
+- **Don't create text-only slides** — add images, icons, charts, or visual elements; avoid plain title + bullets
+- **Don't forget text box padding** — when aligning lines or shapes with text edges, set `margin: 0` or offset the shape for padding
+- **Don't use low-contrast elements** — icons AND text need strong contrast against background
+- **NEVER use accent lines under titles** — hallmark of AI-generated slides; use whitespace or background color instead
+- **Don't overlay text on SVG with absolute positioning** — text will be lost in PPTX conversion; put text inside SVG `<text>` element
+- **Don't use CSS gradients or animations** — they break PPTX conversion
+- **Don't use forbidden SVG path commands** (Q/C/S/T/A) — shapes will be skipped in PPTX
+- **Don't attempt SVG pie charts** — use image generation tool instead
+- **Don't use `<style>` blocks** (except Appendix A) — all CSS must be inline
+- **Don't use `background-image` on divs** — use `<img>` elements
+- **Don't use bold on body text or captions** — reserve bold for titles and headings only
+- **Don't forget the page number badge** — mandatory on every slide except cover page
+
+## File & Output Conventions
+
+- **Slide files**: `slides/slide-01.html`, `slides/slide-02.html`, etc. (zero-padded two digits)
+- **Image files**: `slides/imgs/` directory
+- **Dimensions**: `.slide-content` = 960×540px
+- **Font**: `font-family: "Times New Roman", serif` — mandatory for all text
+- **Final deployment**: Use `deploy_html_presentation` tool to merge all slides
+- **Export formats**: PDF / PPTX

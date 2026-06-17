@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sevdesk-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/sevdesk-automation",
+  "branch": "main",
+  "sha": "a0b994ee7312766fbf408f02a58804cd26893a86",
+  "source": "manual"
+}

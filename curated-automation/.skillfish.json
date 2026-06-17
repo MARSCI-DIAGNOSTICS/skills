@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "curated-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/curated-automation",
+  "branch": "main",
+  "sha": "60bab6913e8916eddfe3affbdeaa7fb24d3dc52c",
+  "source": "manual"
+}

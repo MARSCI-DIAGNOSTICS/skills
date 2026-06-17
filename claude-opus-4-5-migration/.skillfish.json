@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "claude-opus-4-5-migration",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "Claude-Code/claude-code-repo/plugins/claude-opus-4-5-migration/skills/claude-opus-4-5-migration",
+  "branch": "main",
+  "sha": "7cbdd6c4354c930a94e7c150a840bdd60b31cf18",
+  "source": "manual"
+}

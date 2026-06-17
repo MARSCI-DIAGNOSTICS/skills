@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "eventbrite-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/eventbrite-automation",
+  "branch": "main",
+  "sha": "014475570096cadb1a1401beaff2a10f79f25ffa",
+  "source": "manual"
+}

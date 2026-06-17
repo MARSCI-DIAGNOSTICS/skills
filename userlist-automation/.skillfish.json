@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "userlist-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/userlist-automation",
+  "branch": "main",
+  "sha": "07605e1c2b6fc3e1c5b24878c5ff44185cece933",
+  "source": "manual"
+}

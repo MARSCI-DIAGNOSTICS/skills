@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "more-trees-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/more-trees-automation",
+  "branch": "main",
+  "sha": "71528d1cea69517858c65c4a5af2f1d8dd55d693",
+  "source": "manual"
+}

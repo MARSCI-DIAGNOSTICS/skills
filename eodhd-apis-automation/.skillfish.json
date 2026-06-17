@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "eodhd-apis-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/eodhd-apis-automation",
+  "branch": "main",
+  "sha": "d21c555363dbf0b1486fefaac077d4b37be622b9",
+  "source": "manual"
+}

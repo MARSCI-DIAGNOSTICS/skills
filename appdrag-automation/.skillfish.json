@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "appdrag-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/appdrag-automation",
+  "branch": "main",
+  "sha": "b43469a08c07576bb875336a6d46c17af95e6878",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "proxiedmail-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/proxiedmail-automation",
+  "branch": "main",
+  "sha": "6bdae1c4b410540d07d3ea7be9aba0eeed701134",
+  "source": "manual"
+}

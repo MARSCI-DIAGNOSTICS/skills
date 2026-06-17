@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "streamtime-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/streamtime-automation",
+  "branch": "main",
+  "sha": "8f154dc799336196853e31629e908ca2362bd206",
+  "source": "manual"
+}

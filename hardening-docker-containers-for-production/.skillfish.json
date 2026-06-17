@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hardening-docker-containers-for-production",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/hardening-docker-containers-for-production",
+  "branch": "master",
+  "sha": "1c50d07d2ebacb85b028f09f35e5c08f1de2e6e8",
+  "source": "manual"
+}

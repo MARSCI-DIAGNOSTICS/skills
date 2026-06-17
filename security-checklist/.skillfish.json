@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-checklist",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/monopoly/security-checklist",
+  "branch": "main",
+  "sha": "c4674425633f45ed8b3b02313166bf028d305c91",
+  "source": "manual"
+}

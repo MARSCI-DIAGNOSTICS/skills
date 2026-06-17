@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "boxhero-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/boxhero-automation",
+  "branch": "main",
+  "sha": "01d44ea08403e4a802814f0222628a6e47521690",
+  "source": "manual"
+}

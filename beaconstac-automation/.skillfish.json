@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "beaconstac-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/beaconstac-automation",
+  "branch": "main",
+  "sha": "5ecfdf3c9fe3a6642445d0824bdded0b139bddbc",
+  "source": "manual"
+}

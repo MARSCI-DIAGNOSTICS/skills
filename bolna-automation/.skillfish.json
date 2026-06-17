@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bolna-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/bolna-automation",
+  "branch": "main",
+  "sha": "55e9cf8425a0ffa1f51d5179a1cc7117669c6add",
+  "source": "manual"
+}

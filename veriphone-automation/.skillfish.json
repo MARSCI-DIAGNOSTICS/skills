@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "veriphone-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/veriphone-automation",
+  "branch": "main",
+  "sha": "8c6b8832abe1e578dbddb4e63702eb8ffe4a25ba",
+  "source": "manual"
+}

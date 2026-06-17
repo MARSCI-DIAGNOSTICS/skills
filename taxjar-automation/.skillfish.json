@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "taxjar-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/taxjar-automation",
+  "branch": "main",
+  "sha": "db9870df3aedd8b57679bca3fee8ffa35ee6a289",
+  "source": "manual"
+}

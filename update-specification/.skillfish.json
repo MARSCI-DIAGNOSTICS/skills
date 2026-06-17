@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "update-specification",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/update-specification",
+  "branch": "main",
+  "sha": "b2a9979cd8470ef93daa62d543aa364ab4cecfc3",
+  "source": "manual"
+}

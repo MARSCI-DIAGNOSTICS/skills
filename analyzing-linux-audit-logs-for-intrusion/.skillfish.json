@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-linux-audit-logs-for-intrusion",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/analyzing-linux-audit-logs-for-intrusion",
+  "branch": "master",
+  "sha": "eafb8764c1a19a0bd563829ef08fd3b1e8927c4a",
+  "source": "manual"
+}

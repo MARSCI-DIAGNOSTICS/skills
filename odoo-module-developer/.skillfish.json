@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "odoo-module-developer",
+  "owner": "satnamrsm",
+  "repo": "https-github.com-sickn33-antigravity-awesome-skills",
+  "path": "skills/odoo-module-developer",
+  "branch": "main",
+  "sha": "b0fc0a8ac7463ea25fb4e874a2301cb3b786ceb0",
+  "source": "manual"
+}

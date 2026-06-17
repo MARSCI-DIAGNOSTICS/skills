@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cloudinary-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/cloudinary-automation",
+  "branch": "main",
+  "sha": "e6344d3a011ebdf6a55c54ba6f2b8fdf0b638444",
+  "source": "manual"
+}

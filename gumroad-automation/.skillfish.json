@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gumroad-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/gumroad-automation",
+  "branch": "main",
+  "sha": "a9aff3f1d66952c2029ca4c3648859f2e3ef8026",
+  "source": "manual"
+}

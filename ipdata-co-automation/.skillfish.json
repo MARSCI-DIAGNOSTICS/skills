@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ipdata-co-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ipdata-co-automation",
+  "branch": "main",
+  "sha": "61af2e5a834c7b910949ba2a4160fab430b80c60",
+  "source": "manual"
+}

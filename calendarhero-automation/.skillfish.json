@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "calendarhero-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/calendarhero-automation",
+  "branch": "main",
+  "sha": "ebe845cf7489afd681b3e11e9221fed40292c4e9",
+  "source": "manual"
+}

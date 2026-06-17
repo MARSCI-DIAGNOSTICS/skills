@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "daffy-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/daffy-automation",
+  "branch": "main",
+  "sha": "95ba4a0d4a26f597b9555986059abace0dbe4ee1",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "npm-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/npm-automation",
+  "branch": "main",
+  "sha": "2f77808839b7aa2f5556a34d62195b233bdd3096",
+  "source": "manual"
+}

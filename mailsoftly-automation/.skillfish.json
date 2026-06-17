@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mailsoftly-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/mailsoftly-automation",
+  "branch": "main",
+  "sha": "40a8e8863c959adbcd2423318b4369c57a97a810",
+  "source": "manual"
+}

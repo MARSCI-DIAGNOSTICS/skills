@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "backlog-refinement",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "project-management/execution/backlog-refinement",
+  "branch": "main",
+  "sha": "d66e7d5c31bdec22bf60dedb80db86cba451f3c4",
+  "source": "manual"
+}

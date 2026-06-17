@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "picoclaw-fleet",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "skills/picoclaw-fleet",
+  "branch": "main",
+  "sha": "7fa754aa514fa1efb018f8041efe92d3c3bda84d",
+  "source": "manual"
+}

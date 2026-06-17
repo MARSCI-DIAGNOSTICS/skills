@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-windows-shellbag-artifacts",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/analyzing-windows-shellbag-artifacts",
+  "branch": "master",
+  "sha": "61a945ca3b71eb743b949ede557f49a09c9a83b1",
+  "source": "manual"
+}

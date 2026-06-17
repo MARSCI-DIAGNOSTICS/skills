@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "convertapi-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/convertapi-automation",
+  "branch": "main",
+  "sha": "fe91358fe40b4a416ebdf65c0e76a8182e833720",
+  "source": "manual"
+}

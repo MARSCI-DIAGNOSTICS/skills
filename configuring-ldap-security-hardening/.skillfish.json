@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "configuring-ldap-security-hardening",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/configuring-ldap-security-hardening",
+  "branch": "master",
+  "sha": "58d9529db8df736e1d9c42aa2fe1823662f073cf",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "worksnaps-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/worksnaps-automation",
+  "branch": "main",
+  "sha": "19e4ae35b6c2e8820898c502afb5f518fc4a832c",
+  "source": "manual"
+}

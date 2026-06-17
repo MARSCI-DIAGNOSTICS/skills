@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "route4me-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/route4me-automation",
+  "branch": "main",
+  "sha": "cb263ff9af86bc858da5b499dab3fde9c3ea4e96",
+  "source": "manual"
+}

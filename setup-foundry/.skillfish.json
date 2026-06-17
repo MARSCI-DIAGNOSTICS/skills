@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "setup-foundry",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "polyclaw/polyclaw-repo/plugins/foundry-agents/skills/setup-foundry",
+  "branch": "main",
+  "sha": "74a4ae1eee4b2f4a71f98d70110258751e92dfce",
+  "source": "manual"
+}

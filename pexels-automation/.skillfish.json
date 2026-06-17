@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pexels-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/pexels-automation",
+  "branch": "main",
+  "sha": "83defe5947d19977ba062f2f81063fc5566d3b0f",
+  "source": "manual"
+}

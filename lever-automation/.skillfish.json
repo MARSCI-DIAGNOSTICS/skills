@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lever-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/lever-automation",
+  "branch": "main",
+  "sha": "82391c2fe883f3712caae65a6318468009760181",
+  "source": "manual"
+}

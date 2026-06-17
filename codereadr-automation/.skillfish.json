@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "codereadr-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/codereadr-automation",
+  "branch": "main",
+  "sha": "0d6e2419d7d1e663e291e8201cb72a430664bebd",
+  "source": "manual"
+}

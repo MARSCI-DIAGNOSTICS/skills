@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "netsuite-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/netsuite-automation",
+  "branch": "main",
+  "sha": "dfb9442786948da44fe6c1d69951f179f6b370e9",
+  "source": "manual"
+}

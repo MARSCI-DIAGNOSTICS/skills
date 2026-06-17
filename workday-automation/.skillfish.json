@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "workday-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/workday-automation",
+  "branch": "main",
+  "sha": "1b7870f19950e2a6df106e25007c76d0797a3e1e",
+  "source": "manual"
+}

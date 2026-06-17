@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "helium-mcp",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/helium-mcp",
+  "branch": "main",
+  "sha": "4a57fb3bca96c188964ca43e4fdefd06676f27ef",
+  "source": "manual"
+}

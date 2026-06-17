@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "integrating-dast-with-owasp-zap-in-pipeline",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/integrating-dast-with-owasp-zap-in-pipeline",
+  "branch": "master",
+  "sha": "83b2f62443881b299a814a106e759058cf3a7ad1",
+  "source": "manual"
+}

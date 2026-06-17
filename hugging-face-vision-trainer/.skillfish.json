@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hugging-face-vision-trainer",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/hugging-face-vision-trainer",
+  "branch": "main",
+  "sha": "eb9f77b8d16bcc329cb307ee49eff2372254bd30",
+  "source": "manual"
+}

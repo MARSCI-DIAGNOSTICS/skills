@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "waiverfile-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/waiverfile-automation",
+  "branch": "main",
+  "sha": "f23cdd7a1340b2912599f0dfef606c1db1977dc9",
+  "source": "manual"
+}

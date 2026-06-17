@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ip2location-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ip2location-automation",
+  "branch": "main",
+  "sha": "cb319d0e326eb190af7eaa1ddcdae0e19664eb9f",
+  "source": "manual"
+}

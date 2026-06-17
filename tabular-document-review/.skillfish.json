@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tabular-document-review",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "legal/tabular-document-review",
+  "branch": "main",
+  "sha": "a8cf452e5daeef536116e0b39e0effda806a6b87",
+  "source": "manual"
+}

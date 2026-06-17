@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "datarobot-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/datarobot-automation",
+  "branch": "main",
+  "sha": "769c6d027cb09337df21ed1bda18b562cdbc345b",
+  "source": "manual"
+}

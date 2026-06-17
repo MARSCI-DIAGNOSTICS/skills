@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "goody-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/goody-automation",
+  "branch": "main",
+  "sha": "657337312f130007f2bf1062d1b97221c83bf98b",
+  "source": "manual"
+}

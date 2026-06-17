@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "autobound-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/autobound-automation",
+  "branch": "main",
+  "sha": "26f88a1c36a065cf7c61e93247e36e29fb448b03",
+  "source": "manual"
+}

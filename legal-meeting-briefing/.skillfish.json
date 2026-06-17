@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "legal-meeting-briefing",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "legal/legal-meeting-briefing",
+  "branch": "main",
+  "sha": "15961e75ffafa1604a2dac3d7c7a5018f72eba2a",
+  "source": "manual"
+}

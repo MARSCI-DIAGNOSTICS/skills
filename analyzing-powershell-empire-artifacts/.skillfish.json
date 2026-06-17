@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-powershell-empire-artifacts",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/analyzing-powershell-empire-artifacts",
+  "branch": "master",
+  "sha": "881f883b2a7efd62d09ade0a4d0f0fe6dfd31370",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hotspotsystem-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/hotspotsystem-automation",
+  "branch": "main",
+  "sha": "473a745b14bdb27e12dd7e557333f3f0fbcb6a11",
+  "source": "manual"
+}

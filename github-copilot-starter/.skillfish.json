@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "github-copilot-starter",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/github-copilot-starter",
+  "branch": "main",
+  "sha": "e104c2f4aef2e62cb2ed65349131d4af81da2c30",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "screenshot-fyi-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/screenshot-fyi-automation",
+  "branch": "main",
+  "sha": "145affc55a6a3f3e073fe8763dc7e64dd65be6ac",
+  "source": "manual"
+}

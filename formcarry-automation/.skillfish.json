@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "formcarry-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/formcarry-automation",
+  "branch": "main",
+  "sha": "da113308873298af291e510e88548b94c554f233",
+  "source": "manual"
+}

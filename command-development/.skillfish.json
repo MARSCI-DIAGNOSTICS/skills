@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "command-development",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/anthropic-plugin-dev/skills/command-development",
+  "branch": "main",
+  "sha": "063d7ee84bc5f14b70f71cc6305d868e0db8257c",
+  "source": "manual"
+}

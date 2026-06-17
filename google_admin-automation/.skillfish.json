@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "google_admin-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/google_admin-automation",
+  "branch": "main",
+  "sha": "d3fac784b0158f780185baa178a05052ebc8bf28",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "googlecalendar-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/googlecalendar-automation",
+  "branch": "main",
+  "sha": "dd2deab35588c88ff8c5606810343bbd19131940",
+  "source": "manual"
+}

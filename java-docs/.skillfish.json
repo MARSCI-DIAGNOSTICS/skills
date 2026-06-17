@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "java-docs",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/java-docs",
+  "branch": "main",
+  "sha": "199441f10fc12555b5067ad06a42d02033fd4f20",
+  "source": "manual"
+}

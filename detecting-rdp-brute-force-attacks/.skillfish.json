@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-rdp-brute-force-attacks",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-rdp-brute-force-attacks",
+  "branch": "master",
+  "sha": "8d91632fb056d15850781b02509503751e98b9f5",
+  "source": "manual"
+}

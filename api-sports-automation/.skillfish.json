@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "api-sports-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/api-sports-automation",
+  "branch": "main",
+  "sha": "36b20ce24db536607d532a31855f335100b294fb",
+  "source": "manual"
+}

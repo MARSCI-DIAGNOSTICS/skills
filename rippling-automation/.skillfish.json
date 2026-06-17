@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rippling-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/rippling-automation",
+  "branch": "main",
+  "sha": "0ea52d1f05086017e68e6753f5e2cf9edd06b6f1",
+  "source": "manual"
+}

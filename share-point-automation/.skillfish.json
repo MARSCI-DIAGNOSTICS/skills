@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "share-point-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/share-point-automation",
+  "branch": "main",
+  "sha": "2e4e817e00ad8913ede2d267841f98cf5e45a38e",
+  "source": "manual"
+}

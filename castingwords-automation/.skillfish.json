@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "castingwords-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/castingwords-automation",
+  "branch": "main",
+  "sha": "654e74955a394903a10aaad9ae1b2aace9113229",
+  "source": "manual"
+}

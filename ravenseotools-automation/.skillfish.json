@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ravenseotools-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ravenseotools-automation",
+  "branch": "main",
+  "sha": "68b41fd68b110acbce4adb128716eea9d0f85bb3",
+  "source": "manual"
+}

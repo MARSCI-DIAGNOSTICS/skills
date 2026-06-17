@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "habitica-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/habitica-automation",
+  "branch": "main",
+  "sha": "a330c71f94c0b9c2d0b642a5af85c3fbd57d5a73",
+  "source": "manual"
+}

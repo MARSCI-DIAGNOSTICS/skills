@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "extracta-ai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/extracta-ai-automation",
+  "branch": "main",
+  "sha": "f8438a6bc81b6dad43fdc561ef607813508eb8a7",
+  "source": "manual"
+}

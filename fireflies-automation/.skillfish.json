@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fireflies-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/fireflies-automation",
+  "branch": "main",
+  "sha": "703e832ee65ffc8e1a08339daafbce1e80e3ef2f",
+  "source": "manual"
+}

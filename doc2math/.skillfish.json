@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "doc2math",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/doc2math",
+  "branch": "main",
+  "sha": "ef6fb758aa304922911552db6db5d5fedbe7906d",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "appcircle-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/appcircle-automation",
+  "branch": "main",
+  "sha": "2e08731fff67da156bbe12fc67888e1d6051e6f5",
+  "source": "manual"
+}

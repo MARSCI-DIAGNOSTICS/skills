@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "icypeas-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/icypeas-automation",
+  "branch": "main",
+  "sha": "d9083e0095aa6016c32b7a3a88a372f3a43a625f",
+  "source": "manual"
+}

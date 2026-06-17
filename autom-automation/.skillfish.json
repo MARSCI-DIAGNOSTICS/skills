@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "autom-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/autom-automation",
+  "branch": "main",
+  "sha": "c6fbcab28e4c5566cc95026b31fcfafe57ecf63c",
+  "source": "manual"
+}

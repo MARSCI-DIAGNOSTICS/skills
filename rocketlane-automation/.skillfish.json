@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rocketlane-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/rocketlane-automation",
+  "branch": "main",
+  "sha": "dda94c11152c3a46f5c471b263c104a99b66f286",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-port-scanning-with-fail2ban",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-port-scanning-with-fail2ban",
+  "branch": "master",
+  "sha": "fd40c4f87ae6cea059d5115984701a126835d0eb",
+  "source": "manual"
+}

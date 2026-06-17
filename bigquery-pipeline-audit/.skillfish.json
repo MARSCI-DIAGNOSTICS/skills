@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bigquery-pipeline-audit",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/bigquery-pipeline-audit",
+  "branch": "main",
+  "sha": "320d9dbbca1b3702a6c0f5f25dfd5967e36a18f7",
+  "source": "manual"
+}

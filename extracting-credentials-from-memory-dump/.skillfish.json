@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "extracting-credentials-from-memory-dump",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/extracting-credentials-from-memory-dump",
+  "branch": "master",
+  "sha": "84ddb11fb344b7331547a83f0b96735dde4a829f",
+  "source": "manual"
+}

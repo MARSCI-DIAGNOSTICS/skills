@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "stack-exchange-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/stack-exchange-automation",
+  "branch": "main",
+  "sha": "c3ca6b14066d848fdb525bb4f05b78c2bd5e323e",
+  "source": "manual"
+}

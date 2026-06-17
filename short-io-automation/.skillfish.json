@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "short-io-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/short-io-automation",
+  "branch": "main",
+  "sha": "1c020f06b9b220e38e713ba2e3ac32dcea63aca0",
+  "source": "manual"
+}

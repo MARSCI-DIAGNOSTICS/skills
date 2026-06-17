@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "correlating-threat-campaigns",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/correlating-threat-campaigns",
+  "branch": "master",
+  "sha": "419d3b85eb13ce5ad91b5acd0cd0d64ab0fd1a83",
+  "source": "manual"
+}

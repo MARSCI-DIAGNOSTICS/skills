@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "monthly-review",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "polyclaw/polyclaw-repo/plugins/second-brain-workiq/skills/monthly-review",
+  "branch": "main",
+  "sha": "0235d5bf33d65b3891152fe2578bf032441e74d3",
+  "source": "manual"
+}

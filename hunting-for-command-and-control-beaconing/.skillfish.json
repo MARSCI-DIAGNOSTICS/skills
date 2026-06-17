@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hunting-for-command-and-control-beaconing",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/hunting-for-command-and-control-beaconing",
+  "branch": "master",
+  "sha": "14ba5974e3f8cfcb74f067891aa1fbdd7d67c18e",
+  "source": "manual"
+}

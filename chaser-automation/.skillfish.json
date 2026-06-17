@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "chaser-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/chaser-automation",
+  "branch": "main",
+  "sha": "5de5ad608b455edfe30825e5061c03d4c8f97c53",
+  "source": "manual"
+}

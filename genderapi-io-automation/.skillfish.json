@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "genderapi-io-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/genderapi-io-automation",
+  "branch": "main",
+  "sha": "3e359d303440e43d7a698d980db8920d830df134",
+  "source": "manual"
+}

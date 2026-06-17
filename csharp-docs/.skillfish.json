@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "csharp-docs",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/csharp-docs",
+  "branch": "main",
+  "sha": "11399c92c99088f48697c5e29cd39f594f8642c6",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "nextdns-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/nextdns-automation",
+  "branch": "main",
+  "sha": "b6ff6af73cbca5db81598afb2e8bb3896661bb54",
+  "source": "manual"
+}

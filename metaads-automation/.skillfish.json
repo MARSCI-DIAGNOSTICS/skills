@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "metaads-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/metaads-automation",
+  "branch": "main",
+  "sha": "f774f5d9d5327d277c76aa5c6270d5bc427a97b7",
+  "source": "manual"
+}

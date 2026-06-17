@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "jira-cli",
+  "owner": "hideki5123",
+  "repo": "agent-skill-set",
+  "path": "jira-cli",
+  "branch": "master",
+  "sha": "260ffdf63b38762ca414d4a62e4a2350d778f410",
+  "source": "manual"
+}

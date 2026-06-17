@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "replicate-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/replicate-automation",
+  "branch": "main",
+  "sha": "49f9aedb4f734a0968ffd5bf38ecd804fc5dedcd",
+  "source": "manual"
+}

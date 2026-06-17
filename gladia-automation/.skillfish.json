@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gladia-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/gladia-automation",
+  "branch": "main",
+  "sha": "fd27d220d20c143db876e43bc5c24b5d46c4b09a",
+  "source": "manual"
+}

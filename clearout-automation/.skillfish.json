@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "clearout-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/clearout-automation",
+  "branch": "main",
+  "sha": "5e9264aee19ecf3d80be39b5785054bcf138a537",
+  "source": "manual"
+}

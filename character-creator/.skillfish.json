@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "character-creator",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "multi-agent/.claude/skills/character-creator",
+  "branch": "main",
+  "sha": "667ebdafa8926cabff194e3226fbdacdd35c42f8",
+  "source": "manual"
+}

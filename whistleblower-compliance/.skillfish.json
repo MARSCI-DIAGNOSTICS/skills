@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "whistleblower-compliance",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "legal/whistleblower-compliance",
+  "branch": "main",
+  "sha": "e04cd7f9ef3e9950e17efe2965b8ccae7f70578a",
+  "source": "manual"
+}

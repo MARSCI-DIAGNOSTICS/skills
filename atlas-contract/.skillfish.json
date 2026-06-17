@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "atlas-contract",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/atlas-contract",
+  "branch": "main",
+  "sha": "68db790d724f189dbcc4c840da2bbd8ba93c9e93",
+  "source": "manual"
+}

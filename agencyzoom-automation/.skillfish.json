@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agencyzoom-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/agencyzoom-automation",
+  "branch": "main",
+  "sha": "f74da4527c4f71167c1fbce1e562ec56e1cfd568",
+  "source": "manual"
+}

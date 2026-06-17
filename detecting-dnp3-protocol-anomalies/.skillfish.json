@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-dnp3-protocol-anomalies",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-dnp3-protocol-anomalies",
+  "branch": "master",
+  "sha": "07656f07ac304873e4462475c0afc10aa36593c1",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "infrastructure-compliance-auditor",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "ra-qm-team/infrastructure-compliance-auditor",
+  "branch": "main",
+  "sha": "54052bdb823222d45294793e97df259a0ec3390e",
+  "source": "manual"
+}

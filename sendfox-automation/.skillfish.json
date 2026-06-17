@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sendfox-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/sendfox-automation",
+  "branch": "main",
+  "sha": "4929e19a97c69399ffd41f7cd55eb6ff9720f329",
+  "source": "manual"
+}

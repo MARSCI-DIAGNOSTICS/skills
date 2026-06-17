@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dataverse-python-quickstart",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/dataverse-python-quickstart",
+  "branch": "main",
+  "sha": "7b33cd885826f77a9792aaf1a04d9a0813d0c5c5",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "feature-flag-strategy",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "project-management/execution/feature-flag-strategy",
+  "branch": "main",
+  "sha": "d3ae819991814c4d60cbee41ab27cf5f002f6444",
+  "source": "manual"
+}

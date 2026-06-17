@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "conversion-tools-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/conversion-tools-automation",
+  "branch": "main",
+  "sha": "2903e53da39bc149b2a8dbf9ae6da46d54b6f596",
+  "source": "manual"
+}

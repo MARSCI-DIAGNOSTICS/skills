@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zerobounce-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/zerobounce-automation",
+  "branch": "main",
+  "sha": "c699a757f421c18d7afd4db6814f0cb196c08523",
+  "source": "manual"
+}

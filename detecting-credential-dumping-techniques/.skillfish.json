@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-credential-dumping-techniques",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-credential-dumping-techniques",
+  "branch": "master",
+  "sha": "d0220a0b2abd50764c37fbaa135dca55320ab0dd",
+  "source": "manual"
+}

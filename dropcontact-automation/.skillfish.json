@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dropcontact-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/dropcontact-automation",
+  "branch": "main",
+  "sha": "66ebd9f5e5bf4450c329c5a9f27c2a3c04dc307b",
+  "source": "manual"
+}

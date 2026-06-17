@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "botbaba-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/botbaba-automation",
+  "branch": "main",
+  "sha": "eab3ddb03bd0dda155681e7d2e3e4fa5be39c2a4",
+  "source": "manual"
+}

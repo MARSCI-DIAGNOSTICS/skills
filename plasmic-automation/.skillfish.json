@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "plasmic-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/plasmic-automation",
+  "branch": "main",
+  "sha": "903a12b3675b65379225cf6f94887a64120e855c",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "discordbot-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/discordbot-automation",
+  "branch": "main",
+  "sha": "523e2b33fc5580dce0dbca72ab3518cd183a8940",
+  "source": "manual"
+}

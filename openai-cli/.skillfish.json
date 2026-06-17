@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "openai-cli",
+  "owner": "hideki5123",
+  "repo": "agent-skill-set",
+  "path": "openai-cli",
+  "branch": "master",
+  "sha": "88ae2705aee0e0c4b7df9d512ba5975682e5ca64",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "exist-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/exist-automation",
+  "branch": "main",
+  "sha": "cc46c97d4caa9664ad6ad0a8db316c47da8ce481",
+  "source": "manual"
+}

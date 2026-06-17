@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aeroleads-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/aeroleads-automation",
+  "branch": "main",
+  "sha": "fab4cf0e61e181ba4e602af83a34be9b012f32f5",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "accelo-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/accelo-automation",
+  "branch": "main",
+  "sha": "dfb4fc771e7236845d322138e7eea0e077a1529b",
+  "source": "manual"
+}

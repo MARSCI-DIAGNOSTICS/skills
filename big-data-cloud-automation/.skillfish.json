@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "big-data-cloud-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/big-data-cloud-automation",
+  "branch": "main",
+  "sha": "12691fa1553686ee18c4f450c49391fc171a7582",
+  "source": "manual"
+}

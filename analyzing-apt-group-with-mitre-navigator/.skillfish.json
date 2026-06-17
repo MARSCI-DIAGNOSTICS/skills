@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-apt-group-with-mitre-navigator",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/analyzing-apt-group-with-mitre-navigator",
+  "branch": "master",
+  "sha": "46ce9ce0b47fd1b559e20b7e86f7025faf75d71f",
+  "source": "manual"
+}

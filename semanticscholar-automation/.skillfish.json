@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "semanticscholar-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/semanticscholar-automation",
+  "branch": "main",
+  "sha": "e618977cf31fc1432c072cb98a7ca549b9bb8180",
+  "source": "manual"
+}

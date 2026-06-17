@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zipai-optimizer",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/zipai-optimizer",
+  "branch": "main",
+  "sha": "a7cbceba07971e1db963dd0144c048b1071b6e94",
+  "source": "manual"
+}

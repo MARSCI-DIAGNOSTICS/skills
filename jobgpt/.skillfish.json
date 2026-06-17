@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "jobgpt",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/jobgpt",
+  "branch": "main",
+  "sha": "5bf9ab0417d8c322bdc0d646b08f41942b25e24b",
+  "source": "manual"
+}

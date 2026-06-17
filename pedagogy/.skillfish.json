@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pedagogy",
+  "owner": "nathanjgaul",
+  "repo": "plugins",
+  "path": "plugins/dev-course-builder/skills/pedagogy",
+  "branch": "main",
+  "sha": "6e4817d9a1e451f26e27b1091f6fe2f1b09e10c6",
+  "source": "manual"
+}

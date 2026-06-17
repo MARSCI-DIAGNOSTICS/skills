@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fullenrich-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/fullenrich-automation",
+  "branch": "main",
+  "sha": "5d2564670587c17cc2ab54c450f5c7bc673d2f66",
+  "source": "manual"
+}

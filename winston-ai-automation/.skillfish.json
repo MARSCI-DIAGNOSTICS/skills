@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "winston-ai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/winston-ai-automation",
+  "branch": "main",
+  "sha": "c2d72436f5b058b805adc7c0e35e7da9c235aee0",
+  "source": "manual"
+}

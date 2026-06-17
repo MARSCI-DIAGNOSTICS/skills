@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "kaleido-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/kaleido-automation",
+  "branch": "main",
+  "sha": "8ff1de0d393b1ce63eba515623eca248a80009c4",
+  "source": "manual"
+}

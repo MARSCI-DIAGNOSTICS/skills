@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "builtwith-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/builtwith-automation",
+  "branch": "main",
+  "sha": "eb1d72e2d6c9813d9ead51b371cf1c6f0d631c6c",
+  "source": "manual"
+}

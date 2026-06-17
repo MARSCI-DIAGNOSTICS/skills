@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "updown-io-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/updown-io-automation",
+  "branch": "main",
+  "sha": "0c29deec53db3e011a395b066268719d7ec1e076",
+  "source": "manual"
+}

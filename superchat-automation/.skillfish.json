@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "superchat-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/superchat-automation",
+  "branch": "main",
+  "sha": "82a1a93362e40cc0e3f62c71c1403fde838efe21",
+  "source": "manual"
+}

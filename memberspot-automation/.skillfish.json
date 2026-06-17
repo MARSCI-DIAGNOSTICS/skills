@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "memberspot-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/memberspot-automation",
+  "branch": "main",
+  "sha": "68a4b30d86f5d6e64617e2869de3f5f3b6612176",
+  "source": "manual"
+}

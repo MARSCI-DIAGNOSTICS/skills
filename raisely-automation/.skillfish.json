@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "raisely-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/raisely-automation",
+  "branch": "main",
+  "sha": "d19b75aa943c23c0cfe71ddcec89f4e66de114a8",
+  "source": "manual"
+}

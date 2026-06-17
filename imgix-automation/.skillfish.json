@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "imgix-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/imgix-automation",
+  "branch": "main",
+  "sha": "06c6bacd32ae410ea75f5ae54708f3234b0a4996",
+  "source": "manual"
+}

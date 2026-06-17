@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "woodpecker-co-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/woodpecker-co-automation",
+  "branch": "main",
+  "sha": "8dcaec83e5e3016b83bce0e570ff06bd17b1469b",
+  "source": "manual"
+}

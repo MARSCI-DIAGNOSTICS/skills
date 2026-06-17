@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "twelve-data-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/twelve-data-automation",
+  "branch": "main",
+  "sha": "43ac8050914720a4cba0143a3c27f8486ef46d9e",
+  "source": "manual"
+}

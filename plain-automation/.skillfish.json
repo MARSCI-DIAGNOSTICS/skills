@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "plain-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/plain-automation",
+  "branch": "main",
+  "sha": "ec4699935a832d34d5ee22587772617ccf54b6b3",
+  "source": "manual"
+}

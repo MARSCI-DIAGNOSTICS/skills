@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-kerberoasting-attacks",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-kerberoasting-attacks",
+  "branch": "master",
+  "sha": "80a17e36d6f41ffc230670e2a61efe2efd14aadd",
+  "source": "manual"
+}

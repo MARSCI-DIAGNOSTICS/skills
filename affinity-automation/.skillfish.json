@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "affinity-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/affinity-automation",
+  "branch": "main",
+  "sha": "a7a75913ec4a38301fdda7070df8adba8447f09b",
+  "source": "manual"
+}

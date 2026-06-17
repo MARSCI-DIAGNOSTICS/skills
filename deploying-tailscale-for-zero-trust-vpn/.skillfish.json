@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "deploying-tailscale-for-zero-trust-vpn",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/deploying-tailscale-for-zero-trust-vpn",
+  "branch": "master",
+  "sha": "683a8bfafee0bd5fabb441df5c92a5058d3d1e59",
+  "source": "manual"
+}

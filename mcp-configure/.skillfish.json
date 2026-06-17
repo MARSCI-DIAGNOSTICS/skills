@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mcp-configure",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/mcp-configure",
+  "branch": "main",
+  "sha": "97a381d28ed267fbb45ed00b7633171707080fa6",
+  "source": "manual"
+}

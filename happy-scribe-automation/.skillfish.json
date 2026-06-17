@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "happy-scribe-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/happy-scribe-automation",
+  "branch": "main",
+  "sha": "5d98de0f55bbf0449c273ef377276010c5ec633b",
+  "source": "manual"
+}

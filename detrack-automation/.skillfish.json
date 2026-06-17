@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detrack-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/detrack-automation",
+  "branch": "main",
+  "sha": "d4220e2bdda70a79fa49ca19375ac940bce448d2",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "baselinker-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/baselinker-automation",
+  "branch": "main",
+  "sha": "e2892afb689c38c7167a334b12c49e6bdf01cd75",
+  "source": "manual"
+}

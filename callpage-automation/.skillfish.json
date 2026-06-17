@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "callpage-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/callpage-automation",
+  "branch": "main",
+  "sha": "702e6aceb9704f9e8bf02011c08a259799144ed8",
+  "source": "manual"
+}

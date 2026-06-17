@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bunnycdn-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/bunnycdn-automation",
+  "branch": "main",
+  "sha": "5f11a6ecdab763e3054e27d519488afbb444b165",
+  "source": "manual"
+}

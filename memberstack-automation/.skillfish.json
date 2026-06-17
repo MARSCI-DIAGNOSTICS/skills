@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "memberstack-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/memberstack-automation",
+  "branch": "main",
+  "sha": "f4d22ee8a946fbedab7143937d99cba51c9b8264",
+  "source": "manual"
+}

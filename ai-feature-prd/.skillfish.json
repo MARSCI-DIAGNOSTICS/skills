@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ai-feature-prd",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "project-management/execution/ai-feature-prd",
+  "branch": "main",
+  "sha": "ee9a4836c58d7625bfe641591eef415b80c2b2d1",
+  "source": "manual"
+}

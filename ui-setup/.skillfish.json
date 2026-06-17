@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ui-setup",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/ui-setup",
+  "branch": "main",
+  "sha": "50f50dc67c87e3f4171e0571d97fa5d104142f9f",
+  "source": "manual"
+}

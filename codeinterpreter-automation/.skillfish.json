@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "codeinterpreter-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/codeinterpreter-automation",
+  "branch": "main",
+  "sha": "a5e3516529ea381b9d3bc7822d88c001dad9a0e9",
+  "source": "manual"
+}

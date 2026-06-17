@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "building-incident-response-playbook",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/building-incident-response-playbook",
+  "branch": "master",
+  "sha": "b5b3523240ad547971f89d7e61c1f5ab5c8cbf7a",
+  "source": "manual"
+}

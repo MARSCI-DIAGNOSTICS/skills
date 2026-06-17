@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-command-and-control-over-dns",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-command-and-control-over-dns",
+  "branch": "master",
+  "sha": "cc9c452c708dfe7b7b3610fbabcde00eb3309502",
+  "source": "manual"
+}

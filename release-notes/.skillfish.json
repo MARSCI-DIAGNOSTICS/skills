@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "release-notes",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "project-management/execution/release-notes",
+  "branch": "main",
+  "sha": "b8c5602f9c2e774c71d1fac542ada3b535552d81",
+  "source": "manual"
+}

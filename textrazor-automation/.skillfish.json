@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "textrazor-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/textrazor-automation",
+  "branch": "main",
+  "sha": "202cace4037fc54f78e10ebfbc50552eb77f6eab",
+  "source": "manual"
+}

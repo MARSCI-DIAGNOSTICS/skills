@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "precoro-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/precoro-automation",
+  "branch": "main",
+  "sha": "41b99a6288b823d93d7e6126ab0dfd4b7e24f245",
+  "source": "manual"
+}

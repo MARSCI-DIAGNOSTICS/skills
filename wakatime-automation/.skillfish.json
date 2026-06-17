@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "wakatime-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/wakatime-automation",
+  "branch": "main",
+  "sha": "31cce6933bd29231f9e77dbf34db5c2cd8015462",
+  "source": "manual"
+}

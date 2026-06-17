@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "simla-com-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/simla-com-automation",
+  "branch": "main",
+  "sha": "b92bb817f51fde0fe4dbb0ceb91fe6651a2670b8",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "odoo-upgrade-advisor",
+  "owner": "satnamrsm",
+  "repo": "https-github.com-sickn33-antigravity-awesome-skills",
+  "path": "skills/odoo-upgrade-advisor",
+  "branch": "main",
+  "sha": "482fdb8c79ea78df204949f2e9d91b7adfa19db5",
+  "source": "manual"
+}

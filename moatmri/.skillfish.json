@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "moatmri",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/moatmri",
+  "branch": "main",
+  "sha": "e1dd2ca47d01bef777291c052be484d26d077be0",
+  "source": "manual"
+}

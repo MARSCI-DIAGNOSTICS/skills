@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dos-verify-done-claims",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/dos-verify-done-claims",
+  "branch": "main",
+  "sha": "642180d96f95f55a28f31b036dd740b248537075",
+  "source": "manual"
+}

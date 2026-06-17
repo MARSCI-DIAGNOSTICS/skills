@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "foundry-agent-chat",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "polyclaw/polyclaw-repo/plugins/foundry-agents/skills/foundry-agent-chat",
+  "branch": "main",
+  "sha": "4f8270a73dd1e58a214894f67192065206510c65",
+  "source": "manual"
+}

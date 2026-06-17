@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "auditing-gcp-iam-permissions",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/auditing-gcp-iam-permissions",
+  "branch": "master",
+  "sha": "67821a60d89fbf019d4bc9504a7658ae59d84e69",
+  "source": "manual"
+}

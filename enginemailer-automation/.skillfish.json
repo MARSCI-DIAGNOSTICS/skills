@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "enginemailer-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/enginemailer-automation",
+  "branch": "main",
+  "sha": "c4dc3e30756ceb47c129579a10fe73385d971398",
+  "source": "manual"
+}

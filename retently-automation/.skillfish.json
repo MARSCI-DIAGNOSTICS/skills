@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "retently-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/retently-automation",
+  "branch": "main",
+  "sha": "ea2f8e6bded2e12dbf68a229120a3fbcd5e77273",
+  "source": "manual"
+}

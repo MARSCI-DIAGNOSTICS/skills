@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "vercel-cli-with-tokens",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/vercel-cli-with-tokens",
+  "branch": "main",
+  "sha": "bbb41caae291916b3688ab83b783e72cf2556751",
+  "source": "manual"
+}

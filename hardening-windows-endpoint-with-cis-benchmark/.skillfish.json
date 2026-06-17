@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hardening-windows-endpoint-with-cis-benchmark",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/hardening-windows-endpoint-with-cis-benchmark",
+  "branch": "master",
+  "sha": "ec0a4b79069d548d90fae95a6cf15a505becfdae",
+  "source": "manual"
+}

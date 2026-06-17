@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bugsnag-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/bugsnag-automation",
+  "branch": "main",
+  "sha": "b4d120b97f041ffa15c49ae43ea2f3229e8704bf",
+  "source": "manual"
+}

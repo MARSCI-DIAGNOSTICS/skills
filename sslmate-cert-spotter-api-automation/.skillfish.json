@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sslmate-cert-spotter-api-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/sslmate-cert-spotter-api-automation",
+  "branch": "main",
+  "sha": "2fb9a2cb75baca3c01586f7829c2a9a2e0c2803d",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hardening-docker-daemon-configuration",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/hardening-docker-daemon-configuration",
+  "branch": "master",
+  "sha": "504937985af39bc563f356eb071b291e14a77e10",
+  "source": "manual"
+}

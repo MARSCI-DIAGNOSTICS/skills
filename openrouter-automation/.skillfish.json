@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "openrouter-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/openrouter-automation",
+  "branch": "main",
+  "sha": "c57c3a1b314e2a0b47c7e4256a6c3330b246e322",
+  "source": "manual"
+}

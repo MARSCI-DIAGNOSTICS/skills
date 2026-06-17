@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gha-security-review",
+  "owner": "satnamrsm",
+  "repo": "https-github.com-sickn33-antigravity-awesome-skills",
+  "path": "skills/gha-security-review",
+  "branch": "main",
+  "sha": "02cd96ef828f28bb8e9ced7d081a4e0d9e6113c1",
+  "source": "manual"
+}

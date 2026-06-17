@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "heygen-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/heygen-automation",
+  "branch": "main",
+  "sha": "789d1d8167fd54a7ea7f3adae0080c73f082b7fe",
+  "source": "manual"
+}

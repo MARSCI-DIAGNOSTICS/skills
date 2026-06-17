@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "identitycheck-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/identitycheck-automation",
+  "branch": "main",
+  "sha": "7b2aea936a0984b0b7dd36ac8ec2cda640959048",
+  "source": "manual"
+}

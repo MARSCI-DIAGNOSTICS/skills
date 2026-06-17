@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "qualaroo-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/qualaroo-automation",
+  "branch": "main",
+  "sha": "f62a0d3a64fb271fd80e96066f8cc61c19f112ea",
+  "source": "manual"
+}

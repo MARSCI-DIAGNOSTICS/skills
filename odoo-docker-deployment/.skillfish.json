@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "odoo-docker-deployment",
+  "owner": "satnamrsm",
+  "repo": "https-github.com-sickn33-antigravity-awesome-skills",
+  "path": "skills/odoo-docker-deployment",
+  "branch": "main",
+  "sha": "b21958a812cb3b6aa1568f3aeb648e21bd71d795",
+  "source": "manual"
+}

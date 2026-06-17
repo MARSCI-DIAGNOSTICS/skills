@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "java-add-graalvm-native-image-support",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/java-add-graalvm-native-image-support",
+  "branch": "main",
+  "sha": "eb3b37e80e12b4f363b02dafbee7530906bad381",
+  "source": "manual"
+}

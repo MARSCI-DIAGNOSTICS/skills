@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dialmycalls-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/dialmycalls-automation",
+  "branch": "main",
+  "sha": "3d164101a64465af33b143b4230bc38ec8a52a9d",
+  "source": "manual"
+}

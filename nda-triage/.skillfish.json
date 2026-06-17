@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "nda-triage",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "legal/nda-triage",
+  "branch": "main",
+  "sha": "a2a0175597a32c6a13f1d2eba53b086fcf67b13f",
+  "source": "manual"
+}

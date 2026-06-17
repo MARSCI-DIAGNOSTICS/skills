@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "onesignal-user-auth-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/onesignal-user-auth-automation",
+  "branch": "main",
+  "sha": "93c28ee469ecefbeb0b49732e456403913ad535a",
+  "source": "manual"
+}

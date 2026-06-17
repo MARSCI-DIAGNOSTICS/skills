@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "deploying-cloudflare-access-for-zero-trust",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/deploying-cloudflare-access-for-zero-trust",
+  "branch": "master",
+  "sha": "54c82506e01ad5bb661a46c84cf4f5bda116d9ca",
+  "source": "manual"
+}

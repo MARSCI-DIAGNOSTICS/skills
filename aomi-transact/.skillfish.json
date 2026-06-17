@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aomi-transact",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/aomi-transact",
+  "branch": "main",
+  "sha": "b7c962d75335041511a57030e9c872da3fc7304b",
+  "source": "manual"
+}

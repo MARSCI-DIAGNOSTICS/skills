@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "vestaboard-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/vestaboard-automation",
+  "branch": "main",
+  "sha": "886cdbbd859e5442647859d622dc028f6d0311d0",
+  "source": "manual"
+}

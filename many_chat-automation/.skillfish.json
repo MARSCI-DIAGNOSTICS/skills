@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "many_chat-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/many_chat-automation",
+  "branch": "main",
+  "sha": "75e4609a20739c9bf46184e6d46661284237538a",
+  "source": "manual"
+}

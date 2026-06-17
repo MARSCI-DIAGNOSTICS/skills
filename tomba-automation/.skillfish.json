@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tomba-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/tomba-automation",
+  "branch": "main",
+  "sha": "43d4457428091e2534f528ed7b3faaafb48746da",
+  "source": "manual"
+}

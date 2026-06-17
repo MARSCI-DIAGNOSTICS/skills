@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "vendor-due-diligence",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "legal/vendor-due-diligence",
+  "branch": "main",
+  "sha": "b0a6b2328531895252ecd32e691020a7b0d8722d",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "deploying-palo-alto-prisma-access-zero-trust",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/deploying-palo-alto-prisma-access-zero-trust",
+  "branch": "master",
+  "sha": "8ca0892ce34dbeb7c599f4dacc24520e97cdc8ec",
+  "source": "manual"
+}

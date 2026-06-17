@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gh-incidents",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "polyclaw/polyclaw-repo/plugins/github-status/skills/gh-incidents",
+  "branch": "main",
+  "sha": "08f49c53d2c45495b307a5c2d7058b068f47a593",
+  "source": "manual"
+}

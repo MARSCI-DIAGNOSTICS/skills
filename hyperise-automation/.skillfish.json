@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hyperise-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/hyperise-automation",
+  "branch": "main",
+  "sha": "542c6bec5cc54cf2dff44a1ad139f1472b34f2b4",
+  "source": "manual"
+}

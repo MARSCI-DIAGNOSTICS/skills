@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-uefi-bootkit-persistence",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/analyzing-uefi-bootkit-persistence",
+  "branch": "master",
+  "sha": "b084fd449340fcafe17c9005ef4ef48a26a5f15f",
+  "source": "manual"
+}

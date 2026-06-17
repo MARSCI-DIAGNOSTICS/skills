@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-threat-actor-ttps-with-mitre-navigator",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/analyzing-threat-actor-ttps-with-mitre-navigator",
+  "branch": "master",
+  "sha": "16582d3c1b2f246366cff2efaccd3338e320028c",
+  "source": "manual"
+}

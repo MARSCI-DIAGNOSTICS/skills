@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "doppler-marketing-automation-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/doppler-marketing-automation-automation",
+  "branch": "main",
+  "sha": "c250e4fdfa5e7724db343f192b4d0bb68c5a6d78",
+  "source": "manual"
+}

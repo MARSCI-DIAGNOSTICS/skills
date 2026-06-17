@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hono",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/hono",
+  "branch": "main",
+  "sha": "21490b846ce5ab2f792ce6826476f7da484b311f",
+  "source": "manual"
+}

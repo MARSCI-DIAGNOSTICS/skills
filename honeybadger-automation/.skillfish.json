@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "honeybadger-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/honeybadger-automation",
+  "branch": "main",
+  "sha": "6681da5579ad3de9829f0a34a33ba1c1e5457641",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "implementing-endpoint-detection-with-wazuh",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/implementing-endpoint-detection-with-wazuh",
+  "branch": "master",
+  "sha": "9f475dbac0b77f2cf45e9c51ae6952abef03c9d1",
+  "source": "manual"
+}

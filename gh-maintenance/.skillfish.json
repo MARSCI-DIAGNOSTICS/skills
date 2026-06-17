@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gh-maintenance",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "polyclaw/polyclaw-repo/plugins/github-status/skills/gh-maintenance",
+  "branch": "main",
+  "sha": "6c4badd7f7d32472d9521a952c3b0a0d5393e893",
+  "source": "manual"
+}

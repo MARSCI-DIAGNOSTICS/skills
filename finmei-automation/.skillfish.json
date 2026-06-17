@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "finmei-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/finmei-automation",
+  "branch": "main",
+  "sha": "8e780f91e34436e32913474e39ef9b2ac5d14c9e",
+  "source": "manual"
+}

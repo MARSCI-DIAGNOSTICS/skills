@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "classmarker-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/classmarker-automation",
+  "branch": "main",
+  "sha": "61fa7d3514b136b56917ba935d59f018c18aa502",
+  "source": "manual"
+}

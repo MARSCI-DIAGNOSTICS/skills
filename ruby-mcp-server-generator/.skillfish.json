@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ruby-mcp-server-generator",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/ruby-mcp-server-generator",
+  "branch": "main",
+  "sha": "24513cb240be06a51d3d418a9df80e634ac9069a",
+  "source": "manual"
+}

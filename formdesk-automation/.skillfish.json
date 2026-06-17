@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "formdesk-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/formdesk-automation",
+  "branch": "main",
+  "sha": "90756601c815b7c942035de814f3d57660d524a3",
+  "source": "manual"
+}

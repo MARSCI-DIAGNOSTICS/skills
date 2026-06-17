@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "encodian-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/encodian-automation",
+  "branch": "main",
+  "sha": "6dc6e92c0aed1178326ed8fa1678b20439e6dfd1",
+  "source": "manual"
+}

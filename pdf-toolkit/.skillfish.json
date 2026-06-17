@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pdf-toolkit",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "documents/pdf-toolkit",
+  "branch": "main",
+  "sha": "296936448d7b0ba664cdfa640bfaefa9c99742c6",
+  "source": "manual"
+}

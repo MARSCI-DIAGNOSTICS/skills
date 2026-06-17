@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mailboxlayer-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/mailboxlayer-automation",
+  "branch": "main",
+  "sha": "db38dc773e12e6e23af66025fc4d8fc21fdc5dbc",
+  "source": "manual"
+}

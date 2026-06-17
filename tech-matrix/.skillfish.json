@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tech-matrix",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/monopoly/tech-matrix",
+  "branch": "main",
+  "sha": "f125b379e2fdf65af1ae12ef6914ad1666d9d404",
+  "source": "manual"
+}

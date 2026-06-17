@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cloudpress-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/cloudpress-automation",
+  "branch": "main",
+  "sha": "bb9c55202aede3ca7055f41519d75f6317d784b2",
+  "source": "manual"
+}

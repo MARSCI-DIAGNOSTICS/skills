@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "technology-stack-blueprint-generator",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/technology-stack-blueprint-generator",
+  "branch": "main",
+  "sha": "83e25812c9ddc1452b1bd675e37532f70f25c0cd",
+  "source": "manual"
+}

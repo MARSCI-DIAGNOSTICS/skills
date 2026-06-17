@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "apiverve-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/apiverve-automation",
+  "branch": "main",
+  "sha": "e9a45fa5678acaed53448d70bbedb47af13b0c43",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-windows-event-logs-in-splunk",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/analyzing-windows-event-logs-in-splunk",
+  "branch": "master",
+  "sha": "bee5a0a0dccabe7df948e4b0338ed3a2a5c93e1a",
+  "source": "manual"
+}

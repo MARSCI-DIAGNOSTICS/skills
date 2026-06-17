@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "yandex-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/yandex-automation",
+  "branch": "main",
+  "sha": "21834b89a7d58ce7783a6c574a3bfe23c95de1db",
+  "source": "manual"
+}

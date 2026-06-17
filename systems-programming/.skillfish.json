@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "systems-programming",
+  "owner": "nathanjgaul",
+  "repo": "plugins",
+  "path": "plugins/dev-course-builder/skills/courses/systems-programming",
+  "branch": "main",
+  "sha": "9b60fbd0c1e704a05a0dac2e16f11abd4cb0db7f",
+  "source": "manual"
+}

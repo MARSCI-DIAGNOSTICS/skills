@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "instacart-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/instacart-automation",
+  "branch": "main",
+  "sha": "1c80728b4312aa392b38648d5e7c4f35506861f0",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "googlebigquery-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/googlebigquery-automation",
+  "branch": "main",
+  "sha": "19cbd86ae3eb9f997b3a2716f63e4eb7b5f44099",
+  "source": "manual"
+}

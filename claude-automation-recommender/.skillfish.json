@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "claude-automation-recommender",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/anthropic-claude-code-setup/skills/claude-automation-recommender",
+  "branch": "main",
+  "sha": "b43f4a9072318526305d3ddf2d6bedfbf860ae93",
+  "source": "manual"
+}

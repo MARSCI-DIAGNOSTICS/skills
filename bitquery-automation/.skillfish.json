@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bitquery-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/bitquery-automation",
+  "branch": "main",
+  "sha": "948694694069611d4dbcf5f5b6665cb51c5d57bb",
+  "source": "manual"
+}

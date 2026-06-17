@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pdftk-server",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/pdftk-server",
+  "branch": "main",
+  "sha": "ddb29fd3ec999dca5c42f4e55338ba1967fde25f",
+  "source": "manual"
+}

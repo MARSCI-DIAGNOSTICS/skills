@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ecl-harness-engineer",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/ecl-harness-engineer",
+  "branch": "main",
+  "sha": "b5d973da17749072fb2a935d8e9d889a12aae494",
+  "source": "manual"
+}

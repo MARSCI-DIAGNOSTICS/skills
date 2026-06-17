@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "auditing-azure-active-directory-configuration",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/auditing-azure-active-directory-configuration",
+  "branch": "master",
+  "sha": "75c83eb1dd3c6d21fbae464e730fd58c081d1182",
+  "source": "manual"
+}

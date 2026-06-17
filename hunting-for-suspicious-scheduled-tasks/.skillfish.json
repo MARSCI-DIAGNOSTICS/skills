@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hunting-for-suspicious-scheduled-tasks",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/hunting-for-suspicious-scheduled-tasks",
+  "branch": "master",
+  "sha": "5884e01456769d5d1b2dd7e5cf96cee57519eabb",
+  "source": "manual"
+}

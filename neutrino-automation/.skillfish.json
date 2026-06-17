@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "neutrino-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/neutrino-automation",
+  "branch": "main",
+  "sha": "b13c5d876190c759827dd32c29c99f7b122fda6f",
+  "source": "manual"
+}

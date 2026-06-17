@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agenttrace-session-audit",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/agenttrace-session-audit",
+  "branch": "main",
+  "sha": "ef59e6bdf0dfeedbf78713bb8ce0a64f5a59c4d0",
+  "source": "manual"
+}

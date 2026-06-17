@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mcp-tool-developer",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/mcp-tool-developer",
+  "branch": "main",
+  "sha": "eef4819adc3308ed1edff572f4f55672a41803ce",
+  "source": "manual"
+}

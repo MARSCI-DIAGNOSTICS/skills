@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "re-amaze-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/re-amaze-automation",
+  "branch": "main",
+  "sha": "a11a545b4900619657d5591bbddc2da3303c723b",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "stormglass-io-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/stormglass-io-automation",
+  "branch": "main",
+  "sha": "1840158c232b594fe6b61332378e195a46c92345",
+  "source": "manual"
+}

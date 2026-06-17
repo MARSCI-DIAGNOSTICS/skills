@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "y-gy-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/y-gy-automation",
+  "branch": "main",
+  "sha": "ba7aa0ebf5ab60f68c71b1587bdcb923d5286b5a",
+  "source": "manual"
+}

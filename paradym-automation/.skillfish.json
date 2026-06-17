@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "paradym-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/paradym-automation",
+  "branch": "main",
+  "sha": "943c2d6ebc7cc76bcc5d7d9e7168abca528cf5de",
+  "source": "manual"
+}

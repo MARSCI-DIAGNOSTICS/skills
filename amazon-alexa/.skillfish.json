@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "amazon-alexa",
+  "owner": "satnamrsm",
+  "repo": "https-github.com-sickn33-antigravity-awesome-skills",
+  "path": "skills/amazon-alexa",
+  "branch": "main",
+  "sha": "8e47dd91ca19dcb3d6c74ba5d7edcdffc9cd4574",
+  "source": "manual"
+}

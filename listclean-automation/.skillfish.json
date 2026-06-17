@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "listclean-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/listclean-automation",
+  "branch": "main",
+  "sha": "f4dc8c09dd3074487e8f1865683805f998582a1c",
+  "source": "manual"
+}

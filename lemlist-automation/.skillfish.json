@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lemlist-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/lemlist-automation",
+  "branch": "main",
+  "sha": "b3766228c8e4325f38c6b2316f1bf526c2213ee4",
+  "source": "manual"
+}

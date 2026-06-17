@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-devops-cli",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/azure-devops-cli",
+  "branch": "main",
+  "sha": "edf956d513ee42cddede4aa571b35ccb72efe894",
+  "source": "manual"
+}

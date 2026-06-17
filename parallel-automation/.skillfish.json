@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "parallel-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/parallel-automation",
+  "branch": "main",
+  "sha": "c2049c42dfa03625923e9dda951d1183016e1a25",
+  "source": "manual"
+}

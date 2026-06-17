@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "acquiring-disk-image-with-dd-and-dcfldd",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/acquiring-disk-image-with-dd-and-dcfldd",
+  "branch": "master",
+  "sha": "06710b8e41964023c414659842c4d02ffc3bfb83",
+  "source": "manual"
+}

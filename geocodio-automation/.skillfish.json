@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "geocodio-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/geocodio-automation",
+  "branch": "main",
+  "sha": "a0f3b4cc9ace263dd410e1154126f8e731e07bec",
+  "source": "manual"
+}

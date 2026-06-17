@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "membervault-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/membervault-automation",
+  "branch": "main",
+  "sha": "9ada12808bdbf02cdcee2511d7e0c915fd9144d2",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "trpc-fullstack",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/trpc-fullstack",
+  "branch": "main",
+  "sha": "d08a7228e38d1f69e5beafa42c96c6645d231a10",
+  "source": "manual"
+}

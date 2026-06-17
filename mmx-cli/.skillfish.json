@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mmx-cli",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/mmx-cli",
+  "branch": "main",
+  "sha": "7186c7270285c4a0e612db4396154116b43bba89",
+  "source": "manual"
+}

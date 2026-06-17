@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ticketmaster-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ticketmaster-automation",
+  "branch": "main",
+  "sha": "17e105955a6fa43f8c01900873fc098db52cdd18",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-resource-health-diagnose",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/azure-resource-health-diagnose",
+  "branch": "main",
+  "sha": "71189536f8c004ba49573919329adda948a7373d",
+  "source": "manual"
+}

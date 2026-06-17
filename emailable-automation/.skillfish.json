@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "emailable-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/emailable-automation",
+  "branch": "main",
+  "sha": "8fe90826799bf2ae52b3d897b09625b788037f30",
+  "source": "manual"
+}

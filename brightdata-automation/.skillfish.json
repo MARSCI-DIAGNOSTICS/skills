@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "brightdata-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/brightdata-automation",
+  "branch": "main",
+  "sha": "cb4bdf8c75469ea1d97a03e2b769b8ff979839f0",
+  "source": "manual"
+}

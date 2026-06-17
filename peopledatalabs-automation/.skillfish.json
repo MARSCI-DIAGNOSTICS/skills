@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "peopledatalabs-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/peopledatalabs-automation",
+  "branch": "main",
+  "sha": "1a0e0d347e906a5c4140187f0ef6cbbc549576c1",
+  "source": "manual"
+}

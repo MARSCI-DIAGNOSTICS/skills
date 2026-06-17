@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-ai-model-prompt-injection-attacks",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-ai-model-prompt-injection-attacks",
+  "branch": "master",
+  "sha": "f67165adf4cfcf14eb0c18eefbe61c20a41bfd6e",
+  "source": "manual"
+}

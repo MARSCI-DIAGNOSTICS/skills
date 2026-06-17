@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "front-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/front-automation",
+  "branch": "main",
+  "sha": "f705ec9acee2533a7b7eb49dba7d12efed52c3de",
+  "source": "manual"
+}

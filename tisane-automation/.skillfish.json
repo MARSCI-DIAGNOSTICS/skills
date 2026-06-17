@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tisane-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/tisane-automation",
+  "branch": "main",
+  "sha": "36f80615874bb099a43185937c7c78afb8db2625",
+  "source": "manual"
+}

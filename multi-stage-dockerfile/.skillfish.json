@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "multi-stage-dockerfile",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/multi-stage-dockerfile",
+  "branch": "main",
+  "sha": "c48773c7887197168099307c60b5dab2a553259c",
+  "source": "manual"
+}

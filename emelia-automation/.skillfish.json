@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "emelia-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/emelia-automation",
+  "branch": "main",
+  "sha": "f42281d736205130321cdb9c60ffe9b2b8868e3d",
+  "source": "manual"
+}

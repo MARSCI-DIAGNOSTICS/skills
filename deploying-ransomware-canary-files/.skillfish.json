@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "deploying-ransomware-canary-files",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/deploying-ransomware-canary-files",
+  "branch": "master",
+  "sha": "1a758e02ffac8ab66fca5ad7da2ab84f78463d99",
+  "source": "manual"
+}

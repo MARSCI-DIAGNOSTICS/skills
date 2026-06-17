@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-kubernetes-audit-logs",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/analyzing-kubernetes-audit-logs",
+  "branch": "master",
+  "sha": "67e70469e0cc8469386b74eea22713ee6ca0640e",
+  "source": "manual"
+}

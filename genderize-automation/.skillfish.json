@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "genderize-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/genderize-automation",
+  "branch": "main",
+  "sha": "206a6f275eb0dc8c68ef83d52ea956992468d665",
+  "source": "manual"
+}

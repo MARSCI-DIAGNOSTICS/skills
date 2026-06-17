@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lemmaly",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/lemmaly",
+  "branch": "main",
+  "sha": "329c1e9d33cfef0ee29cf7bc37d236f74953ab50",
+  "source": "manual"
+}

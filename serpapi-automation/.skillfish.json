@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "serpapi-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/serpapi-automation",
+  "branch": "main",
+  "sha": "ea409f6b7869fa710465d880b263ac61f2137ebe",
+  "source": "manual"
+}

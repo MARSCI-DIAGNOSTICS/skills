@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "python-type-safety",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/python-development/skills/python-type-safety",
+  "branch": "main",
+  "sha": "6bc30a129da124b9015a2adde4cda8f686bf24b8",
+  "source": "manual"
+}

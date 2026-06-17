@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mailersend-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/mailersend-automation",
+  "branch": "main",
+  "sha": "ff52f9c8e0275f32eac1432054b998c39a00fc59",
+  "source": "manual"
+}

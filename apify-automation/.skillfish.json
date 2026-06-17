@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "apify-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/apify-automation",
+  "branch": "main",
+  "sha": "1310cd61918d675afd14f56aa5dd0725c995b844",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "axonaut-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/axonaut-automation",
+  "branch": "main",
+  "sha": "0f9837dfbd2fdd59b01051315e709c3d040d22d9",
+  "source": "manual"
+}

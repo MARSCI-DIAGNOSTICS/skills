@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rust-mcp-server-generator",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/rust-mcp-server-generator",
+  "branch": "main",
+  "sha": "db412fc9452d20c92687d5379d3cb0a7069d158a",
+  "source": "manual"
+}

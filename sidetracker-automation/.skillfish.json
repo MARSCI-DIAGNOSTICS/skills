@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sidetracker-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/sidetracker-automation",
+  "branch": "main",
+  "sha": "e4cdd0b8d0b5ea9c1b2ed83a92b0de8036677148",
+  "source": "manual"
+}

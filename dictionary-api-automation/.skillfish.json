@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dictionary-api-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/dictionary-api-automation",
+  "branch": "main",
+  "sha": "8b0a114ff2314690a36917a23195bb92a48ca664",
+  "source": "manual"
+}

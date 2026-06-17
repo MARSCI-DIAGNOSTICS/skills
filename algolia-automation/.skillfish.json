@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "algolia-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/algolia-automation",
+  "branch": "main",
+  "sha": "8045c0186405dc85de6c8aa97c42893d3f1f1337",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "repairshopr-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/repairshopr-automation",
+  "branch": "main",
+  "sha": "79258afaa9849230f69d7d414663c9dc171d9aae",
+  "source": "manual"
+}

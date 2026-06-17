@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ux-audit",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/ux-audit",
+  "branch": "main",
+  "sha": "73d4519c5c2cc3f35a7c2e723b8f67fd758f42ab",
+  "source": "manual"
+}

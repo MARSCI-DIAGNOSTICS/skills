@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-dns-exfiltration-with-dns-query-analysis",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-dns-exfiltration-with-dns-query-analysis",
+  "branch": "master",
+  "sha": "601b57cd8088b9d9693b2b72905265d5def19255",
+  "source": "manual"
+}

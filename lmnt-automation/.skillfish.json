@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lmnt-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/lmnt-automation",
+  "branch": "main",
+  "sha": "96019563fe7ca8bff2ae9e75aa33cde9fc292778",
+  "source": "manual"
+}

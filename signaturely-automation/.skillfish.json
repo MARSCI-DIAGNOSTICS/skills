@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "signaturely-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/signaturely-automation",
+  "branch": "main",
+  "sha": "23a2a1c8441a1c7cd1d0887374c534f6ca06dc74",
+  "source": "manual"
+}

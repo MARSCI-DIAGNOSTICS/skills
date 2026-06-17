@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "junglescout-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/junglescout-automation",
+  "branch": "main",
+  "sha": "e31f082e1d6bd271661c562018d6815715f65d73",
+  "source": "manual"
+}

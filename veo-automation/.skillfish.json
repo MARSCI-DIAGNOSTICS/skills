@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "veo-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/veo-automation",
+  "branch": "main",
+  "sha": "ba44cbcf4a1287370bd752c7acd1db9abd0668ca",
+  "source": "manual"
+}

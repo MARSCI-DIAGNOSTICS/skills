@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "moosend-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/moosend-automation",
+  "branch": "main",
+  "sha": "722cd826f0376863110df56499ecd3b0df36f8ce",
+  "source": "manual"
+}

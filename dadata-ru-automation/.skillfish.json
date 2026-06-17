@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dadata-ru-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/dadata-ru-automation",
+  "branch": "main",
+  "sha": "35850bcc6ff4cbcb883920a61e44db43e17b1b38",
+  "source": "manual"
+}

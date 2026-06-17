@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "the-odds-api-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/the-odds-api-automation",
+  "branch": "main",
+  "sha": "e5e07e1f32cd4895c6daf8e23bdef66dcdb102f3",
+  "source": "manual"
+}

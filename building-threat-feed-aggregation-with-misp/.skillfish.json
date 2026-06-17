@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "building-threat-feed-aggregation-with-misp",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/building-threat-feed-aggregation-with-misp",
+  "branch": "master",
+  "sha": "8c56e40a245b83018bb16080f78e96c62569c6c7",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "documint-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/documint-automation",
+  "branch": "main",
+  "sha": "cf8095b464f81ee29fb93115469e8a63fcf865a9",
+  "source": "manual"
+}

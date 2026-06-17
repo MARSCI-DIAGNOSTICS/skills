@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-dns-logs-for-exfiltration",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/analyzing-dns-logs-for-exfiltration",
+  "branch": "master",
+  "sha": "87a724df0faba18dec18147ea8d322c04c3a03e5",
+  "source": "manual"
+}

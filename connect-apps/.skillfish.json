@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "connect-apps",
+  "owner": "ai-wes",
+  "repo": "glassbox-operator",
+  "path": ".opencode/skill/connect-apps",
+  "branch": "main",
+  "sha": "19ae0e46ce260c0f1f45c5475fa898b62cdced46",
+  "source": "manual"
+}

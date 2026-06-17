@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mails-so-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/mails-so-automation",
+  "branch": "main",
+  "sha": "bb252e06c6ba6ea07020ba21e69c8b86c985274a",
+  "source": "manual"
+}

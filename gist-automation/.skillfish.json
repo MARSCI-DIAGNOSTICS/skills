@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gist-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/gist-automation",
+  "branch": "main",
+  "sha": "3a6671614c2d7e47862774f8144da03f3fa933f0",
+  "source": "manual"
+}

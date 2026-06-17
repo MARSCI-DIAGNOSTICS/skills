@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "brilliant-directories-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/brilliant-directories-automation",
+  "branch": "main",
+  "sha": "c566bfdde44136a3700b8352bad704fb31536770",
+  "source": "manual"
+}

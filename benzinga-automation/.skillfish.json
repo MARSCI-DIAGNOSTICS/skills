@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "benzinga-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/benzinga-automation",
+  "branch": "main",
+  "sha": "d455304362e9eb01323417df29f866eaf3865273",
+  "source": "manual"
+}

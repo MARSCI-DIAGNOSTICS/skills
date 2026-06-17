@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "write-coding-standards-from-file",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/write-coding-standards-from-file",
+  "branch": "main",
+  "sha": "1b515eeea72bc2c6bc4ff48485822e5f109db4ab",
+  "source": "manual"
+}

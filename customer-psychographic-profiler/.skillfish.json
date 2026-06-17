@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "customer-psychographic-profiler",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/customer-psychographic-profiler",
+  "branch": "main",
+  "sha": "bc9d4dd5b9f666f745d6e2257aea4e0134c931c7",
+  "source": "manual"
+}

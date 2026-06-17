@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bookingmood-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/bookingmood-automation",
+  "branch": "main",
+  "sha": "29ae8e16433e57eee78b6b7b56f955467ee3bcdb",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "building-devsecops-pipeline-with-gitlab-ci",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/building-devsecops-pipeline-with-gitlab-ci",
+  "branch": "master",
+  "sha": "5f26e54be2750e1482c54d69436635f56bab4447",
+  "source": "manual"
+}

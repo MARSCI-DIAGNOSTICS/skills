@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sitespeakai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/sitespeakai-automation",
+  "branch": "main",
+  "sha": "0ae8f6d32a9d5f850b637213809921b625089bc4",
+  "source": "manual"
+}

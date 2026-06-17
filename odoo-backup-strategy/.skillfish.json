@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "odoo-backup-strategy",
+  "owner": "satnamrsm",
+  "repo": "https-github.com-sickn33-antigravity-awesome-skills",
+  "path": "skills/odoo-backup-strategy",
+  "branch": "main",
+  "sha": "35160a66f35e9002efab3af6c7340a6ea60249c3",
+  "source": "manual"
+}

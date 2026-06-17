@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pandadoc-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/pandadoc-automation",
+  "branch": "main",
+  "sha": "30904481ced4522ac0040666f344c346a0922384",
+  "source": "manual"
+}

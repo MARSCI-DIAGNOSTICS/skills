@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rafflys-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/rafflys-automation",
+  "branch": "main",
+  "sha": "a1afb5baed8f76552c976cdb1ce973674674e134",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ocr-web-service-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ocr-web-service-automation",
+  "branch": "main",
+  "sha": "a1115a8cfe899f1b99cc3b311a72d3244f6e6968",
+  "source": "manual"
+}

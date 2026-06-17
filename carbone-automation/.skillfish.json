@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "carbone-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/carbone-automation",
+  "branch": "main",
+  "sha": "6a82948b8e9bea9bb463809a80b02f1fa79e0ed8",
+  "source": "manual"
+}

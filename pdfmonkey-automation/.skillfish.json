@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pdfmonkey-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/pdfmonkey-automation",
+  "branch": "main",
+  "sha": "b5add5e7cf93fde0c9f42bd28f29ff0509ea970d",
+  "source": "manual"
+}

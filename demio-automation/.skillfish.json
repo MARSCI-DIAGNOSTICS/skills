@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "demio-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/demio-automation",
+  "branch": "main",
+  "sha": "2574d56781100085d92572faee466e6cbe1383de",
+  "source": "manual"
+}

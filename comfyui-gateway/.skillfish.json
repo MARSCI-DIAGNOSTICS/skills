@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "comfyui-gateway",
+  "owner": "satnamrsm",
+  "repo": "https-github.com-sickn33-antigravity-awesome-skills",
+  "path": "skills/comfyui-gateway",
+  "branch": "main",
+  "sha": "75bfabe0f709f57f48e28516c104d0820394b29c",
+  "source": "manual"
+}

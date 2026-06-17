@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cloudflare-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/cloudflare-automation",
+  "branch": "main",
+  "sha": "8993fed3cbcf9b4e0703a328dccdb9c6285cabcd",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mx-technologies-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/mx-technologies-automation",
+  "branch": "main",
+  "sha": "88f58863959f8a6d89324b404d098061c3945b73",
+  "source": "manual"
+}

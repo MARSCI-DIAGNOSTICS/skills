@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tally-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/tally-automation",
+  "branch": "main",
+  "sha": "76c32424c69dc274f29a8f91659d5071e89d9524",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "plot-designer",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "multi-agent/.claude/skills/plot-designer",
+  "branch": "main",
+  "sha": "bf81b46f1ccbeb07e8c7ba98639a790113e06cbd",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gatherup-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/gatherup-automation",
+  "branch": "main",
+  "sha": "b15364a1e5d3681ba9b7dcdc1fd0b378fef6031a",
+  "source": "manual"
+}

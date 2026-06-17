@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pilvio-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/pilvio-automation",
+  "branch": "main",
+  "sha": "91cb1017f64a636b1edd4a08a204d5ec7c8cd113",
+  "source": "manual"
+}

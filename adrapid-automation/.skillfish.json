@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "adrapid-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/adrapid-automation",
+  "branch": "main",
+  "sha": "7ca3991c08b8dba757b996dbf84f85e93c116ebd",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-container-drift-at-runtime",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-container-drift-at-runtime",
+  "branch": "master",
+  "sha": "913e004098b07afe93cfed806b9861f97387e249",
+  "source": "manual"
+}

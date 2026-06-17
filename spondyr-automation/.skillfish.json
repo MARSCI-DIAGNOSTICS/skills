@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "spondyr-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/spondyr-automation",
+  "branch": "main",
+  "sha": "d8babd72f48b8e5df00ac2bfa0510bfb025d00a4",
+  "source": "manual"
+}

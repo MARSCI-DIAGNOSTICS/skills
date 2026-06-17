@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ai-dev-jobs-mcp",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/ai-dev-jobs-mcp",
+  "branch": "main",
+  "sha": "b8098ee4a9ff89ac6d7903d498c2cab620a7a8df",
+  "source": "manual"
+}

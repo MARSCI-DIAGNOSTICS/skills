@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "accesslint-scan",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/accesslint-scan",
+  "branch": "main",
+  "sha": "fa3fd146b5619ba985f28830312acf0fd3feeac1",
+  "source": "manual"
+}

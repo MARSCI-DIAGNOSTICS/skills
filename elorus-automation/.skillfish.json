@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "elorus-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/elorus-automation",
+  "branch": "main",
+  "sha": "10894cf6532dc92cff76299f47d14e93b073354e",
+  "source": "manual"
+}

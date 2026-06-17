@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mailcoach-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/mailcoach-automation",
+  "branch": "main",
+  "sha": "242cdd05e338f39e1b4cdbac63c2e34b0a592a92",
+  "source": "manual"
+}

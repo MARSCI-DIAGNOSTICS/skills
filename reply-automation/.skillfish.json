@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "reply-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/reply-automation",
+  "branch": "main",
+  "sha": "4437fb2cc13458f4466aa6a691f0efe1f01e46da",
+  "source": "manual"
+}

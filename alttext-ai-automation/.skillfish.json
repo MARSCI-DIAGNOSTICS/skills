@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "alttext-ai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/alttext-ai-automation",
+  "branch": "main",
+  "sha": "14904f7c72c453c29ccc89ac095f8068ff49e894",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mcp-deploy-manage-agents",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/mcp-deploy-manage-agents",
+  "branch": "main",
+  "sha": "c8f56db4cc87ef2668b88da03c61011785af7553",
+  "source": "manual"
+}

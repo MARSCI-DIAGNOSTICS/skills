@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "performing-alert-triage-with-elastic-siem",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/performing-alert-triage-with-elastic-siem",
+  "branch": "master",
+  "sha": "4b480a281e92932eb426761d4c11bc14a30710c9",
+  "source": "manual"
+}

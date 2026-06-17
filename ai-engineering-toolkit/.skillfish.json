@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ai-engineering-toolkit",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/ai-engineering-toolkit",
+  "branch": "main",
+  "sha": "bbdb4c59eba9d9d67facd0aec0178b8b6417e1dd",
+  "source": "manual"
+}

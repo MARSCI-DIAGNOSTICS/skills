@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "kit-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/kit-automation",
+  "branch": "main",
+  "sha": "3a3babccb6af174e601f572db20ea54bf35f4064",
+  "source": "manual"
+}

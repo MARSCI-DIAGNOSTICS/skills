@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "adyntel-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/adyntel-automation",
+  "branch": "main",
+  "sha": "ba3905e12a01c31ba21297811370dca4ee80923e",
+  "source": "manual"
+}

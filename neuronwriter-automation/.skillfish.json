@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "neuronwriter-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/neuronwriter-automation",
+  "branch": "main",
+  "sha": "5411ceccb5ac3f6c75d0d33938642039a814c488",
+  "source": "manual"
+}

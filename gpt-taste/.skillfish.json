@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gpt-taste",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/gpt-taste",
+  "branch": "main",
+  "sha": "cb59e57a1ab5d97463fe014b0db9c392f2d5f0a9",
+  "source": "manual"
+}

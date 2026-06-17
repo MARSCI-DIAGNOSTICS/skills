@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bumblebee",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/bumblebee",
+  "branch": "main",
+  "sha": "470b5022e59678a5fe68f6e8afb1449eafe8d54c",
+  "source": "manual"
+}

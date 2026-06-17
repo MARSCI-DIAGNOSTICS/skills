@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "yelp-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/yelp-automation",
+  "branch": "main",
+  "sha": "e6a9044bb31c48ca9543eb7b1e476fbf80ff5cab",
+  "source": "manual"
+}

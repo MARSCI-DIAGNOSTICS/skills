@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "2slides-ppt-generator",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/2slides-ppt-generator",
+  "branch": "main",
+  "sha": "71d2dd344067d98777e0cb6b95ef9694c3b1b4e7",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "similarweb-digitalrank-api-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/similarweb-digitalrank-api-automation",
+  "branch": "main",
+  "sha": "48a194f1be952390be42b99e33b95b163082cf25",
+  "source": "manual"
+}

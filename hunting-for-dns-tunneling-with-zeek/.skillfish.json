@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hunting-for-dns-tunneling-with-zeek",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/hunting-for-dns-tunneling-with-zeek",
+  "branch": "master",
+  "sha": "c8f010cbdda17770c57bb8ad131865c774d62211",
+  "source": "manual"
+}

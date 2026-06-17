@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "monte-carlo-validation-notebook",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/monte-carlo-validation-notebook",
+  "branch": "main",
+  "sha": "b80747ca26779567022aa1b062170cd7052756b1",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-docker-container-forensics",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/analyzing-docker-container-forensics",
+  "branch": "master",
+  "sha": "bfe1e80d42a2bffc19f82f983fa7f81d1a922683",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "create-github-issues-feature-from-implementation-plan",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/create-github-issues-feature-from-implementation-plan",
+  "branch": "main",
+  "sha": "e9c8ec75105420d2086d84b5d3c40fe721bd3622",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "idea-darwin",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/idea-darwin",
+  "branch": "main",
+  "sha": "154732daa6e19c366bf401e97009dfd85c56f1ff",
+  "source": "manual"
+}

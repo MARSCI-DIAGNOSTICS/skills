@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-lateral-movement-with-zeek",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-lateral-movement-with-zeek",
+  "branch": "master",
+  "sha": "e242b99aaa1d2db8134c1c93c56ee759ffa9af75",
+  "source": "manual"
+}

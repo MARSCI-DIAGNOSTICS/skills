@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "parsera-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/parsera-automation",
+  "branch": "main",
+  "sha": "10c9af14fdce5f040cbe70390aa74f652998253b",
+  "source": "manual"
+}

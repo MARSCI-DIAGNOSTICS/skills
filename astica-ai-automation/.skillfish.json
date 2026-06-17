@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "astica-ai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/astica-ai-automation",
+  "branch": "main",
+  "sha": "c7a09d63490350188da0a3a89ffd07753805d594",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rosette-text-analytics-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/rosette-text-analytics-automation",
+  "branch": "main",
+  "sha": "894f62f6ada5c81c4316b66b8497a756bb08e19f",
+  "source": "manual"
+}

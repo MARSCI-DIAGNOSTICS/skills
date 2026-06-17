@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "contentful-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/contentful-automation",
+  "branch": "main",
+  "sha": "4f0e7904f911b302fecfe14b2cdc4acd426ba67d",
+  "source": "manual"
+}

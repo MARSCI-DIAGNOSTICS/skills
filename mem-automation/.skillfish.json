@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mem-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/mem-automation",
+  "branch": "main",
+  "sha": "66d5fd19cfb514f0dd2b5507c52dcbba94e0b689",
+  "source": "manual"
+}

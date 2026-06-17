@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "supportivekoala-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/supportivekoala-automation",
+  "branch": "main",
+  "sha": "25c1c066f9da3ab853ba071cd4c76812c0115e73",
+  "source": "manual"
+}

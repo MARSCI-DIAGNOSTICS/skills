@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "copilot-cli-quickstart",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/copilot-cli-quickstart",
+  "branch": "main",
+  "sha": "826de0aecedd0cf2d107d02efe2c1d725eeaf0f8",
+  "source": "manual"
+}

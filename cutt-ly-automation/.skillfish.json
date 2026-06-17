@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cutt-ly-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/cutt-ly-automation",
+  "branch": "main",
+  "sha": "a147bc02549e18400660a1b7c8ba7f7fa8bb23d8",
+  "source": "manual"
+}

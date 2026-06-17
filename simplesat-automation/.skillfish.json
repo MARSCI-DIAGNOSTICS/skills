@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "simplesat-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/simplesat-automation",
+  "branch": "main",
+  "sha": "590d25a02a8ef19172f652477b957bbba3139847",
+  "source": "manual"
+}

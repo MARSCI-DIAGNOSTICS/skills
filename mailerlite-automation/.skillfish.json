@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mailerlite-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/mailerlite-automation",
+  "branch": "main",
+  "sha": "c05dd98a41face34b35a1326056f4b6fd7a6391f",
+  "source": "manual"
+}

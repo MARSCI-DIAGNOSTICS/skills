@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dailybot-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/dailybot-automation",
+  "branch": "main",
+  "sha": "a5d6c4a526d1f3b4b225bec0e93e4186649dd232",
+  "source": "manual"
+}

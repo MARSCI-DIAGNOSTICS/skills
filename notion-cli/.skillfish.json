@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "notion-cli",
+  "owner": "hideki5123",
+  "repo": "agent-skill-set",
+  "path": "notion-cli",
+  "branch": "master",
+  "sha": "507fec92bff3efdffdea187af3f7fc9ce0472e1e",
+  "source": "manual"
+}

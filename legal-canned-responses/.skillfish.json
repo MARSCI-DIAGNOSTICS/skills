@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "legal-canned-responses",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "legal/legal-canned-responses",
+  "branch": "main",
+  "sha": "ba961883f28057cd2c3bd5b47f14266a0bd01e67",
+  "source": "manual"
+}

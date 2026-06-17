@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "correlating-security-events-in-qradar",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/correlating-security-events-in-qradar",
+  "branch": "master",
+  "sha": "67ae8b9eeca39f00a58a2eb8e11a14b49c2fe791",
+  "source": "manual"
+}

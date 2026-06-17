@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "identify-assumptions",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "project-management/discovery/identify-assumptions",
+  "branch": "main",
+  "sha": "e99f1d3638d3d3aa7edb9d64b04a1ec2484c9382",
+  "source": "manual"
+}

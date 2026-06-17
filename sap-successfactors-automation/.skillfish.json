@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sap-successfactors-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/sap-successfactors-automation",
+  "branch": "main",
+  "sha": "b6e33a16162ea99b777e21f70bc69edcf05c620d",
+  "source": "manual"
+}

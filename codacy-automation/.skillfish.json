@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "codacy-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/codacy-automation",
+  "branch": "main",
+  "sha": "71c8b799f6fbc785c57ac146d176af91c9c33e19",
+  "source": "manual"
+}

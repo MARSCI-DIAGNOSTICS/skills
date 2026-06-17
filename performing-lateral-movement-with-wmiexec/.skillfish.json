@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "performing-lateral-movement-with-wmiexec",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/performing-lateral-movement-with-wmiexec",
+  "branch": "master",
+  "sha": "67c112614ea5a8a804536c67faa04833bf28935b",
+  "source": "manual"
+}

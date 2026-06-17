@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "editorconfig",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/editorconfig",
+  "branch": "main",
+  "sha": "76ba63d152ab86d585ca33d736c0a7cf42cdc50e",
+  "source": "manual"
+}

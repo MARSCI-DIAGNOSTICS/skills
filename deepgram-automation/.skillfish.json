@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "deepgram-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/deepgram-automation",
+  "branch": "main",
+  "sha": "74f1a5da84ad1bc4a6f8cb1c4360bf483bf96fc9",
+  "source": "manual"
+}

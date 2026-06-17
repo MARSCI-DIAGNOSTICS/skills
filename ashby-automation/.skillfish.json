@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ashby-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ashby-automation",
+  "branch": "main",
+  "sha": "917baf4edefd579395c6270f6dd82ba01f390927",
+  "source": "manual"
+}

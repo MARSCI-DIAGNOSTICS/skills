@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bidsketch-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/bidsketch-automation",
+  "branch": "main",
+  "sha": "50e01b396058eea30b06ac64178230e5073a73e1",
+  "source": "manual"
+}

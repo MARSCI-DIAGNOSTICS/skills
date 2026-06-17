@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "test-scenario",
+  "owner": "hideki5123",
+  "repo": "agent-skill-set",
+  "path": "test-scenario",
+  "branch": "master",
+  "sha": "9960ef57abfa63bb8384408fc430c080f45acf9a",
+  "source": "manual"
+}

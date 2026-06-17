@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hook-development",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/anthropic-plugin-dev/skills/hook-development",
+  "branch": "main",
+  "sha": "7feae717de16415b31b61bb721106aefaa4c5ba2",
+  "source": "manual"
+}

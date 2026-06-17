@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "twocaptcha-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/twocaptcha-automation",
+  "branch": "main",
+  "sha": "1b28145cad2454092c851f505b495a4d63cf897d",
+  "source": "manual"
+}

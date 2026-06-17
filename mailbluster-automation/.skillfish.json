@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mailbluster-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/mailbluster-automation",
+  "branch": "main",
+  "sha": "7e52c5da26b3ff28728417464a452eaf803cc39e",
+  "source": "manual"
+}

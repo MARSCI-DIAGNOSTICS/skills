@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "googlesuper-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/googlesuper-automation",
+  "branch": "main",
+  "sha": "9dbeaf856d0a569c86e37bcaf1053001e9db2614",
+  "source": "manual"
+}

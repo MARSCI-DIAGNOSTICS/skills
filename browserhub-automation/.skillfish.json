@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "browserhub-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/browserhub-automation",
+  "branch": "main",
+  "sha": "8a9990545a99e1c3fe13f6d99a6c400e322b4d94",
+  "source": "manual"
+}

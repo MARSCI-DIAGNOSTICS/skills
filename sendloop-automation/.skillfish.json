@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sendloop-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/sendloop-automation",
+  "branch": "main",
+  "sha": "586777484e76f485312db5ef339d7e1dc4d8fdd5",
+  "source": "manual"
+}

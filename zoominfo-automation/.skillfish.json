@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zoominfo-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/zoominfo-automation",
+  "branch": "main",
+  "sha": "fb18b830506669336efec9a4eea56db49c35abb4",
+  "source": "manual"
+}

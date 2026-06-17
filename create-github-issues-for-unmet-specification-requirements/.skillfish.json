@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "create-github-issues-for-unmet-specification-requirements",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/create-github-issues-for-unmet-specification-requirements",
+  "branch": "main",
+  "sha": "45404d3f8b658f8b6041ce33fb816564cb0358de",
+  "source": "manual"
+}

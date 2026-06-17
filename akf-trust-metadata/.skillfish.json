@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "akf-trust-metadata",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/akf-trust-metadata",
+  "branch": "main",
+  "sha": "389be81c680e04787df9015bb1bc746f6890c628",
+  "source": "manual"
+}

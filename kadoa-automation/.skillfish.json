@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "kadoa-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/kadoa-automation",
+  "branch": "main",
+  "sha": "56365e7ebd1ac6ce47cc27ba51fcf120ad4854bb",
+  "source": "manual"
+}

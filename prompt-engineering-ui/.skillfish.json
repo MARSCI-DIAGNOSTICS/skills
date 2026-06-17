@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "prompt-engineering-ui",
+  "owner": "hermeticormus",
+  "repo": "libreuiux-claude-code",
+  "path": "plugins/llm-application-dev/skills/prompt-engineering-ui",
+  "branch": "main",
+  "sha": "bd9edb7572a47fecaa6cda73eba35a414586e443",
+  "source": "manual"
+}

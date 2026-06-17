@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "botstar-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/botstar-automation",
+  "branch": "main",
+  "sha": "b2bbc81ed833ae1145d02bb76579124e0fcdbc8a",
+  "source": "manual"
+}

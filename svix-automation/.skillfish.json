@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "svix-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/svix-automation",
+  "branch": "main",
+  "sha": "d271a33f07984f3b35c137d3a32874ceb95e9d8a",
+  "source": "manual"
+}

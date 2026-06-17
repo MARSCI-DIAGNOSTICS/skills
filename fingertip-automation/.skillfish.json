@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fingertip-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/fingertip-automation",
+  "branch": "main",
+  "sha": "e491a0943d6874023bb36eb256867943bf67ec84",
+  "source": "manual"
+}

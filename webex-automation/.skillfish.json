@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "webex-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/webex-automation",
+  "branch": "main",
+  "sha": "12b759d4d23c758bd590d028222cc9bd5da339e4",
+  "source": "manual"
+}

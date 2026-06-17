@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ux-copy",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/ux-copy",
+  "branch": "main",
+  "sha": "7dc6c57d7a4ced7b4ed677e172db23138ceb880c",
+  "source": "manual"
+}

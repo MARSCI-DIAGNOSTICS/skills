@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "emaillistverify-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/emaillistverify-automation",
+  "branch": "main",
+  "sha": "8805911fe81d9d24cfe26f7da0b9d45d21429b4e",
+  "source": "manual"
+}

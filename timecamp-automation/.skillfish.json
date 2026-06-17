@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "timecamp-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/timecamp-automation",
+  "branch": "main",
+  "sha": "57a5d963817a9819247a403ed4b7cffc4a53a548",
+  "source": "manual"
+}

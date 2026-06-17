@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "crustdata-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/crustdata-automation",
+  "branch": "main",
+  "sha": "3e52653a8ce3e869fcb79924c94291263530f99a",
+  "source": "manual"
+}

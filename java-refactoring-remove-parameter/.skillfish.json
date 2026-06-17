@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "java-refactoring-remove-parameter",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/java-refactoring-remove-parameter",
+  "branch": "main",
+  "sha": "edc519092e38538b1efa8f12acd209ab848703ca",
+  "source": "manual"
+}

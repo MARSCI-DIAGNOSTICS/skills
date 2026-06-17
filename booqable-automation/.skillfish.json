@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "booqable-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/booqable-automation",
+  "branch": "main",
+  "sha": "8026b35dbd6f8c3a2b925cde042a79b6b153bad5",
+  "source": "manual"
+}

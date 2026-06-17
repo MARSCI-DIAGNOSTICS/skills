@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-ntlm-relay-with-event-correlation",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-ntlm-relay-with-event-correlation",
+  "branch": "master",
+  "sha": "5fa118054d496cd6b799093b7394839073fc77b8",
+  "source": "manual"
+}

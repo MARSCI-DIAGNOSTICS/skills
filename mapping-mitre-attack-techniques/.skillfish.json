@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mapping-mitre-attack-techniques",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/mapping-mitre-attack-techniques",
+  "branch": "master",
+  "sha": "15c12461aaf4381fdbb94e1a35746b29dc644999",
+  "source": "manual"
+}

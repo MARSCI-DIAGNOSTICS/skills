@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "brightpearl-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/brightpearl-automation",
+  "branch": "main",
+  "sha": "cf1b13beb2db85a5f1ce9184cf7731919950b362",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "integrating-sast-into-github-actions-pipeline",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/integrating-sast-into-github-actions-pipeline",
+  "branch": "master",
+  "sha": "b9913dd8cbf9b62df924b94e9bd79b45856ab845",
+  "source": "manual"
+}

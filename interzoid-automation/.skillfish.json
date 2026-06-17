@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "interzoid-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/interzoid-automation",
+  "branch": "main",
+  "sha": "3c05899519806cec5cb6f96ad03d89ccca38f285",
+  "source": "manual"
+}

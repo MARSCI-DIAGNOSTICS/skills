@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "yield-intelligence",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/yield-intelligence",
+  "branch": "main",
+  "sha": "cce2b2bdb2fc6e9b09a417a65f9581efab921ab9",
+  "source": "manual"
+}

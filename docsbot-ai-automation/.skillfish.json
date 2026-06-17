@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docsbot-ai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/docsbot-ai-automation",
+  "branch": "main",
+  "sha": "1efbe19998fbcda5a04a9638e1bb8e6b9af666c7",
+  "source": "manual"
+}

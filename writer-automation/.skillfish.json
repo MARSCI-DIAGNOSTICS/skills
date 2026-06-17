@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "writer-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/writer-automation",
+  "branch": "main",
+  "sha": "a1b2603418b4d7455cf47615d45a62f7a04e95c4",
+  "source": "manual"
+}

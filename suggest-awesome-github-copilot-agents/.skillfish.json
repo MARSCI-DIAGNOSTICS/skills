@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "suggest-awesome-github-copilot-agents",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/suggest-awesome-github-copilot-agents",
+  "branch": "main",
+  "sha": "bf19ba2746fc7f4d7a94157ed02a6ab0c1241688",
+  "source": "manual"
+}

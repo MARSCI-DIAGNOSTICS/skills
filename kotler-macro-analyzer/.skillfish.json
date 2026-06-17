@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "kotler-macro-analyzer",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/kotler-macro-analyzer",
+  "branch": "main",
+  "sha": "4bbc720a126b5307a07f7ec389ee29dfe927c396",
+  "source": "manual"
+}

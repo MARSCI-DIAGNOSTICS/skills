@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "nuget-manager",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/nuget-manager",
+  "branch": "main",
+  "sha": "bf9bfc43ace8f2fcd47cbd62ab0d5136ecff9338",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "loyverse-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/loyverse-automation",
+  "branch": "main",
+  "sha": "807b15e323efc9ec9fb66a5a4586555d8b66048c",
+  "source": "manual"
+}

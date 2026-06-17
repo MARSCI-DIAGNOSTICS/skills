@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "loss-aversion-designer",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/loss-aversion-designer",
+  "branch": "main",
+  "sha": "19c906002f7f4e859f6bf48f85ece6bfbfe087fc",
+  "source": "manual"
+}

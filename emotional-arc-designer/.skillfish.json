@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "emotional-arc-designer",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/emotional-arc-designer",
+  "branch": "main",
+  "sha": "d2362725817bbc2c52c49fb94bd52955d2b3a5c8",
+  "source": "manual"
+}

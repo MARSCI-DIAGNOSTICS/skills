@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "perigon-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/perigon-automation",
+  "branch": "main",
+  "sha": "64430b8292b1d35c2d7f191e15e55baed10cccc6",
+  "source": "manual"
+}

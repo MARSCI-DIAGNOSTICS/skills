@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-mimikatz-execution-patterns",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-mimikatz-execution-patterns",
+  "branch": "master",
+  "sha": "a4e3a3552dbb0fd08c83de8a43755717534e4cbf",
+  "source": "manual"
+}

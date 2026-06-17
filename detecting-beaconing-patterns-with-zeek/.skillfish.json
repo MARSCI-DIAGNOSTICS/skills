@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-beaconing-patterns-with-zeek",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-beaconing-patterns-with-zeek",
+  "branch": "master",
+  "sha": "c1ab83c9b1f0c645022877a02a40bb92c5e0e138",
+  "source": "manual"
+}

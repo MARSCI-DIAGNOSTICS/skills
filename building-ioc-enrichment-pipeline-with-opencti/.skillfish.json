@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "building-ioc-enrichment-pipeline-with-opencti",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/building-ioc-enrichment-pipeline-with-opencti",
+  "branch": "master",
+  "sha": "f3f1e8cbf21668396610c955052e7a89ed54b2c9",
+  "source": "manual"
+}

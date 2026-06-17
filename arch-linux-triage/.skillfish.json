@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "arch-linux-triage",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/arch-linux-triage",
+  "branch": "main",
+  "sha": "148fe897a1a9574e87a843ae85d8114b70f1693e",
+  "source": "manual"
+}

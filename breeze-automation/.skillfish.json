@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "breeze-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/breeze-automation",
+  "branch": "main",
+  "sha": "a22f3b1cde30f0c68ab49d8a341568c2dcd718fa",
+  "source": "manual"
+}

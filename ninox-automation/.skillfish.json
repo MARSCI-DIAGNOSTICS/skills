@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ninox-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ninox-automation",
+  "branch": "main",
+  "sha": "a6d197b70ebcf893bb5ebecb82ebd41f3a695794",
+  "source": "manual"
+}

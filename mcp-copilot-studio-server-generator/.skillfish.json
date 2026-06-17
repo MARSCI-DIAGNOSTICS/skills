@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mcp-copilot-studio-server-generator",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/mcp-copilot-studio-server-generator",
+  "branch": "main",
+  "sha": "d73259be9c383ea4d44b8d4b661a26594037fe0d",
+  "source": "manual"
+}

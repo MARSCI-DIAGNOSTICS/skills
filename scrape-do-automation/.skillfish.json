@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "scrape-do-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/scrape-do-automation",
+  "branch": "main",
+  "sha": "52adb02ae3bd5385dc42c2046d8f887e9d907214",
+  "source": "manual"
+}

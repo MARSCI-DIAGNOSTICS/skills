@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "playwright-codegen",
+  "owner": "hideki5123",
+  "repo": "agent-skill-set",
+  "path": "playwright-codegen",
+  "branch": "master",
+  "sha": "eed5dd86193ba9e86bbd07b19701c0c029309a30",
+  "source": "manual"
+}

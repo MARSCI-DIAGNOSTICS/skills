@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-email-account-compromise",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-email-account-compromise",
+  "branch": "master",
+  "sha": "447d3ba23951e99c3be49eabf489f91459ca638c",
+  "source": "manual"
+}

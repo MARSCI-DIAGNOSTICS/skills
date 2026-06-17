@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "griptape-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/griptape-automation",
+  "branch": "main",
+  "sha": "579e3cdc90af3db09f10c34bda9c7ffb603ec6b0",
+  "source": "manual"
+}

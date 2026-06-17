@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "documenso-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/documenso-automation",
+  "branch": "main",
+  "sha": "3c38775c47032030839d350311d09577622d9efe",
+  "source": "manual"
+}

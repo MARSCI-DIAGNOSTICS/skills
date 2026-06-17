@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "teltel-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/teltel-automation",
+  "branch": "main",
+  "sha": "ac9ebd4488c038bcb1c79ab79a510ccdd98f8b07",
+  "source": "manual"
+}

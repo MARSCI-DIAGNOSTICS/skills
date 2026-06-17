@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "persistiq-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/persistiq-automation",
+  "branch": "main",
+  "sha": "ff4b2642e267dcdae6d8e04bfb7d4acc815f9a30",
+  "source": "manual"
+}

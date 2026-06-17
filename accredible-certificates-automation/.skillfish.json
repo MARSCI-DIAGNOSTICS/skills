@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "accredible-certificates-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/accredible-certificates-automation",
+  "branch": "main",
+  "sha": "d4e890fd14a34dceea9743deb2c0fc28a170d4e6",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "digicert-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/digicert-automation",
+  "branch": "main",
+  "sha": "4532cdd589404a2720413e36fd0e03bf47afb650",
+  "source": "manual"
+}

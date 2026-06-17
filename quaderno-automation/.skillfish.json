@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "quaderno-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/quaderno-automation",
+  "branch": "main",
+  "sha": "4f3f7217a96dd2bb5119979d6e783433a123225c",
+  "source": "manual"
+}

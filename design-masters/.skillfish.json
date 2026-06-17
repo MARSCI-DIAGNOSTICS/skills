@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "design-masters",
+  "owner": "hermeticormus",
+  "repo": "libreuiux-claude-code",
+  "path": "plugins/design-mastery/skills/design-masters",
+  "branch": "main",
+  "sha": "27f4034ba8ffc935f14076eeeda5f6c70be5eda3",
+  "source": "manual"
+}

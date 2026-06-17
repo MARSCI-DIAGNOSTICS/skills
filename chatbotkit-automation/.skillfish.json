@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "chatbotkit-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/chatbotkit-automation",
+  "branch": "main",
+  "sha": "6b5b9d5b2261ddf2b3e70547099c0e6de1c9c5f3",
+  "source": "manual"
+}

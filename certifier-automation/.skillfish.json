@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "certifier-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/certifier-automation",
+  "branch": "main",
+  "sha": "2d9df9ddab1dc88333ce03fac13e4b6e1eb429fb",
+  "source": "manual"
+}

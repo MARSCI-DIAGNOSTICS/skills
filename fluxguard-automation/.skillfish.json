@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fluxguard-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/fluxguard-automation",
+  "branch": "main",
+  "sha": "395ca45d6284e319e9760f2f020f470e909a19f8",
+  "source": "manual"
+}

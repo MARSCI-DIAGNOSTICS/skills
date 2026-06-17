@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "containerize-aspnetcore",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/containerize-aspnetcore",
+  "branch": "main",
+  "sha": "6f53cb7c1f8c8749d300de4a3986028ee8dc152d",
+  "source": "manual"
+}

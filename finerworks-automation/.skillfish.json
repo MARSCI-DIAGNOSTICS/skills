@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "finerworks-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/finerworks-automation",
+  "branch": "main",
+  "sha": "649651e6c19c1519465a60f559c8adcf514b80b1",
+  "source": "manual"
+}

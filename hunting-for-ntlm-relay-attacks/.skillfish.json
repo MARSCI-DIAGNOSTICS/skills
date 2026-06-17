@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hunting-for-ntlm-relay-attacks",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/hunting-for-ntlm-relay-attacks",
+  "branch": "master",
+  "sha": "cae00457bd65a491fc405604b241212b60e81224",
+  "source": "manual"
+}

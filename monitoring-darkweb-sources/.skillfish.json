@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "monitoring-darkweb-sources",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/monitoring-darkweb-sources",
+  "branch": "master",
+  "sha": "5e39a99e8b51444dc4b3026b5a127983909f4fbe",
+  "source": "manual"
+}

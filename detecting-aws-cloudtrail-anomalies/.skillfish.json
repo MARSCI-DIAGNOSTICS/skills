@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-aws-cloudtrail-anomalies",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-aws-cloudtrail-anomalies",
+  "branch": "master",
+  "sha": "86f2023f0301759354ac32647b644d60f80b2ed5",
+  "source": "manual"
+}

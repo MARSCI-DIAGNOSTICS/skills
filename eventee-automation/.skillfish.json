@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "eventee-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/eventee-automation",
+  "branch": "main",
+  "sha": "4a6e839e43f8b004c43dffaa30dc931b08f29169",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "legal-red-team",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "legal/legal-red-team",
+  "branch": "main",
+  "sha": "aa91ab1d41371e7e9451a129dc094c1cb45aa91b",
+  "source": "manual"
+}

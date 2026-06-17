@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "passslot-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/passslot-automation",
+  "branch": "main",
+  "sha": "87dca8f7bf2379be9d5bd091bff602aaf4ad8b6a",
+  "source": "manual"
+}

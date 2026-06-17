@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tapfiliate-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/tapfiliate-automation",
+  "branch": "main",
+  "sha": "e84634f2acf0acfd97c25e169ea5360d08618cbf",
+  "source": "manual"
+}

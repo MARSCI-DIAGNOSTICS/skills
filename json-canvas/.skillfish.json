@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "json-canvas",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/json-canvas",
+  "branch": "main",
+  "sha": "efb0d0bc127c1113c5c18429bc65f54a3e9960a3",
+  "source": "manual"
+}

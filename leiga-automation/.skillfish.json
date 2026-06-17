@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "leiga-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/leiga-automation",
+  "branch": "main",
+  "sha": "0d78d32a6dcb3c5691b77fc435d42cb776293838",
+  "source": "manual"
+}

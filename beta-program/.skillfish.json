@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "beta-program",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "project-management/execution/beta-program",
+  "branch": "main",
+  "sha": "2a6459572edb16d6d99e837872d2a05b86fe53ca",
+  "source": "manual"
+}

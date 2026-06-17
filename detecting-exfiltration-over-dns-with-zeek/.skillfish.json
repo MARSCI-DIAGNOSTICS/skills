@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-exfiltration-over-dns-with-zeek",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-exfiltration-over-dns-with-zeek",
+  "branch": "master",
+  "sha": "a9ce19c702f438d0d5a84a1535297acfc095515e",
+  "source": "manual"
+}

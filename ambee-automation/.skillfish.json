@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ambee-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ambee-automation",
+  "branch": "main",
+  "sha": "dc2340d09214fea27b513c7ecfb2dd4295534ab3",
+  "source": "manual"
+}

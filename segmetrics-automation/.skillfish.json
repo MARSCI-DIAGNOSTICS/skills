@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "segmetrics-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/segmetrics-automation",
+  "branch": "main",
+  "sha": "ed1bf4fb03610466f04c7a76192fe74459b25408",
+  "source": "manual"
+}

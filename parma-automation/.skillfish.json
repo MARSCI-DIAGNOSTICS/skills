@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "parma-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/parma-automation",
+  "branch": "main",
+  "sha": "9a565348ef6d42b97e59fb598c676d8570b501cd",
+  "source": "manual"
+}

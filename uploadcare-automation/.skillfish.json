@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "uploadcare-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/uploadcare-automation",
+  "branch": "main",
+  "sha": "aaecda30aff1e1d3cdda6d864a3dc947402f3094",
+  "source": "manual"
+}

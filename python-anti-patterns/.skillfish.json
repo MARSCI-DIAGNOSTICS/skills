@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "python-anti-patterns",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/python-development/skills/python-anti-patterns",
+  "branch": "main",
+  "sha": "58eb4fb554c116976c2f223ae10c47a51817d143",
+  "source": "manual"
+}

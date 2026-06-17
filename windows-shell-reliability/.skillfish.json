@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "windows-shell-reliability",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/windows-shell-reliability",
+  "branch": "main",
+  "sha": "2e133e5f34fb2f313d815d808d3005cb275a9c80",
+  "source": "manual"
+}

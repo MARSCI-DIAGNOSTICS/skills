@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-evasion-techniques-in-endpoint-logs",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-evasion-techniques-in-endpoint-logs",
+  "branch": "master",
+  "sha": "f411a1b9fc07f543561147d80c6b910027053c4f",
+  "source": "manual"
+}

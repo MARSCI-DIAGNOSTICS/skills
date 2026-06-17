@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ascora-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ascora-automation",
+  "branch": "main",
+  "sha": "faa3cd05a59bc82e3cdd70a26632a03eba91b61c",
+  "source": "manual"
+}

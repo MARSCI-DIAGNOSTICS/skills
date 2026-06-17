@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tldr-prompt",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/tldr-prompt",
+  "branch": "main",
+  "sha": "4f307189bf53ce1545d84ab59b9918ce7e19f6fc",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dungeon-fighter-online-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/dungeon-fighter-online-automation",
+  "branch": "main",
+  "sha": "8e67173ef55f84bd2945b247040a8da12e247b61",
+  "source": "manual"
+}

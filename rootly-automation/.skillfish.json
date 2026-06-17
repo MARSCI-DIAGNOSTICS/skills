@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rootly-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/rootly-automation",
+  "branch": "main",
+  "sha": "c610b63ce6662e062e8e29f26182902b1f472bc4",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "toggl-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/toggl-automation",
+  "branch": "main",
+  "sha": "99cc619a3dabef521fc14cb0cd850ee9a5693ac3",
+  "source": "manual"
+}

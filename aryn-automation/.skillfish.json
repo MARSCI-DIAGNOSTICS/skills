@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aryn-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/aryn-automation",
+  "branch": "main",
+  "sha": "d80dfa7918180f528c65d4f11191d0450e661439",
+  "source": "manual"
+}

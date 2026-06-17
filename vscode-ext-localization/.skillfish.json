@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "vscode-ext-localization",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/vscode-ext-localization",
+  "branch": "main",
+  "sha": "090650a71636f39ec9ccc83a59eafe79e0f832df",
+  "source": "manual"
+}

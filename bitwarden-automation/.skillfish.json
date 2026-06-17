@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bitwarden-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/bitwarden-automation",
+  "branch": "main",
+  "sha": "b13d0ed44966be5e47fb9fa8195bbda9745c35d1",
+  "source": "manual"
+}

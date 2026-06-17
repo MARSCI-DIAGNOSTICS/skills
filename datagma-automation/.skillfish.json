@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "datagma-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/datagma-automation",
+  "branch": "main",
+  "sha": "ac5bb4fd21297e1dd31f614fc2b9299cc16d1094",
+  "source": "manual"
+}

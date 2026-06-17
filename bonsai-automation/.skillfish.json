@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bonsai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/bonsai-automation",
+  "branch": "main",
+  "sha": "6f08ea77e578079d367a6ab7d426d91376f30c53",
+  "source": "manual"
+}

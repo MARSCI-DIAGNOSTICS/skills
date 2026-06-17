@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "viboscope",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/viboscope",
+  "branch": "main",
+  "sha": "0e0f1d17557e4af8ce3a94abb36d55e9f8676bf8",
+  "source": "manual"
+}

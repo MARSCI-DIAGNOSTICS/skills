@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "architecture-blueprint-generator",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/architecture-blueprint-generator",
+  "branch": "main",
+  "sha": "85df2c5df09933ba0cf7b1e3b39469d4437c8d95",
+  "source": "manual"
+}

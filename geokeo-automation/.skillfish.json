@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "geokeo-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/geokeo-automation",
+  "branch": "main",
+  "sha": "8f1a17c4e52c036aad90b6f958b1b2b757833cb0",
+  "source": "manual"
+}

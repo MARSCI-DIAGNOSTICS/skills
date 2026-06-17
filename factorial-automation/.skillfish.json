@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "factorial-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/factorial-automation",
+  "branch": "main",
+  "sha": "d6a49f8ab98523060a017106501849c0439d272e",
+  "source": "manual"
+}

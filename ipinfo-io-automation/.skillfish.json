@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ipinfo-io-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ipinfo-io-automation",
+  "branch": "main",
+  "sha": "82c38f166da30376eaa89770da00e897cd22016b",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "google-search-console-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/google-search-console-automation",
+  "branch": "main",
+  "sha": "3dbd359f43d742293a82526300ef51889d5eec86",
+  "source": "manual"
+}

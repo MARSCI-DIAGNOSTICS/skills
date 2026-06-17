@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "geoapify-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/geoapify-automation",
+  "branch": "main",
+  "sha": "83395197c051a6d1354e9b15154e08e130ae1799",
+  "source": "manual"
+}

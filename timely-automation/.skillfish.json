@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "timely-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/timely-automation",
+  "branch": "main",
+  "sha": "c97235147185ce73bb3b490f1567ab646a6829fe",
+  "source": "manual"
+}

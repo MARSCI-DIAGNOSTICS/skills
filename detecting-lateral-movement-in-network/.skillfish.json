@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-lateral-movement-in-network",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-lateral-movement-in-network",
+  "branch": "master",
+  "sha": "82541c02a70597a3b1ab1aa0e3c5d5598411b508",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ritekit-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ritekit-automation",
+  "branch": "main",
+  "sha": "e0257240a6ae932ae2ac9a46b8f67e214aa14d8d",
+  "source": "manual"
+}

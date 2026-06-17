@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "performing-kubernetes-etcd-security-assessment",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/performing-kubernetes-etcd-security-assessment",
+  "branch": "master",
+  "sha": "58f065d208ac4a7e280da9b8faa2e9f7b7673a30",
+  "source": "manual"
+}

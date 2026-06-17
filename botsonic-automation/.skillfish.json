@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "botsonic-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/botsonic-automation",
+  "branch": "main",
+  "sha": "c3f8fe34e174cbc2a7aa875c5a2c29bb527c98a0",
+  "source": "manual"
+}

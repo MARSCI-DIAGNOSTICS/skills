@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "omnisend-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/omnisend-automation",
+  "branch": "main",
+  "sha": "eb19733ae823e9cb1f1739227ebd5a8b2843838a",
+  "source": "manual"
+}

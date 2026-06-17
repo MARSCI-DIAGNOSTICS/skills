@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "macos-spm-app-packaging",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/macos-spm-app-packaging",
+  "branch": "main",
+  "sha": "6f9b22509cf280dfb9616de78b2bfec1829730dd",
+  "source": "manual"
+}

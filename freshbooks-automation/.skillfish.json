@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "freshbooks-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/freshbooks-automation",
+  "branch": "main",
+  "sha": "c5bdb902234f0a6b6e53ae17eefd2a0e5cef73bb",
+  "source": "manual"
+}

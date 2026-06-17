@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "jobnimbus-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/jobnimbus-automation",
+  "branch": "main",
+  "sha": "f6a0176f1749d7540eb42182c30568fe9a7eba7e",
+  "source": "manual"
+}

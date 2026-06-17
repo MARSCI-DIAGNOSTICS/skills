@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "salesforce-service-cloud-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/salesforce-service-cloud-automation",
+  "branch": "main",
+  "sha": "ac47567b8328c1149185573930de7e29c6f1da71",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gigasheet-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/gigasheet-automation",
+  "branch": "main",
+  "sha": "80e48d17655a21bc8e35165558704aa26c1bf3cd",
+  "source": "manual"
+}

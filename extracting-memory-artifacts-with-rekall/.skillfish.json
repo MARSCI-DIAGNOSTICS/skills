@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "extracting-memory-artifacts-with-rekall",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/extracting-memory-artifacts-with-rekall",
+  "branch": "master",
+  "sha": "cb75ed107fffa0a9675efe97d363ee34050ac629",
+  "source": "manual"
+}

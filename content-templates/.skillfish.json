@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "content-templates",
+  "owner": "nathanjgaul",
+  "repo": "plugins",
+  "path": "plugins/dev-course-builder/skills/content-templates",
+  "branch": "main",
+  "sha": "8d7b32b787524b6f237b0545f0fe9d6e133926ea",
+  "source": "manual"
+}

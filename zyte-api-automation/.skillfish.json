@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zyte-api-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/zyte-api-automation",
+  "branch": "main",
+  "sha": "7390c5c128a5b7370a91567bfb9c7aa61b6f06f6",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "azure-deployment-preflight",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/azure-deployment-preflight",
+  "branch": "main",
+  "sha": "afd342b91f93a9a0fc955f08253b626a1d4c9740",
+  "source": "manual"
+}

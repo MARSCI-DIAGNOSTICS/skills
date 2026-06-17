@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "appveyor-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/appveyor-automation",
+  "branch": "main",
+  "sha": "8c5ca6ecb44114091d6d372dd0d828bbe04e5b73",
+  "source": "manual"
+}

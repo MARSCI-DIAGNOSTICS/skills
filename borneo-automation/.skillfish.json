@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "borneo-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/borneo-automation",
+  "branch": "main",
+  "sha": "3bef34ca93ea2728231d2b8cb02fcb5e6e4284f0",
+  "source": "manual"
+}

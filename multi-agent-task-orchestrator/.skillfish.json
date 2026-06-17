@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "multi-agent-task-orchestrator",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/multi-agent-task-orchestrator",
+  "branch": "main",
+  "sha": "f9b46dd73355d2b8c51272a58f5a26961b9f2d88",
+  "source": "manual"
+}

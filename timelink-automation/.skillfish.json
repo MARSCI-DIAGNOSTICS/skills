@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "timelink-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/timelink-automation",
+  "branch": "main",
+  "sha": "71acf8109825a0486f7338e71289d6a22a22da5b",
+  "source": "manual"
+}

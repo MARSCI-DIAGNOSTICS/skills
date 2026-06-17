@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "trust-calibrator",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/trust-calibrator",
+  "branch": "main",
+  "sha": "2d235c0e2a8f24ab5b7f5dae533a37612e431721",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "building-attack-pattern-library-from-cti-reports",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/building-attack-pattern-library-from-cti-reports",
+  "branch": "master",
+  "sha": "c66fd1cf42095bb04cda42dccd2a7750743abd4f",
+  "source": "manual"
+}

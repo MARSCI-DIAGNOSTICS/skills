@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "unslop",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/unslop",
+  "branch": "main",
+  "sha": "9f820ff4cae8d1086cd34cc2cf6b27863d00cb08",
+  "source": "manual"
+}

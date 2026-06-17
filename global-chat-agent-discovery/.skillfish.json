@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "global-chat-agent-discovery",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/global-chat-agent-discovery",
+  "branch": "main",
+  "sha": "72aaef8183bccf4b33bc80b3b1041a815dc4fa55",
+  "source": "manual"
+}

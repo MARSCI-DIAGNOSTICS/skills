@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "retailed-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/retailed-automation",
+  "branch": "main",
+  "sha": "a23dc18ba37cb2c9ce2d22a7141633938c4b33a2",
+  "source": "manual"
+}

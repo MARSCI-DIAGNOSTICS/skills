@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "google-address-validation-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/google-address-validation-automation",
+  "branch": "main",
+  "sha": "2ebba84ee735f76cbb2957c662f41b38f1621bae",
+  "source": "manual"
+}

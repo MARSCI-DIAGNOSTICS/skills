@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "goodbits-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/goodbits-automation",
+  "branch": "main",
+  "sha": "5871c4dc90eaf64c801e860bf3387e109dd7667b",
+  "source": "manual"
+}

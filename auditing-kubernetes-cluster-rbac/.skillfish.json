@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "auditing-kubernetes-cluster-rbac",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/auditing-kubernetes-cluster-rbac",
+  "branch": "master",
+  "sha": "daab138cef50401091844f76188916a131c35626",
+  "source": "manual"
+}

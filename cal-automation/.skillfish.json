@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cal-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/cal-automation",
+  "branch": "main",
+  "sha": "4ce137690f55a465e96bb5fd7ab7bf103c521b96",
+  "source": "manual"
+}

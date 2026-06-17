@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "missive-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/missive-automation",
+  "branch": "main",
+  "sha": "19d43af590c94feecd32b2eb588ad05defa75a26",
+  "source": "manual"
+}

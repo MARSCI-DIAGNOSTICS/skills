@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "active-campaign-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/active-campaign-automation",
+  "branch": "main",
+  "sha": "dc0783da99b67f5ad898997bfc79ab6be3bfdcc6",
+  "source": "manual"
+}

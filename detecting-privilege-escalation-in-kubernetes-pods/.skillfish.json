@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-privilege-escalation-in-kubernetes-pods",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-privilege-escalation-in-kubernetes-pods",
+  "branch": "master",
+  "sha": "a03b3127b2e59d89bd4e2184aad98b809f288b46",
+  "source": "manual"
+}

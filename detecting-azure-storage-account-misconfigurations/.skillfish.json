@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-azure-storage-account-misconfigurations",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-azure-storage-account-misconfigurations",
+  "branch": "master",
+  "sha": "d9ebd62314f2561f24af86ef2f1d2369875fe71e",
+  "source": "manual"
+}

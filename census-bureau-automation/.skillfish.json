@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "census-bureau-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/census-bureau-automation",
+  "branch": "main",
+  "sha": "a47979f06a28e54d9c8589243876250a4d7848d9",
+  "source": "manual"
+}

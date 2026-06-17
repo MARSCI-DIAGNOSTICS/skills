@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cdr-platform-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/cdr-platform-automation",
+  "branch": "main",
+  "sha": "ba598dfe7fef3eb4b914282f973bbfa737e8ade7",
+  "source": "manual"
+}

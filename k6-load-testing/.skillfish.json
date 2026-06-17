@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "k6-load-testing",
+  "owner": "satnamrsm",
+  "repo": "https-github.com-sickn33-antigravity-awesome-skills",
+  "path": "skills/k6-load-testing",
+  "branch": "main",
+  "sha": "4b03734465976dad11f1773bc1e732ff9e7d9160",
+  "source": "manual"
+}

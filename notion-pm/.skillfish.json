@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "notion-pm",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "project-management/notion-pm",
+  "branch": "main",
+  "sha": "fc8d2c16afd2e1b140e24b8bccf0df30512b7261",
+  "source": "manual"
+}

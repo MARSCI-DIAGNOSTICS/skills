@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "new_relic-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/new_relic-automation",
+  "branch": "main",
+  "sha": "22e40fd5e8a3ff13e2cb35f6927abe09bf8a851f",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zenrows-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/zenrows-automation",
+  "branch": "main",
+  "sha": "538d8aafad385232be64c20fb0627d309bb587f0",
+  "source": "manual"
+}

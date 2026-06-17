@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "worktree",
+  "owner": "hidorakai002",
+  "repo": "ai-workspace-archive",
+  "path": "ai_agent_frameworks/major_frameworks/AutoGPT/.claude/skills/worktree",
+  "branch": "main",
+  "sha": "f86512e7b947d31c32b96b7af6361785a239d42b",
+  "source": "manual"
+}

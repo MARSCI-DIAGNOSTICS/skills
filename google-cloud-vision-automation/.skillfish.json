@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "google-cloud-vision-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/google-cloud-vision-automation",
+  "branch": "main",
+  "sha": "fb7bcdd12dab8b03199306cb3580779d212a8fad",
+  "source": "manual"
+}

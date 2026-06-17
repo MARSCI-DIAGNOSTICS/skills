@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "flexisign-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/flexisign-automation",
+  "branch": "main",
+  "sha": "08c98f5f42a620f124186fe512924ff228ee1fcf",
+  "source": "manual"
+}

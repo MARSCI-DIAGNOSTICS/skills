@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "browseai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/browseai-automation",
+  "branch": "main",
+  "sha": "3c911053f01b5ba0b59ee9cf902f2376d13d204e",
+  "source": "manual"
+}

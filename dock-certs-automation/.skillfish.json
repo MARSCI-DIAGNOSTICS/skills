@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dock-certs-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/dock-certs-automation",
+  "branch": "main",
+  "sha": "afd28818f0ec2348a42b4a89122f7ffe8cfab5c0",
+  "source": "manual"
+}

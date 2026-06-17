@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gen-specs-as-issues",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/gen-specs-as-issues",
+  "branch": "main",
+  "sha": "f502c1704d1756283d1f821e155985c64b34f438",
+  "source": "manual"
+}

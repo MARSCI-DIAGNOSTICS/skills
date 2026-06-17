@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "wiki-deep-dive",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "polyclaw/polyclaw-repo/plugins/wikipedia-lookup/skills/wiki-deep-dive",
+  "branch": "main",
+  "sha": "106d62224fc286a61dd3335431fb4c353ddb6444",
+  "source": "manual"
+}

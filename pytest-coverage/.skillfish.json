@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pytest-coverage",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/pytest-coverage",
+  "branch": "main",
+  "sha": "abd9a3fb4ce4642bcc016982cbf0afba0c8f7222",
+  "source": "manual"
+}

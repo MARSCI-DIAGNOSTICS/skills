@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bestbuy-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/bestbuy-automation",
+  "branch": "main",
+  "sha": "98ae08bd1d8d211d79c51bbe3b1564ffd0441ea4",
+  "source": "manual"
+}

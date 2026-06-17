@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "modelry-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/modelry-automation",
+  "branch": "main",
+  "sha": "6d5bc5a60a21a892bcbef2ea9f0fac6af86dc0ed",
+  "source": "manual"
+}

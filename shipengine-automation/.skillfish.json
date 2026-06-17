@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "shipengine-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/shipengine-automation",
+  "branch": "main",
+  "sha": "af9daea073177a055d4b10f67733d9a3ade6a129",
+  "source": "manual"
+}

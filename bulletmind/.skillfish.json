@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bulletmind",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/bulletmind",
+  "branch": "main",
+  "sha": "60ba3e6eb26829cd8670c81802c0bcf4ec1fccb3",
+  "source": "manual"
+}

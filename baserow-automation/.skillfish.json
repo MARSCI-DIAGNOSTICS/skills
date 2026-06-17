@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "baserow-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/baserow-automation",
+  "branch": "main",
+  "sha": "9ba3788712c968be6b80b3960e1cc34b0d666513",
+  "source": "manual"
+}

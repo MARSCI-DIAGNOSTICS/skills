@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-network-packets-with-scapy",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/analyzing-network-packets-with-scapy",
+  "branch": "master",
+  "sha": "08984c8edc21b5ef56c5c9dc4ecc18d4d96a8a59",
+  "source": "manual"
+}

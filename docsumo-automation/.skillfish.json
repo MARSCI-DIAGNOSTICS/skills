@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docsumo-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/docsumo-automation",
+  "branch": "main",
+  "sha": "862390e3117025637785ada811ee1f4e257b271c",
+  "source": "manual"
+}

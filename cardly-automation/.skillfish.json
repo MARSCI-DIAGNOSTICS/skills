@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cardly-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/cardly-automation",
+  "branch": "main",
+  "sha": "584790c844e91312e687d18d0bb9ff22945fb6bb",
+  "source": "manual"
+}

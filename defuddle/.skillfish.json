@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "defuddle",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/defuddle",
+  "branch": "main",
+  "sha": "4756e148cb0c07078795ef40c30c5258b92a1f39",
+  "source": "manual"
+}

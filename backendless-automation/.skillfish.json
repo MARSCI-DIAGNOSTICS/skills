@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "backendless-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/backendless-automation",
+  "branch": "main",
+  "sha": "7467786d524685d4b1bb9e8a72b9b8f33f18fe66",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cats-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/cats-automation",
+  "branch": "main",
+  "sha": "5134045faf179e331b95f07335c82d8988e9cd05",
+  "source": "manual"
+}

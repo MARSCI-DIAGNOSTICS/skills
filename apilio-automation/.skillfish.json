@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "apilio-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/apilio-automation",
+  "branch": "main",
+  "sha": "3f18a71360c9b7bdf183831e8cf3ba69360a7b57",
+  "source": "manual"
+}

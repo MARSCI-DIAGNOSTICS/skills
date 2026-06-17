@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "extracting-config-from-agent-tesla-rat",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/extracting-config-from-agent-tesla-rat",
+  "branch": "master",
+  "sha": "37c80ba64079431105ce1c736f0b62e82bcb27b1",
+  "source": "manual"
+}

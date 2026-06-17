@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "securitytrails-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/securitytrails-automation",
+  "branch": "main",
+  "sha": "2adc8c52a7aa05a415aecc2ff6b36e5e1da3915e",
+  "source": "manual"
+}

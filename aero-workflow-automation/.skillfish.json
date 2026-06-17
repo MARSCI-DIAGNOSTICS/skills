@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aero-workflow-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/aero-workflow-automation",
+  "branch": "main",
+  "sha": "d12d5d25347c3597ff210292ecc1a85051aaeadd",
+  "source": "manual"
+}

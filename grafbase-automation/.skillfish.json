@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "grafbase-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/grafbase-automation",
+  "branch": "main",
+  "sha": "6de8dfb4c00aa0b18a1c9c00e804f0e36a733ddc",
+  "source": "manual"
+}

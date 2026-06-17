@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "git-pr-review",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/git-pr-review",
+  "branch": "main",
+  "sha": "4e4a79d03331860ff3079bb9bded1c3d3fd2cab0",
+  "source": "manual"
+}

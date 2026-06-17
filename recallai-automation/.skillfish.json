@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "recallai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/recallai-automation",
+  "branch": "main",
+  "sha": "d2198283bf5531e32c0490e1004ad4f30a1281fa",
+  "source": "manual"
+}

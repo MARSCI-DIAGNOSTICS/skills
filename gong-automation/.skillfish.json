@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gong-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/gong-automation",
+  "branch": "main",
+  "sha": "ff3133712bfbf57de4209132d086973d80aabc08",
+  "source": "manual"
+}

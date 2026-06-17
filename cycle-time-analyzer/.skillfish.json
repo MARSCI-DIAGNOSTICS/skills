@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cycle-time-analyzer",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "project-management/execution/cycle-time-analyzer",
+  "branch": "main",
+  "sha": "cc70d4c08327437ea868e9c066c76dc4c0e12d5f",
+  "source": "manual"
+}

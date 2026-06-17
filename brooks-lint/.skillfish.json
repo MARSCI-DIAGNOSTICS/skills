@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "brooks-lint",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/brooks-lint",
+  "branch": "main",
+  "sha": "a4012fdba3a2f2695bb9b4a334b29efd0d83e0d7",
+  "source": "manual"
+}

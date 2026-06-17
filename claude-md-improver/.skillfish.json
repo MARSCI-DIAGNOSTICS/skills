@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "claude-md-improver",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/anthropic-claude-md-management/skills/claude-md-improver",
+  "branch": "main",
+  "sha": "7188018e6710998fbc3227fdacd1b2b6e0508c38",
+  "source": "manual"
+}

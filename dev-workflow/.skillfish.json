@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dev-workflow",
+  "owner": "hideki5123",
+  "repo": "agent-skill-set",
+  "path": "dev-workflow",
+  "branch": "master",
+  "sha": "bda7b05f7328fb80e424b852ca4ea0a51189e961",
+  "source": "manual"
+}

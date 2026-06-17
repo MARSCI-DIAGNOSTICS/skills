@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "appsflyer-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/appsflyer-automation",
+  "branch": "main",
+  "sha": "c88fb449601f23b83cc6ba81c2d3c771954b868a",
+  "source": "manual"
+}

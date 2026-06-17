@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "identity-mirror",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/identity-mirror",
+  "branch": "main",
+  "sha": "54b529c61c2b38e97863c22504f429eaef6defdd",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "venly-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/venly-automation",
+  "branch": "main",
+  "sha": "cb784e844b225f34c6bfb2e0e8ef49da29217d85",
+  "source": "manual"
+}

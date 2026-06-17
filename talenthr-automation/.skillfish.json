@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "talenthr-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/talenthr-automation",
+  "branch": "main",
+  "sha": "ec7540055284353621246513b19be5428730e7ad",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-squad",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/agent-squad",
+  "branch": "main",
+  "sha": "e93d836129931c241fa92e66cfc8cb09aa88550b",
+  "source": "manual"
+}

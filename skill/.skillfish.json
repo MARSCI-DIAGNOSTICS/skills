@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "skill",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/ios-simulator-skill/skill",
+  "branch": "main",
+  "sha": "ffa4cdb0d51a8fafa3aa38fe054ba6ceb6f97982",
+  "source": "manual"
+}

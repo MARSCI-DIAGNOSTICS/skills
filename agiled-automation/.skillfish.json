@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agiled-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/agiled-automation",
+  "branch": "main",
+  "sha": "4f1c68205e8503c2e3e700bd938347d6c393c030",
+  "source": "manual"
+}

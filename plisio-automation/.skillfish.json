@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "plisio-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/plisio-automation",
+  "branch": "main",
+  "sha": "cccf94776f6835a06df4fb886479d5210ae96b21",
+  "source": "manual"
+}

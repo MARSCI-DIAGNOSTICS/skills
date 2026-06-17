@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "maintainx-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/maintainx-automation",
+  "branch": "main",
+  "sha": "06806693c1a4fdf3dee5f9cb4546f3b0df38c59f",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "visme-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/visme-automation",
+  "branch": "main",
+  "sha": "fe191b483ef500e0f8eb9338587cbffda241ff0d",
+  "source": "manual"
+}

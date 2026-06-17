@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "callerapi-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/callerapi-automation",
+  "branch": "main",
+  "sha": "37d15aa9d9e954e0de67ef419289484e620c4865",
+  "source": "manual"
+}

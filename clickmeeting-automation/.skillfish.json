@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "clickmeeting-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/clickmeeting-automation",
+  "branch": "main",
+  "sha": "7333a9445a0f2ce4e949fbbd56e02c11f87062ed",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "copywriter",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/ralph-wiggum-marketer/skills/copywriter",
+  "branch": "main",
+  "sha": "0a5b23138545cb338849fc57d045b5f9904d77dd",
+  "source": "manual"
+}

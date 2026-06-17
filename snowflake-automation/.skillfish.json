@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "snowflake-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/snowflake-automation",
+  "branch": "main",
+  "sha": "8bc6cccc99c16589c82827bf180e6b47699cf46f",
+  "source": "manual"
+}

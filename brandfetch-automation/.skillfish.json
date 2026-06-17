@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "brandfetch-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/brandfetch-automation",
+  "branch": "main",
+  "sha": "16075405237efb7ce3a6db7781670a3d7e1b0757",
+  "source": "manual"
+}

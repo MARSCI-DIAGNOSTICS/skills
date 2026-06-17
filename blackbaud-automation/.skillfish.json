@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "blackbaud-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/blackbaud-automation",
+  "branch": "main",
+  "sha": "02356bd304d45b270101a65a5967a4e321447ba1",
+  "source": "manual"
+}

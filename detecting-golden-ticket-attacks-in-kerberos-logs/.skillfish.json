@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-golden-ticket-attacks-in-kerberos-logs",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-golden-ticket-attacks-in-kerberos-logs",
+  "branch": "master",
+  "sha": "666f162518e3a213fbac26eada040d9cf3528a3d",
+  "source": "manual"
+}

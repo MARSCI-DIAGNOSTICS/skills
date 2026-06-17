@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "elevenlabs-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/elevenlabs-automation",
+  "branch": "main",
+  "sha": "59f5e901fe41b1594091123fae14241d7bc2d30d",
+  "source": "manual"
+}

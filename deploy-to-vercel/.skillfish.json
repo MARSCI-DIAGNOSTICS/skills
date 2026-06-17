@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "deploy-to-vercel",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/deploy-to-vercel",
+  "branch": "main",
+  "sha": "1416da4db4ffd26e80e4ceb4e0fe99a726784067",
+  "source": "manual"
+}

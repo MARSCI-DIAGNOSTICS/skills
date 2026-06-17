@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "skyfire-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/skyfire-automation",
+  "branch": "main",
+  "sha": "2394e6ded67dbafec10d2c41c344e608b64b12da",
+  "source": "manual"
+}

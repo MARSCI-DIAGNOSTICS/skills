@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "anchor-browser-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/anchor-browser-automation",
+  "branch": "main",
+  "sha": "3e1f49accc8cf6a553f4d72273267fb5ae4782b6",
+  "source": "manual"
+}

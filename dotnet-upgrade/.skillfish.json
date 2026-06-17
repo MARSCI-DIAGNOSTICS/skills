@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dotnet-upgrade",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/dotnet-upgrade",
+  "branch": "main",
+  "sha": "3a6422fe5e364dc0851d575213603efee9b3986a",
+  "source": "manual"
+}

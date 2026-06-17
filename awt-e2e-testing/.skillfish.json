@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "awt-e2e-testing",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/awt-e2e-testing",
+  "branch": "main",
+  "sha": "fc2b0e1dd60f62ae9614f2c7520cfb9574c19143",
+  "source": "manual"
+}

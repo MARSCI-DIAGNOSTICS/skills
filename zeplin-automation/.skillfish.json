@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zeplin-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/zeplin-automation",
+  "branch": "main",
+  "sha": "acc6efd2da471cd624afebbd65c2625bbc56efe2",
+  "source": "manual"
+}

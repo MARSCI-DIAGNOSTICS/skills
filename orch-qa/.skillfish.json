@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "orch-qa",
+  "owner": "hideki5123",
+  "repo": "agent-skill-set",
+  "path": "orch-qa",
+  "branch": "master",
+  "sha": "0c7e5da6d5538a6845415fa3b4e7f035ef20ce50",
+  "source": "manual"
+}

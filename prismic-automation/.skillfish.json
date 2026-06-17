@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "prismic-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/prismic-automation",
+  "branch": "main",
+  "sha": "279c7bdc9711836dd60d98a14eb92c659d587861",
+  "source": "manual"
+}

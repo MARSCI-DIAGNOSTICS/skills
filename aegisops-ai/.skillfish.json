@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "aegisops-ai",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/aegisops-ai",
+  "branch": "main",
+  "sha": "65cab9d5434196b471ddd28f0f1750a5c64d11c6",
+  "source": "manual"
+}

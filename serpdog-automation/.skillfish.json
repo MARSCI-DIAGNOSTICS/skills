@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "serpdog-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/serpdog-automation",
+  "branch": "main",
+  "sha": "89fa15ae3779eba370d8d90101356342c53f0a02",
+  "source": "manual"
+}

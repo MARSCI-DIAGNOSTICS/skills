@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lexoffice-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/lexoffice-automation",
+  "branch": "main",
+  "sha": "5c3e7de1617ed45145e7f17f9fa5dd61dc57d1b6",
+  "source": "manual"
+}

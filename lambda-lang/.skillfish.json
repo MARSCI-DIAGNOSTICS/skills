@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lambda-lang",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/lambda-lang",
+  "branch": "main",
+  "sha": "2b31424896b6da03d671d16058c3aed820d5ec64",
+  "source": "manual"
+}

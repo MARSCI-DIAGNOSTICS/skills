@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "page-x-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/page-x-automation",
+  "branch": "main",
+  "sha": "bb1e0647e340c584089f5b8219cb5525ace8b245",
+  "source": "manual"
+}

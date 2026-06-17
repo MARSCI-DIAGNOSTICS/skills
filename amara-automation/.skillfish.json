@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "amara-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/amara-automation",
+  "branch": "main",
+  "sha": "2fc6454aa988ac2e86ae8ded6fc852d887fb1361",
+  "source": "manual"
+}

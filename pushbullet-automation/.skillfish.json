@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pushbullet-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/pushbullet-automation",
+  "branch": "main",
+  "sha": "b674d28de73618ab588a478a8f05396aa3ffb495",
+  "source": "manual"
+}

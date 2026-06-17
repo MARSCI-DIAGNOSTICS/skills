@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "scrapingant-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/scrapingant-automation",
+  "branch": "main",
+  "sha": "ce6cee3698ebcb2c9b3f4b79ae7213c69217dc33",
+  "source": "manual"
+}

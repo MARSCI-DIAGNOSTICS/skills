@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "revolt-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/revolt-automation",
+  "branch": "main",
+  "sha": "0cd3298f768393ff6039a090238c9d3c081544b0",
+  "source": "manual"
+}

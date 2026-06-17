@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "story-splitting",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "project-management/execution/story-splitting",
+  "branch": "main",
+  "sha": "9b173070c6caf7dbf125ae6f7cff695deb2cb196",
+  "source": "manual"
+}

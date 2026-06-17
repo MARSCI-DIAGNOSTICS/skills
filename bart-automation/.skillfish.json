@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bart-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/bart-automation",
+  "branch": "main",
+  "sha": "7a99ae0380da7e2287db69fa3bd777768903868d",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "proofly-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/proofly-automation",
+  "branch": "main",
+  "sha": "58d8449fe03dcedc3b1f5fb075a1093e63eb7da9",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mboum-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/mboum-automation",
+  "branch": "main",
+  "sha": "fe2b3e60723d4d8007546075d69379b9654f2bae",
+  "source": "manual"
+}

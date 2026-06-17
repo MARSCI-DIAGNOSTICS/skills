@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-ransomware-encryption-behavior",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-ransomware-encryption-behavior",
+  "branch": "master",
+  "sha": "d76a906915b8545734b7cf2126554cada03d2b1a",
+  "source": "manual"
+}

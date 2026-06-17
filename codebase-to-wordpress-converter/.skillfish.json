@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "codebase-to-wordpress-converter",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/codebase-to-wordpress-converter",
+  "branch": "main",
+  "sha": "764e3d87283b90527dc366938cf183b46eec52b1",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-suspicious-powershell-execution",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-suspicious-powershell-execution",
+  "branch": "master",
+  "sha": "b9b5d8edef261d981ffb2b11b6a05796f85009ca",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fireberry-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/fireberry-automation",
+  "branch": "main",
+  "sha": "daa1613f10a053f10608a8cc6d3d1f0fc2df2c92",
+  "source": "manual"
+}

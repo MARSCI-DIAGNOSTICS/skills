@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "obsidian-cli",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/obsidian-cli",
+  "branch": "main",
+  "sha": "0676772200bc55b4e074270dd9a334d878e9fd57",
+  "source": "manual"
+}

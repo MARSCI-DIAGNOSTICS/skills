@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "short-menu-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/short-menu-automation",
+  "branch": "main",
+  "sha": "c5b11b98d47f04c3e0a8e7b72fe619e7e93f6938",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "story-editor",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "multi-agent/.claude/skills/story-editor",
+  "branch": "main",
+  "sha": "7cb68018abc060bfcd0fbe333da16bae15686d4e",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "chmeetings-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/chmeetings-automation",
+  "branch": "main",
+  "sha": "efcc054cea695ae97e313ae3880ad5b66d37fecd",
+  "source": "manual"
+}

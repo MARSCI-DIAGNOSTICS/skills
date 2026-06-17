@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "polygon-io-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/polygon-io-automation",
+  "branch": "main",
+  "sha": "fbe55ed7c844d648178a46d86910ed8ca6c91854",
+  "source": "manual"
+}

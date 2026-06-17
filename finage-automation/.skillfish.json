@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "finage-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/finage-automation",
+  "branch": "main",
+  "sha": "63b762f8dac0907a4b5f27bf8df10a2d00e49c1f",
+  "source": "manual"
+}

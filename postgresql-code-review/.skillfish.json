@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "postgresql-code-review",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/postgresql-code-review",
+  "branch": "main",
+  "sha": "5e41d23340dfe6988fc87a727083d1cd30bc1b1c",
+  "source": "manual"
+}

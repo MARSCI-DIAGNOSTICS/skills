@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "performing-container-image-hardening",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/performing-container-image-hardening",
+  "branch": "master",
+  "sha": "4ee3e1d66659a144532eac1fa8fe001ba816d6af",
+  "source": "manual"
+}

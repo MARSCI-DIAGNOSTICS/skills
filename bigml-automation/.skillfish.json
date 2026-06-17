@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "bigml-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/bigml-automation",
+  "branch": "main",
+  "sha": "b5a39c72aba920e7ee82e01fb1169d58b7147fa9",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "luna",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/agent-squad/luna",
+  "branch": "main",
+  "sha": "e1e3b8c98e6ed02d2a8d7f430d6e0157faf97268",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-windows-registry-for-artifacts",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/analyzing-windows-registry-for-artifacts",
+  "branch": "master",
+  "sha": "32a0fa7970a510ac907bd22f94021dc16496cbb5",
+  "source": "manual"
+}

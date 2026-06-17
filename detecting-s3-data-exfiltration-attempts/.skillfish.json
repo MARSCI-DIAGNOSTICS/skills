@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-s3-data-exfiltration-attempts",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-s3-data-exfiltration-attempts",
+  "branch": "master",
+  "sha": "ced044a862b8b81c813dedfee9b0093d44371189",
+  "source": "manual"
+}

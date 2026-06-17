@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "performing-log-source-onboarding-in-siem",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/performing-log-source-onboarding-in-siem",
+  "branch": "master",
+  "sha": "4d78cb7633cfcfef171a0f1b890441bef9600458",
+  "source": "manual"
+}

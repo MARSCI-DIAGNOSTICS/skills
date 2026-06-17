@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "amcards-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/amcards-automation",
+  "branch": "main",
+  "sha": "f2152dec5f25c12ff5de4a1860e49ee99c6614c0",
+  "source": "manual"
+}

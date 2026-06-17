@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "update-avm-modules-in-bicep",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/update-avm-modules-in-bicep",
+  "branch": "main",
+  "sha": "ebda2c1da25f568a6a2ec32fbb738a651bd3eaa3",
+  "source": "manual"
+}

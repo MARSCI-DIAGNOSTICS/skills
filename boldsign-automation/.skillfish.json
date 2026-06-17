@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "boldsign-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/boldsign-automation",
+  "branch": "main",
+  "sha": "336f89e2dca96d7f9bba85dddfda905cdc829354",
+  "source": "manual"
+}

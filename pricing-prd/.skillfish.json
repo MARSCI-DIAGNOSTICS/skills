@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pricing-prd",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "project-management/execution/pricing-prd",
+  "branch": "main",
+  "sha": "933175d4f934f8e567216f7351ed0a9ae3fd520c",
+  "source": "manual"
+}

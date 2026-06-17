@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "configuring-windows-event-logging-for-detection",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/configuring-windows-event-logging-for-detection",
+  "branch": "master",
+  "sha": "f3f1112a90d275d21295f3be608c558eded895af",
+  "source": "manual"
+}

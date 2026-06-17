@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "postgrid-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/postgrid-automation",
+  "branch": "main",
+  "sha": "990cd0fed41cea11d868b60eb658c32cf924ac3e",
+  "source": "manual"
+}

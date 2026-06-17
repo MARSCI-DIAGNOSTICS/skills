@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "browserless-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/browserless-automation",
+  "branch": "main",
+  "sha": "abda8912a51d066b8fea157856f83294b21b5723",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mapbox-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/mapbox-automation",
+  "branch": "main",
+  "sha": "5e5b59607e4f51cf978af475720421cab19051e8",
+  "source": "manual"
+}

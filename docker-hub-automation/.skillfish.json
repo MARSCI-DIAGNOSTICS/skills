@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docker-hub-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/docker-hub-automation",
+  "branch": "main",
+  "sha": "abfb2dc9da6ce2bdeaca97d1be09516a9a1c4e67",
+  "source": "manual"
+}

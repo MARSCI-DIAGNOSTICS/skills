@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "faf-expert",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/faf-expert",
+  "branch": "main",
+  "sha": "9a5be91a20010cbb7545b08e237b2d02790fac4c",
+  "source": "manual"
+}

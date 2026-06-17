@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-cobaltstrike-malleable-c2-profiles",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/analyzing-cobaltstrike-malleable-c2-profiles",
+  "branch": "master",
+  "sha": "5e0988aa52f5b5853abb86d5677a2ba58bec8d32",
+  "source": "manual"
+}

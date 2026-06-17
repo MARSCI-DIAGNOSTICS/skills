@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "livesession-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/livesession-automation",
+  "branch": "main",
+  "sha": "2d68e548a5631eab78b28e6d357f83883eec75bf",
+  "source": "manual"
+}

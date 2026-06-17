@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pipeline-crm-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/pipeline-crm-automation",
+  "branch": "main",
+  "sha": "8be427bcd11e1cc02c3103c4cf7af3b6cb22f15f",
+  "source": "manual"
+}

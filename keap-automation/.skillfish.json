@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "keap-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/keap-automation",
+  "branch": "main",
+  "sha": "22adf01d3853f83d886f9f24a750e12c21a10dde",
+  "source": "manual"
+}

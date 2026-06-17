@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "nocrm-io-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/nocrm-io-automation",
+  "branch": "main",
+  "sha": "e0b48be8ec30ff421ef12f8c15478c0cf77c5e99",
+  "source": "manual"
+}

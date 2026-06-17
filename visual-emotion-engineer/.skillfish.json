@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "visual-emotion-engineer",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/visual-emotion-engineer",
+  "branch": "main",
+  "sha": "5683ca2b27d2f38cc628d261b0980b7ee200b6db",
+  "source": "manual"
+}

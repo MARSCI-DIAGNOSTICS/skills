@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "monte-carlo-push-ingestion",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/monte-carlo-push-ingestion",
+  "branch": "main",
+  "sha": "8e7bcf66ebada8fc3934f8e53bb000172c7a26ab",
+  "source": "manual"
+}

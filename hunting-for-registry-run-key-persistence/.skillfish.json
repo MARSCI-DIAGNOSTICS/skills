@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hunting-for-registry-run-key-persistence",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/hunting-for-registry-run-key-persistence",
+  "branch": "master",
+  "sha": "853386e3cf4a7369e78050e61e9413b5505f3873",
+  "source": "manual"
+}

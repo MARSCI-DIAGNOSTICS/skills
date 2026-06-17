@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "finalize-agent-prompt",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/finalize-agent-prompt",
+  "branch": "main",
+  "sha": "dd900f86f345f1fcfc0cb8c5d1bd02cf9a816e77",
+  "source": "manual"
+}

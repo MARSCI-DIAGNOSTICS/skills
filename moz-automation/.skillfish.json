@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "moz-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/moz-automation",
+  "branch": "main",
+  "sha": "a3296fecf5ecf4e907e7388103abbb021ba17a1f",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "canvas-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/canvas-automation",
+  "branch": "main",
+  "sha": "9fd6c408d3c326f2a476979b3879de1a359a4e8e",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "openai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/openai-automation",
+  "branch": "main",
+  "sha": "f07234379bd8c361cfaf51671690490ac69a6f5f",
+  "source": "manual"
+}

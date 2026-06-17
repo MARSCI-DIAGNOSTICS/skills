@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hyperbrowser-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/hyperbrowser-automation",
+  "branch": "main",
+  "sha": "cb8de2683756701b3683695e2d04c00965891575",
+  "source": "manual"
+}

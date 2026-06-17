@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sendspark-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/sendspark-automation",
+  "branch": "main",
+  "sha": "b857173c03dca59fca2199adc4baf5c997f35605",
+  "source": "manual"
+}

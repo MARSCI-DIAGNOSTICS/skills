@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "felt-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/felt-automation",
+  "branch": "main",
+  "sha": "fa2c344b63bd757478f1ccb6212799b365c02568",
+  "source": "manual"
+}

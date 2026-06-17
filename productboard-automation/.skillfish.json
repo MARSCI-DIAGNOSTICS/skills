@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "productboard-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/productboard-automation",
+  "branch": "main",
+  "sha": "8c9fa69c0bd7fe6119d412c3a7a346ca7b7ea655",
+  "source": "manual"
+}

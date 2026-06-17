@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mocean-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/mocean-automation",
+  "branch": "main",
+  "sha": "803c20fe81ab32904b25508232b996872a229330",
+  "source": "manual"
+}

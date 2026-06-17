@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "givebutter-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/givebutter-automation",
+  "branch": "main",
+  "sha": "e5b7500700bc475f95c795e138ae0f0b7f52fca6",
+  "source": "manual"
+}

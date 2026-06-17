@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "process-street-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/process-street-automation",
+  "branch": "main",
+  "sha": "6bb8913e53efe0aa77e216d7b28cf0ff4b3d5637",
+  "source": "manual"
+}

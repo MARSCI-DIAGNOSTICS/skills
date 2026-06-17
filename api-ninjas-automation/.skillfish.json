@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "api-ninjas-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/api-ninjas-automation",
+  "branch": "main",
+  "sha": "1c2dca69a0db19209b97a73374ddb42893daf7d1",
+  "source": "manual"
+}

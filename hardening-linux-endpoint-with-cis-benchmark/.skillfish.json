@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hardening-linux-endpoint-with-cis-benchmark",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/hardening-linux-endpoint-with-cis-benchmark",
+  "branch": "master",
+  "sha": "c48557e10aa272ed54d36db18dd713521ea65e09",
+  "source": "manual"
+}

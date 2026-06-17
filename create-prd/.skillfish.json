@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "create-prd",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "project-management/execution/create-prd",
+  "branch": "main",
+  "sha": "81eadac6ca2f6cb77edd9cb5496c3dabdfccccfd",
+  "source": "manual"
+}

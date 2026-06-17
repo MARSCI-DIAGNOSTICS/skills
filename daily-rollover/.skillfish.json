@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "daily-rollover",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "polyclaw/polyclaw-repo/plugins/second-brain-workiq/skills/daily-rollover",
+  "branch": "main",
+  "sha": "248ec7f361692a7335b994068d70761207bb7eb2",
+  "source": "manual"
+}

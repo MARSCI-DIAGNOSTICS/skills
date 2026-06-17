@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "api-bible-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/api-bible-automation",
+  "branch": "main",
+  "sha": "395a9e376d407c92c1461aae83c0e62a05bd8745",
+  "source": "manual"
+}

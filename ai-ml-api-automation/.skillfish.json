@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ai-ml-api-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ai-ml-api-automation",
+  "branch": "main",
+  "sha": "309dae5bb9fab87928a2a837afead416197aef64",
+  "source": "manual"
+}

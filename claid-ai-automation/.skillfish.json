@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "claid-ai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/claid-ai-automation",
+  "branch": "main",
+  "sha": "857f999175f037031c0f0a8832aa0f20ed480da4",
+  "source": "manual"
+}

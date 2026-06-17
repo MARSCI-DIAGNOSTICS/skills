@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "needle-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/needle-automation",
+  "branch": "main",
+  "sha": "4ef1c2837f4c9fa7e63a24d1f3500a646b7df94c",
+  "source": "manual"
+}

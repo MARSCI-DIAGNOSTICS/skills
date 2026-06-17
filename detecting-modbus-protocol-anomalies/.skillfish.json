@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-modbus-protocol-anomalies",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-modbus-protocol-anomalies",
+  "branch": "master",
+  "sha": "6d9e3edf7e3dba869d1c2c63278d4ed3c06f8250",
+  "source": "manual"
+}

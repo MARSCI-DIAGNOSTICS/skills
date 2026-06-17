@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "performing-firmware-extraction-with-binwalk",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/performing-firmware-extraction-with-binwalk",
+  "branch": "master",
+  "sha": "cff2cf6ca19796e7b8f7f777bc2b8f78177d4c29",
+  "source": "manual"
+}

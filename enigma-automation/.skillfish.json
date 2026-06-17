@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "enigma-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/enigma-automation",
+  "branch": "main",
+  "sha": "a6239a53bf67699653986a551942d6872511a04e",
+  "source": "manual"
+}

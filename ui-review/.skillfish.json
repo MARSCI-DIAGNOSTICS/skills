@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ui-review",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/ui-review",
+  "branch": "main",
+  "sha": "7f3065a57e43584ae2538ad615a7207b31801e94",
+  "source": "manual"
+}

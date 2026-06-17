@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "story-writer",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "multi-agent/.claude/skills/story-writer",
+  "branch": "main",
+  "sha": "198574b9842fb3bdd4e2c8dbc10cb2bf23df5111",
+  "source": "manual"
+}

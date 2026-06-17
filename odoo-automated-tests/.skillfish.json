@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "odoo-automated-tests",
+  "owner": "satnamrsm",
+  "repo": "https-github.com-sickn33-antigravity-awesome-skills",
+  "path": "skills/odoo-automated-tests",
+  "branch": "main",
+  "sha": "a2f98bc2245a6a5cef54c6e09c222bfeca59402d",
+  "source": "manual"
+}

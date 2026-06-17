@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "appinsights-instrumentation",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/appinsights-instrumentation",
+  "branch": "main",
+  "sha": "79c414b98f3e1f0a917141c5243f64677b41792a",
+  "source": "manual"
+}

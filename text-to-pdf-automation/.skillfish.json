@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "text-to-pdf-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/text-to-pdf-automation",
+  "branch": "main",
+  "sha": "1327f2d739de30269e26adbfb9f60a9c0df50cc6",
+  "source": "manual"
+}

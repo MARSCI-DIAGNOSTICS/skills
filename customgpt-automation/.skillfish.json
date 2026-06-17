@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "customgpt-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/customgpt-automation",
+  "branch": "main",
+  "sha": "096baff4f6d2e25ae1c304ec10b9e25b202bcc77",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "customerio-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/customerio-automation",
+  "branch": "main",
+  "sha": "00cf6a86b7035f18f993097abc83246d73716274",
+  "source": "manual"
+}

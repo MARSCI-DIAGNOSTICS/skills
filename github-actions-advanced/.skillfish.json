@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "github-actions-advanced",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/github-actions-advanced",
+  "branch": "main",
+  "sha": "219eeb4907f5c78e9c8bde9ebe8f6e689a611e33",
+  "source": "manual"
+}

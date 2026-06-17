@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "coinmarketcap-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/coinmarketcap-automation",
+  "branch": "main",
+  "sha": "98c6676d36e974fadd87efbdcc880aed78b25b45",
+  "source": "manual"
+}

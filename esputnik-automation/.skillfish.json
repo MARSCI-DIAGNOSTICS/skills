@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "esputnik-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/esputnik-automation",
+  "branch": "main",
+  "sha": "9c2250ac31a2343ebf300d4fde2c3dc43817091a",
+  "source": "manual"
+}

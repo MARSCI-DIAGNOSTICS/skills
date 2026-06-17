@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "spotlightr-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/spotlightr-automation",
+  "branch": "main",
+  "sha": "70fff0bbd6effb84b5f1408bc7ce6d80d961665c",
+  "source": "manual"
+}

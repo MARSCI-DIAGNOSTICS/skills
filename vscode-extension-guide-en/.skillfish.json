@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "vscode-extension-guide-en",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/vscode-extension-guide-en",
+  "branch": "main",
+  "sha": "d4736797689f42ae462025584b1287b0e6d5c885",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gan-ai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/gan-ai-automation",
+  "branch": "main",
+  "sha": "62a84b4db8059cb18f882d8cb1351e9f5cbe1b1c",
+  "source": "manual"
+}

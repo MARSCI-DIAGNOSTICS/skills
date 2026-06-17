@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "microsoft-skill-creator",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/microsoft-skill-creator",
+  "branch": "main",
+  "sha": "0459a9289e0400cf655d153c10449e6be3b696dd",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "basin-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/basin-automation",
+  "branch": "main",
+  "sha": "770d37ae5ad7f48db0c25e9e934a5d63066eb2ba",
+  "source": "manual"
+}

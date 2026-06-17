@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "logo-dev-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/logo-dev-automation",
+  "branch": "main",
+  "sha": "31f51afbfa04fa94e0c0adc55a7487d75676eb12",
+  "source": "manual"
+}

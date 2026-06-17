@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "godial-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/godial-automation",
+  "branch": "main",
+  "sha": "ebb1b70c91f239e939a3634fc99109b44b0384d4",
+  "source": "manual"
+}

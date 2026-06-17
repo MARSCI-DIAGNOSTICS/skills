@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "msstore-cli",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/msstore-cli",
+  "branch": "main",
+  "sha": "10f91bd2a4413b943bf1be26ce86f4988b8d59f5",
+  "source": "manual"
+}

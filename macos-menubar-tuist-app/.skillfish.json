@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "macos-menubar-tuist-app",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/macos-menubar-tuist-app",
+  "branch": "main",
+  "sha": "a2e67249a1b0a48d4220e3c8fa127ec4f69adfea",
+  "source": "manual"
+}

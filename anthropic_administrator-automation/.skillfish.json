@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "anthropic_administrator-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/anthropic_administrator-automation",
+  "branch": "main",
+  "sha": "7f8f494690fe74dd1180a98ecbb740cdcd999ad6",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "giphy-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/giphy-automation",
+  "branch": "main",
+  "sha": "fd312442d3d9d775332557908a7f117e14726670",
+  "source": "manual"
+}

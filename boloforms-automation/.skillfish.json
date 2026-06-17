@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "boloforms-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/boloforms-automation",
+  "branch": "main",
+  "sha": "61b442ea559ceefa0bbf226ada233a293ab44885",
+  "source": "manual"
+}

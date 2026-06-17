@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "deploying-edr-agent-with-crowdstrike",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/deploying-edr-agent-with-crowdstrike",
+  "branch": "master",
+  "sha": "4e2066a4b1132eaa6bcc367af5fbbaafd91125a6",
+  "source": "manual"
+}

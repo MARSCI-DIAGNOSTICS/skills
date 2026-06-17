@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-container-escape-with-falco-rules",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-container-escape-with-falco-rules",
+  "branch": "master",
+  "sha": "781cd15fc1f5f9e98caebe65d6d9cc0533f1333e",
+  "source": "manual"
+}

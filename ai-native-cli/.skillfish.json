@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ai-native-cli",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/ai-native-cli",
+  "branch": "main",
+  "sha": "eb52918b82597783a629a80dc81562f427e3f58b",
+  "source": "manual"
+}

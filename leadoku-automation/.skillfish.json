@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "leadoku-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/leadoku-automation",
+  "branch": "main",
+  "sha": "ac0957af832e434a391af3a3add671fdcb6bbeeb",
+  "source": "manual"
+}

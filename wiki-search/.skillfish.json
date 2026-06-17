@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "wiki-search",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "polyclaw/polyclaw-repo/plugins/wikipedia-lookup/skills/wiki-search",
+  "branch": "main",
+  "sha": "7f1422103c17b36a988ace5c3cf50eda73d0a247",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "seqera-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/seqera-automation",
+  "branch": "main",
+  "sha": "3fdcdce8f415c09464e6806af6d218a5f52cf8d4",
+  "source": "manual"
+}

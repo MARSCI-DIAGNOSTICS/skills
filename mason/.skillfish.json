@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mason",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/agent-squad/mason",
+  "branch": "main",
+  "sha": "5ad1cf04762a16f2d9d0e6610c7346ec5064c70e",
+  "source": "manual"
+}

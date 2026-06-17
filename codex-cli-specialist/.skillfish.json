@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "codex-cli-specialist",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "engineering/codex-cli-specialist",
+  "branch": "main",
+  "sha": "bc6f7cdc8816a006a50c7732926ade8229e0f793",
+  "source": "manual"
+}

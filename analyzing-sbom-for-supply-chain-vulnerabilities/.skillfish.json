@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-sbom-for-supply-chain-vulnerabilities",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/analyzing-sbom-for-supply-chain-vulnerabilities",
+  "branch": "master",
+  "sha": "22d3c828d46ebf74c901fe23127cd008a0dde2c6",
+  "source": "manual"
+}

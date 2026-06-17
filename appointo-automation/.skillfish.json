@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "appointo-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/appointo-automation",
+  "branch": "main",
+  "sha": "c0c5e93575c7ec952dd438bf53965f514e048f91",
+  "source": "manual"
+}

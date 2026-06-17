@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "instantly-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/instantly-automation",
+  "branch": "main",
+  "sha": "db4c505315986db45decffc6b16056eff402c4f4",
+  "source": "manual"
+}

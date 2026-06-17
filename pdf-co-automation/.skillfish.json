@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pdf-co-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/pdf-co-automation",
+  "branch": "main",
+  "sha": "3cc9b3836834697398e16fb322413360ce3cf424",
+  "source": "manual"
+}

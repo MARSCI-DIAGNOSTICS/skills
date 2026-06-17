@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "zoho-inventory-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/zoho-inventory-automation",
+  "branch": "main",
+  "sha": "6ca36ffe140b0f33fa48529e09c784fad5ec3154",
+  "source": "manual"
+}

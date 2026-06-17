@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "full-output-enforcement",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/full-output-enforcement",
+  "branch": "main",
+  "sha": "b7dd4b375c429f3981753fd5e56ac33eb1c5c47c",
+  "source": "manual"
+}

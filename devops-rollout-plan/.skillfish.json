@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "devops-rollout-plan",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/devops-rollout-plan",
+  "branch": "main",
+  "sha": "0c3b09c895ab2920ed0d7debb2e4b0e3418f5478",
+  "source": "manual"
+}

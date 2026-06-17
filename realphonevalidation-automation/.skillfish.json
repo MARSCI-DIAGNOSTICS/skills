@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "realphonevalidation-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/realphonevalidation-automation",
+  "branch": "main",
+  "sha": "18ceb60fac01c8c1081cba64fce931599b1fa7f4",
+  "source": "manual"
+}

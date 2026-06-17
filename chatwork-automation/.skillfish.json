@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "chatwork-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/chatwork-automation",
+  "branch": "main",
+  "sha": "1ded424cf023c88600c461a0ad5ea4d355e80f7f",
+  "source": "manual"
+}

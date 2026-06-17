@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lovable-cleanup",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/lovable-cleanup",
+  "branch": "main",
+  "sha": "7382085d90fc8472df7b0afff69fd963d2d4ad3c",
+  "source": "manual"
+}

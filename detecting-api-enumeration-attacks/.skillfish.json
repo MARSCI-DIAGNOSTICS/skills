@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-api-enumeration-attacks",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-api-enumeration-attacks",
+  "branch": "master",
+  "sha": "d53e34f5f0f16beba202192c52d810d3680f0547",
+  "source": "manual"
+}

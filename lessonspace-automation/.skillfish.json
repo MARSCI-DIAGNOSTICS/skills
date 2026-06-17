@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lessonspace-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/lessonspace-automation",
+  "branch": "main",
+  "sha": "9cc24e6068ec303ceca4d6aaaeb0e9404288f82d",
+  "source": "manual"
+}

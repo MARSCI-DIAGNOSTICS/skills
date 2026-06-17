@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "campayn-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/campayn-automation",
+  "branch": "main",
+  "sha": "4c828c42dd1efaa86381e7fe87e124054eecab00",
+  "source": "manual"
+}

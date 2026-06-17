@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hunting-for-data-staging-before-exfiltration",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/hunting-for-data-staging-before-exfiltration",
+  "branch": "master",
+  "sha": "3a9198e1ebabed518460547924557ca65def3f08",
+  "source": "manual"
+}

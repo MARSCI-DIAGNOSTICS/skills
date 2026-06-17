@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "mapulus-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/mapulus-automation",
+  "branch": "main",
+  "sha": "e5f84c1e677e63ce066b474c8f3d0f28221d93b0",
+  "source": "manual"
+}

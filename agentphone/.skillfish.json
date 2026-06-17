@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agentphone",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/agentphone",
+  "branch": "main",
+  "sha": "afca468b436306b4c30e81d749f58e7d31581586",
+  "source": "manual"
+}

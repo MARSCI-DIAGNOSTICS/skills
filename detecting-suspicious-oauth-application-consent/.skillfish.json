@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-suspicious-oauth-application-consent",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-suspicious-oauth-application-consent",
+  "branch": "master",
+  "sha": "cf7a92184793db27934deb315de09413f6c4ef0a",
+  "source": "manual"
+}

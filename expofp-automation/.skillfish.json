@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "expofp-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/expofp-automation",
+  "branch": "main",
+  "sha": "c8a998b63128426eadf13e9f11583688dd5bfe4c",
+  "source": "manual"
+}

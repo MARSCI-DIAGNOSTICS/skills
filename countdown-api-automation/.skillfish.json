@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "countdown-api-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/countdown-api-automation",
+  "branch": "main",
+  "sha": "0d85f7306effb1028335e6a86868b7c3234348f9",
+  "source": "manual"
+}

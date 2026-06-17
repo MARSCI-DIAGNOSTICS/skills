@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-anomalous-authentication-patterns",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-anomalous-authentication-patterns",
+  "branch": "master",
+  "sha": "38c1100e11de535afab1b87499b984294dd1ead6",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "pingdom-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/pingdom-automation",
+  "branch": "main",
+  "sha": "5ab5a985c428f9190acdb396f9c75f689588807f",
+  "source": "manual"
+}

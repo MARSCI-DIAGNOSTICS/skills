@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "plugin-settings",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/anthropic-plugin-dev/skills/plugin-settings",
+  "branch": "main",
+  "sha": "9b3b95a5dd86a908edfd0b640672ea0876f689d8",
+  "source": "manual"
+}

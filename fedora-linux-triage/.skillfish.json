@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fedora-linux-triage",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/fedora-linux-triage",
+  "branch": "main",
+  "sha": "5be4b50eb6b4044edcd12e4cac1f7ee398bfd1bc",
+  "source": "manual"
+}

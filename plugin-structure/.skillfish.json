@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "plugin-structure",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/anthropic-plugin-dev/skills/plugin-structure",
+  "branch": "main",
+  "sha": "9d0ed3fdeb0736e97fd5cd663a3378e483f23018",
+  "source": "manual"
+}

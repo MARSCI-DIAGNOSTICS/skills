@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "onedesk-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/onedesk-automation",
+  "branch": "main",
+  "sha": "341504bc63cfac64e1d5aa94bbd2fb63f916558b",
+  "source": "manual"
+}

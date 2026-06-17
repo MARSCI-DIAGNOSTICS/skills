@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "jq",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/jq",
+  "branch": "main",
+  "sha": "2db9dfb980536424c3446802f8451757e894bdc8",
+  "source": "manual"
+}

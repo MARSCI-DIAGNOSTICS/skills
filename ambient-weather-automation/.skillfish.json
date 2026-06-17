@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ambient-weather-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/ambient-weather-automation",
+  "branch": "main",
+  "sha": "1a1fdf8ac824289d6e7467077dc194d0e5174e9c",
+  "source": "manual"
+}

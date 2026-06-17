@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hunting-for-lolbins-execution-in-endpoint-logs",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/hunting-for-lolbins-execution-in-endpoint-logs",
+  "branch": "master",
+  "sha": "5e656eb36e0f62b72927e410f48f6bc0125888ee",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "collecting-threat-intelligence-with-misp",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/collecting-threat-intelligence-with-misp",
+  "branch": "master",
+  "sha": "c452c9766473e010456212ff60638c810e29b792",
+  "source": "manual"
+}

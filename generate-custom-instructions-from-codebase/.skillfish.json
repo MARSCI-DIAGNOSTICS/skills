@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "generate-custom-instructions-from-codebase",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/generate-custom-instructions-from-codebase",
+  "branch": "main",
+  "sha": "96b32fc0ba867252c91f84713ff25eb77dc4a4df",
+  "source": "manual"
+}

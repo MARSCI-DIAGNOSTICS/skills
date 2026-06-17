@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "contentful-graphql-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/contentful-graphql-automation",
+  "branch": "main",
+  "sha": "18b9712bd9d46a21549abd7622f87b090d6dfef4",
+  "source": "manual"
+}

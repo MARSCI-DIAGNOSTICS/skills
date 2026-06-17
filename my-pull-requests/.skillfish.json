@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "my-pull-requests",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/my-pull-requests",
+  "branch": "main",
+  "sha": "df4dd35b614200ce73b4c4c27f0f1749f95b7a81",
+  "source": "manual"
+}

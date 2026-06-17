@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "slidev",
+  "owner": "nathanjgaul",
+  "repo": "plugins",
+  "path": "plugins/dev-course-builder/skills/slidev",
+  "branch": "main",
+  "sha": "76f13ee6693419f231ff517326f515d900ca4a88",
+  "source": "manual"
+}

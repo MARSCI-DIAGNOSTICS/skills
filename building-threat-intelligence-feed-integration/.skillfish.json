@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "building-threat-intelligence-feed-integration",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/building-threat-intelligence-feed-integration",
+  "branch": "master",
+  "sha": "378bc790145edb058c7a5fb7985390b463057d8d",
+  "source": "manual"
+}

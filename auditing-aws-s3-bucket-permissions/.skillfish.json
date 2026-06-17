@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "auditing-aws-s3-bucket-permissions",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/auditing-aws-s3-bucket-permissions",
+  "branch": "master",
+  "sha": "ba409ba0e9a83787929784c4694546d24aa11cfc",
+  "source": "manual"
+}

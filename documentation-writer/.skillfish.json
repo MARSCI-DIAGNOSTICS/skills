@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "documentation-writer",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/documentation-writer",
+  "branch": "main",
+  "sha": "016d8040a3f91c8360b1003e74fbf29f34c283f5",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docuseal-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/docuseal-automation",
+  "branch": "main",
+  "sha": "11e1041032bdf91bcc922249f383c4612574c2de",
+  "source": "manual"
+}

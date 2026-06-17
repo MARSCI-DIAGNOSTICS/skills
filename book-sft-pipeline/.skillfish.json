@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "book-sft-pipeline",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/book-training/skills/book-sft-pipeline",
+  "branch": "main",
+  "sha": "959b11ac5731082bee3b560cd25e91689a1b60d8",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "vibers-code-review",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/vibers-code-review",
+  "branch": "main",
+  "sha": "590ded9dbb3dc55130d6836601f0c30196c61c2d",
+  "source": "manual"
+}

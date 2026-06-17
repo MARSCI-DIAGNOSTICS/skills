@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "listennotes-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/listennotes-automation",
+  "branch": "main",
+  "sha": "7c6046e07cd3c421bed5f64da697f9dcd68b352f",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rex",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/agent-squad/rex",
+  "branch": "main",
+  "sha": "5833679a5ef08f49ec9083e76db20dd41ee8e05a",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "doc-drift-detector",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "engineering/doc-drift-detector",
+  "branch": "main",
+  "sha": "0c09b7dbb22bf640d06b4c2bd51dd334db982a4c",
+  "source": "manual"
+}

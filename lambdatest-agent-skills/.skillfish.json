@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lambdatest-agent-skills",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/lambdatest-agent-skills",
+  "branch": "main",
+  "sha": "19402e87fd097f94f6e132a8fc09a5b0924661b7",
+  "source": "manual"
+}

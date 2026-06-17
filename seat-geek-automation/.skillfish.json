@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "seat-geek-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/seat-geek-automation",
+  "branch": "main",
+  "sha": "00b7d2adc8a662bb3f672e30e64abf63263657bf",
+  "source": "manual"
+}

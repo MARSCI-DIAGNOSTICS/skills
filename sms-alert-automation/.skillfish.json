@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "sms-alert-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/sms-alert-automation",
+  "branch": "main",
+  "sha": "f8052cccbe966595fb34333f2e365796330dbcf3",
+  "source": "manual"
+}

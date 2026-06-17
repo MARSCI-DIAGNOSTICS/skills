@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cincopa-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/cincopa-automation",
+  "branch": "main",
+  "sha": "e2b3647fbfe743b7ae2100ba7b831f2483ede086",
+  "source": "manual"
+}

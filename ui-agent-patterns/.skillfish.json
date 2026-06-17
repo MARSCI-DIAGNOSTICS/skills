@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ui-agent-patterns",
+  "owner": "hermeticormus",
+  "repo": "libreuiux-claude-code",
+  "path": "plugins/agent-orchestration/skills/ui-agent-patterns",
+  "branch": "main",
+  "sha": "22fb814bb54a449e180864ac41b4da22df0275da",
+  "source": "manual"
+}

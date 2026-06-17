@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "timekit-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/timekit-automation",
+  "branch": "main",
+  "sha": "f2ed12b3c697bd2552839ac580021f2c0911f68e",
+  "source": "manual"
+}

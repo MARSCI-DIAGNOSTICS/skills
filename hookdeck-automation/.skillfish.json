@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hookdeck-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/hookdeck-automation",
+  "branch": "main",
+  "sha": "5b1f41b87a7747fc30712e6b2c29961163e292ac",
+  "source": "manual"
+}

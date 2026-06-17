@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "battlenet-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/battlenet-automation",
+  "branch": "main",
+  "sha": "643127831b941720f60192dc128d104a8379ac5e",
+  "source": "manual"
+}

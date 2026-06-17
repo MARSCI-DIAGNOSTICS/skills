@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "jotform-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/jotform-automation",
+  "branch": "main",
+  "sha": "6021e29ef5ba25ff9f3ab0a4b335c2d20e48c841",
+  "source": "manual"
+}

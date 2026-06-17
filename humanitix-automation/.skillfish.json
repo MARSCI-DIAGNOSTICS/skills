@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "humanitix-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/humanitix-automation",
+  "branch": "main",
+  "sha": "519b2e010a27de7b0cfb5797bbb8a23de34d5cea",
+  "source": "manual"
+}

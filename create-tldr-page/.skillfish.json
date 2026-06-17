@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "create-tldr-page",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/create-tldr-page",
+  "branch": "main",
+  "sha": "feacfdacc77e98fc56c606ebfdf1bb3c9a69e4d4",
+  "source": "manual"
+}

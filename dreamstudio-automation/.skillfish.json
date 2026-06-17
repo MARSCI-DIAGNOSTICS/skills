@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "dreamstudio-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/dreamstudio-automation",
+  "branch": "main",
+  "sha": "0e53db8f38a29934d63102a64ba0091775fcd3b3",
+  "source": "manual"
+}

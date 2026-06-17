@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "apipie-ai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/apipie-ai-automation",
+  "branch": "main",
+  "sha": "4ab46bf186ffce3adf21c3fe6363d3c0843ffa52",
+  "source": "manual"
+}

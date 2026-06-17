@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "remove-bg-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/remove-bg-automation",
+  "branch": "main",
+  "sha": "ff00231c964beb5af33a8440cce800683a07b405",
+  "source": "manual"
+}

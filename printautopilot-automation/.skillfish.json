@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "printautopilot-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/printautopilot-automation",
+  "branch": "main",
+  "sha": "c360b42ef5913ac6b8d8ec29f7efe8cdf8b963b1",
+  "source": "manual"
+}

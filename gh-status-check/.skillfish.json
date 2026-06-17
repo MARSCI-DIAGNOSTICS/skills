@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gh-status-check",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "polyclaw/polyclaw-repo/plugins/github-status/skills/gh-status-check",
+  "branch": "main",
+  "sha": "3817609d91fc321d0b9bc027d92241b11f0e400a",
+  "source": "manual"
+}

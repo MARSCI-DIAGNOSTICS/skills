@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "configuring-microsegmentation-for-zero-trust",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/configuring-microsegmentation-for-zero-trust",
+  "branch": "master",
+  "sha": "cad4085e3a9059cb736645f055e193d832095337",
+  "source": "manual"
+}

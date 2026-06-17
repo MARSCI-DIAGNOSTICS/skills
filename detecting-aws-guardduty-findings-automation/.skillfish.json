@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-aws-guardduty-findings-automation",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-aws-guardduty-findings-automation",
+  "branch": "master",
+  "sha": "dbf876efb646ed78651c7ab613ae22ef5000c282",
+  "source": "manual"
+}

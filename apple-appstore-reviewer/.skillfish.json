@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "apple-appstore-reviewer",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/apple-appstore-reviewer",
+  "branch": "main",
+  "sha": "0fded17e5b9bd5515a0c8849b2d8be10162311b0",
+  "source": "manual"
+}

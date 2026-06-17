@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "semrush-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/semrush-automation",
+  "branch": "main",
+  "sha": "69e74aef08ca9280d79490a528ac9385030eaf55",
+  "source": "manual"
+}

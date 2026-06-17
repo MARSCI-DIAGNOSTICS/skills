@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-network-anomalies-with-zeek",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-network-anomalies-with-zeek",
+  "branch": "master",
+  "sha": "37d0c037abb9e25d446531afb0d57c4d1b133035",
+  "source": "manual"
+}

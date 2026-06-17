@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "token-metrics-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/token-metrics-automation",
+  "branch": "main",
+  "sha": "70a0a562582a3f4d5c92451ec85d477fcaaba877",
+  "source": "manual"
+}

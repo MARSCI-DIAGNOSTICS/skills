@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "workable-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/workable-automation",
+  "branch": "main",
+  "sha": "cb11d9b488952f00d019fcd1f53f44acf683726c",
+  "source": "manual"
+}

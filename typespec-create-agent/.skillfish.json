@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "typespec-create-agent",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/typespec-create-agent",
+  "branch": "main",
+  "sha": "6a032b96a742c27b3c69f3ea068e9913fa8f329b",
+  "source": "manual"
+}

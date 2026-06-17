@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "foundry-code-interpreter",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "polyclaw/polyclaw-repo/plugins/foundry-agents/skills/foundry-code-interpreter",
+  "branch": "main",
+  "sha": "ba5c07682724405aef4609d08699c3ebed762e8d",
+  "source": "manual"
+}

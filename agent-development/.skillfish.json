@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "agent-development",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/anthropic-plugin-dev/skills/agent-development",
+  "branch": "main",
+  "sha": "9d033f08d114179a2873d68c830df32faaa1c339",
+  "source": "manual"
+}

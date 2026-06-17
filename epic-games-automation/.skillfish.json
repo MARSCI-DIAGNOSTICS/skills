@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "epic-games-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/epic-games-automation",
+  "branch": "main",
+  "sha": "f19cb468eecd477ea0f3eec7d7567f18938a9fe1",
+  "source": "manual"
+}

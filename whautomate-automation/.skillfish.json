@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "whautomate-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/whautomate-automation",
+  "branch": "main",
+  "sha": "982ab6ac90813d4f95d949028b35bc91605f81eb",
+  "source": "manual"
+}

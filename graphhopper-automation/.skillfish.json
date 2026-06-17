@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "graphhopper-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/graphhopper-automation",
+  "branch": "main",
+  "sha": "35bd820283078e41ee798120ce90e5416596159a",
+  "source": "manual"
+}

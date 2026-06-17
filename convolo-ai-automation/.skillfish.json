@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "convolo-ai-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/convolo-ai-automation",
+  "branch": "main",
+  "sha": "7ee55d91d30db4710071ca6c3c452a1cfeeddcce",
+  "source": "manual"
+}

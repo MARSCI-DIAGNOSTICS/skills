@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "weathermap-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/weathermap-automation",
+  "branch": "main",
+  "sha": "46336cc96d032b7f184d7547a4c5e3c61291de60",
+  "source": "manual"
+}

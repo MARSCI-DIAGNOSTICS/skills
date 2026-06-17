@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "iqair-airvisual-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/iqair-airvisual-automation",
+  "branch": "main",
+  "sha": "b0173e8b1a852f6d9177df65c50d1945b6456a35",
+  "source": "manual"
+}

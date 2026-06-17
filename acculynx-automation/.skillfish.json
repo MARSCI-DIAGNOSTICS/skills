@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "acculynx-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/acculynx-automation",
+  "branch": "main",
+  "sha": "9f8c5bf28e2c77d3a15322239dd59213228dd518",
+  "source": "manual"
+}

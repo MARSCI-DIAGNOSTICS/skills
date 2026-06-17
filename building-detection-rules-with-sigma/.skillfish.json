@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "building-detection-rules-with-sigma",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/building-detection-rules-with-sigma",
+  "branch": "master",
+  "sha": "9b8965de60bbc18f689efe3fdb8949b5e0ce73ac",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "go-mcp-server-generator",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/go-mcp-server-generator",
+  "branch": "main",
+  "sha": "cb0462ac2dc457e79d9b5e32ca93b933f55d5491",
+  "source": "manual"
+}

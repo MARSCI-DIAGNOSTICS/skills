@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "formsite-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/formsite-automation",
+  "branch": "main",
+  "sha": "b8b0426c79e22cd6462fa7c3643073a3e9dd3986",
+  "source": "manual"
+}

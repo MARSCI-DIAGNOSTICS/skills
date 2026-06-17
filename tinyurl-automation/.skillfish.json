@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tinyurl-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/tinyurl-automation",
+  "branch": "main",
+  "sha": "44519137319464d383f35dfaa69abe9d6520de96",
+  "source": "manual"
+}

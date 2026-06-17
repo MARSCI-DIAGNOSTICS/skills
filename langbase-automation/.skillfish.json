@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "langbase-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/langbase-automation",
+  "branch": "main",
+  "sha": "9ceedb3f8896dfaacd3b736c79c53cd4bd80501c",
+  "source": "manual"
+}

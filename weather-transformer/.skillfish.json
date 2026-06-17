@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "weather-transformer",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "claude-code-best-practice.worktrees/copilot-worktree-2026-03-05T14-59-24/.claude/skills/weather-transformer",
+  "branch": "main",
+  "sha": "90076c005d0501589bb63391aa835e01762c861f",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "debian-linux-triage",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/debian-linux-triage",
+  "branch": "main",
+  "sha": "864a6de81ae2649734bfbd12849e9a56b0f6c9ca",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fillout_forms-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/fillout_forms-automation",
+  "branch": "main",
+  "sha": "8e58d14cd0efadb25c1ed4e3902ab105942b1dfc",
+  "source": "manual"
+}

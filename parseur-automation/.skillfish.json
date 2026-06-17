@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "parseur-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/parseur-automation",
+  "branch": "main",
+  "sha": "30cc9562b206f96d76c9b0324990ee71f0429430",
+  "source": "manual"
+}

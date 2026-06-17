@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "analyzing-linux-kernel-rootkits",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/analyzing-linux-kernel-rootkits",
+  "branch": "master",
+  "sha": "5b8f7674677eb968b629f7399282536e9ad3bbbd",
+  "source": "manual"
+}

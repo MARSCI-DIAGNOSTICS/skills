@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "astro",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/astro",
+  "branch": "main",
+  "sha": "6e07f617c550c9799bdf0600de4828ae38b5d8d5",
+  "source": "manual"
+}

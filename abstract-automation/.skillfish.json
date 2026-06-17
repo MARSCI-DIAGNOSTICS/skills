@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "abstract-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/abstract-automation",
+  "branch": "main",
+  "sha": "1b2318034e531b2ece0a586b366db4ac9fb5b595",
+  "source": "manual"
+}

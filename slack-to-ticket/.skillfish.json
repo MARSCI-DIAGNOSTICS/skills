@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "slack-to-ticket",
+  "owner": "hideki5123",
+  "repo": "agent-skill-set",
+  "path": "slack-to-ticket",
+  "branch": "master",
+  "sha": "4b13eeeb6a5b89daeb26368de09688b6b67fdaee",
+  "source": "manual"
+}

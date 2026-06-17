@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "atlassian-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/atlassian-automation",
+  "branch": "main",
+  "sha": "a2154b7fe49e642675c8c79a175a1e159825b8c3",
+  "source": "manual"
+}

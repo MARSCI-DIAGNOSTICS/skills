@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "alchemy-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/alchemy-automation",
+  "branch": "main",
+  "sha": "5293e13d513d6955c43d7b65b28d30b79dfa6c3b",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cloudcart-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/cloudcart-automation",
+  "branch": "main",
+  "sha": "befa90af63f8f6126fbb35e82107e0aec1f9950a",
+  "source": "manual"
+}

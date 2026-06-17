@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "fibery-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/fibery-automation",
+  "branch": "main",
+  "sha": "a1ddf6b6e2a224a81b9155f5369554821bf61df5",
+  "source": "manual"
+}

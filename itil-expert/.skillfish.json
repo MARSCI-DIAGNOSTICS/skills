@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "itil-expert",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/itil-expert",
+  "branch": "main",
+  "sha": "f5c00ebc5ef58f148ab98d0ee611f849b564ba9f",
+  "source": "manual"
+}

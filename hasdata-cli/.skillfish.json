@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hasdata-cli",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/hasdata-cli",
+  "branch": "main",
+  "sha": "477e801160cf034403f1ec5d7eaa9cba2aacaa29",
+  "source": "manual"
+}

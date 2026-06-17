@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "kickbox-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/kickbox-automation",
+  "branch": "main",
+  "sha": "749b5d9db700d169bce3869f11b328f4b1241426",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "detecting-malicious-scheduled-tasks-with-sysmon",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/detecting-malicious-scheduled-tasks-with-sysmon",
+  "branch": "master",
+  "sha": "a1d77c06ec664134d8ac2521e00f46ecde44d1a6",
+  "source": "manual"
+}

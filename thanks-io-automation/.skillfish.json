@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "thanks-io-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/thanks-io-automation",
+  "branch": "main",
+  "sha": "884fd6e2fbe0874bbef504ec82f4d259f0dd86eb",
+  "source": "manual"
+}

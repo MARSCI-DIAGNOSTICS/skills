@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "jobs-to-be-done-analyst",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/jobs-to-be-done-analyst",
+  "branch": "main",
+  "sha": "98857efd175191240aa4d770e90b297efdc7ecfd",
+  "source": "manual"
+}

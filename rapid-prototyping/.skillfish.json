@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rapid-prototyping",
+  "owner": "hermeticormus",
+  "repo": "libreuiux-claude-code",
+  "path": "plugins/vibe-coding/skills/rapid-prototyping",
+  "branch": "main",
+  "sha": "1373f8976a3419eff8a195c76b0bb0a5fac3ee23",
+  "source": "manual"
+}

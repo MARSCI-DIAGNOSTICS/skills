@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "vibe-code-cleanup",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/vibe-code-cleanup",
+  "branch": "main",
+  "sha": "485a0b99b9a9a78104814f7c499fccb7412294ef",
+  "source": "manual"
+}

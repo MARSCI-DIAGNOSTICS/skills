@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "phantombuster-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/phantombuster-automation",
+  "branch": "main",
+  "sha": "f8c644f8a6b575fdd530471ad13d5b5d9ae4b036",
+  "source": "manual"
+}

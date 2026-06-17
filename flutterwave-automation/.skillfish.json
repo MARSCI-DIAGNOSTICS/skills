@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "flutterwave-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/flutterwave-automation",
+  "branch": "main",
+  "sha": "fbedc4bae812fdc7355714c06d83b82f35843c3b",
+  "source": "manual"
+}

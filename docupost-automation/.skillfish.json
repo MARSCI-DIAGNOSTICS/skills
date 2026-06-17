@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "docupost-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/docupost-automation",
+  "branch": "main",
+  "sha": "72d34308e98f3beff66c2859d4f4578ea94ea045",
+  "source": "manual"
+}

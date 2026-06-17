@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "lemon-squeezy-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/lemon-squeezy-automation",
+  "branch": "main",
+  "sha": "4685be5a62aee2873342636768e20272302c66e8",
+  "source": "manual"
+}

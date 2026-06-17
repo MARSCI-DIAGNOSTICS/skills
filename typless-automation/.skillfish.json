@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "typless-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/typless-automation",
+  "branch": "main",
+  "sha": "4076f660e8f8b23d15b16e006b80892bac17a3d6",
+  "source": "manual"
+}

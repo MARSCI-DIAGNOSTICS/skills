@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "make-skill-template",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/make-skill-template",
+  "branch": "main",
+  "sha": "4eaf68dbba9ce846e8d70bac9ac64be0e2548e70",
+  "source": "manual"
+}

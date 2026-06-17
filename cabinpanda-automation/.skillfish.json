@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cabinpanda-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/cabinpanda-automation",
+  "branch": "main",
+  "sha": "e392749dff5da4f8771eb936d98db7b9d6c51dae",
+  "source": "manual"
+}

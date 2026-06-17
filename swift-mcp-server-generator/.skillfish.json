@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "swift-mcp-server-generator",
+  "owner": "rodolfolermacontreras",
+  "repo": "microsoft-ai-learning",
+  "path": "awesome-copilot/skills/swift-mcp-server-generator",
+  "branch": "main",
+  "sha": "20f13ebb9cbaedf688604969994db7d101986393",
+  "source": "manual"
+}

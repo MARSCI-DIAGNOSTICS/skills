@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "serply-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/serply-automation",
+  "branch": "main",
+  "sha": "4f049a91d0e082223ae2ca0db3417ebc6073dff6",
+  "source": "manual"
+}

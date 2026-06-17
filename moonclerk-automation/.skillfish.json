@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "moonclerk-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/moonclerk-automation",
+  "branch": "main",
+  "sha": "841ad3eb1606b86d74bdb21701a019c8b9bd867b",
+  "source": "manual"
+}

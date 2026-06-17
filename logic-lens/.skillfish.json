@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "logic-lens",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/logic-lens",
+  "branch": "main",
+  "sha": "4206ff8dc63ea9816dd7331f8ffcb57d63a7f8ad",
+  "source": "manual"
+}

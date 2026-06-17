@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "accint-solve",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/accint-solve",
+  "branch": "main",
+  "sha": "5f953c3cea380b4186db5d2b918cb634a18f5cce",
+  "source": "manual"
+}

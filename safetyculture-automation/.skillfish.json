@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "safetyculture-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/safetyculture-automation",
+  "branch": "main",
+  "sha": "ec631b4a1ac412440d1e1a80bdd9aac1a6aa5a7a",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "highergov-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/highergov-automation",
+  "branch": "main",
+  "sha": "ceaf95fecb1c8cddb8b8341f94e12ddea10ce7ba",
+  "source": "manual"
+}

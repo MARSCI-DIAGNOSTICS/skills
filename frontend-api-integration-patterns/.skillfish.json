@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "frontend-api-integration-patterns",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/frontend-api-integration-patterns",
+  "branch": "main",
+  "sha": "c9ec03f515c0d65ad31a6ecc23ffd833ce604326",
+  "source": "manual"
+}

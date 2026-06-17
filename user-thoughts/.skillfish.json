@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "user-thoughts",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "path": "plugins/antigravity-awesome-skills-claude/skills/user-thoughts",
+  "branch": "main",
+  "sha": "0b467966f089505ae9685553cd3854264acfbebd",
+  "source": "manual"
+}

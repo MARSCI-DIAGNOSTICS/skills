@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "nda-review",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "path": "legal/nda-review",
+  "branch": "main",
+  "sha": "5fc62d1d9e27446eec555072b7565c5090259251",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "googlemeet-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/googlemeet-automation",
+  "branch": "main",
+  "sha": "f71561507d91b5a0d8c6bd90f5030bfbe998fd04",
+  "source": "manual"
+}

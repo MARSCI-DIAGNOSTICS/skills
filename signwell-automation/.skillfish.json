@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "signwell-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/signwell-automation",
+  "branch": "main",
+  "sha": "3826f4b4b3713fbb3bc045f993ef494767c60b58",
+  "source": "manual"
+}

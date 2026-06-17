@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "codebase-audit-pre-push",
+  "owner": "satnamrsm",
+  "repo": "https-github.com-sickn33-antigravity-awesome-skills",
+  "path": "skills/codebase-audit-pre-push",
+  "branch": "main",
+  "sha": "a940dd96bc25320d8a238f2727ced8dd14aaf7cf",
+  "source": "manual"
+}

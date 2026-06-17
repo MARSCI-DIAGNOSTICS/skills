@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gosquared-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/gosquared-automation",
+  "branch": "main",
+  "sha": "5444ac325cf86339a84c7840613ff92863bf174f",
+  "source": "manual"
+}

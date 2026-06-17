@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "linkhut-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/linkhut-automation",
+  "branch": "main",
+  "sha": "7d3b5847864953696164a84428df830b83ec207a",
+  "source": "manual"
+}

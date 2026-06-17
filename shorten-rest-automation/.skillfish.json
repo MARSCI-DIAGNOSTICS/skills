@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "shorten-rest-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/shorten-rest-automation",
+  "branch": "main",
+  "sha": "46848aeb8a0630947b0151bde9318dc4bc9e3771",
+  "source": "manual"
+}

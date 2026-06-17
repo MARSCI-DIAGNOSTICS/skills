@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "productlane-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/productlane-automation",
+  "branch": "main",
+  "sha": "449ea8c1de4511b5ba7b1d89c8c8c774d8588cf6",
+  "source": "manual"
+}

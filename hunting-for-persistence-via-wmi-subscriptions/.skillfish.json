@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hunting-for-persistence-via-wmi-subscriptions",
+  "owner": "micsapp",
+  "repo": "micstec-skills",
+  "path": "_universal/cybersecurity-skills/skills/hunting-for-persistence-via-wmi-subscriptions",
+  "branch": "master",
+  "sha": "73b64118447f8b9f04799ad7339a9a02c7a1b76d",
+  "source": "manual"
+}

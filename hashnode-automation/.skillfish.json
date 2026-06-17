@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hashnode-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/hashnode-automation",
+  "branch": "main",
+  "sha": "d6bf1522531942580ffb177963dd79bae1dfaaa7",
+  "source": "manual"
+}

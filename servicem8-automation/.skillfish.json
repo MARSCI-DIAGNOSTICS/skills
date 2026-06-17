@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "servicem8-automation",
+  "owner": "ericgrill",
+  "repo": "agents-skills-plugins",
+  "path": "plugins/awesome-claude-skills/composio-skills/servicem8-automation",
+  "branch": "main",
+  "sha": "53e3b60deaa374d58b78c3e6bc7d35e64ddddae0",
+  "source": "manual"
+}
